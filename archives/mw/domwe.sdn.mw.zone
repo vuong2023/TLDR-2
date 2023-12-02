@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1700957101 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1701489901 1800 600 604800 1800
 mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
 mw.			18000	IN	NS	ns4.apnic.net.
 mw.			18000	IN	NS	rip.psg.com.
@@ -31,8 +31,8 @@ mw.			18000	IN	NS	chambo.sdnp.org.mw.
 1st.mw.			18000	IN	NS	ns2.bb-online.org.
 1st.mw.			18000	IN	NS	ns3.bb-online.info.
 1st.mw.			18000	IN	NS	ns4.bb-online.biz.
-1tranzfa.mw.		18000	IN	NS	ns1.linthipe4.com.
-1tranzfa.mw.		18000	IN	NS	ns2.linthipe4.com.
+1tranzfa.mw.		18000	IN	NS	ns1.linthipe3.com.
+1tranzfa.mw.		18000	IN	NS	ns2.linthipe3.com.
 1xbet.mw.		18000	IN	NS	dana.ns.cloudflare.com.
 1xbet.mw.		18000	IN	NS	pete.ns.cloudflare.com.
 2.mw.			18000	IN	NS	ns1.netim.net.
@@ -192,6 +192,10 @@ africamagic.mw.		18000	IN	NS	ns1.mweb.co.za.
 africamagic.mw.		18000	IN	NS	ns2.mweb.co.za.
 africanheritage.mw.	18000	IN	NS	ns35.csv-networks.nl.
 africanheritage.mw.	18000	IN	NS	ns36.csv-networks.nl.
+afrika.mw.		18000	IN	NS	ns1.bdsmw.com.
+afrika.mw.		18000	IN	NS	ns2.bdsmw.com.
+afrika.mw.		18000	IN	NS	ns3.bdsmw.com.
+afrika.mw.		18000	IN	NS	ns4.bdsmw.com.
 afrimax.mw.		18000	IN	NS	ns35.namehero.net.
 afrimax.mw.		18000	IN	NS	ns36.namehero.net.
 afritrack.mw.		18000	IN	NS	ns1.afritrack.com.
@@ -358,8 +362,8 @@ arcgis.mw.		18000	IN	NS	ns4.markmonitor.com.
 arcgis.mw.		18000	IN	NS	ns5.markmonitor.com.
 arcgis.mw.		18000	IN	NS	ns6.markmonitor.com.
 arcgis.mw.		18000	IN	NS	ns7.markmonitor.com.
-archdiocesebt.mw.	18000	IN	NS	ns1.linthipe4.com.
-archdiocesebt.mw.	18000	IN	NS	ns2.linthipe4.com.
+archdiocesebt.mw.	18000	IN	NS	ns1.linthipe3.com.
+archdiocesebt.mw.	18000	IN	NS	ns2.linthipe3.com.
 arconsultants.mw.	18000	IN	NS	ns1.bh-ht-17.webhostbox.net.
 arconsultants.mw.	18000	IN	NS	ns2.bh-ht-17.webhostbox.net.
 arista.mw.		18000	IN	NS	piers.ns.cloudflare.com.
@@ -802,8 +806,6 @@ business-build-on-trust.mw. 18000 IN	NS	ns1.linthipe3.com.
 business-build-on-trust.mw. 18000 IN	NS	ns2.linthipe3.com.
 businesspartners.mw.	18000	IN	NS	ns1.iafrica.com.
 businesspartners.mw.	18000	IN	NS	ns2.iafrica.com.
-buymalawi.mw.		18000	IN	NS	ruben.ns.cloudflare.com.
-buymalawi.mw.		18000	IN	NS	savanna.ns.cloudflare.com.
 bwb.mw.			18000	IN	NS	ns1.bdsmw.com.
 bwb.mw.			18000	IN	NS	ns2.bdsmw.com.
 bwin.mw.		18000	IN	NS	dns1.itsfogo.com.
@@ -1175,9 +1177,6 @@ daimler-ag.mw.		18000	IN	NS	ns3.corpinter.net.
 daimler-ag.mw.		18000	IN	NS	ns4.corpinter.de.
 dalechatea.mw.		18000	IN	NS	170.ns1.above.com.
 dalechatea.mw.		18000	IN	NS	170.ns2.above.com.
-dao.mw.			18000	IN	NS	ns1.netim.net.
-dao.mw.			18000	IN	NS	ns2.netim.net.
-dao.mw.			18000	IN	NS	ns3.netim.net.
 dars.mw.		18000	IN	NS	ns95.websitewelcome.com.
 dars.mw.		18000	IN	NS	ns96.websitewelcome.com.
 daruliftaa.mw.		18000	IN	NS	ns1.dns-h.com.
@@ -1213,8 +1212,8 @@ dell.mw.		18000	IN	NS	ns3ak.dell.com.
 dell.mw.		18000	IN	NS	ns3ns.dell.com.
 demeterseed.mw.		18000	IN	NS	proxy2.africa-online.net.
 demeterseed.mw.		18000	IN	NS	proxy3.africa-online.net.
-designprinters.mw.	18000	IN	NS	ns1.linthipe4.com.
-designprinters.mw.	18000	IN	NS	ns2.linthipe4.com.
+designprinters.mw.	18000	IN	NS	ns1.linthipe3.com.
+designprinters.mw.	18000	IN	NS	ns2.linthipe3.com.
 dev.mw.			18000	IN	NS	duke.ns.cloudflare.com.
 dev.mw.			18000	IN	NS	zainab.ns.cloudflare.com.
 dfs.mw.			18000	IN	NS	ams-ns1.websitehostserver.net.
@@ -1616,6 +1615,8 @@ fidelityinvestments.mw.	18000	IN	NS	edns2.ultradns.net.
 fidelityinvestments.mw.	18000	IN	NS	edns2.ultradns.org.
 fila.mw.		18000	IN	NS	ns3.broadwing.net.
 fila.mw.		18000	IN	NS	ns4.broadwing.net.
+fillingstn.mw.		18000	IN	NS	ns1.101domain.com.
+fillingstn.mw.		18000	IN	NS	ns2.101domain.com.
 fim.mw.			18000	IN	NS	proxy2.africa-online.net.
 fim.mw.			18000	IN	NS	proxy3.africa-online.net.
 finca.mw.		18000	IN	NS	ns-81.awsdns-10.com.
@@ -1637,10 +1638,6 @@ flyingblue.mw.		18000	IN	NS	ns1.eurodns.com.
 flyingblue.mw.		18000	IN	NS	ns2.eurodns.com.
 flyingblue.mw.		18000	IN	NS	ns3.eurodns.com.
 flyingblue.mw.		18000	IN	NS	ns4.eurodns.com.
-fmm.mw.			18000	IN	NS	ns1.bdsmw.com.
-fmm.mw.			18000	IN	NS	ns2.bdsmw.com.
-fmm.mw.			18000	IN	NS	ns3.bdsmw.com.
-fmm.mw.			18000	IN	NS	ns4.bdsmw.com.
 fnb.mw.			18000	IN	NS	ns01.fnbconnect.co.za.
 fnb.mw.			18000	IN	NS	ns02.fnbconnect.co.za.
 fnb.mw.			18000	IN	NS	ns03.fnbconnect.co.za.
@@ -1879,8 +1876,9 @@ harrypotter.mw.		18000	IN	NS	ns3-b1.warnerbros.com.
 harrypotter.mw.		18000	IN	NS	ns4-b1.warnerbros.com.
 hashtagfitness.mw.	18000	IN	NS	proxy2.africa-online.net.
 hashtagfitness.mw.	18000	IN	NS	proxy3.africa-online.net.
-haval.mw.		18000	IN	NS	ns1.bluehost.com.
-haval.mw.		18000	IN	NS	ns2.bluehost.com.
+haval.mw.		18000	IN	NS	ns1.instradns.com.
+haval.mw.		18000	IN	NS	ns2.instradns.com.
+haval.mw.		18000	IN	NS	ns3.instradns.com.
 hbet.mw.		18000	IN	NS	ns1.101domain.com.
 hbet.mw.		18000	IN	NS	ns2.101domain.com.
 hbets.mw.		18000	IN	NS	ns1.101domain.com.
@@ -1894,6 +1892,8 @@ hbomax.mw.		18000	IN	NS	ns6.markmonitor.com.
 hbomax.mw.		18000	IN	NS	ns7.markmonitor.com.
 hccd.mw.		18000	IN	NS	ns1.cp-34.webhostbox.net.
 hccd.mw.		18000	IN	NS	ns2.cp-34.webhostbox.net.
+hcl.mw.			18000	IN	NS	sns9.hostgator.in.
+hcl.mw.			18000	IN	NS	sns10.hostgator.in.
 headlines.mw.		18000	IN	NS	ns1.linthipe3.com.
 headlines.mw.		18000	IN	NS	ns2.linthipe3.com.
 heag.mw.		18000	IN	NS	ns1.yourdomain.co.za.
@@ -1972,8 +1972,8 @@ honey.mw.		18000	IN	NS	domwe.sdn.mw.
 honey.mw.		18000	IN	NS	nyala.sdnp.org.mw.
 hopetv.mw.		18000	IN	NS	domwe.sdn.mw.
 hopetv.mw.		18000	IN	NS	nyala.sdnp.org.mw.
-hortinetfoods.mw.	18000	IN	NS	ns1.linthipe4.com.
-hortinetfoods.mw.	18000	IN	NS	ns2.linthipe4.com.
+hortinetfoods.mw.	18000	IN	NS	ns1.linthipe3.com.
+hortinetfoods.mw.	18000	IN	NS	ns2.linthipe3.com.
 host.mw.		18000	IN	NS	alice.ns.cloudflare.com.
 host.mw.		18000	IN	NS	bayan.ns.cloudflare.com.
 hostinger.mw.		18000	IN	NS	ns1.dns-parking.com.
@@ -2162,9 +2162,6 @@ info.mw.		18000	IN	NS	pch1.nic.mw.
 info.mw.		18000	IN	NS	domwe.sdn.mw.
 info.mw.		18000	IN	NS	nyala.sdnp.org.mw.
 info.mw.		18000	IN	NS	chambo.sdnp.org.mw.
-infostriker.mw.		18000	IN	NS	ns1.instradns.com.
-infostriker.mw.		18000	IN	NS	ns2.instradns.com.
-infostriker.mw.		18000	IN	NS	ns3.instradns.com.
 infosysconsult.mw.	18000	IN	NS	ns19.asurahosting.com.
 infosysconsult.mw.	18000	IN	NS	ns20.asurahosting.com.
 infotech.mw.		18000	IN	NS	proxy2.africa-online.net.
@@ -2243,8 +2240,8 @@ iqos.mw.		18000	IN	NS	ns4.markmonitor.com.
 iqos.mw.		18000	IN	NS	ns5.markmonitor.com.
 iqos.mw.		18000	IN	NS	ns6.markmonitor.com.
 iqos.mw.		18000	IN	NS	ns7.markmonitor.com.
-isg.mw.			18000	IN	NS	ns1.linthipe4.com.
-isg.mw.			18000	IN	NS	ns2.linthipe4.com.
+isg.mw.			18000	IN	NS	ns1.linthipe3.com.
+isg.mw.			18000	IN	NS	ns2.linthipe3.com.
 isover.mw.		18000	IN	NS	ns2.observatoiredesmarques.fr.
 isover.mw.		18000	IN	NS	ns3.nameshield.net.
 isover.mw.		18000	IN	NS	obs.ns1.fr.
@@ -2276,8 +2273,8 @@ j.mw.			18000	IN	NS	ns2.netim.net.
 j.mw.			18000	IN	NS	ns3.netim.net.
 jacobsdouweegberts.mw.	18000	IN	NS	dns1.cscdns.net.
 jacobsdouweegberts.mw.	18000	IN	NS	dns2.cscdns.net.
-janconsult.mw.		18000	IN	NS	ns1.linthipe4.com.
-janconsult.mw.		18000	IN	NS	ns2.linthipe4.com.
+janconsult.mw.		18000	IN	NS	ns1.linthipe3.com.
+janconsult.mw.		18000	IN	NS	ns2.linthipe3.com.
 jaquar.mw.		18000	IN	NS	ns01.trademarkarea.com.
 jaquar.mw.		18000	IN	NS	ns02.trademarkarea.com.
 jaquar.mw.		18000	IN	NS	ns03.trademarkarea.com.
@@ -2372,8 +2369,8 @@ karakasis.mw.		18000	IN	NS	derek.ns.cloudflare.com.
 karooooo.mw.		18000	IN	NS	ns1.lexsynergy.net.
 karooooo.mw.		18000	IN	NS	ns2.lexsynergy.us.
 karooooo.mw.		18000	IN	NS	ns3.lexsynergy.info.
-kasfreightmalawi.mw.	18000	IN	NS	ns1.linthipe4.com.
-kasfreightmalawi.mw.	18000	IN	NS	ns2.linthipe4.com.
+kasfreightmalawi.mw.	18000	IN	NS	ns1.linthipe3.com.
+kasfreightmalawi.mw.	18000	IN	NS	ns2.linthipe3.com.
 kasinthula.mw.		18000	IN	NS	ns1.mysecurecloudhost.com.
 kasinthula.mw.		18000	IN	NS	ns2.mysecurecloudhost.com.
 kasinthula.mw.		18000	IN	NS	ns3.mysecurecloudhost.com.
@@ -2550,8 +2547,6 @@ lk.mw.			18000	IN	NS	ns1.101domain.com.
 lk.mw.			18000	IN	NS	ns2.101domain.com.
 lloyds.mw.		18000	IN	NS	udns1.cscdns.net.
 lloyds.mw.		18000	IN	NS	udns2.cscdns.uk.
-lltcsacco.mw.		18000	IN	NS	proxy2.africa-online.net.
-lltcsacco.mw.		18000	IN	NS	proxy3.africa-online.net.
 locusdax.mw.		18000	IN	NS	ns1.blueside.co.kr.
 locusdax.mw.		18000	IN	NS	ns2.blueside.co.kr.
 lojiksol.mw.		18000	IN	NS	ns1.bluehost.com.
@@ -2686,8 +2681,6 @@ maltech.mw.		18000	IN	NS	ns1.supercp.com.
 maltech.mw.		18000	IN	NS	ns2.supercp.com.
 maltech.mw.		18000	IN	NS	ns3.supercp.com.
 maltech.mw.		18000	IN	NS	ns4.supercp.com.
-mamls.mw.		18000	IN	NS	ns1.bluehost.com.
-mamls.mw.		18000	IN	NS	ns2.bluehost.com.
 mamn.mw.		18000	IN	NS	ruben.ns.cloudflare.com.
 mamn.mw.		18000	IN	NS	savanna.ns.cloudflare.com.
 manaso.mw.		18000	IN	NS	sns37.hostgator.in.
@@ -2880,8 +2873,8 @@ mhc.mw.			18000	IN	NS	ns3.bdsmw.com.
 mhc.mw.			18000	IN	NS	ns4.bdsmw.com.
 mia.mw.			18000	IN	NS	ns1.bh-ht-17.webhostbox.net.
 mia.mw.			18000	IN	NS	ns2.bh-ht-17.webhostbox.net.
-mibawa.mw.		18000	IN	NS	ns1.linthipe4.com.
-mibawa.mw.		18000	IN	NS	ns2.linthipe4.com.
+mibawa.mw.		18000	IN	NS	ns1.linthipe3.com.
+mibawa.mw.		18000	IN	NS	ns2.linthipe3.com.
 micf.mw.		18000	IN	NS	ns1.bluehost.com.
 micf.mw.		18000	IN	NS	ns2.bluehost.com.
 microinsurance.mw.	18000	IN	NS	ns1.cp-1.webhostbox.net.
@@ -2921,8 +2914,9 @@ mitc.mw.		18000	IN	NS	ns1.inmotionhosting.com.
 mitc.mw.		18000	IN	NS	ns2.inmotionhosting.com.
 mitra.mw.		18000	IN	NS	proxy2.africa-online.net.
 mitra.mw.		18000	IN	NS	proxy3.africa-online.net.
-mitsubishi-motors.mw.	18000	IN	NS	ns1.bluehost.com.
-mitsubishi-motors.mw.	18000	IN	NS	ns2.bluehost.com.
+mitsubishi-motors.mw.	18000	IN	NS	ns1.instradns.com.
+mitsubishi-motors.mw.	18000	IN	NS	ns2.instradns.com.
+mitsubishi-motors.mw.	18000	IN	NS	ns3.instradns.com.
 mix.mw.			18000	IN	NS	domwe.sdn.mw.
 mix.mw.			18000	IN	NS	nyala.sdnp.org.mw.
 mix.mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -3331,9 +3325,6 @@ nxtgenlabs.mw.		18000	IN	NS	ns2.netim.net.
 nxtgenlabs.mw.		18000	IN	NS	ns3.netim.net.
 nyamnyam.mw.		18000	IN	NS	ruben.ns.cloudflare.com.
 nyamnyam.mw.		18000	IN	NS	savanna.ns.cloudflare.com.
-nyasamobile.mw.		18000	IN	NS	ns1.instradns.com.
-nyasamobile.mw.		18000	IN	NS	ns2.instradns.com.
-nyasamobile.mw.		18000	IN	NS	ns3.instradns.com.
 nyassa.mw.		18000	IN	NS	c3.aboliton.at.
 nyassa.mw.		18000	IN	NS	ns1.aboliton.at.
 nycom.mw.		18000	IN	NS	freedns1.registrar-servers.com.
@@ -3937,6 +3928,8 @@ sgw.mw.			18000	IN	NS	dns1.supremedns.com.
 sgw.mw.			18000	IN	NS	dns2.supremedns.com.
 shaanti.mw.		18000	IN	NS	proxy2.africa-online.net.
 shaanti.mw.		18000	IN	NS	proxy3.africa-online.net.
+sharecarevet.mw.	18000	IN	NS	domwe.sdn.mw.
+sharecarevet.mw.	18000	IN	NS	nyala.sdnp.org.mw.
 sheenainvestments.mw.	18000	IN	NS	domwe.sdn.mw.
 sheenainvestments.mw.	18000	IN	NS	nyala.sdnp.org.mw.
 shell.mw.		18000	IN	NS	dns1.shell.com.
@@ -4044,13 +4037,10 @@ spareroom.mw.		18000	IN	NS	ns1.instradns.com.
 spareroom.mw.		18000	IN	NS	ns2.instradns.com.
 specsavers.mw.		18000	IN	NS	dns1.cscdns.net.
 specsavers.mw.		18000	IN	NS	dns2.cscdns.net.
-spikevax.mw.		18000	IN	NS	ns1.markmonitor.com.
-spikevax.mw.		18000	IN	NS	ns2.markmonitor.com.
-spikevax.mw.		18000	IN	NS	ns3.markmonitor.com.
-spikevax.mw.		18000	IN	NS	ns4.markmonitor.com.
-spikevax.mw.		18000	IN	NS	ns5.markmonitor.com.
-spikevax.mw.		18000	IN	NS	ns6.markmonitor.com.
-spikevax.mw.		18000	IN	NS	ns7.markmonitor.com.
+spikevax.mw.		18000	IN	NS	ha1.markmonitor.zone.
+spikevax.mw.		18000	IN	NS	ha2.markmonitor.zone.
+spikevax.mw.		18000	IN	NS	ha3.markmonitor.zone.
+spikevax.mw.		18000	IN	NS	ha4.markmonitor.zone.
 spinpalace.mw.		18000	IN	NS	ns1.instradns.com.
 spinpalace.mw.		18000	IN	NS	ns2.instradns.com.
 spinpalacecasino.mw.	18000	IN	NS	ns1.instradns.com.
@@ -4696,9 +4686,9 @@ winstonandrichard.mw.	18000	IN	NS	ns3.bdsmw.com.
 winstonandrichard.mw.	18000	IN	NS	ns4.bdsmw.com.
 wiseapp.mw.		18000	IN	NS	ns1.dns-parking.com.
 wiseapp.mw.		18000	IN	NS	ns2.dns-parking.com.
-wm.mw.			18000	IN	NS	ns1.netim.net.
-wm.mw.			18000	IN	NS	ns2.netim.net.
-wm.mw.			18000	IN	NS	ns3.netim.net.
+wm.mw.			18000	IN	NS	a.feifei.co.
+wm.mw.			18000	IN	NS	b.feifei.co.
+wm.mw.			18000	IN	NS	c.feifei.co.
 wma.mw.			18000	IN	NS	ns1.bluehost.com.
 wma.mw.			18000	IN	NS	ns2.bluehost.com.
 wolflubes.mw.		18000	IN	NS	ns1.brandshelter.com.
@@ -4779,6 +4769,8 @@ youtube.mw.		18000	IN	NS	ns1.google.com.
 youtube.mw.		18000	IN	NS	ns2.google.com.
 youtube.mw.		18000	IN	NS	ns3.google.com.
 youtube.mw.		18000	IN	NS	ns4.google.com.
+yoza.mw.		18000	IN	NS	micah.ns.cloudflare.com.
+yoza.mw.		18000	IN	NS	fatima.ns.cloudflare.com.
 yutong.mw.		18000	IN	NS	ns1.gxkjdns.com.
 yutong.mw.		18000	IN	NS	ns2.gxkjdns.com.
 z.mw.			18000	IN	NS	ns1.netim.net.
@@ -4832,4 +4824,4 @@ zurich.mw.		18000	IN	NS	dns1.cscdns.net.
 zurich.mw.		18000	IN	NS	dns2.cscdns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1700957101 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1701489901 1800 600 604800 1800
