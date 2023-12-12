@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1702188301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1702339501 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -2227,9 +2227,6 @@ internet.mw.		18000	IN	NS	proxy3.africa-online.net.
 internic.mw.		18000	IN	NS	a1.verisigndns.com.
 internic.mw.		18000	IN	NS	a2.verisigndns.com.
 internic.mw.		18000	IN	NS	a3.verisigndns.com.
-interoute.mw.		18000	IN	NS	ns1.dns.nms.gtt.net.
-interoute.mw.		18000	IN	NS	ns2.dns.nms.gtt.net.
-interoute.mw.		18000	IN	NS	ns3.dns.nms.gtt.net.
 interpol.mw.		18000	IN	NS	ns1.eurodns.com.
 interpol.mw.		18000	IN	NS	ns2.eurodns.com.
 interpol.mw.		18000	IN	NS	ns3.eurodns.com.
@@ -2280,9 +2277,6 @@ itunesradio.mw.		18000	IN	NS	a.ns.apple.com.
 itunesradio.mw.		18000	IN	NS	b.ns.apple.com.
 itunesradio.mw.		18000	IN	NS	c.ns.apple.com.
 itunesradio.mw.		18000	IN	NS	d.ns.apple.com.
-iyllo.mw.		18000	IN	NS	domwe.sdn.mw.
-iyllo.mw.		18000	IN	NS	ns1.iyllo.mw.
-iyllo.mw.		18000	IN	NS	nyala.sdnp.org.mw.
 j.mw.			18000	IN	NS	ns1.netim.net.
 j.mw.			18000	IN	NS	ns2.netim.net.
 j.mw.			18000	IN	NS	ns3.netim.net.
@@ -2683,8 +2677,6 @@ malawiatcop.mw.		18000	IN	NS	dns1.supremedns.com.
 malawiatcop.mw.		18000	IN	NS	dns2.supremedns.com.
 malawiatcop.mw.		18000	IN	NS	dns3.supremedns.com.
 malawiatcop.mw.		18000	IN	NS	dns4.supremedns.com.
-malawicensus.mw.	18000	IN	NS	proxy2.africa-online.net.
-malawicensus.mw.	18000	IN	NS	proxy3.africa-online.net.
 malawidigital.mw.	18000	IN	NS	domwe.sdn.mw.
 malawidigital.mw.	18000	IN	NS	nyala.sdnp.org.mw.
 malawifolklore.mw.	18000	IN	NS	domwe.sdn.mw.
@@ -3995,8 +3987,10 @@ sgw.mw.			18000	IN	NS	dns1.supremedns.com.
 sgw.mw.			18000	IN	NS	dns2.supremedns.com.
 shaanti.mw.		18000	IN	NS	proxy2.africa-online.net.
 shaanti.mw.		18000	IN	NS	proxy3.africa-online.net.
-sharecarevet.mw.	18000	IN	NS	domwe.sdn.mw.
-sharecarevet.mw.	18000	IN	NS	nyala.sdnp.org.mw.
+sharecarevet.mw.	18000	IN	NS	ns1.bdsmw.com.
+sharecarevet.mw.	18000	IN	NS	ns2.bdsmw.com.
+sharecarevet.mw.	18000	IN	NS	ns3.bdsmw.com.
+sharecarevet.mw.	18000	IN	NS	ns4.bdsmw.com.
 sheenainvestments.mw.	18000	IN	NS	domwe.sdn.mw.
 sheenainvestments.mw.	18000	IN	NS	nyala.sdnp.org.mw.
 shell.mw.		18000	IN	NS	dns1.shell.com.
@@ -4053,10 +4047,6 @@ skyband.mw.		18000	IN	NS	proxy2.africa-online.net.
 skyband.mw.		18000	IN	NS	proxy3.africa-online.net.
 skydive.mw.		18000	IN	NS	ns1.aboliton.at.
 skydive.mw.		18000	IN	NS	ns2.aboliton.at.
-skylinkstravel.mw.	18000	IN	NS	ns1.bdsmw.com.
-skylinkstravel.mw.	18000	IN	NS	ns2.bdsmw.com.
-skylinkstravel.mw.	18000	IN	NS	ns3.bdsmw.com.
-skylinkstravel.mw.	18000	IN	NS	ns4.bdsmw.com.
 skyscanner.mw.		18000	IN	NS	ns1.netnames.net.
 skyscanner.mw.		18000	IN	NS	ns2.netnames.net.
 skyscanner.mw.		18000	IN	NS	ns5.netnames.net.
@@ -4285,8 +4275,6 @@ technologyetc.mw.	18000	IN	NS	ns1.inmotionhosting.com.
 technologyetc.mw.	18000	IN	NS	ns2.inmotionhosting.com.
 techplussolutions.mw.	18000	IN	NS	a.cheerstolife.net.
 techplussolutions.mw.	18000	IN	NS	b.cheerstolife.net.
-telestationers.mw.	18000	IN	NS	proxy2.africa-online.net.
-telestationers.mw.	18000	IN	NS	proxy3.africa-online.net.
 temalex.mw.		18000	IN	NS	araliya.globemw.net.
 temalex.mw.		18000	IN	NS	maxdns.globemw.net.
 tena.mw.		18000	IN	NS	melkor.ngninfra.net.
@@ -4907,4 +4895,4 @@ zurich.mw.		18000	IN	NS	dns1.cscdns.net.
 zurich.mw.		18000	IN	NS	dns2.cscdns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1702188301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1702339501 1800 600 604800 1800
