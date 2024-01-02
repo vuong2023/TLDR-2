@@ -1,4 +1,4 @@
-arpa	c.ns.arpa.	archives/arpa/c.ns.arpa.zone
+arpa	k.ns.arpa.	archives/arpa/k.ns.arpa.zone
 bb	ns5.nic.bb.	archives/bb/ns5.nic.bb.zone
 bn	ns2.bnnic.bn.	archives/bn/ns2.bnnic.bn.zone
 cm	kim.camnet.cm.	archives/cm/kim.camnet.cm.zone
@@ -9,16 +9,15 @@ gh	ns2.nic.gh.	archives/gh/ns2.nic.gh.zone
 gn	ns1.gn.	archives/gn/ns1.gn.zone
 gp	ns2.nic.gp.	archives/gp/ns2.nic.gp.zone
 jm	ns.utechjamaica.edu.jm.	archives/jm/ns.utechjamaica.edu.jm.zone
-kh	ns.camnet.com.kh.	archives/kh/ns.camnet.com.kh.zone
-km	dns1.nic.km.	archives/km/dns1.nic.km.zone
-mp	ns3.nic.mp.	archives/mp/ns3.nic.mp.zone
+kh	ns1.dns.net.kh.	archives/kh/ns1.dns.net.kh.zone
+km	dns2.nic.km.	archives/km/dns2.nic.km.zone
+mp	ns1.nic.mp.	archives/mp/ns1.nic.mp.zone
 mw	domwe.sdn.mw.	archives/mw/domwe.sdn.mw.zone
-ni	ns.ni.	archives/ni/ns.ni.zone
+ni	ns.ideay.net.ni.	archives/ni/ns.ideay.net.ni.zone
 pg	ns2.tiare.net.pg.	archives/pg/ns2.tiare.net.pg.zone
-ps	ns1.pnina.ps.	archives/ps/ns1.pnina.ps.zone
+ps	dns1.gov.ps.	archives/ps/dns1.gov.ps.zone
 sl	ns2.neoip.com.	archives/sl/ns2.neoip.com.zone
 tj	ns2.tojikiston.com.	archives/tj/ns2.tojikiston.com.zone
-tr	ns42.nic.tr.	archives/tr/ns42.nic.tr.zone
 uz	ns2.uz.	archives/uz/ns2.uz.zone
 vi	ns3.nic.vi.	archives/vi/ns3.nic.vi.zone
 xn--54b7fta0cc	bayanno.btcl.net.bd.	archives/xn--54b7fta0cc/bayanno.btcl.net.bd.zone
