@@ -1,4 +1,3 @@
-;; Connection to 196.200.96.2#53(196.200.96.2) for er. failed: timed out.
 er.			86400	IN	SOA	sawanew.noc.net.er. hostmaster.noc.net.er. 2023103145 10800 3600 2592000 86400
 er.			86400	IN	NSEC	com.er. NS SOA RRSIG NSEC DNSKEY CDS CDNSKEY TYPE65534
 er.			86400	IN	RRSIG	NSEC 13 1 86400 20240211081440 20240128072147 6518 er. iikHdkG+m7D/5mkz+a9aImzBXbmEUHi7WVh1zSx6C+rxQfQcnsi08nLV fjjmaUBX9ttpFwtt4k18hS1qXCs+rQ==
