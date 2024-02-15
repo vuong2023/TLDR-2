@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1707948301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1707998701 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -232,6 +232,10 @@ airtelmoney.mw.		18000	IN	NS	arnold.ns.cloudflare.com.
 airtelmoney.mw.		18000	IN	NS	reza.ns.cloudflare.com.
 ais.mw.			18000	IN	NS	ns1.industrialimagination.com.
 ais.mw.			18000	IN	NS	ns2.industrialimagination.com.
+aisl.mw.		18000	IN	NS	ns1.bdsmw.com.
+aisl.mw.		18000	IN	NS	ns2.bdsmw.com.
+aisl.mw.		18000	IN	NS	ns3.bdsmw.com.
+aisl.mw.		18000	IN	NS	ns4.bdsmw.com.
 akqa.mw.		18000	IN	NS	ns1.netnames.net.
 akqa.mw.		18000	IN	NS	ns2.netnames.net.
 akqa.mw.		18000	IN	NS	ns5.netnames.net.
@@ -2278,8 +2282,8 @@ j.mw.			18000	IN	NS	ns2.netim.net.
 j.mw.			18000	IN	NS	ns3.netim.net.
 jacobsdouweegberts.mw.	18000	IN	NS	dns1.cscdns.net.
 jacobsdouweegberts.mw.	18000	IN	NS	dns2.cscdns.net.
-jameschionachs.mw.	18000	IN	NS	pdns01.domaincontrol.com.
-jameschionachs.mw.	18000	IN	NS	pdns02.domaincontrol.com.
+jameschionachs.mw.	18000	IN	NS	pdns11.domaincontrol.com.
+jameschionachs.mw.	18000	IN	NS	pdns12.domaincontrol.com.
 janconsult.mw.		18000	IN	NS	ns1.linthipe4.com.
 janconsult.mw.		18000	IN	NS	ns2.linthipe4.com.
 jaquar.mw.		18000	IN	NS	ns01.trademarkarea.com.
@@ -2974,9 +2978,6 @@ mmandco.mw.		18000	IN	NS	ns1.bdsmw.com.
 mmandco.mw.		18000	IN	NS	ns2.bdsmw.com.
 mmandco.mw.		18000	IN	NS	ns3.bdsmw.com.
 mmandco.mw.		18000	IN	NS	ns4.bdsmw.com.
-mmco.mw.		18000	IN	NS	ns1.lexsynergy.net.
-mmco.mw.		18000	IN	NS	ns2.lexsynergy.us.
-mmco.mw.		18000	IN	NS	ns3.lexsynergy.info.
 mmglobal.mw.		18000	IN	NS	ns8225.hostgator.com.
 mmglobal.mw.		18000	IN	NS	ns8226.hostgator.com.
 mmh.mw.			18000	IN	NS	dns1643-1.nexcess.net.
@@ -3605,6 +3606,8 @@ precision.mw.		18000	IN	NS	ns6641.hostgator.com.
 precision.mw.		18000	IN	NS	ns6642.hostgator.com.
 precision3d.mw.		18000	IN	NS	ns6641.hostgator.com.
 precision3d.mw.		18000	IN	NS	ns6642.hostgator.com.
+premier-bet.mw.		18000	IN	NS	ns1.dns-parking.com.
+premier-bet.mw.		18000	IN	NS	ns2.dns-parking.com.
 premier6.mw.		18000	IN	NS	arya.ns.cloudflare.com.
 premier6.mw.		18000	IN	NS	will.ns.cloudflare.com.
 premierbet.mw.		18000	IN	NS	donald.ns.cloudflare.com.
@@ -4892,4 +4895,4 @@ zurich.mw.		18000	IN	NS	dns1.cscdns.net.
 zurich.mw.		18000	IN	NS	dns2.cscdns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1707948301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1707998701 1800 600 604800 1800
