@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1709201102 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1709229902 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -1218,6 +1218,8 @@ dhotmail.mw.		18000	IN	NS	ns3-09.azure-dns.org.
 dhotmail.mw.		18000	IN	NS	ns4-09.azure-dns.info.
 diamondhotel.mw.	18000	IN	NS	ns1.mtlonline.mw.
 diamondhotel.mw.	18000	IN	NS	ns2.mtlonline.mw.
+dic.mw.			18000	IN	NS	ns1.mysecurecloudhost.com.
+dic.mw.			18000	IN	NS	ns2.mysecurecloudhost.com.
 diem.mw.		18000	IN	NS	ns-cloud-d3.googledomains.com.
 diem.mw.		18000	IN	NS	ns-cloud-d4.googledomains.com.
 dietcoke.mw.		18000	IN	NS	ns1-09.azure-dns.com.
@@ -2913,6 +2915,8 @@ midea.mw.		18000	IN	NS	gtmnhct.midea.com.cn.
 midea.mw.		18000	IN	NS	gtmpccw.midea.com.cn.
 mij.mw.			18000	IN	NS	domwe.sdn.mw.
 mij.mw.			18000	IN	NS	nyala.sdnp.org.mw.
+mikoko.mw.		18000	IN	NS	ns67.domaincontrol.com.
+mikoko.mw.		18000	IN	NS	ns68.domaincontrol.com.
 mile.mw.		18000	IN	NS	ns1.virtualtechmalawi.com.
 mile.mw.		18000	IN	NS	ns2.virtualtechmalawi.com.
 mineschamber.mw.	18000	IN	NS	ns1289.websitewelcome.com.
@@ -3573,8 +3577,8 @@ policefm.mw.		18000	IN	NS	nyala.sdnp.org.mw.
 pollenfarm.mw.		18000	IN	NS	ns2.hostpoint.ch.
 pollenfarm.mw.		18000	IN	NS	ns3.hostpoint.ch.
 pollenfarm.mw.		18000	IN	NS	ns.hostpoint.ch.
-polsat.mw.		18000	IN	NS	domwe.sdn.mw.
-polsat.mw.		18000	IN	NS	nyala.sdnp.org.mw.
+polsat.mw.		18000	IN	NS	ns14.wixdns.net.
+polsat.mw.		18000	IN	NS	ns15.wixdns.net.
 porsche.mw.		18000	IN	NS	dns.porsche.asia.
 porsche.mw.		18000	IN	NS	dns.porsche.ch.
 porsche.mw.		18000	IN	NS	dns.porsche.com.
@@ -4877,4 +4881,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1709201102 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1709229902 1800 600 604800 1800
