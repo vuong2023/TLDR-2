@@ -1,5 +1,5 @@
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024031704 120 3600 604800 10800
-xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20240415202918 20240316192918 15315 xn--54b7fta0cc. UsmnqD9ernldCAbiUSEBTx2YIbzfKBkcNku5A7aO+eJblrxp+OopfgnN f1aFYkiQGya23VvcPps5n5iWycqBI5lazftC1liTYigahDk365OGDFOK z0pnL4yjEdqdXZCvlBzMmguh/HnsKnxU5GQQMwPLTbiJdIzyDb+y09QN MF8=
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024031707 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20240415213134 20240316203134 15315 xn--54b7fta0cc. Xdj7L/M6S6rbOHgxM0PKoPU9MsOq98yeLVCq7dSQIBkgwn62prTpg/ql yeeWKwwCt7Ymct7hyH7hsKDzWcnuEaEtD6d+oTplG3W9uoQCyzaZGJKg Ra2qT67ha2H1ujpHAfa3CzqxdEN6vmwTM0Gv2mfjiEqWi1F2Bhq1RhCc b/M=
 xn--54b7fta0cc.		10800	IN	NS	ekushey.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	bd-ns.anycast.pch.net.
@@ -1173,7 +1173,7 @@ xn--r5bqf3a1ae7czd8cd1b.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 2024032916
 xn--r5bqf3a1ae7czd8cd1b.xn--54b7fta0cc.	10800 IN NSEC xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. NS RRSIG NSEC
 xn--r5bqf3a1ae7czd8cd1b.xn--54b7fta0cc.	10800 IN NS ns1.quantummethod.info.
 xn--r5bqf3a1ae7czd8cd1b.xn--54b7fta0cc.	10800 IN NS ns2.quantummethod.info.
-xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20240324093134 20240223091822 15315 xn--54b7fta0cc. DX8QgQXG9lUEhkUZSH0RMMbHA8XSOiCvv8350Y725iDLSQNpZ4K2CovZ /NCkBMIfw5rsCidVng5IvwkTOu9oGJVB5zjEzuQ+HOWbVBi2SKwVq8od Eh/JHnsfWNuIOi1oO70EGOxkZkWIWewnCNMaCm1+QoUp6oEGt7a2Nu1v 7KM=
+xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20240415205010 20240316203134 15315 xn--54b7fta0cc. dmM/9el0ObNRmwvd+rB4JLgBtUnR4kc69VDJUux+t00scJwLdRv8RxIR fAKshsDvNtUgXP7SbJ6qQlfGr2hFykD/xM2/VUYf/KRGrTJj40QMv3e1 60vawPq1TiAwhefcb+GlIOUQBmtvC0zImSRO4lzznKbx+AOprmrVn8to bDs=
 xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN NSEC xn--s5bs9al6dkc.xn--54b7fta0cc. NS RRSIG NSEC
 xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN NS	ns1.dns-parking.com.
 xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN NS	ns2.dns-parking.com.
@@ -1269,4 +1269,4 @@ xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20240329150722 2024
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NSEC	xn--54b7fta0cc. NS RRSIG NSEC
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NS	dns.bttb.net.bd.
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NS	slave.bttb.net.bd.
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024031704 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024031707 120 3600 604800 10800
