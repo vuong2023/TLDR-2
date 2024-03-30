@@ -23,7 +23,6 @@
 * `ni` via `ns.ni.`: [Click here to view zone data.](archives/ni/ns.ni.zone)
 * `pg` via `ns2.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns2.tiare.net.pg.zone)
 * `ps` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/ps/ns1.pnina.ps.zone)
-* `sd` via `ans2.sis.sd.`: [Click here to view zone data.](archives/sd/ans2.sis.sd.zone)
 * `sl` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/ns2.neoip.com.zone)
 * `tc` via `root2.zone.tc.`: [Click here to view zone data.](archives/tc/root2.zone.tc.zone)
 * `tj` via `ns2.tojikiston.com.`: [Click here to view zone data.](archives/tj/ns2.tojikiston.com.zone)
@@ -31,4 +30,4 @@
 * `xn--fzc2c9e2c` via `ns-l.nic.lk.`: [Click here to view zone data.](archives/xn--fzc2c9e2c/ns-l.nic.lk.zone)
 * `xn--l1acc` via `ns3.idn.mn.`: [Click here to view zone data.](archives/xn--l1acc/ns3.idn.mn.zone)
 * `xn--xkc2al3hye2a` via `ns-l.nic.lk.`: [Click here to view zone data.](archives/xn--xkc2al3hye2a/ns-l.nic.lk.zone)
-* `xn--ygbi2ammx` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/ns1.pnina.ps.zone)
+* `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
