@@ -1,6 +1,5 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
-* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -10,8 +9,7 @@
 * `arpa` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/b.ns.arpa.zone)
 * `bb` via `ns5.nic.bb.`: [Click here to view zone data.](archives/bb/ns5.nic.bb.zone)
 * `bw` via `dns1.nic.net.bw.`: [Click here to view zone data.](archives/bw/dns1.nic.net.bw.zone)
-* `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
-* `dj` via `bow5.intnet.dj.`: [Click here to view zone data.](archives/dj/bow5.intnet.dj.zone)
+* `cd` via `ns-root-23.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-23.scpt-network.net.zone)
 * `eg` via `frcu.eun.eg.`: [Click here to view zone data.](archives/eg/frcu.eun.eg.zone)
 * `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
 * `fj` via `ns1.fj.`: [Click here to view zone data.](archives/fj/ns1.fj.zone)
@@ -25,7 +23,7 @@
 * `ni` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ns.ideay.net.ni.zone)
 * `pg` via `ns2.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns2.tiare.net.pg.zone)
 * `ps` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/ps/ns1.pnina.ps.zone)
-* `sd` via `ans1.sis.sd.`: [Click here to view zone data.](archives/sd/ans1.sis.sd.zone)
+* `sd` via `ans1.canar.sd.`: [Click here to view zone data.](archives/sd/ans1.canar.sd.zone)
 * `sl` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/ns2.neoip.com.zone)
 * `tc` via `root2.zone.tc.`: [Click here to view zone data.](archives/tc/root2.zone.tc.zone)
 * `tj` via `ns2.tojikiston.com.`: [Click here to view zone data.](archives/tj/ns2.tojikiston.com.zone)
@@ -33,4 +31,4 @@
 * `xn--fzc2c9e2c` via `ns-l.nic.lk.`: [Click here to view zone data.](archives/xn--fzc2c9e2c/ns-l.nic.lk.zone)
 * `xn--mgbpl2fh` via `ans1.sis.sd.`: [Click here to view zone data.](archives/xn--mgbpl2fh/ans1.sis.sd.zone)
 * `xn--xkc2al3hye2a` via `ns-l.nic.lk.`: [Click here to view zone data.](archives/xn--xkc2al3hye2a/ns-l.nic.lk.zone)
-* `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
+* `xn--ygbi2ammx` via `Bilal.pnina.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/Bilal.pnina.ps.zone)
