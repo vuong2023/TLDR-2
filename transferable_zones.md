@@ -1,6 +1,5 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
-* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -19,9 +18,9 @@
 * `kh` via `ns.camnet.com.kh.`: [Click here to view zone data.](archives/kh/ns.camnet.com.kh.zone)
 * `mp` via `ns1.nic.mp.`: [Click here to view zone data.](archives/mp/ns1.nic.mp.zone)
 * `mr` via `ns1.nic.mr.`: [Click here to view zone data.](archives/mr/ns1.nic.mr.zone)
-* `mw` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/chambo.sdnp.org.mw.zone)
+* `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
 * `ni` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ns.ideay.net.ni.zone)
-* `pf` via `ns1.mana.pf.`: [Click here to view zone data.](archives/pf/ns1.mana.pf.zone)
+* `pf` via `ns2.mana.pf.`: [Click here to view zone data.](archives/pf/ns2.mana.pf.zone)
 * `pg` via `ns2.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns2.tiare.net.pg.zone)
 * `ps` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/ps/ns1.pnina.ps.zone)
 * `sc` via `ns1.nic.sc.`: [Click here to view zone data.](archives/sc/ns1.nic.sc.zone)
@@ -31,6 +30,6 @@
 * `xn--54b7fta0cc` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/bayanno.btcl.net.bd.zone)
 * `xn--fzc2c9e2c` via `ns-l.nic.lk.`: [Click here to view zone data.](archives/xn--fzc2c9e2c/ns-l.nic.lk.zone)
 * `xn--mgbah1a3hjkrd` via `ns1.nic.mr.`: [Click here to view zone data.](archives/xn--mgbah1a3hjkrd/ns1.nic.mr.zone)
-* `xn--mgbai9azgqp6j` via `ns2.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns2.ntc.net.pk.zone)
+* `xn--mgbpl2fh` via `ans1.sis.sd.`: [Click here to view zone data.](archives/xn--mgbpl2fh/ans1.sis.sd.zone)
 * `xn--xkc2al3hye2a` via `ns-b.nic.lk.`: [Click here to view zone data.](archives/xn--xkc2al3hye2a/ns-b.nic.lk.zone)
 * `xn--ygbi2ammx` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/ns1.pnina.ps.zone)
