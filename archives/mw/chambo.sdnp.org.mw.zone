@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1714989901 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1715047502 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -1562,9 +1562,6 @@ experts.mw.		18000	IN	NS	ns1.instradns.com.
 experts.mw.		18000	IN	NS	ns2.instradns.com.
 expo.mw.		18000	IN	NS	ns1.101domain.com.
 expo.mw.		18000	IN	NS	ns2.101domain.com.
-exxchange.mw.		18000	IN	NS	ns1.markmonitor.com.
-exxchange.mw.		18000	IN	NS	ns2.markmonitor.com.
-exxchange.mw.		18000	IN	NS	ns3.markmonitor.com.
 exxon.mw.		18000	IN	NS	a10-67.akam.net.
 exxon.mw.		18000	IN	NS	a1-116.akam.net.
 exxon.mw.		18000	IN	NS	a13-67.akam.net.
@@ -3741,6 +3738,8 @@ pumaenergy.mw.		18000	IN	NS	ns1.netnames.net.
 pumaenergy.mw.		18000	IN	NS	ns2.netnames.net.
 pumaenergy.mw.		18000	IN	NS	ns5.netnames.net.
 pumaenergy.mw.		18000	IN	NS	ns6.netnames.net.
+puritysanitary.mw.	18000	IN	NS	ns1.dns-parking.com.
+puritysanitary.mw.	18000	IN	NS	ns2.dns-parking.com.
 pwc.mw.			18000	IN	NS	dns1.cscdns.net.
 pwc.mw.			18000	IN	NS	dns2.cscdns.net.
 pwcglobal.mw.		18000	IN	NS	dns1.cscdns.net.
@@ -4383,12 +4382,6 @@ theclimatepledge.mw.	18000	IN	NS	nsusa.comlaude.net.
 thecommonage.mw.	18000	IN	NS	ns1.netim.net.
 thecommonage.mw.	18000	IN	NS	ns2.netim.net.
 thecommonage.mw.	18000	IN	NS	ns3.netim.net.
-theexchange.mw.		18000	IN	NS	ns1.markmonitor.com.
-theexchange.mw.		18000	IN	NS	ns2.markmonitor.com.
-theexchange.mw.		18000	IN	NS	ns3.markmonitor.com.
-theexxchange.mw.	18000	IN	NS	ns1.markmonitor.com.
-theexxchange.mw.	18000	IN	NS	ns2.markmonitor.com.
-theexxchange.mw.	18000	IN	NS	ns3.markmonitor.com.
 thegoldensection.mw.	18000	IN	NS	ns3011.mochahost.com.
 thegoldensection.mw.	18000	IN	NS	ns4011.mochahost.com.
 thehomestead.mw.	18000	IN	NS	ns1.101domain.com.
@@ -4974,4 +4967,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1714989901 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1715047502 1800 600 604800 1800
