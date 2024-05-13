@@ -1,5 +1,6 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
+* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -9,7 +10,7 @@
 * `arpa` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/b.ns.arpa.zone)
 * `bb` via `ns5.nic.bb.`: [Click here to view zone data.](archives/bb/ns5.nic.bb.zone)
 * `bw` via `dns1.nic.net.bw.`: [Click here to view zone data.](archives/bw/dns1.nic.net.bw.zone)
-* `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
+* `cd` via `ns-root-23.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-23.scpt-network.net.zone)
 * `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
 * `fj` via `ns1.fj.`: [Click here to view zone data.](archives/fj/ns1.fj.zone)
 * `gh` via `ns2.nic.gh.`: [Click here to view zone data.](archives/gh/ns2.nic.gh.zone)
@@ -21,8 +22,7 @@
 * `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
 * `ni` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ns.ideay.net.ni.zone)
 * `pg` via `ns2.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns2.tiare.net.pg.zone)
-* `ps` via `dns1.gov.ps.`: [Click here to view zone data.](archives/ps/dns1.gov.ps.zone)
-* `sd` via `ans1.sis.sd.`: [Click here to view zone data.](archives/sd/ans1.sis.sd.zone)
+* `ps` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/ps/ns1.pnina.ps.zone)
 * `sl` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/ns2.neoip.com.zone)
 * `tc` via `root3.zone.tc.`: [Click here to view zone data.](archives/tc/root3.zone.tc.zone)
 * `tj` via `ns2.tojikiston.com.`: [Click here to view zone data.](archives/tj/ns2.tojikiston.com.zone)
