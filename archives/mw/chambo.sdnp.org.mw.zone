@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1716804301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1716833101 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -128,8 +128,12 @@ a.mw.			18000	IN	NS	domwe.sdn.mw.
 a.mw.			18000	IN	NS	nyala.sdnp.org.mw.
 a5iv.mw.		18000	IN	NS	ns1.vercel-dns.com.
 a5iv.mw.		18000	IN	NS	ns2.vercel-dns.com.
-abb.mw.			18000	IN	NS	nse1.abb.com.
-abb.mw.			18000	IN	NS	nse2.abb.com.
+abb.mw.			18000	IN	NS	a10-66.akam.net.
+abb.mw.			18000	IN	NS	a1-226.akam.net.
+abb.mw.			18000	IN	NS	a13-65.akam.net.
+abb.mw.			18000	IN	NS	a22-65.akam.net.
+abb.mw.			18000	IN	NS	a4-64.akam.net.
+abb.mw.			18000	IN	NS	a7-64.akam.net.
 abc.mw.			18000	IN	NS	apollo.ns.cloudflare.com.
 abc.mw.			18000	IN	NS	jamie.ns.cloudflare.com.
 abctv.mw.		18000	IN	NS	domwe.sdn.mw.
@@ -2764,6 +2768,8 @@ maltech.mw.		18000	IN	NS	ns3.supercp.com.
 maltech.mw.		18000	IN	NS	ns4.supercp.com.
 mamls.mw.		18000	IN	NS	ns1.bluehost.com.
 mamls.mw.		18000	IN	NS	ns2.bluehost.com.
+mamn.mw.		18000	IN	NS	ruben.ns.cloudflare.com.
+mamn.mw.		18000	IN	NS	savanna.ns.cloudflare.com.
 manaso.mw.		18000	IN	NS	sns37.hostgator.in.
 manaso.mw.		18000	IN	NS	sns38.hostgator.in.
 maneps.mw.		18000	IN	NS	domwe.sdn.mw.
@@ -3246,9 +3252,8 @@ nacalalogistics.mw.	18000	IN	NS	ns1.iptwins.net.
 nacalalogistics.mw.	18000	IN	NS	ns2.iptwins.net.
 nacalalogistics.mw.	18000	IN	NS	ns3.iptwins.com.
 nacalalogistics.mw.	18000	IN	NS	ns4.iptwins.com.
-name.mw.		18000	IN	NS	a.dnspod.com.
-name.mw.		18000	IN	NS	b.dnspod.com.
-name.mw.		18000	IN	NS	c.dnspod.com.
+name.mw.		18000	IN	NS	ult01.dnspod.com.
+name.mw.		18000	IN	NS	ult02.dnspod.com.
 naos.mw.		18000	IN	NS	nsa.perf1.fr.
 naos.mw.		18000	IN	NS	nsb.perf1.com.
 naos.mw.		18000	IN	NS	nsc.perf1.com.
@@ -4824,8 +4829,9 @@ wave.mw.		18000	IN	NS	ns6.markmonitor.com.
 wave.mw.		18000	IN	NS	ns7.markmonitor.com.
 we.mw.			18000	IN	NS	bruce.ns.cloudflare.com.
 we.mw.			18000	IN	NS	kehlani.ns.cloudflare.com.
-web.mw.			18000	IN	NS	ns1.germany.hostns.io.
-web.mw.			18000	IN	NS	ns2.germany.hostns.io.
+web.mw.			18000	IN	NS	ns1.regery.net.
+web.mw.			18000	IN	NS	ns2.regery.net.
+web.mw.			18000	IN	NS	ns3.regery.net.
 webmail.mw.		18000	IN	NS	proxy2.africa-online.net.
 webmail.mw.		18000	IN	NS	proxy3.africa-online.net.
 webmd.mw.		18000	IN	NS	curie.netsol.com.
@@ -5034,4 +5040,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1716804301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1716833101 1800 600 604800 1800
