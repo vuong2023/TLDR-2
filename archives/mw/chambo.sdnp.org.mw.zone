@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1719749101 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1719821101 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -461,9 +461,8 @@ aviator.mw.		18000	IN	NS	kirk.ns.cloudflare.com.
 aviator.mw.		18000	IN	NS	vita.ns.cloudflare.com.
 aviator-bet.mw.		18000	IN	NS	abdullah.ns.cloudflare.com.
 aviator-bet.mw.		18000	IN	NS	chelsea.ns.cloudflare.com.
-aviator-game.mw.	18000	IN	NS	ns1.regery.net.
-aviator-game.mw.	18000	IN	NS	ns2.regery.net.
-aviator-game.mw.	18000	IN	NS	ns3.regery.net.
+aviator-game.mw.	18000	IN	NS	mitchell.ns.cloudflare.com.
+aviator-game.mw.	18000	IN	NS	sky.ns.cloudflare.com.
 aviatorbet.mw.		18000	IN	NS	ns1.dns-parking.com.
 aviatorbet.mw.		18000	IN	NS	ns2.dns-parking.com.
 aviatorbets.mw.		18000	IN	NS	maleah.ns.cloudflare.com.
@@ -1090,9 +1089,6 @@ computronestore.mw.	18000	IN	NS	ns2.livedns.co.uk.
 computronestore.mw.	18000	IN	NS	ns3.livedns.co.uk.
 comsyncservices.mw.	18000	IN	NS	ns1.bh-ht-17.webhostbox.net.
 comsyncservices.mw.	18000	IN	NS	ns2.bh-ht-17.webhostbox.net.
-cona.mw.		18000	IN	NS	ns1.asurahosting.com.
-cona.mw.		18000	IN	NS	ns2.asurahosting.com.
-cona.mw.		18000	IN	NS	ns3.asurahosting.com.
 concom.mw.		18000	IN	NS	ns1.digitalassociates.us.
 concom.mw.		18000	IN	NS	ns2.digitalassociates.us.
 conf.mw.		18000	IN	NS	ns1.101domain.com.
@@ -1510,9 +1506,6 @@ esso.mw.		18000	IN	NS	a18-64.akam.net.
 esso.mw.		18000	IN	NS	a3-66.akam.net.
 eth.mw.			18000	IN	NS	ns1.dan.com.
 eth.mw.			18000	IN	NS	ns2.dan.com.
-etickets.mw.		18000	IN	NS	ns1.coolenterprisesmw.net.
-etickets.mw.		18000	IN	NS	ns2.coolenterprisesmw.net.
-etickets.mw.		18000	IN	NS	ns3.coolenterprisesmw.net.
 etrade.mw.		18000	IN	NS	dns1.cscdns.net.
 etrade.mw.		18000	IN	NS	dns2.cscdns.net.
 eu.mw.			18000	IN	NS	dns1.safenames.com.
@@ -3121,8 +3114,6 @@ morecast.mw.		18000	IN	NS	ns4.markmonitor.com.
 morecast.mw.		18000	IN	NS	ns5.markmonitor.com.
 morecast.mw.		18000	IN	NS	ns6.markmonitor.com.
 morecast.mw.		18000	IN	NS	ns7.markmonitor.com.
-morespace.mw.		18000	IN	NS	ns1.cloud-35538c.managed-vps.net.
-morespace.mw.		18000	IN	NS	ns2.cloud-35538c.managed-vps.net.
 moringaacres.mw.	18000	IN	NS	ns1.inmotionhosting.com.
 moringaacres.mw.	18000	IN	NS	ns2.inmotionhosting.com.
 mot-mobility.mw.	18000	IN	NS	ns1.motorolamobility.com.
@@ -5073,4 +5064,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1719749101 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1719821101 1800 600 604800 1800
