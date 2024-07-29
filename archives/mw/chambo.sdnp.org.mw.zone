@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1722175501 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1722261901 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -416,6 +416,8 @@ atlas.mw.		18000	IN	NS	ns2.websiteserverbox.com.
 atlas.mw.		18000	IN	NS	ns3.websiteserverbox.com.
 atlascopco.mw.		18000	IN	NS	ns2.domainnetwork.se.
 atlascopco.mw.		18000	IN	NS	ns.domainnetwork.se.
+atsogo.mw.		18000	IN	NS	dns1.namecheaphosting.com.
+atsogo.mw.		18000	IN	NS	dns2.namecheaphosting.com.
 audi.mw.		18000	IN	NS	dns1.freehostia.com.
 audi.mw.		18000	IN	NS	dns2.freehostia.com.
 auditconsult.mw.	18000	IN	NS	ns1.bdm.microsoftonline.com.
@@ -760,8 +762,6 @@ boxoffice.mw.		18000	IN	NS	ns1.mweb.co.za.
 boxoffice.mw.		18000	IN	NS	ns2.mweb.co.za.
 boydsproperties.mw.	18000	IN	NS	dns1.registrar-servers.com.
 boydsproperties.mw.	18000	IN	NS	dns2.registrar-servers.com.
-brainytechnologies.mw.	18000	IN	NS	ns1.dns-parking.com.
-brainytechnologies.mw.	18000	IN	NS	ns2.dns-parking.com.
 brandsafrica.mw.	18000	IN	NS	proxy2.africa-online.net.
 brandsafrica.mw.	18000	IN	NS	proxy3.africa-online.net.
 breedj.mw.		18000	IN	NS	ns1.netim.net.
@@ -894,8 +894,6 @@ cbs.mw.			18000	IN	NS	dns3.p09.nsone.net.
 cbs.mw.			18000	IN	NS	dns4.p09.nsone.net.
 cbs.mw.			18000	IN	NS	ns0004.secondary.cloudflare.com.
 cbs.mw.			18000	IN	NS	ns0243.secondary.cloudflare.com.
-ccap.mw.		18000	IN	NS	pdns13.domaincontrol.com.
-ccap.mw.		18000	IN	NS	pdns14.domaincontrol.com.
 ccuonline.mw.		18000	IN	NS	ns1.instradns.com.
 ccuonline.mw.		18000	IN	NS	ns2.instradns.com.
 ccuonline.mw.		18000	IN	NS	ns3.instradns.com.
@@ -2397,10 +2395,6 @@ karooooo.mw.		18000	IN	NS	ns2.lexsynergy.us.
 karooooo.mw.		18000	IN	NS	ns3.lexsynergy.info.
 kasfreightmalawi.mw.	18000	IN	NS	ns1.linthipe4.com.
 kasfreightmalawi.mw.	18000	IN	NS	ns2.linthipe4.com.
-kasinthula.mw.		18000	IN	NS	ns1.mysecurecloudhost.com.
-kasinthula.mw.		18000	IN	NS	ns2.mysecurecloudhost.com.
-kasinthula.mw.		18000	IN	NS	ns3.mysecurecloudhost.com.
-kasinthula.mw.		18000	IN	NS	ns4.mysecurecloudhost.com.
 kaspersky.mw.		18000	IN	NS	ns1.markmonitor.com.
 kaspersky.mw.		18000	IN	NS	ns2.markmonitor.com.
 kasungucommunity.mw.	18000	IN	NS	domwe.sdn.mw.
@@ -2770,8 +2764,6 @@ marriott.mw.		18000	IN	NS	ns-cloud-b3.googledomains.com.
 marriott.mw.		18000	IN	NS	ns-cloud-b4.googledomains.com.
 marymount.mw.		18000	IN	NS	pdns07.domaincontrol.com.
 marymount.mw.		18000	IN	NS	pdns08.domaincontrol.com.
-masdap.mw.		18000	IN	NS	domwe.sdn.mw.
-masdap.mw.		18000	IN	NS	nyala.sdnp.org.mw.
 masm.mw.		18000	IN	NS	ns1.bdsmw.com.
 masm.mw.		18000	IN	NS	ns2.bdsmw.com.
 masm.mw.		18000	IN	NS	ns3.bdsmw.com.
@@ -3448,6 +3440,8 @@ o.mw.			18000	IN	NS	ns2.netim.net.
 o.mw.			18000	IN	NS	ns3.netim.net.
 obo.mw.			18000	IN	NS	auth04.ns.de.uu.net.
 obo.mw.			18000	IN	NS	auth54.ns.de.uu.net.
+ocl.mw.			18000	IN	NS	ns1.mtlonline.mw.
+ocl.mw.			18000	IN	NS	ns2.mtlonline.mw.
 octa.mw.		18000	IN	NS	ns01.trademarkarea.com.
 octa.mw.		18000	IN	NS	ns02.trademarkarea.com.
 octa.mw.		18000	IN	NS	ns03.trademarkarea.com.
@@ -3959,6 +3953,10 @@ saeedinvestments.mw.	18000	IN	NS	araliya.globemw.net.
 saeedinvestments.mw.	18000	IN	NS	maxdns.globemw.net.
 safe.mw.		18000	IN	NS	ns1.host-ww.net.
 safe.mw.		18000	IN	NS	ns2.host-ww.net.
+safeguardsecurity.mw.	18000	IN	NS	ns1.bdsmw.com.
+safeguardsecurity.mw.	18000	IN	NS	ns2.bdsmw.com.
+safeguardsecurity.mw.	18000	IN	NS	ns3.bdsmw.com.
+safeguardsecurity.mw.	18000	IN	NS	ns4.bdsmw.com.
 safmarine.mw.		18000	IN	NS	a13-67.akam.net.
 safmarine.mw.		18000	IN	NS	a1-4.akam.net.
 safmarine.mw.		18000	IN	NS	a18-64.akam.net.
@@ -4986,4 +4984,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1722175501 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1722261901 1800 600 604800 1800
