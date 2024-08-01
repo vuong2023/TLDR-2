@@ -1,4 +1,7 @@
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113159 3600 600 604801 86400
+;; Connection to 186.1.31.8#53(186.1.31.8) for ni. failed: timed out.
+;; no servers could be reached
+
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113160 3600 600 604801 86400
 ni.			86400	IN	NS	ns.ni.
 ni.			86400	IN	NS	ns.uu.net.
 ni.			86400	IN	NS	ns.ideay.net.ni.
@@ -214,6 +217,8 @@ balaxipharma.ni.	86400	IN	NS	ns1.bluehost.com.
 balaxipharma.ni.	86400	IN	NS	ns2.bluehost.com.
 bandi.ni.		86400	IN	NS	ns1.101domain.com.
 bandi.ni.		86400	IN	NS	ns2.101domain.com.
+banpro.ni.		86400	IN	NS	ns.banpro.com.ni.
+banpro.ni.		86400	IN	NS	ns1.banpro.com.ni.
 baskinrobbins.ni.	86400	IN	NS	dns1.cscdns.net.
 baskinrobbins.ni.	86400	IN	NS	dns2.cscdns.net.
 bathandbodyworks.ni.	86400	IN	NS	ns1.markmonitor.com.
@@ -2003,4 +2008,4 @@ zumex.ni.		86400	IN	NS	ns3.ascio.com.
 zumex.ni.		86400	IN	NS	ns4.ascio.com.
 zumtobel.ni.		86400	IN	NS	meadow.ns.cloudflare.com.
 zumtobel.ni.		86400	IN	NS	thaddeus.ns.cloudflare.com.
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113159 3600 600 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113160 3600 600 604801 86400
