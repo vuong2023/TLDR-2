@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1725257101 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1725314701 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -534,11 +534,11 @@ bayobab.mw.		18000	IN	NS	ns2.lexsynergy.us.
 bayobab.mw.		18000	IN	NS	ns3.lexsynergy.info.
 bba.mw.			18000	IN	NS	pdns07.domaincontrol.com.
 bba.mw.			18000	IN	NS	pdns08.domaincontrol.com.
+bbonline.mw.		18000	IN	DS	59524 8 1 F09D44BDCAF08630DECDE82BD9FD024047B071DA
 bbonline.mw.		18000	IN	NS	ns1.bb-online.net.
 bbonline.mw.		18000	IN	NS	ns2.bb-online.org.
 bbonline.mw.		18000	IN	NS	ns3.bb-online.info.
 bbonline.mw.		18000	IN	NS	ns4.bb-online.biz.
-bbonline.mw.		18000	IN	DS	59524 8 1 F09D44BDCAF08630DECDE82BD9FD024047B071DA
 bbva.mw.		18000	IN	NS	a1-166.akam.net.
 bbva.mw.		18000	IN	NS	a3-66.akam.net.
 bbva.mw.		18000	IN	NS	a4-67.akam.net.
@@ -2414,6 +2414,8 @@ keys.mw.		18000	IN	NS	ns3.bb-online.info.
 keys.mw.		18000	IN	NS	ns4.bb-online.biz.
 khconstruction.mw.	18000	IN	NS	ns113.asurahosting.com.
 khconstruction.mw.	18000	IN	NS	ns114.asurahosting.com.
+khulysa.mw.		18000	IN	NS	araliya.globemw.net.
+khulysa.mw.		18000	IN	NS	maxdns.globemw.net.
 kic.mw.			18000	IN	NS	liv.ns.cloudflare.com.
 kic.mw.			18000	IN	NS	yew.ns.cloudflare.com.
 kikifoods.mw.		18000	IN	NS	ns1.websitehostserver.net.
@@ -2710,6 +2712,8 @@ malawifolklore.mw.	18000	IN	NS	domwe.sdn.mw.
 malawifolklore.mw.	18000	IN	NS	nyala.sdnp.org.mw.
 malawijudiciarycms.mw.	18000	IN	NS	ns1.cp-34.webhostbox.net.
 malawijudiciarycms.mw.	18000	IN	NS	ns2.cp-34.webhostbox.net.
+malawiorthopaedic.mw.	18000	IN	NS	ns1.dns-parking.com.
+malawiorthopaedic.mw.	18000	IN	NS	ns2.dns-parking.com.
 malawisport.mw.		18000	IN	NS	ns1.bdsmw.com.
 malawisport.mw.		18000	IN	NS	ns2bdsmw.com.
 malawisport.mw.		18000	IN	NS	ns3.bdsmw.com.
@@ -4364,6 +4368,8 @@ tbtest.mw.		18000	IN	NS	domwe.sdn.mw.
 tbtest.mw.		18000	IN	NS	nyala.sdnp.org.mw.
 tc.mw.			18000	IN	NS	ns1.dns-parking.com.
 tc.mw.			18000	IN	NS	ns2.dns-parking.com.
+teacherscouncil.mw.	18000	IN	NS	sns39.hostgator.in.
+teacherscouncil.mw.	18000	IN	NS	sns40.hostgator.in.
 teamadventure.mw.	18000	IN	NS	dns1.namecheaphosting.com.
 teamadventure.mw.	18000	IN	NS	dns2.namecheaphosting.com.
 teamviewer.mw.		18000	IN	NS	tv-ns1.teamviewer.com.
@@ -5003,4 +5009,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1725257101 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1725314701 1800 600 604800 1800
