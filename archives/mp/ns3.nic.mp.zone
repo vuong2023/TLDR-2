@@ -9,6 +9,9 @@ mp.			86400	IN	SOA	ns1.nic.mp. support.get.mp. 1 86400 7200 604800 300
 1111.mp.		3600	IN	NS	CHRISTIAN.NS.CLOUDFLARE.COM.
 119.mp.			3600	IN	NS	dns1.cscdns.net.
 119.mp.			3600	IN	NS	dns2.cscdns.net.
+173601.mp.		3600	IN	NS	a.dnspod.COM.
+173601.mp.		3600	IN	NS	b.dnspod.COM.
+173601.mp.		3600	IN	NS	c.dnspod.COM.
 1800flowers.mp.		3600	IN	NS	dns1.cscdns.net.
 1800flowers.mp.		3600	IN	NS	dns2.cscdns.net.
 2222.mp.		3600	IN	NS	APRIL.NS.CLOUDFLARE.COM.
@@ -96,9 +99,9 @@ aktieka.mp.		3600	IN	NS	ns-789.awsdns-34.net.
 alamo.mp.		3600	IN	NS	ns1.markmonitor.COM.
 alamo.mp.		3600	IN	NS	ns2.markmonitor.COM.
 alamo.mp.		3600	IN	NS	ns3.markmonitor.COM.
-alamo.mp.		3600	IN	NS	ns4.markmonitor.COM.
-alamo.mp.		3600	IN	NS	ns5.markmonitor.COM.
-alamo.mp.		3600	IN	NS	NS6.markmonitor.COM.
+alamo.mp.		3600	IN	NS	NS4.MARKMONITOR.COM.
+alamo.mp.		3600	IN	NS	NS5.MARKMONITOR.COM.
+alamo.mp.		3600	IN	NS	NS6.MARKMONITOR.COM.
 alamo.mp.		3600	IN	NS	NS7.MARKMONITOR.COM.
 alcatel.mp.		3600	IN	NS	a.ns.mailclub.fr.
 alcatel.mp.		3600	IN	NS	b.ns.mailclub.eu.
@@ -291,6 +294,8 @@ bclub1.mp.		3600	IN	NS	sandra.ns.cloudflare.com.
 bclubb.mp.		3600	IN	NS	ns1.openprovider.nl.
 bclubb.mp.		3600	IN	NS	ns2.openprovider.be.
 bclubb.mp.		3600	IN	NS	ns3.openprovider.eu.
+bclubbcm.mp.		3600	IN	NS	adelaide.ns.cloudflare.com.
+bclubbcm.mp.		3600	IN	NS	bradley.ns.cloudflare.com.
 bclubc.mp.		3600	IN	NS	marge.ns.cloudflare.com.
 bclubc.mp.		3600	IN	NS	roan.ns.cloudflare.com.
 bclube.mp.		3600	IN	NS	gabe.ns.cloudflare.com.
@@ -1272,6 +1277,8 @@ listerine.mp.		3600	IN	NS	dns3.p01.nsone.net.
 listerine.mp.		3600	IN	NS	dns4.p01.nsone.net.
 listerine.mp.		3600	IN	NS	ns01.kenvuedns.com.
 listerine.mp.		3600	IN	NS	ns02.kenvuedns.com.
+livecvvdumps.mp.	3600	IN	NS	adi.ns.cloudflare.com.
+livecvvdumps.mp.	3600	IN	NS	west.ns.cloudflare.com.
 loli.mp.		3600	IN	NS	ns1.huaweicloud-dns.cn.
 loli.mp.		3600	IN	NS	ns1.huaweicloud-dns.com.
 loli.mp.		3600	IN	NS	ns1.huaweicloud-dns.net.
@@ -1309,8 +1316,8 @@ markmonitor.mp.		3600	IN	NS	ns1.MARKMONITOR.com.
 markmonitor.mp.		3600	IN	NS	NS2.MARKMONITOR.com.
 markmonitor.mp.		3600	IN	NS	NS3.MARKMONITOR.com.
 markmonitor.mp.		3600	IN	NS	NS4.MARKMONITOR.com.
-markmonitor.mp.		3600	IN	NS	NS5.MARKMONITOR.com.
-markmonitor.mp.		3600	IN	NS	NS6.MARKMONITOR.com.
+markmonitor.mp.		3600	IN	NS	NS5.MARKMONITOR.COM.
+markmonitor.mp.		3600	IN	NS	NS6.MARKMONITOR.COM.
 markmonitor.mp.		3600	IN	NS	NS7.MARKMONITOR.COM.
 marksix.mp.		3600	IN	NS	ns1.dnscu.com.
 marksix.mp.		3600	IN	NS	ns2.dnscu.com.
@@ -1322,6 +1329,9 @@ mason.mp.		3600	IN	NS	april.ns.cloudflare.com.
 mason.mp.		3600	IN	NS	coen.ns.cloudflare.com.
 mattju.mp.		3600	IN	NS	david.ns.cloudflare.com.
 mattju.mp.		3600	IN	NS	jocelyn.ns.cloudflare.com.
+mayurpant.mp.		3600	IN	NS	ns1.dreamhost.com.
+mayurpant.mp.		3600	IN	NS	ns2.dreamhost.com.
+mayurpant.mp.		3600	IN	NS	ns3.dreamhost.com.
 maze.mp.		3600	IN	NS	ns54.tr.dnsowner.com.
 maze.mp.		3600	IN	NS	ns55.tr.dnsowner.com.
 mcsi.mp.		3600	IN	NS	beth.ns.cloudflare.com.
@@ -2020,7 +2030,7 @@ therightnowclimatefund.mp. 3600	IN	NS	ns4.markmonitor.com.
 therightnowclimatefund.mp. 3600	IN	NS	ns5.markmonitor.com.
 thescore.mp.		3600	IN	NS	NS1.101DOMAIN.com.
 thescore.mp.		3600	IN	NS	NS2.101DOMAIN.com.
-thescore.mp.		3600	IN	NS	NS5.101DOMAIN.com.
+thescore.mp.		3600	IN	NS	NS5.101DOMAIN.COM.
 thesonoftho.mp.		3600	IN	NS	dns1.p04.nsone.net.
 thesonoftho.mp.		3600	IN	NS	dns2.p04.nsone.net.
 thesonoftho.mp.		3600	IN	NS	dns3.p04.nsone.net.
@@ -2222,10 +2232,10 @@ wompwo.mp.		3600	IN	NS	carla.ns.cloudflare.com.
 wompwo.mp.		3600	IN	NS	damiete.ns.cloudflare.com.
 wordju.mp.		3600	IN	NS	NS10.DNSMADEEASY.com.
 wordju.mp.		3600	IN	NS	NS11.DNSMADEEASY.com.
-wordju.mp.		3600	IN	NS	NS12.DNSMADEEASY.com.
-wordju.mp.		3600	IN	NS	NS13.DNSMADEEASY.com.
-wordju.mp.		3600	IN	NS	NS14.DNSMADEEASY.com.
-wordju.mp.		3600	IN	NS	NS15.DNSMADEEASY.com.
+wordju.mp.		3600	IN	NS	NS12.DNSMADEEASY.COM.
+wordju.mp.		3600	IN	NS	NS13.DNSMADEEASY.COM.
+wordju.mp.		3600	IN	NS	NS14.DNSMADEEASY.COM.
+wordju.mp.		3600	IN	NS	NS15.DNSMADEEASY.COM.
 www.mp.			86400	IN	CNAME	get.mp.
 xforce.mp.		3600	IN	NS	cameron.ns.cloudflare.com.
 xforce.mp.		3600	IN	NS	rosalyn.ns.cloudflare.com.
