@@ -26,7 +26,6 @@
 * `pg` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns1.tiare.net.pg.zone)
 * `ps` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/ps/ns1.pnina.ps.zone)
 * `rw` via `ns3.ricta.org.rw.`: [Click here to view zone data.](archives/rw/ns3.ricta.org.rw.zone)
-* `sd` via `ans2.canar.sd.`: [Click here to view zone data.](archives/sd/ans2.canar.sd.zone)
 * `sl` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/ns2.neoip.com.zone)
 * `sv` via `sir.red.sv.`: [Click here to view zone data.](archives/sv/sir.red.sv.zone)
 * `tc` via `root2.zone.tc.`: [Click here to view zone data.](archives/tc/root2.zone.tc.zone)
@@ -38,4 +37,4 @@
 * `xn--mgbtx2b` via `ns.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/ns.cmc.iq.zone)
 * `xn--wgbh1c` via `ns1.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/ns1.dotmasr.eg.zone)
 * `xn--xkc2al3hye2a` via `ns-l.nic.lk.`: [Click here to view zone data.](archives/xn--xkc2al3hye2a/ns-l.nic.lk.zone)
-* `xn--ygbi2ammx` via `Bilal.pnina.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/Bilal.pnina.ps.zone)
+* `xn--ygbi2ammx` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/ns1.pnina.ps.zone)
