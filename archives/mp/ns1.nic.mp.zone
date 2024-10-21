@@ -508,6 +508,8 @@ canon.mp.		3600	IN	NS	rns2.rightsdns.com.
 canva.mp.		3600	IN	NS	ns-132-c.gandi.net.
 canva.mp.		3600	IN	NS	ns-24-a.gandi.net.
 canva.mp.		3600	IN	NS	ns-46-b.gandi.net.
+cardingclub.mp.		3600	IN	NS	dx1.rcnoc.com.
+cardingclub.mp.		3600	IN	NS	dx2.rcnoc.com.
 cardingclub.mp.		3600	IN	NS	dx31.rcnoc.com.
 cardingclub.mp.		3600	IN	NS	dx32.rcnoc.com.
 carefree.mp.		3600	IN	NS	dns1.p01.nsone.net.
