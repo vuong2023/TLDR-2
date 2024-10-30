@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1730268302 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1730297101 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -1507,8 +1507,8 @@ esso.mw.		18000	IN	NS	a13-67.akam.net.
 esso.mw.		18000	IN	NS	a14-65.akam.net.
 esso.mw.		18000	IN	NS	a18-64.akam.net.
 esso.mw.		18000	IN	NS	a3-66.akam.net.
-eth.mw.			18000	IN	NS	ns1.eftydns.com.
-eth.mw.			18000	IN	NS	ns2.eftydns.com.
+eth.mw.			18000	IN	NS	ns1.atom.com.
+eth.mw.			18000	IN	NS	ns2.atom.com.
 etrade.mw.		18000	IN	NS	dns1.cscdns.net.
 etrade.mw.		18000	IN	NS	dns2.cscdns.net.
 eu.mw.			18000	IN	NS	dns1.safenames.com.
@@ -2860,6 +2860,8 @@ mcccivirtualtrade.mw.	18000	IN	NS	ns1.siteground.net.
 mcccivirtualtrade.mw.	18000	IN	NS	ns2.siteground.net.
 mchengacm.mw.		18000	IN	NS	ns2.globemw.com.
 mchengacm.mw.		18000	IN	NS	ns3.globemw.com.
+mchs.mw.		18000	IN	NS	ns1.cloud-35538c.managed-vps.net.
+mchs.mw.		18000	IN	NS	ns2.cloud-35538c.managed-vps.net.
 me.mw.			18000	IN	NS	bruce.ns.cloudflare.com.
 me.mw.			18000	IN	NS	kehlani.ns.cloudflare.com.
 medcare.mw.		18000	IN	NS	ns1.cloud-35538c.managed-vps.net.
@@ -3245,6 +3247,8 @@ mwapata.mw.		18000	IN	NS	ns14.wixdns.net.
 mwapata.mw.		18000	IN	NS	ns15.wixdns.net.
 mwasip.mw.		18000	IN	NS	dns2001a.trouble-free.net.
 mwasip.mw.		18000	IN	NS	dns2001b.trouble-free.net.
+mwayi.mw.		18000	IN	NS	fatima.ns.cloudflare.com.
+mwayi.mw.		18000	IN	NS	micah.ns.cloudflare.com.
 mwc.mw.			18000	IN	NS	ns01.trademarkarea.com.
 mwc.mw.			18000	IN	NS	ns02.trademarkarea.com.
 mwc.mw.			18000	IN	NS	ns03.trademarkarea.com.
@@ -3824,6 +3828,8 @@ prsm.mw.		18000	IN	NS	ns322.websitewelcome.com.
 prtl.mw.		18000	IN	NS	ns1.101domain.com.
 prtl.mw.		18000	IN	NS	ns2.101domain.com.
 prtl.mw.		18000	IN	NS	ns5.101domain.com.
+pryramidgroup.mw.	18000	IN	NS	domwe.sdn.mw.
+pryramidgroup.mw.	18000	IN	NS	nyala.sdnp.org.mw.
 psptf.mw.		18000	IN	NS	ns1.bdm.microsoftonline.com.
 psptf.mw.		18000	IN	NS	ns2.bdm.microsoftonline.com.
 psptf.mw.		18000	IN	NS	ns3.bdm.microsoftonline.com.
@@ -5100,4 +5106,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1730268302 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1730297101 1800 600 604800 1800
