@@ -1,3 +1,6 @@
+;; Connection to 144.120.146.1#53(144.120.146.1) for fj. failed: timed out.
+;; no servers could be reached
+
 fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2024103023 21600 3600 1209600 3600
 fj.			3600	IN	RRSIG	SOA 8 1 3600 20241112202537 20241030020141 17100 fj. GeeiHZqJbJtqUSJGpY9KVYCXC2+H5A3WuoLT+zVwjGB8SBT/Hs833xFo Z6bz4zCKy5b45c1rxodH+cj+MzfsquNIqTBf5Rgo7IpeXKb5lb/1sKN0 ZfPnMudM4Wm5ZCb9eWzqGAMi+8CPgxlFZuXGiGzg5ftXtvqtaMVbhTlV 9Vs9jwkvvlNWgpjMS2MVF+OtJ6RCpx40EWwMbJdeVqSarZTvqd62GP9y 58MFtMyZDg3wtD5gBYkMgvRhekDYiMDXbkE+PhTbuHE2hy+RSFq9Afio q4M+4wMv9SR+TMK7fBd0ILVSHtakypWtOoLTEXxwunGlJoWC5oCo1+Dr ptHijg==
 fj.			0	IN	NSEC3PARAM 1 0 5 9F2844DF1E60A1B7
