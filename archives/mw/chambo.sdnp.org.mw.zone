@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1730685901 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1730721901 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -266,6 +266,8 @@ alcatel.mw.		18000	IN	NS	ns6.nokia.com.
 alcatel.mw.		18000	IN	NS	ns.nokia.com.
 aleksandrconsulting.mw.	18000	IN	NS	ns1.node1427.myfcloud.com.
 aleksandrconsulting.mw.	18000	IN	NS	ns2.node1427.myfcloud.com.
+alendo.mw.		18000	IN	NS	ns0.thundercloud.uk.
+alendo.mw.		18000	IN	NS	ns1.thundercloud.uk.
 alex.mw.		18000	IN	NS	june.ns.cloudflare.com.
 alex.mw.		18000	IN	NS	newt.ns.cloudflare.com.
 alfa-laval.mw.		18000	IN	NS	dns1.cscdns.net.
@@ -2257,11 +2259,8 @@ intel.mw.		18000	IN	NS	ns3.intel.com.
 intel.mw.		18000	IN	NS	ns4.intel.com.
 internet.mw.		18000	IN	NS	proxy2.africa-online.net.
 internet.mw.		18000	IN	NS	proxy3.africa-online.net.
-internetsociety.mw.	18000	IN	NS	freedns1.registrar-servers.com.
-internetsociety.mw.	18000	IN	NS	freedns2.registrar-servers.com.
-internetsociety.mw.	18000	IN	NS	freedns3.registrar-servers.com.
-internetsociety.mw.	18000	IN	NS	freedns4.registrar-servers.com.
-internetsociety.mw.	18000	IN	NS	freedns5.registrar-servers.com.
+internetsociety.mw.	18000	IN	NS	dns1.namecheaphosting.com.
+internetsociety.mw.	18000	IN	NS	dns2.namecheaphosting.com.
 internic.mw.		18000	IN	NS	a1.verisigndns.com.
 internic.mw.		18000	IN	NS	a2.verisigndns.com.
 internic.mw.		18000	IN	NS	a3.verisigndns.com.
@@ -2306,11 +2305,8 @@ isla.mw.		18000	IN	NS	ns2.dnsmadeeasy.com.
 isla.mw.		18000	IN	NS	ns3.dnsmadeeasy.com.
 islandbeverages.mw.	18000	IN	NS	ns1.inmotionhosting.com.
 islandbeverages.mw.	18000	IN	NS	ns2.inmotionhosting.com.
-isoc.mw.		18000	IN	NS	freedns1.registrar-servers.com.
-isoc.mw.		18000	IN	NS	freedns2.registrar-servers.com.
-isoc.mw.		18000	IN	NS	freedns3.registrar-servers.com.
-isoc.mw.		18000	IN	NS	freedns4.registrar-servers.com.
-isoc.mw.		18000	IN	NS	freedns5.registrar-servers.com.
+isoc.mw.		18000	IN	NS	dns1.namecheaphosting.com.
+isoc.mw.		18000	IN	NS	dns2.namecheaphosting.com.
 isover.mw.		18000	IN	NS	ns2.observatoiredesmarques.fr.
 isover.mw.		18000	IN	NS	ns3.nameshield.net.
 isover.mw.		18000	IN	NS	obs.ns1.fr.
@@ -5114,4 +5110,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1730685901 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1730721901 1800 600 604800 1800
