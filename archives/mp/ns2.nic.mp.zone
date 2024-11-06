@@ -260,8 +260,6 @@ bandaid.mp.		3600	IN	NS	dns3.p01.nsone.net.
 bandaid.mp.		3600	IN	NS	dns4.p01.nsone.net.
 bandaid.mp.		3600	IN	NS	ns01.kenvuedns.com.
 bandaid.mp.		3600	IN	NS	ns02.kenvuedns.com.
-banklogs.mp.		3600	IN	NS	daphne.ns.cloudflare.com.
-banklogs.mp.		3600	IN	NS	vick.ns.cloudflare.com.
 baobab.mp.		3600	IN	NS	a.dns.gandi.net.
 baobab.mp.		3600	IN	NS	b.dns.gandi.net.
 baobab.mp.		3600	IN	NS	c.dns.gandi.net.
@@ -584,6 +582,8 @@ codman.mp.		3600	IN	NS	dns1.cscdns.net.
 codman.mp.		3600	IN	NS	dns2.cscdns.net.
 cods.mp.		3600	IN	NS	leif.ns.cloudflare.com.
 cods.mp.		3600	IN	NS	michelle.ns.cloudflare.com.
+coinswap.mp.		3600	IN	NS	jen.ns.cloudflare.com.
+coinswap.mp.		3600	IN	NS	lochlan.ns.cloudflare.com.
 columbia.mp.		3600	IN	NS	pdns71.ultradns.biz.
 columbia.mp.		3600	IN	NS	pdns71.ultradns.co.uk.
 columbia.mp.		3600	IN	NS	pdns71.ultradns.com.
@@ -1517,8 +1517,6 @@ mystore.mp.		3600	IN	NS	udns1.cscdns.NET.
 mystore.mp.		3600	IN	NS	udns2.cscdns.uk.
 mysummercar.mp.		3600	IN	NS	dahlia.ns.cloudflare.COM.
 mysummercar.mp.		3600	IN	NS	jose.ns.cloudflare.com.
-myvice.mp.		3600	IN	NS	ns5.alexhost.md.
-myvice.mp.		3600	IN	NS	ns6.alexhost.md.
 nalog.mp.		3600	IN	NS	ns1.tildadns.com.
 nalog.mp.		3600	IN	NS	ns2.tildadns.com.
 nanoa.mp.		3600	IN	NS	curitiba.ns.porkbun.com.
@@ -1737,8 +1735,6 @@ plcy.mp.		3600	IN	NS	ns-514.awsdns-00.net.
 plo.mp.			3600	IN	NS	ns1.greenhost.nl.
 plo.mp.			3600	IN	NS	ns2.greenhost.net.
 plo.mp.			3600	IN	NS	ns3.greenhost.nl.
-pocketdu.mp.		3600	IN	NS	ns5.kasserver.com.
-pocketdu.mp.		3600	IN	NS	ns6.kasserver.com.
 pogcha.mp.		3600	IN	NS	hope.ns.cloudflare.com.
 pogcha.mp.		3600	IN	NS	yichun.ns.cloudflare.com.
 post.mp.		3600	IN	NS	ns-134-b.gandi.net.
@@ -2297,6 +2293,8 @@ yaskawa.mp.		3600	IN	NS	dns1.idp365.net.
 yaskawa.mp.		3600	IN	NS	dns2.idp365.net.
 yava.mp.		3600	IN	NS	everton.ns.cloudflare.com.
 yava.mp.		3600	IN	NS	michelle.ns.cloudflare.com.
+yetanother.mp.		3600	IN	NS	margot.ns.cloudflare.com.
+yetanother.mp.		3600	IN	NS	watson.ns.cloudflare.com.
 zapzap.mp.		3600	IN	NS	ns1.instradns.com.
 zapzap.mp.		3600	IN	NS	ns2.instradns.com.
 zuidijk.mp.		3600	IN	NS	ns1.bdm.microsoftonline.com.
