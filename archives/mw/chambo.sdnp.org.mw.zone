@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1731398701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1731413101 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -4631,6 +4631,8 @@ transferwise.mw.	18000	IN	NS	ns2.101domain.com.
 transferwise.mw.	18000	IN	NS	ns5.101domain.com.
 transitex.mw.		18000	IN	NS	ns1.dnsexit.com.
 transitex.mw.		18000	IN	NS	ns2.dnsexit.com.
+travelandtourworld.mw.	18000	IN	NS	demi.ns.cloudflare.com.
+travelandtourworld.mw.	18000	IN	NS	stan.ns.cloudflare.com.
 travelclick.mw.		18000	IN	NS	ns1.ascio.com.
 travelclick.mw.		18000	IN	NS	ns2.ascio.com.
 travelclick.mw.		18000	IN	NS	ns3.ascio.com.
@@ -4726,6 +4728,10 @@ uhci.mw.		18000	IN	NS	dns3.supremedns.com.
 uhci.mw.		18000	IN	NS	dns4.supremedns.com.
 ulimi.mw.		18000	IN	NS	ns1.dns-parking.com.
 ulimi.mw.		18000	IN	NS	ns2.dns-parking.com.
+ultimatetravel.mw.	18000	IN	NS	ns1.supercp.com.
+ultimatetravel.mw.	18000	IN	NS	ns2.supercp.com.
+ultimatetravel.mw.	18000	IN	NS	ns3.supercp.com.
+ultimatetravel.mw.	18000	IN	NS	ns4.supercp.com.
 ultracell.mw.		18000	IN	NS	ns1.101domain.com.
 ultracell.mw.		18000	IN	NS	ns2.101domain.com.
 ultracell.mw.		18000	IN	NS	ns5.101domain.com.
@@ -5122,4 +5128,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1731398701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1731413101 1800 600 604800 1800
