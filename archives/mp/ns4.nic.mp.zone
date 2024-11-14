@@ -506,8 +506,6 @@ canon.mp.		3600	IN	NS	rns2.rightsdns.com.
 canva.mp.		3600	IN	NS	ns-132-c.gandi.net.
 canva.mp.		3600	IN	NS	ns-24-a.gandi.net.
 canva.mp.		3600	IN	NS	ns-46-b.gandi.net.
-cardingclub.mp.		3600	IN	NS	daphne.ns.cloudflare.com.
-cardingclub.mp.		3600	IN	NS	vick.ns.cloudflare.com.
 carefree.mp.		3600	IN	NS	dns1.p01.nsone.net.
 carefree.mp.		3600	IN	NS	dns2.p01.nsone.net.
 carefree.mp.		3600	IN	NS	dns3.p01.nsone.net.
@@ -1858,8 +1856,6 @@ salonpas.mp.		3600	IN	NS	RNS2.RIGHTSDNS.com.
 samp.mp.		3600	IN	NS	ns01.trademarkarea.com.
 samp.mp.		3600	IN	NS	ns02.trademarkarea.com.
 samp.mp.		3600	IN	NS	ns03.trademarkarea.com.
-sampv.mp.		3600	IN	NS	eugene.ns.cloudflare.com.
-sampv.mp.		3600	IN	NS	tegan.ns.cloudflare.com.
 sanki.mp.		3600	IN	NS	brenda.ns.cloudflare.com.
 sanki.mp.		3600	IN	NS	paul.ns.cloudflare.com.
 savasatan0.mp.		3600	IN	NS	melissa.ns.cloudflare.com.
