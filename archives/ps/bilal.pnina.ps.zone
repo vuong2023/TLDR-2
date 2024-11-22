@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024112110 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024112205 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1732215707"
+ps.			86400	IN	TXT	"Generation Time: 1732266095"
 01net.ps.		86400	IN	NS	a.ns.mailclub.fr.
 01net.ps.		86400	IN	NS	b.ns.mailclub.eu.
 01net.ps.		86400	IN	NS	c.ns.mailclub.com.
@@ -6702,8 +6702,8 @@ gie.ps.			86400	IN	NS	cdns1.hadara.ps.
 gie.ps.			86400	IN	NS	cdns2.hadara.ps.
 giff.ps.		86400	IN	NS	ns1.zenbox.pl.
 giff.ps.		86400	IN	NS	ns2.zenbox.pl.
-gift-rose.ps.		86400	IN	NS	ns1.webaccountserver.com.
-gift-rose.ps.		86400	IN	NS	ns2.webaccountserver.com.
+gift-rose.ps.		86400	IN	NS	ns1.skull-hosting.com.
+gift-rose.ps.		86400	IN	NS	ns2.skull-hosting.com.
 giftbox.ps.		86400	IN	NS	ns1.smsdns.ws.
 giftbox.ps.		86400	IN	NS	ns2.smsdns.ws.
 gifts.ps.		86400	IN	NS	cdns1.hadara.ps.
@@ -8016,10 +8016,10 @@ imad.ps.		86400	IN	NS	ns1.bluehost.com.
 imad.ps.		86400	IN	NS	ns2.bluehost.com.
 imageproductions.ps.	86400	IN	NS	ns1.bluetd.com.
 imageproductions.ps.	86400	IN	NS	ns2.bluetd.com.
-imap.ps.		86400	IN	NS	ns-247.awsdns-30.com.
-imap.ps.		86400	IN	NS	ns-818.awsdns-38.net.
-imap.ps.		86400	IN	NS	ns-1155.awsdns-16.org.
-imap.ps.		86400	IN	NS	ns-1665.awsdns-16.co.uk.
+imap.ps.		86400	IN	NS	ns-385.awsdns-48.com.
+imap.ps.		86400	IN	NS	ns-796.awsdns-35.net.
+imap.ps.		86400	IN	NS	ns-1461.awsdns-54.org.
+imap.ps.		86400	IN	NS	ns-1579.awsdns-05.co.uk.
 imm.ps.			86400	IN	NS	ns1.alquds.edu.
 imm.ps.			86400	IN	NS	hplanet.planet.edu.
 immergas.ps.		86400	IN	NS	ns1.register.it.
@@ -18598,4 +18598,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024112110 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024112205 86400 7200 3600000 172800
