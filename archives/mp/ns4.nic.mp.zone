@@ -244,8 +244,9 @@ audible.mp.		3600	IN	NS	PDNS3.ultradns.org.
 audible.mp.		3600	IN	NS	PDNS4.ultradns.org.
 audible.mp.		3600	IN	NS	PDNS5.ULTRADNS.INFO.
 audible.mp.		3600	IN	NS	PDNS6.ULTRADNS.CO.UK.
-authorizedcvvdumps.mp.	3600	IN	NS	kevin.ns.cloudflare.com.
-authorizedcvvdumps.mp.	3600	IN	NS	natasha.ns.cloudflare.com.
+authorizedcvvdumps.mp.	3600	IN	NS	ns1.cloudoon.com.
+authorizedcvvdumps.mp.	3600	IN	NS	ns2.cloudoon.net.
+authorizedcvvdumps.mp.	3600	IN	NS	ns3.cloudoon.org.
 autodiscover.mp.	3600	IN	NS	ns1.markmonitor.com.
 autodiscover.mp.	3600	IN	NS	ns3.markmonitor.com.
 avala.mp.		3600	IN	NS	charles.ns.cloudflare.com.
@@ -312,6 +313,8 @@ bclubl.mp.		3600	IN	NS	felicity.ns.cloudflare.com.
 bclubl.mp.		3600	IN	NS	sandra.ns.cloudflare.com.
 bclubmp.mp.		3600	IN	NS	amos.ns.cloudflare.com.
 bclubmp.mp.		3600	IN	NS	walk.ns.cloudflare.com.
+bclubs.mp.		3600	IN	NS	jule.ns.cloudflare.com.
+bclubs.mp.		3600	IN	NS	julian.ns.cloudflare.com.
 bclubst.mp.		3600	IN	NS	ns1.my-ns.com.
 bclubst.mp.		3600	IN	NS	ns2.my-ns.com.
 bclubt.mp.		3600	IN	NS	felicity.ns.cloudflare.com.
@@ -333,9 +336,8 @@ beclub.mp.		3600	IN	NS	meilani.ns.cloudflare.com.
 beclub.mp.		3600	IN	NS	terry.ns.cloudflare.com.
 bestcumdu.mp.		3600	IN	NS	NS1.101DOMAIN.com.
 bestcumdu.mp.		3600	IN	NS	NS2.101DOMAIN.com.
-bestcvvshop.mp.		3600	IN	NS	ns1.cloudoon.com.
-bestcvvshop.mp.		3600	IN	NS	ns2.cloudoon.net.
-bestcvvshop.mp.		3600	IN	NS	ns3.cloudoon.org.
+bestcvvshop.mp.		3600	IN	NS	adi.ns.cloudflare.com.
+bestcvvshop.mp.		3600	IN	NS	west.ns.cloudflare.com.
 bet365.mp.		3600	IN	NS	NS2.MARKMONITOR.com.
 bet365.mp.		3600	IN	NS	NS3.MARKMONITOR.com.
 bet365.mp.		3600	IN	NS	NS4.MARKMONITOR.com.
@@ -1306,8 +1308,9 @@ listerine.mp.		3600	IN	NS	ns01.kenvuedns.com.
 listerine.mp.		3600	IN	NS	ns02.kenvuedns.com.
 livecvvdumps.mp.	3600	IN	NS	kyle.ns.cloudflare.com.
 livecvvdumps.mp.	3600	IN	NS	ullis.ns.cloudflare.com.
-livecvvdumpshop.mp.	3600	IN	NS	adi.ns.cloudflare.com.
-livecvvdumpshop.mp.	3600	IN	NS	west.ns.cloudflare.com.
+livecvvdumpshop.mp.	3600	IN	NS	ns1.cloudoon.com.
+livecvvdumpshop.mp.	3600	IN	NS	ns2.cloudoon.net.
+livecvvdumpshop.mp.	3600	IN	NS	ns3.cloudoon.org.
 loli.mp.		3600	IN	NS	ns1.huaweicloud-dns.cn.
 loli.mp.		3600	IN	NS	ns1.huaweicloud-dns.com.
 loli.mp.		3600	IN	NS	ns1.huaweicloud-dns.net.
@@ -2013,6 +2016,8 @@ sunnycars.mp.		3600	IN	NS	c.ns14.net.
 sunnycars.mp.		3600	IN	NS	d.ns14.net.
 superpages.mp.		3600	IN	NS	ns.superpages.com.
 superpages.mp.		3600	IN	NS	ns1.superpages.com.
+survival.mp.		3600	IN	NS	elsa.ns.cloudflare.com.
+survival.mp.		3600	IN	NS	joel.ns.cloudflare.com.
 swoosh.mp.		3600	IN	NS	ns-v1.nike.com.
 swoosh.mp.		3600	IN	NS	ns-v2.nike.com.
 swoosh.mp.		3600	IN	NS	ns-v3.nike.com.
