@@ -244,8 +244,8 @@ audible.mp.		3600	IN	NS	PDNS3.ultradns.org.
 audible.mp.		3600	IN	NS	PDNS4.ultradns.org.
 audible.mp.		3600	IN	NS	PDNS5.ULTRADNS.INFO.
 audible.mp.		3600	IN	NS	PDNS6.ULTRADNS.CO.UK.
-authorizedcvvdumps.mp.	3600	IN	NS	adi.ns.cloudflare.com.
-authorizedcvvdumps.mp.	3600	IN	NS	west.ns.cloudflare.com.
+authorizedcvvdumps.mp.	3600	IN	NS	anderson.ns.cloudflare.com.
+authorizedcvvdumps.mp.	3600	IN	NS	elsa.ns.cloudflare.com.
 autodiscover.mp.	3600	IN	NS	ns1.markmonitor.com.
 autodiscover.mp.	3600	IN	NS	ns3.markmonitor.com.
 avala.mp.		3600	IN	NS	charles.ns.cloudflare.com.
@@ -874,6 +874,8 @@ freseniusmedicalcare.mp. 3600	IN	NS	NS3.MARKMONITOR.com.
 freseniusmedicalcare.mp. 3600	IN	NS	NS4.MARKMONITOR.com.
 freseniusmedicalcare.mp. 3600	IN	NS	NS5.MARKMONITOR.com.
 freseniusmedicalcare.mp. 3600	IN	NS	NS6.MARKMONITOR.com.
+freshcvvdumps.mp.	3600	IN	NS	adi.ns.cloudflare.com.
+freshcvvdumps.mp.	3600	IN	NS	west.ns.cloudflare.com.
 freshcvvshop.mp.	3600	IN	NS	adi.ns.cloudflare.com.
 freshcvvshop.mp.	3600	IN	NS	west.ns.cloudflare.com.
 fujitsu.mp.		3600	IN	NS	rns1.rightsdns.com.
@@ -1733,9 +1735,8 @@ post.mp.		3600	IN	NS	ns-15-a.gandi.net.
 post.mp.		3600	IN	NS	ns-79-c.gandi.net.
 ppcgroup.mp.		3600	IN	NS	dns1.papaki.gr.
 ppcgroup.mp.		3600	IN	NS	dns2.papaki.gr.
-premiumcvvdumps.mp.	3600	IN	NS	ns1.cloudoon.com.
-premiumcvvdumps.mp.	3600	IN	NS	ns2.cloudoon.net.
-premiumcvvdumps.mp.	3600	IN	NS	ns3.cloudoon.org.
+premiumcvvdumps.mp.	3600	IN	NS	adi.ns.cloudflare.com.
+premiumcvvdumps.mp.	3600	IN	NS	west.ns.cloudflare.com.
 primebroadband.mp.	3600	IN	NS	ns1.markmonitor.com.
 primebroadband.mp.	3600	IN	NS	ns3.markmonitor.com.
 primebroadband.mp.	3600	IN	NS	ns4.markmonitor.com.
@@ -2001,9 +2002,8 @@ storyj.mp.		3600	IN	NS	NICOLE.ns.cloudflare.com.
 strato.mp.		3600	IN	NS	dns-b1.cronon.de.
 strato.mp.		3600	IN	NS	dns-b2.cronon.de.
 strato.mp.		3600	IN	NS	dns-hh1.cronon.de.
-strongcvvdumps.mp.	3600	IN	NS	ns1.cloudoon.com.
-strongcvvdumps.mp.	3600	IN	NS	ns2.cloudoon.net.
-strongcvvdumps.mp.	3600	IN	NS	ns3.cloudoon.org.
+strongcvvdumps.mp.	3600	IN	NS	adi.ns.cloudflare.com.
+strongcvvdumps.mp.	3600	IN	NS	west.ns.cloudflare.com.
 stu.mp.			3600	IN	NS	ns-1505.awsdns-60.org.
 stu.mp.			3600	IN	NS	ns-1779.awsdns-30.co.uk.
 stu.mp.			3600	IN	NS	ns-366.awsdns-45.com.
