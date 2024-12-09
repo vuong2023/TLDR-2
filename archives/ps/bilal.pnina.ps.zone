@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024120807 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024120905 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1733662894"
+ps.			86400	IN	TXT	"Generation Time: 1733734899"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -3021,6 +3021,8 @@ bestbrass.ps.		86400	IN	NS	ns1.provision-servers.com.
 bestbrass.ps.		86400	IN	NS	ns2.provision-servers.com.
 bestbuy.ps.		86400	IN	NS	cdns1.hadara.ps.
 bestbuy.ps.		86400	IN	NS	cdns2.hadara.ps.
+bestconnect.ps.		86400	IN	NS	ns13.nepras.net.
+bestconnect.ps.		86400	IN	NS	ns14.nepras.net.
 bestlabel.ps.		86400	IN	NS	ns1.dns-parking.com.
 bestlabel.ps.		86400	IN	NS	ns2.dns-parking.com.
 bet365.ps.		86400	IN	NS	ns1.markmonitor.com.
@@ -13525,8 +13527,8 @@ ppag.ps.		86400	IN	NS	ns5.high-five.co.
 ppag.ps.		86400	IN	NS	ns6.high-five.co.
 ppan.ps.		86400	IN	NS	ns1.servconfig.com.
 ppan.ps.		86400	IN	NS	ns2.servconfig.com.
-ppc.ps.			86400	IN	NS	ns1.bluehost.com.
-ppc.ps.			86400	IN	NS	ns2.bluehost.com.
+ppc.ps.			86400	IN	NS	ns1.dns-parking.com.
+ppc.ps.			86400	IN	NS	ns2.dns-parking.com.
 ppc-plo.ps.		86400	IN	NS	dns3.anyservers.com.
 ppc-plo.ps.		86400	IN	NS	dns4.anyservers.com.
 ppcgroup.ps.		86400	IN	NS	dns1.papaki.gr.
@@ -18026,6 +18028,8 @@ wenak.ps.		86400	IN	NS	pat.ns.cloudflare.com.
 wenak.ps.		86400	IN	NS	logan.ns.cloudflare.com.
 weno.ps.		86400	IN	NS	dns1.p04.nsone.net.
 weno.ps.		86400	IN	NS	dns2.p04.nsone.net.
+wepro.ps.		86400	IN	NS	ns1.dns-parking.com.
+wepro.ps.		86400	IN	NS	ns2.dns-parking.com.
 weramallah.ps.		86400	IN	NS	nscp1.intertech-pal.com.
 weramallah.ps.		86400	IN	NS	nscp2.intertech-pal.com.
 werbung.ps.		86400	IN	NS	ns65.domaincontrol.com.
@@ -18656,4 +18660,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024120807 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024120905 86400 7200 3600000 172800
