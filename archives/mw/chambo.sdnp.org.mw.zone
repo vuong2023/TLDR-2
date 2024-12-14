@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1733990701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1734141901 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -533,11 +533,11 @@ bayobab.mw.		18000	IN	NS	ns2.lexsynergy.us.
 bayobab.mw.		18000	IN	NS	ns3.lexsynergy.info.
 bba.mw.			18000	IN	NS	pdns07.domaincontrol.com.
 bba.mw.			18000	IN	NS	pdns08.domaincontrol.com.
+bbonline.mw.		18000	IN	DS	40639 8 1 8C1DAE7C45D1D7D9F620FD595782929DD8520F6F
 bbonline.mw.		18000	IN	NS	ns1.bb-online.net.
 bbonline.mw.		18000	IN	NS	ns2.bb-online.org.
 bbonline.mw.		18000	IN	NS	ns3.bb-online.info.
 bbonline.mw.		18000	IN	NS	ns4.bb-online.biz.
-bbonline.mw.		18000	IN	DS	40639 8 1 8C1DAE7C45D1D7D9F620FD595782929DD8520F6F
 bbva.mw.		18000	IN	NS	a1-166.akam.net.
 bbva.mw.		18000	IN	NS	a3-66.akam.net.
 bbva.mw.		18000	IN	NS	a4-67.akam.net.
@@ -1339,6 +1339,8 @@ dreambingo.mw.		18000	IN	NS	ns2.instradns.com.
 dreams.mw.		18000	IN	NS	ns1.lexsynergy.net.
 dreams.mw.		18000	IN	NS	ns2.lexsynergy.us.
 dreams.mw.		18000	IN	NS	ns3.lexsynergy.info.
+drmp.mw.		18000	IN	NS	dns1.houstoncreativemw.com.
+drmp.mw.		18000	IN	NS	dns2.houstoncreativemw.com.
 drsh.mw.		18000	IN	NS	matawale.unima.ac.mw.
 drsh.mw.		18000	IN	NS	ns1.maren.ac.mw.
 drsh.mw.		18000	IN	NS	ns2.maren.ac.mw.
@@ -3156,6 +3158,8 @@ morecast.mw.		18000	IN	NS	ns4.markmonitor.com.
 morecast.mw.		18000	IN	NS	ns5.markmonitor.com.
 morecast.mw.		18000	IN	NS	ns6.markmonitor.com.
 morecast.mw.		18000	IN	NS	ns7.markmonitor.com.
+morespace.mw.		18000	IN	NS	ns1.cloud-35538c.managed-vps.net.
+morespace.mw.		18000	IN	NS	ns2.cloud-35538c.managed-vps.net.
 moringaacres.mw.	18000	IN	NS	ns1.inmotionhosting.com.
 moringaacres.mw.	18000	IN	NS	ns2.inmotionhosting.com.
 mot-mobility.mw.	18000	IN	NS	ns1.motorolamobility.com.
@@ -4338,11 +4342,8 @@ sportsdirect.mw.	18000	IN	NS	ns6.netnames.net.
 sportybet.mw.		18000	IN	NS	ns1.lexsynergy.net.
 sportybet.mw.		18000	IN	NS	ns2.lexsynergy.us.
 sportybet.mw.		18000	IN	NS	ns3.lexsynergy.info.
-sprint.mw.		18000	IN	NS	ns1-auth.sprintlink.net.
-sprint.mw.		18000	IN	NS	ns2-auth.sprintlink.net.
-sprint.mw.		18000	IN	NS	ns3-auth.sprintlink.net.
-sprint.mw.		18000	IN	NS	reston-ns1.telemail.net.
-sprint.mw.		18000	IN	NS	reston-ns3.telemail.net.
+sprint.mw.		18000	IN	NS	dns1.cscdns.net.
+sprint.mw.		18000	IN	NS	dns2.cscdns.net.
 sputnik-car-hire.mw.	18000	IN	NS	ns17.securenet-server.net.
 sputnik-car-hire.mw.	18000	IN	NS	ns18.securenet-server.net.
 srwb.mw.		18000	IN	NS	ns1.mtlonline.mw.
@@ -5124,4 +5125,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1733990701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1734141901 1800 600 604800 1800
