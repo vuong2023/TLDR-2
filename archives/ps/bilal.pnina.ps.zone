@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024121406 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024121408 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1734174100"
+ps.			86400	IN	TXT	"Generation Time: 1734188505"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -9984,8 +9984,8 @@ mars.ps.		86400	IN	NS	ns-336.awsdns-42.com.
 mars.ps.		86400	IN	NS	ns-822.awsdns-38.net.
 mars.ps.		86400	IN	NS	ns-1059.awsdns-04.org.
 mars.ps.		86400	IN	NS	ns-1662.awsdns-15.co.uk.
-marshal.ps.		86400	IN	NS	gail.ns.cloudflare.com.
-marshal.ps.		86400	IN	NS	norm.ns.cloudflare.com.
+marshal.ps.		86400	IN	NS	maria.ns.cloudflare.com.
+marshal.ps.		86400	IN	NS	randy.ns.cloudflare.com.
 marshmallow.ps.		86400	IN	NS	ns1-cat.dl-cms.com.
 marshmallow.ps.		86400	IN	NS	ns2-cat.dl-cms.com.
 mart.ps.		86400	IN	NS	ns-497.awsdns-62.com.
@@ -18195,6 +18195,8 @@ work.ps.		86400	IN	NS	ns21.domaincontrol.com.
 work.ps.		86400	IN	NS	ns22.domaincontrol.com.
 workerco.ps.		86400	IN	NS	cdns1.hadara.ps.
 workerco.ps.		86400	IN	NS	cdns2.hadara.ps.
+works.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+works.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 workspace.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 workspace.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 worldcup.ps.		86400	IN	NS	ns.palnet.com.
@@ -18677,4 +18679,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024121406 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024121408 86400 7200 3600000 172800
