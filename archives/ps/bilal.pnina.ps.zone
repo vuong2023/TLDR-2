@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024121610 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024121706 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1734375704"
+ps.			86400	IN	TXT	"Generation Time: 1734433304"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -1340,8 +1340,6 @@ almatal.ps.		86400	IN	NS	pdns11.domaincontrol.com.
 almatal.ps.		86400	IN	NS	pdns12.domaincontrol.com.
 almatjar.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 almatjar.ps.		86400	IN	NS	ns2.injazatcloud.ps.
-almatjur.ps.		86400	IN	NS	nscp5.mada.ps.
-almatjur.ps.		86400	IN	NS	nscp6.mada.ps.
 almawarid.ps.		86400	IN	NS	nsp10.mada.ps.
 almawarid.ps.		86400	IN	NS	nss10.mada.ps.
 almehwar.ps.		86400	IN	NS	cdns1.hadara.ps.
@@ -3176,6 +3174,8 @@ birkenstock.ps.		86400	IN	NS	c.ns14.net.
 birkenstock.ps.		86400	IN	NS	d.ns14.net.
 birnabalatiles.ps.	86400	IN	NS	desi.ns.cloudflare.com.
 birnabalatiles.ps.	86400	IN	NS	norm.ns.cloudflare.com.
+birthrightpalestine.ps.	86400	IN	NS	ns1.injazatcloud.ps.
+birthrightpalestine.ps.	86400	IN	NS	ns2.injazatcloud.ps.
 birzeit.ps.		86400	IN	NS	ns.birzeit.edu.
 birzeit.ps.		86400	IN	NS	ns1.birzeit.edu.
 birzeit.ps.		86400	IN	NS	ns2.birzeit.edu.
@@ -6938,8 +6938,7 @@ gotech.ps.		86400	IN	NS	ines.ns.cloudflare.com.
 gotech.ps.		86400	IN	NS	norm.ns.cloudflare.com.
 goto.ps.		86400	IN	NS	ns1.instradns.com.
 goto.ps.		86400	IN	NS	ns2.instradns.com.
-gov.ps.			86400	IN	NS	ns1.palgov.net.
-gov.ps.			86400	IN	NS	ns2.palgov.net.
+gov.ps.			86400	IN	NS	ns1.pal-gov.net.
 gov.ps.			86400	IN	NS	dns3.gov.ps.
 gov.ps.			86400	IN	NS	dns4.pna.ps.
 gov.ps.			86400	IN	NS	dns5.gov.ps.
@@ -9997,6 +9996,8 @@ marlboro.ps.		86400	IN	NS	ns4.markmonitor.com.
 marlboro.ps.		86400	IN	NS	ns5.markmonitor.com.
 marlboro.ps.		86400	IN	NS	ns6.markmonitor.com.
 marlboro.ps.		86400	IN	NS	ns7.markmonitor.com.
+marlito.ps.		86400	IN	NS	ns4.pnina.ps.
+marlito.ps.		86400	IN	NS	ns5.pnina.ps.
 maroof.ps.		86400	IN	NS	oswald.ns.cloudflare.com.
 maroof.ps.		86400	IN	NS	melinda.ns.cloudflare.com.
 mars.ps.		86400	IN	NS	ns-336.awsdns-42.com.
@@ -10155,9 +10156,8 @@ matt.ps.		86400	IN	NS	ns6.markmonitor.com.
 matt.ps.		86400	IN	NS	ns7.markmonitor.com.
 mattphili.ps.		86400	IN	NS	ns1.101domain.com.
 mattphili.ps.		86400	IN	NS	ns2.101domain.com.
-matura-home.ps.		86400	IN	NS	ns01.trademarkarea.com.
-matura-home.ps.		86400	IN	NS	ns02.trademarkarea.com.
-matura-home.ps.		86400	IN	NS	ns03.trademarkarea.com.
+matura-home.ps.		86400	IN	NS	ns1.matura-home.com.
+matura-home.ps.		86400	IN	NS	ns2.matura-home.com.
 mavenclad.ps.		86400	IN	NS	ns1.brandshelter.com.
 mavenclad.ps.		86400	IN	NS	ns2.brandshelter.de.
 mavenclad.ps.		86400	IN	NS	ns3.brandshelter.info.
@@ -10911,6 +10911,9 @@ mop.ps.			86400	IN	NS	ns1.gov.ps.
 mop.ps.			86400	IN	NS	ns1.palgov.net.
 mop.ps.			86400	IN	NS	ns2.palgov.net.
 mop.ps.			86400	IN	NS	dns1.gov.ps.
+mopwh.ps.		86400	IN	NS	dns3.gov.ps.
+mopwh.ps.		86400	IN	NS	dns4.pna.ps.
+mopwh.ps.		86400	IN	NS	dns5.gov.ps.
 moqawmh.ps.		86400	IN	NS	ns1.barqit.com.
 moqawmh.ps.		86400	IN	NS	ns2.barqit.com.
 morad.ps.		86400	IN	NS	ns.paltel.net.
@@ -16879,8 +16882,6 @@ thelounge.ps.		86400	IN	NS	hosting01.mada.ps.
 thelounge.ps.		86400	IN	NS	hosting02.mada.ps.
 theminers.ps.		86400	IN	NS	dawn.ns.cloudflare.com.
 theminers.ps.		86400	IN	NS	gerald.ns.cloudflare.com.
-themob.ps.		86400	IN	NS	ns1.injazatcloud.ps.
-themob.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 thepjplace.ps.		86400	IN	NS	dns1.cscdns.net.
 thepjplace.ps.		86400	IN	NS	dns2.cscdns.net.
 therightnowclimatefund.ps. 86400 IN	NS	nsgbr.comlaude.co.uk.
@@ -17038,6 +17039,9 @@ toolong.ps.		86400	IN	NS	ns1-cat.dl-cms.com.
 toolong.ps.		86400	IN	NS	ns2-cat.dl-cms.com.
 topcar.ps.		86400	IN	NS	ns1.dns-parking.com.
 topcar.ps.		86400	IN	NS	ns2.dns-parking.com.
+topcl.ps.		86400	IN	NS	ns1.sederhost.com.
+topcl.ps.		86400	IN	NS	ns2.sederhost.com.
+topcl.ps.		86400	IN	NS	ns3.sederhost.com.
 topclean.ps.		86400	IN	NS	arely.ns.cloudflare.com.
 topclean.ps.		86400	IN	NS	justin.ns.cloudflare.com.
 topdrink.ps.		86400	IN	NS	ns1.ideaeps.com.
@@ -18707,4 +18711,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024121610 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024121706 86400 7200 3600000 172800
