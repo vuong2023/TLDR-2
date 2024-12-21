@@ -1,5 +1,5 @@
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024122118 120 3600 604800 10800
-xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20250120024437 20241221014437 15315 xn--54b7fta0cc. V0n4kE/m8Chg6Tu/c8lA0ApaLKSlQyvnW0DgTmglQlGzvaTU6r51UlaG 5bqGHK+gcor7NZ5Uq/Yyo5nTRKJVqUWg4IsepcMuyweKL2NAHn9zquu9 FAds6AnWtQjTCwCmrwREfQkqn/+t7A+ZdBdkUSPWhxxeJs+L6CvTdUba 350=
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024122119 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20250120031503 20241221021503 15315 xn--54b7fta0cc. ovIgFVKrwKgUmQ6NFfdhISWfv3j2jdZXSrCI5AmxwJZO+KtQply+dfDW Lt2Sf48LX7Y9EPMTNEZpe3uEuS0XcP9iQoztfwSC3w2oIMQcBqKQAAwq R2gLQawi+drde4vIlXayZCVwTL3+Eox9XrKGLzXnyiokRuYaXqPUHWVk na4=
 xn--54b7fta0cc.		10800	IN	NS	ekushey.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	bd-ns.anycast.pch.net.
@@ -1222,4 +1222,4 @@ xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20250115223021 2024
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NSEC	xn--54b7fta0cc. NS RRSIG NSEC
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NS	ns1.exonhost.com.
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NS	ns2.exonhost.com.
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024122118 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024122119 120 3600 604800 10800
