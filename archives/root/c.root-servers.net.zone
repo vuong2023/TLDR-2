@@ -1,3 +1,6 @@
+;; Connection to 192.33.4.12#53(192.33.4.12) for . failed: timed out.
+;; no servers could be reached
+
 .			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025010201 1800 900 604800 86400
 .			86400	IN	RRSIG	SOA 8 0 86400 20250115170000 20250102160000 26470 . OhPxZjFoQpjF3R8J2V5OUjiamlmzsS4MKY5kzHQ63/OFRwdF2qbS67kH IDMFfTViB2wrCM2Fzq3ssUWMpnvWONv7PFNd6a0as1zR43hma+Hi8+Pj z7Y8jr/VtPslcJuDl3gIBuZCtVOt2VA5LXA7oznO1w3LHioRlcIkPbjH YBvLVrXHK190onRx7JfYjoOOYUHJ4lKHlgpssRA7CfMRdJFfhGlzLo8U HYZ+zMCi47FEjO81HZ45W0zvOjfwoKEM7QK4qwdzMbY78WE3D7DcDQdG luuqIiKtg4xJtpaZBPRxqCSrW3Dq83lfrLjCy7lCaH94EccdMh8BBJ7C KJPC7w==
 .			518400	IN	NS	a.root-servers.net.
