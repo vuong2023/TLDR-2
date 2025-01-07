@@ -1,4 +1,4 @@
-fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2025010711 21600 3600 1209600 3600
+fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2025010717 21600 3600 1209600 3600
 fj.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250210024440 20241231224425 17100 fj. lKteIKkZHja/b6GWv+dxGDfkXbYc850F2KeyRSYZEHJXDNOHkTUKyRQX Sbhjcd3bSrqcz+7onFtq9sPwIzVGoraJVrRpQmzCWxD/6dge0ZIoWYb+ U4vrMv8mp0kg2stUWoBVswl66tbqtHOR+1gW5gt3rRKe2zQ5PwSN1JqQ CLD7dizh+MbCirxot/74ZWbo1EaxhmL9nEGRxvVWifAdyynWpwj+06Z+ xthv+EzQk4jX63Fe5kdVvBoE2jbKDamoAKayv7ahc7MGMqjvvX8tZZqU XI7HBC1zm2KNCVYcVyOgWQrUjdwlpSBWX5Z1HgQp4CI0o/BZoTe5k4AJ POae1Q==
 fj.			0	IN	NSEC3PARAM 1 0 5 0E12C2BDFDFA4F06
 fj.			86400	IN	RRSIG	NS 8 1 86400 20250207132236 20241229030133 17100 fj. Jo2FhVU3wk4b9OwhJ5q2mpVn5wOs+D3/VOiU0VrQZAGxGxJTNx8tSKDZ fxaIwtvJwGzssSr1FG15Nt5hrX71hDCanug9vyCz4lwQMqF4hc2dEIwg c6zna81crqxEI87lPlevmG/pUrgbCHPffHSQz+LZw4A9xmKUU5VhToqy 6TaV7yeFAK9oaiQUAawKmxP8QlInAuWkUzdOVarjeZMwlgEV5tcv3yoA t2AD6ThgCRQewa9byLUWvZbzgoN0FjTgEODGNFEJdJyGeM8aSuvPve64 WdeIRu8ckN54m7UqmnkEY4H59xJPUErIZOej0V/EyS4q/MMxcgkqtZGv RuZ1Gg==
@@ -7,14 +7,14 @@ fj.			86400	IN	NS	ns2.fj.
 fj.			86400	IN	NS	ns3.fj.
 fj.			86400	IN	NS	ns4.fj.
 fj.			86400	IN	NS	ns5.fj.
-fj.			86400	IN	RRSIG	TXT 8 1 86400 20250215115342 20250106200139 17100 fj. oIA73LnVWIomCMe8YET4RjoINoXsdoPloLnXzzZycM7inYYaVRWq0np4 jtQd/CozijlKtONtBrdMzi27V150yzAFCYFMQ/qyybAv+IjMZk1IAkTI 1zkS4tP+Es82zRtpS+MqVv8ORETVEEIHUt52dKeqplP7ZE3SZjzbjdJB 10A92ZWBPigyhfl3Hmvp+SVhDWCzUtO91Br5bVoWZo9Unm7QJd+QcVOe 0zews8evvrnMNgflkkoh2zdQqovFTZxD8MkjcnnHzpTuXc+HfQq23P08 Aikw2uaeQCaeRX+Z/VX6/F3YnMxTcyXoH529rD3VNWWtT1/C2/AmHSFY y/YBdQ==
-fj.			86400	IN	TXT	"Generation Time: 1736197271"
+fj.			86400	IN	RRSIG	TXT 8 1 86400 20250215160947 20250107020138 17100 fj. MbB9n2d/qKwK78Uqcos5K8TvaJu5zT6sl66PlriD6aID+3Z1o+tFYfTI Sm7kOXFkoVtXes+kbo2JsmH9oOhlWPEke2BaK8MQa+s2KcQbfWJV0+9B rCD/wXKhaJFANO13bLwJ9f30ncLme7l4QkVXdxxtNi9rKUd/3sax4DiM u4P2y3wWRjrNb8sRK52OsktBTfYhPs17TDmrlMUURawQvLgPvbbHxTsb O9nd3OKnHY+RXMsoLo5/fBG6O/SjydMAd6strZJzBDSIrJSQcIrNPphd /GGCVRqECz0TLLPH7fOS0F5kKiVBi6KWzGsEWwCPK0EVhI1b+RDqu16Y uK7seA==
+fj.			86400	IN	TXT	"Generation Time: 1736218861"
 fj.			3600	IN	RRSIG	DNSKEY 8 1 3600 20250216020551 20250106150129 49279 fj. CICVWfvD7s0zJm3u5jHvAAZ7ku2mHaMkgk9vxJJXjLylL95YNmXAJTxQ 18mlfFkAsARXs6+wKH2trE891vK4zGFcJ68x1os/U4z6aA1lKa1oFRP8 3jLnhTghCN1zU5fuLYVu2RWlSfR8skzXTL0qmHBnpJkyiHFW+WXAK9gZ Etp39+h39YWWkUJP/kOC54frKrcf11fgJau24G3Aa56rYF6zy8caZyIH Jo81v0Cl7I1ebpGnqARCiv3lXjAg2lS1X0GINwWpVbDy8DrBa8pdCPdi PHrJ9WuZCzL80mhi8Ds9TNYNQcbFq54uQaoo5Xgb8cXJ0sSmHXsrV43Y Pfe9mQ==
 fj.			3600	IN	DNSKEY	256 3 8 AwEAAdr/z0GoQpnCqJ71UzsBkRu4bH5lgAmBUzGhheZzhq7y2PNf8I5L lDwkSev97SkLIioZPR5XIiLCBjl1AAE3fivfXVIrJrfqMN1vqmxBEmgN uibuC2WMGCNuW9QLdKHoMuG084yRvu1agnDQ9T4wcQ1Wbg7Zwfpc29ZN Xzo6flBH0opt+ySOY35Yi9RnHT5LVhC8TmKKJkGKHFyK6HsbyRDSsKZc 6EPj+K8ULx8YLQjBhUJ9/1Qk1WTnBFGZ/zfduqbyUoPj36rCzpqugSQl +cH39tpcvU6JvD6r8TwsYt7rM2y1iaFnTOCOmIP7XylbUcOssQdpfjRg zJeHg6YPm68=
 fj.			3600	IN	DNSKEY	257 3 8 AwEAAd5+bZuFhphp9ajeKLHuED5eIa/5iMhjWJB59zlVl+aJItwdmyTX oKxz0MK0+cSinHK2ktA3kNS+yy0JmJ/m7ioKSVo9K9JLpmcq/JGJbnVQ b5f/xGgZ5r0cU6DdcV2ntQyNtzuEnDFXsrAFfR8grDc+H/rliiYXe2ev UM00XQ3YvDkDGdakQ9FcDwjpXEZ0TmI40MId8ha4MWdGo3gZFcqCH5nc iEEQpeq+Gi+eVT48Y9YTtt4CFnrORkGN6k0Ii2bcaLnRUB0qSJFdAnhm 5A7HDOO9xMrXzfBZ40SZmiTrTax8pKUw59ar1UgUF/1bf+fzoZ2QCVqm U+r8YZgc0TE=
-fj.			3600	IN	RRSIG	SOA 8 1 3600 20250215122841 20250106200139 17100 fj. Vc2BpbZi15dwt6+rUQk13dLu/aGqbJivrGyJqMzbwoYkqby/7BSQNcBA Oyb0F6BrtdIMaftX4wQw8pH0ExUCf7aEp5rAok997gbAm3K92bAkL9y8 4He5LJUWGOdlVnFM08G7sJwitNuwshFnNEaSoRbZ3gDV+32UBG3xMnha eEMKmCEBbII78sa6DQ8HXbFKj4iJD20eV4/MyKmrzZ5wPcKTwBdSG66/ zfHNPrwOHGgbu6sVNlVtVfrqSTjChuVE0q3fHwcuuQdqEV6mqo0NeBWN 9awDUKla2Ga4RriYVQIgoGpPHvmRjWBrQH/a63E1utOszJbA0/eu7Xqx 60xV0A==
-ac.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250215133131 20250106200139 17100 fj. Fm3Om9aGFfGhetLKtdRgf4FDf+21fl3fNDfsSyDEiYq1wTmSm+wHMuRS MwPWz+shttXJXSxbEK2gN5zXS7Vc2JPTPMfD5Ovajfk7C8J5rCDpCWxZ tRrSLuY8DKhstut6vpgQcdyOPzU/s4PsmxOks1DeeyCs/aUOGKvYnFqm 1h6tPQHZO4G+3woIeLoDx+b5W6dS0iVtVzxAUwBqh0llris19fw4vb9q LziNgBrAQZGp4XJhMP84mBLocJ/2T2AoOvjNCGlsV7BFD1hOK+XZ4pTe 9jJO+l8SUd8pIQCah/aOCgkFHnyc1bNrItmovYZhZ1l9RTHydSmn8KOB goh+QQ==
-ac.fj.			86400	IN	TXT	"Generation Time: 1736197271"
+fj.			3600	IN	RRSIG	SOA 8 1 3600 20250215201346 20250107020138 17100 fj. JW9IWJYt3CvLikmruPXsx4VcYtE0P9aflnhAMRWZPPEFE6D5uxfyTKZq 8rKSlCjYu5VbrznX860SomRUYlsvqN9j2Lbh+JjcJoZvKU3Wzj8Q/msH xwghVFDrqvouQVn1kKsHMEb9d+Bo+MsdJaDYacUF8e9hAw2/na8Q29u8 xi5NXyOdroh0p9miEKWfySZGLV9IXM4pl+vyPlLpuEvxEsanWQxPEx55 jTo/3Bbqv7hkGWwPh5huhMw5GToO7cNO50lDIuUhMcH+M5Zvi8u/jjew TcJid3wpuL5bvbk7d31M1lbsh7Rw18yJXkzp/zRMWKUH/qGFTAko7PWM nccdcQ==
+ac.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250215183719 20250107020138 17100 fj. zU9Q+/V1uFeyGEmsSkdpFtn/yDf6XK+U/uCabZlLkOVrBtOBNTVtEl2l ZJQzt3qrtQW9zrb2YVd1zcaWHTH1/sYH0fcZafVdZBdUUVcjrVvE9n0f OcEPyAKkGpBRuBEd9OvHJRtujNjom8eIy6PFVZEzy9/1CMLvPlKS58Er JW9cLHL416W6JMDon//jP2X3M2gzNwV9z3da5xeZvc+2WM2oO3iYBuY8 5FytTcOjC3mLUrNEOX6Tcx2u/817Hp9QCPzhgF/92my0/HnPtrGZYfMI DfaC9fFOl/3YO45O1iBZ1MbQp5FHhKNRu+kAMzr2+WUoCqCKf4ued1/c DuUy2g==
+ac.fj.			86400	IN	TXT	"Generation Time: 1736218861"
 adpatelcollege.ac.fj.	86400	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	86400	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	86400	IN	NS	ns1.101domain.com.
@@ -104,8 +104,8 @@ votualevucollege.ac.fj.	86400	IN	NS	ivan.ns.cloudflare.com.
 votualevucollege.ac.fj.	86400	IN	NS	aryanna.ns.cloudflare.com.
 whi.ac.fj.		86400	IN	NS	drua.tfl.com.fj.
 whi.ac.fj.		86400	IN	NS	tabua.tfl.com.fj.
-biz.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250215151014 20250106200139 17100 fj. MGl+kGlsNLu/12EbVWkg0n3GalGl5pm13hoCo5pVJW42KPalHD/9WCyr dvS+2Dq9VhjTM8VtWAO4sK9oYV5PEb4Jd9/uJBPnSnui0C0svSHfy4AS YNwn15WpEuIhbFqThNgX3rN2pXBbErlQ2BSifpiFkcx/VYrt15HusUph 1lOGfrhV6cWwD5f+iIgV4+kKN6DZN90/6hmP0AtCAmHGsdh0lefr4ywC FIf2LNeIL1w+59eLJpYij5Gqe6EGN9PksfTEEe8deTiY/nvJ6TFJBMSd juS07lmn16l4orehSTAQ7vE6RUR094z5ddi9wMzAbQhwTrj6arFNR4W/ x5Khug==
-biz.fj.			86400	IN	TXT	"Generation Time: 1736197271"
+biz.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250216121012 20250107020138 17100 fj. KsK67IGS2/A5YcsxzAupyj6yPXo+3LztYwNpazCGUHcCbvjJIDP1sWA1 D52wZ3uUV6OjHIQF0GoGRUnYIYubtth9el39ihBb05m9hFvEAxrxxL81 BCLI1droGLl4+GhnH36C0MJlkDimKuvxyOE+IFI4DnkRIYVhUrEbk/kF tMUYQB2/wHnh9TNds+JIOdtnSZyEnq1gUe75Uu5EXOA+3yV/KWB05ujg zvz13ro09HdmTM95k3ZqHHn2Rox67Gjvr8eNZ+mHxNRjaywGGdD9OBrL i9Cb3hucZ91JuM7pj9LViVBKuUkNeAom2xqf9r4Qd5eiEjbl5LbNoYRx 72Wd7w==
+biz.fj.			86400	IN	TXT	"Generation Time: 1736218862"
 altria.biz.fj.		86400	IN	NS	dns1.cscdns.net.
 altria.biz.fj.		86400	IN	NS	dns2.cscdns.net.
 brother.biz.fj.		86400	IN	NS	ns1.ipmirror.com.
@@ -139,8 +139,8 @@ vodafone.biz.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodafone.biz.fj.	86400	IN	NS	ns2.vodafone.net.fj.
 vodaphone.biz.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodaphone.biz.fj.	86400	IN	NS	ns2.vodafone.net.fj.
-com.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250215232131 20250106200139 17100 fj. lnxmVZSuWqJTSnUuXSdJcE5INflCUoNmzOEwF0jLbgDPnWzk50AOP4Pi 0cHaMbFw85Vq7Z7SyHKmQgPLJZ9WLcTlqQWHQR3V5aOl0I9fm15P3L3r mDAkYexjpoMb9btGcn89i83iT0SolGqqWJGvYAvPhcqdg2CB5Q5TV63N +Dij5U9FXL1nfryUJBOlpwrQXtkweHftV+MixPvCaHb4XcD6Eg9DxFVX kGhYK9cRCfAthmalWsSZXsdRjVLhZOBGcltUT/Qc3HR27YncLuUM+O/i fLJX0jHJpE1SFSQczWDJ7VEfmpakYR9endjthsWFIU5wsaE6GLU0xM4F EzRFwQ==
-com.fj.			86400	IN	TXT	"Generation Time: 1736197296"
+com.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250216051137 20250107020138 17100 fj. RZoPW07wuD4NFifhlWCiS0TgwpnPQxZ2t7hN3IXHupX9Zm3sBnJmmI5j Ze8SsKSx/m5LjAi2AUatgVekx27Ywflw1x6bV0EdWLUrTbcsitZyNmFS pPv4R3m++pEdgNR/Ynk4FaugpdbvjFtctMRAyVKoms/b08MyuVs1PvNj I2jL9O5MCOQLAyBUF3+is0qe4BIne5vs/xSAwIlXTf94GvqyO0/+kZLb wIv2XQ/RfXREXzt+66ZFONUwFOhf+0aNze7KIyBipMLXmKE7cPVS9NoK oYrmn/uaEn+9h8p3/w8zrdEIUzC4nC3h1lNR+GoO/MMp4OgYchzWu78y GP7Biw==
+com.fj.			86400	IN	TXT	"Generation Time: 1736218894"
 101domain.com.fj.	86400	IN	NS	ns1.101domain.com.
 101domain.com.fj.	86400	IN	NS	ns2.101domain.com.
 101domains.com.fj.	86400	IN	NS	ns1.101domain.com.
@@ -165,6 +165,8 @@ com.fj.			86400	IN	TXT	"Generation Time: 1736197296"
 3mcompany.com.fj.	86400	IN	NS	b.ns.3m.com.
 3rivers.com.fj.		86400	IN	NS	caching01.usp.ac.fj.
 3rivers.com.fj.		86400	IN	NS	caching02.usp.ac.fj.
+3sacarpet.com.fj.	86400	IN	NS	ns1.webhost4life.com.
+3sacarpet.com.fj.	86400	IN	NS	ns2.webhost4life.com.
 3xvifiji.com.fj.	86400	IN	NS	ns1.bluehost.com.
 3xvifiji.com.fj.	86400	IN	NS	ns2.bluehost.com.
 480travel.com.fj.	86400	IN	NS	drua.tfl.com.fj.
@@ -785,6 +787,8 @@ bluetti.com.fj.		86400	IN	NS	dns1.stabletransit.com.
 bluetti.com.fj.		86400	IN	NS	dns2.stabletransit.com.
 blush.com.fj.		86400	IN	NS	manu.usp.ac.fj.
 blush.com.fj.		86400	IN	NS	teri.usp.ac.fj.
+bmpatel.com.fj.		86400	IN	NS	ns1.bluehost.com.
+bmpatel.com.fj.		86400	IN	NS	ns2.bluehost.com.
 bmw.com.fj.		86400	IN	NS	dns1.cscdns.net.
 bmw.com.fj.		86400	IN	NS	dns2.cscdns.net.
 boc.com.fj.		86400	IN	NS	udns1.cscdns.net.
@@ -968,6 +972,10 @@ canva.com.fj.		86400	IN	NS	ns1.instradns.com.
 canva.com.fj.		86400	IN	NS	ns2.instradns.com.
 canva.com.fj.		86400	IN	NS	ns-190-a.gandi.net.
 canva.com.fj.		86400	IN	NS	ns-228-b.gandi.net.
+capitalhill.com.fj.	86400	IN	NS	dns1.stabletransit.com.
+capitalhill.com.fj.	86400	IN	NS	dns2.stabletransit.com.
+capitalhillapartments.com.fj. 86400 IN	NS	dns1.stabletransit.com.
+capitalhillapartments.com.fj. 86400 IN	NS	dns2.stabletransit.com.
 capitalvalves.com.fj.	86400	IN	NS	ns1.hostingfiji.com.
 capitalvalves.com.fj.	86400	IN	NS	ns2.hostingfiji.com.
 captaincook.com.fj.	86400	IN	NS	ns1.bdm.microsoftonline.com.
@@ -1233,6 +1241,8 @@ colormarket.com.fj.	86400	IN	NS	ns100.webhostingbuzz.com.
 colormarket.com.fj.	86400	IN	NS	ns101.webhostingbuzz.com.
 comforpedic.com.fj.	86400	IN	NS	ns1.ipmanagerinc.net.
 comforpedic.com.fj.	86400	IN	NS	ns2.ipmanagerinc.net.
+comfortgroup.com.fj.	86400	IN	NS	caching01.usp.ac.fj.
+comfortgroup.com.fj.	86400	IN	NS	caching02.usp.ac.fj.
 comforthotel.com.fj.	86400	IN	NS	udns1.cscdns.net.
 comforthotel.com.fj.	86400	IN	NS	udns2.cscdns.uk.
 comfortinn.com.fj.	86400	IN	NS	udns1.cscdns.net.
@@ -1579,6 +1589,8 @@ eafl.com.fj.		86400	IN	NS	dns1.name-services.com.
 eafl.com.fj.		86400	IN	NS	dns2.name-services.com.
 eaglecleaning.com.fj.	86400	IN	NS	ns1.auserver.com.au.
 eaglecleaning.com.fj.	86400	IN	NS	ns2.auserver.com.au.
+eagleprintery.com.fj.	86400	IN	NS	drua.tfl.com.fj.
+eagleprintery.com.fj.	86400	IN	NS	tfl.com.fj.
 eastman.com.fj.		86400	IN	NS	ns1.eastman.com.
 eastman.com.fj.		86400	IN	NS	ns2.eastman.com.
 eastman.com.fj.		86400	IN	NS	ns3.eastman.com.
@@ -1869,6 +1881,8 @@ fastflow.com.fj.	86400	IN	NS	ns3.bulahost.com.
 fastflow.com.fj.	86400	IN	NS	ns4.bulahost.com.
 fbc.com.fj.		86400	IN	NS	dns1.streamcom.net.
 fbc.com.fj.		86400	IN	NS	dns2.streamcom.net.
+fbc.com.fj.		86400	IN	NS	bayan.ns.cloudflare.com.
+fbc.com.fj.		86400	IN	NS	robin.ns.cloudflare.com.
 fbcl.com.fj.		86400	IN	NS	dns1.streamcom.net.
 fbcl.com.fj.		86400	IN	NS	dns2.streamcom.net.
 fbcnews.com.fj.		86400	IN	NS	bayan.ns.cloudflare.com.
@@ -2254,6 +2268,8 @@ fptl.com.fj.		86400	IN	NS	ns3.wixdns.net.
 fptl.com.fj.		86400	IN	NS	fijiportsterminal.com.
 frca.com.fj.		86400	IN	NS	ns1.siteground.net.
 frca.com.fj.		86400	IN	NS	ns2.siteground.net.
+freedomfones.com.fj.	86400	IN	NS	drua.tfl.com.fj.
+freedomfones.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
 freightline.com.fj.	86400	IN	NS	ns27.domaincontrol.com.
 freightline.com.fj.	86400	IN	NS	ns28.domaincontrol.com.
 freseniusmedicalcare.com.fj. 86400 IN	NS	ns1.markmonitor.com.
@@ -2445,6 +2461,8 @@ golocalfiji.com.fj.	86400	IN	NS	ns1.delphinus.net.au.
 golocalfiji.com.fj.	86400	IN	NS	ns2.delphinus.net.au.
 google.com.fj.		86400	IN	NS	ns1.google.com.
 google.com.fj.		86400	IN	NS	ns2.google.com.
+gorentacar.com.fj.	86400	IN	NS	ns1.bluehost.com.
+gorentacar.com.fj.	86400	IN	NS	ns2.bluehost.com.
 gosais.com.fj.		86400	IN	NS	ns47.domaincontrol.com.
 gosais.com.fj.		86400	IN	NS	ns48.domaincontrol.com.
 gosg.com.fj.		86400	IN	NS	ns101.cloudns.net.
@@ -2796,6 +2814,8 @@ ifl.com.fj.		86400	IN	NS	ns1.bluehost.com.
 ifl.com.fj.		86400	IN	NS	ns2.bluehost.com.
 ig.com.fj.		86400	IN	NS	ns1.lovellsnames.org.
 ig.com.fj.		86400	IN	NS	ns2.lovellsnames.org.
+igm.com.fj.		86400	IN	NS	ns1.vodafone.net.fj.
+igm.com.fj.		86400	IN	NS	ns2.vodafone.net.fj.
 ihg.com.fj.		86400	IN	NS	ns1.markmonitor.com.
 ihg.com.fj.		86400	IN	NS	ns2.markmonitor.com.
 ihg.com.fj.		86400	IN	NS	ns3.markmonitor.com.
@@ -3326,6 +3346,8 @@ loveourlocals.com.fj.	86400	IN	NS	ns11.dnsmadeeasy.com.
 loveourlocals.com.fj.	86400	IN	NS	ns12.dnsmadeeasy.com.
 lta.com.fj.		86400	IN	NS	drua.tfl.com.fj.
 lta.com.fj.		86400	IN	NS	tabua.tfl.com.fj.
+ltc.com.fj.		86400	IN	NS	drua.tfl.com.fj.
+ltc.com.fj.		86400	IN	NS	tabua.tfl.com.fj.
 lts.com.fj.		86400	IN	NS	eric.ns.cloudflare.com.
 lts.com.fj.		86400	IN	NS	becky.ns.cloudflare.com.
 lulu.com.fj.		86400	IN	NS	ns1.syrahost.com.
@@ -3482,6 +3504,8 @@ media.com.fj.		86400	IN	NS	ns1.voodoofiji.com.
 media.com.fj.		86400	IN	NS	ns2.voodoofiji.com.
 medipharm.com.fj.	86400	IN	NS	drua.tfl.com.fj.
 medipharm.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
+medisure.com.fj.	86400	IN	NS	ns1.bluehost.com.
+medisure.com.fj.	86400	IN	NS	ns2.bluehost.com.
 meditation.com.fj.	86400	IN	NS	ivy.ns.cloudflare.com.
 meditation.com.fj.	86400	IN	NS	jack.ns.cloudflare.com.
 meenoos.com.fj.		86400	IN	NS	ns1.syrahost.com.
@@ -3542,6 +3566,8 @@ metaworkplace.com.fj.	86400	IN	NS	ns1.101domain.com.
 metaworkplace.com.fj.	86400	IN	NS	ns2.101domain.com.
 metframe.com.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 metframe.com.fj.	86400	IN	NS	ns2.vodafone.net.fj.
+metis.com.fj.		86400	IN	NS	ns1.auserver.com.au.
+metis.com.fj.		86400	IN	NS	ns2.auserver.com.au.
 metromix.com.fj.	86400	IN	NS	drua.tfl.com.fj.
 metromix.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
 mfl.com.fj.		86400	IN	NS	ns1.vodafone.net.fj.
@@ -3592,6 +3618,8 @@ miotpacificmedical.com.fj. 86400 IN	NS	ns1379.websitewelcome.com.
 miotpacificmedical.com.fj. 86400 IN	NS	ns1380.websitewelcome.com.
 mirchifm.com.fj.	86400	IN	NS	bayan.ns.cloudflare.com.
 mirchifm.com.fj.	86400	IN	NS	robin.ns.cloudflare.com.
+mistbeauty.com.fj.	86400	IN	NS	ns1.bluehost.com.
+mistbeauty.com.fj.	86400	IN	NS	ns2.bluehost.com.
 mitchellkeil.com.fj.	86400	IN	NS	drua.tfl.com.fj.
 mitchellkeil.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
 mizuno.com.fj.		86400	IN	NS	nsgbr.comlaude.co.uk.
@@ -4564,6 +4592,8 @@ ratukinidiveresort.com.fj. 86400 IN	NS	curt.ns.cloudflare.com.
 ratukinidiveresort.com.fj. 86400 IN	NS	nadia.ns.cloudflare.com.
 raypharmaceuticals.com.fj. 86400 IN	NS	ns1.dreamhost.com.
 raypharmaceuticals.com.fj. 86400 IN	NS	ns2.dreamhost.com.
+razor.com.fj.		86400	IN	NS	drua.tfl.com.fj.
+razor.com.fj.		86400	IN	NS	tabua.tfl.com.fj.
 rbc.com.fj.		86400	IN	NS	drua.tfl.com.fj.
 rbc.com.fj.		86400	IN	NS	tabua.tfl.com.fj.
 rbpatel.com.fj.		86400	IN	NS	ns449.win.arvixe.com.
@@ -4610,6 +4640,8 @@ redhat.com.fj.		86400	IN	NS	dns3.p01.nsone.net.
 redhat.com.fj.		86400	IN	NS	dns4.p01.nsone.net.
 redhill.com.fj.		86400	IN	NS	ns1.bluehost.com.
 redhill.com.fj.		86400	IN	NS	ns2.bluehost.com.
+redox.com.fj.		86400	IN	NS	drua.tfl.com.fj.
+redox.com.fj.		86400	IN	NS	tabua.tfl.com.fj.
 reef.com.fj.		86400	IN	NS	dns1.cscdns.net.
 reef.com.fj.		86400	IN	NS	dns2.cscdns.net.
 reefsafari.com.fj.	86400	IN	NS	ns2.zoneedit.com.
@@ -6144,8 +6176,8 @@ gransy-anycast1.fj.	86400	IN	RRSIG	A 8 2 86400 20250207011603 20241229100106 171
 gransy-anycast1.fj.	86400	IN	A	185.28.194.194
 gransy-anycast2.fj.	86400	IN	RRSIG	A 8 2 86400 20250206150812 20241228190143 17100 fj. fpLFNtASNuy0+0VHsohw6eJZ4vg9po3eR6mMQ4ckkEwd3Kxjeu342mFZ lmN1M2RQJX4WzxoJHeilfvKH1vzenMt/AHqtHP9ihC16E+WxOxe4kQv8 N/BZH1qc+ZcSTNDPPPNuEOvF49/WIR7Uo9dFPWJ+cQ+9gZGZfn4ANxYc skt8nYZVxGLQePXQJ3bzys2Lj4IZGiyin90l0cJ6X79dZzqWsEaLAQdK 5HNS/22wfSyx8WYtIzaGZJ53056fcH4L7XY+0X+fK+uhijeMlUFNr081 3Sdp1Bh3Pp58gG2CGb+dig+XXJLjDn0P0WDbN6q+bc2WALl+G/vgwizc OeFXJA==
 gransy-anycast2.fj.	86400	IN	A	185.38.108.108
-info.fj.		86400	IN	RRSIG	TXT 8 2 86400 20250215141235 20250106200139 17100 fj. sG+mvytirhIHYtuzUGenOkkOs4LvjtIzaNXcau3f/tIDRoN43hVyC2xH QsTH03efe+WYqDAsOGJPbnPRabt5rlEhrThA6O4URPZZ9OCnUQRLVkFf rL6oJFcYcpR/3zbJxPTRovKngisEuOZkxLleiAGglPnJav5xWHXZ/xd8 gYKMG+A6u/O7FGsgmkwi6x+L0Ypk6kIvMVsYRw8Ni/1q/J8O+f7iMcj1 kotNKwPT0aHhLqGBz8r7F96B3W4LZCdM4dBGyeMhOlDbURExrdJ4MTzu 0dX0462X7RaVZ9QqQ/cb2SFhUYTblLUS1pp/0F5pojkaTbvX5izadjWt 44zvgw==
-info.fj.		86400	IN	TXT	"Generation Time: 1736197298"
+info.fj.		86400	IN	RRSIG	TXT 8 2 86400 20250216002408 20250107020138 17100 fj. u1izPl0OwcTTDDpWPjJ6HSVZaEqLOMpWHdP2UX6nAN0p+POVchGJSK6F JTkIcgOvIjBxD/vSL+1m00Yz+T6APIWupAboVTTm4MxvR5HyvuSLa0D4 NxWWVQQfSIdca1oK3Lfg95DYzve6usWdZBn/fOEan4+Bl1G/lrZssU7g upr/czFtNxxGlG+zYci0OzvntRCj+TaOLDdZV4ru6DBFdghb2u7WRrSh yZ43rFoW3QuM5OqCA6sxCZ4LCf+q/loqHo7o2OCCEX7q6tHALU/UHBl2 FhbjDhdtqTKKhRtqYb0tM2HjqjjvopSYcn1cO2xK8JqnUQ1Ld/JQrNVs jIwTJQ==
+info.fj.		86400	IN	TXT	"Generation Time: 1736218897"
 altria.info.fj.		86400	IN	NS	dns1.cscdns.net.
 altria.info.fj.		86400	IN	NS	dns2.cscdns.net.
 brother.info.fj.	86400	IN	NS	ns1.ipmirror.com.
@@ -6183,8 +6215,8 @@ master.fj.		86400	IN	RRSIG	A 8 2 86400 20250206211532 20241228210144 17100 fj. d
 master.fj.		86400	IN	A	144.120.141.11
 www.master.fj.		86400	IN	RRSIG	A 8 3 86400 20250206172729 20241229020138 17100 fj. e2XDWgpz3cizta0ID73eBaq4devU/TO5SMTgWoHyzrT4GfUWVV2F4bVU s/r8bAmgbN9XHHNQgfkALSiu6xRrf58ucv0/UyYBvjWG0hkD+ltKftYe PzFgtiPEUCc9GxQtl4utZkLoGjCSwwq6lKFjOSQVHFJVYNrkWkh1ISHl l5ktWUxAk3zf4Fk0ZPegttpqDNISFQLteNVfcNZ71IPtFvVp3y4dOQLb uRlTJvnUOFCefrv8Q84CP+qmuIi3P93LfaiuFV68TNMPaHKZ+XTJ27CQ Gspx3EO2I1TwDHXWubGSz5hM5wWzP51vmtoFDHEDV34CTMzfAdc2lsOd 8jdNAA==
 www.master.fj.		86400	IN	A	144.120.141.11
-mil.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250215133009 20250106200139 17100 fj. rHZTuROadEIg/KIMxsCBAw4EfNnfMANa0lBjY0A8t16pbwA49kCbcSgB YKvAvz02GDuGpnOi8EZ5BDHt8sOHvDnzq8Q0D1QCFiHZwqobH6A9YYmy q/3bSzllPha+dBuu7KTGkmuH1iiCCsnoAPrkyxACoUPHqP8jXvNyNdLS VnthR06JsxDcpy8Q2xnoAfemeSauM/79YSxvi4vBYGmHDk5pEd/Mp3+g WnBWvpGQL+GDcMQ9loxFNUJpHPnLC+gxr3UdJXcUffSpxO1LdvlOR9yN vWPPffPGaxjmT/V7OqJEWHZGcT6ZCz4OPvjN6WGvIL26yTzYgFq+ByB4 WQO+ng==
-mil.fj.			86400	IN	TXT	"Generation Time: 1736197296"
+mil.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250216124140 20250107020138 17100 fj. JIb4QqLvcoLJV6UgNYXD9dMmynY/ik4gYv0bQVrbFrRIOHDfCp4w7lPT zj/GU9vpz+WiO5T0LQi+iThq0VYJbcKOi6ftW6dqW6VHhGebwvRPgz8A 3eYOYI9uchB6nbo/HoWBYil+FFvbyaOGxRibLOO6BmJKitbAQQfk7gel TyUGlU+sO6iKfQU9uBHBnFijZkowS0SnBRR/ROzFrPeJZE0ImmY09A6+ urdBDgjkPPl5XLAmqJ1afylQ/aCRezJpCsWV3XDayUps3nGN6R09y78d bVNsMeqTJ/Q56MhpnWH2DGcvJJYHXqDXLQbSUZVjCD8B9qKSCVGMBxsT qbcFyg==
+mil.fj.			86400	IN	TXT	"Generation Time: 1736218894"
 navneet.mil.fj.		86400	IN	NS	ns1.usp.ac.fj.
 navneet.mil.fj.		86400	IN	NS	ns2.usp.ac.fj.
 rfmf.mil.fj.		86400	IN	NS	ns10.dnsmadeeasy.com.
@@ -6197,8 +6229,8 @@ rfmfdefense.mil.fj.	86400	IN	NS	ns11.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	86400	IN	NS	ns12.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	86400	IN	NS	ns13.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	86400	IN	NS	ns14.dnsmadeeasy.com.
-name.fj.		86400	IN	RRSIG	TXT 8 2 86400 20250216032353 20250106200139 17100 fj. lbTyL0HhkdoFe1HcEyW66DxdAUdt9QZ/j8JRX+bwvu7hGTdMy9FO1yYS Eq65QLkmIHsS+v4K6H9Lb2BEpmQdYPXCklBl47s9HaPYtuuj2hLU4cLY eAPMgPsI5VtUGwoqJHPeOvymB0/snTvoSovi8pNNw0nzrrtk4cs6xA0s fk6cd/n/4bnnoa6nETaPLer8jFCSbJfQ1ZRDF3X5xkvUH1abyliKoUPl DsSdP82yUIVaNd0luJbtcnhrw67ytBjFFfu+oxfmzJdpTfbdiBUnghzZ uvhBLuBtzojW8DJcOS2cxkGOGIpQj51IbPqIUo69CIGMMG4tG2/CCwgJ tJ3w3w==
-name.fj.		86400	IN	TXT	"Generation Time: 1736197298"
+name.fj.		86400	IN	RRSIG	TXT 8 2 86400 20250216120805 20250107020138 17100 fj. oLrvJ0EFg6N3grjE4SBStVJv089rJ3mkFpkp/eqJgrGuEsSLv+FEubgV CtygwuLWAbYD/N9AuEB8lqR09ZCjtMnkZDaRDyHllbNh64U5L5EO1yxo XLwjKXaiY0RjmNNSP5KqkrQCoLXZ6Ocb/weOn4NwUKaI1lLn1RAU8Idv SA7q/Ni2UGum65uRQuQNIeTYpF/KepYEbsbv58l7+DrOe2qqG4sADgPp EAiVlocSWHYUdW3I469+o0527XPYyFCxh+1St0YU2y/Th0c77mA8cWB7 uPNd7tmryzHmBQDpKkG81aFbcZCpRa4381eWdhts8TLzmZjQ5bIkNI8A nbZcQg==
+name.fj.		86400	IN	TXT	"Generation Time: 1736218897"
 altria.name.fj.		86400	IN	NS	dns1.cscdns.net.
 altria.name.fj.		86400	IN	NS	dns2.cscdns.net.
 brother.name.fj.	86400	IN	NS	ns1.ipmirror.com.
@@ -6226,8 +6258,8 @@ vodafone.name.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodafone.name.fj.	86400	IN	NS	ns2.vodafone.net.fj.
 vodaphone.name.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodaphone.name.fj.	86400	IN	NS	ns2.vodafone.net.fj.
-net.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250216020011 20250106200139 17100 fj. EN6bmnOWP8Vepi/TvpxOaZ32Z9AZj+UA0D8RHjdc0jj53VzYhzdp3Lri RkF9X4eZwz+92+XVaHnF5ZIWM5vrYRF2MZGl372zfDs5NwytpkHkQc4S yxa/7FoHQ91xGmh/uBcfpZpmNZacJb2PuchtGzT9ex9vGY3Hmk1Mqg9v oKWgg1MteCfI4e4xYO5HKbO16cv/NHcj2hSaPwCQt8dv/+be2XSgMtCn ZH+oNWe4D3cR2jXS/ULwIpaeB4cx6eLeW5RRRYkIw1nKME9YxAmJMGmQ xRy9S+HXREYx1wQ/yKdfCmPuTMpzuSBjm8wcWA0pPzPREmb1f2ewtfR6 8UcjfA==
-net.fj.			86400	IN	TXT	"Generation Time: 1736197296"
+net.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250216055354 20250107020138 17100 fj. mrhPhaFDhIHAgpARAFkgtdlSeH7FRQ4kif9fkGNWwisipFtqxokks8rT NTZKQ2UaSJuiUImJYM7fhxjyAYxtkJdnFjFhRPZAMggLYN+NgOOZzQdw LZXR8igX08PwPwftUd5jr+j+4S5P+QZtgeugwpwgRef0XQI68MuTS25T 1ZTHp425ej77PbkoDECl98E1O+ceoGbjYK77CQDKuoeXesxAfx3ACz9N B6WePDL8S7Uf4jajgTN1ZQSLVoeedN+0yMHB2lEgYP/hNQKSaPs6ZqS2 dZTqZFYHGM8Z3dhFz6YyKbNgK4lFWyemZHgRh4ed+vtg/EgK4TU4Mygr 0orZBw==
+net.fj.			86400	IN	TXT	"Generation Time: 1736218894"
 3m.net.fj.		86400	IN	NS	a.ns.3m.com.
 3m.net.fj.		86400	IN	NS	b.ns.3m.com.
 aa.net.fj.		86400	IN	NS	dns1.cscdns.net.
@@ -6399,8 +6431,8 @@ ns5.fj.			86400	IN	RRSIG	AAAA 8 2 86400 20250206130207 20241228200145 17100 fj. 
 ns5.fj.			86400	IN	AAAA	2001:500:14:6138:ad::1
 ns5.fj.			86400	IN	RRSIG	A 8 2 86400 20250207004509 20241228130138 17100 fj. MDozgCa/BJMYsi1ZIQQGh8rEuUEHm7C6GyPrvHbQQlv9qeCgyPmrHyqo EJDM9eztCxk7ExrUl9SU41u7bU+IOPz9U9fUkldqSGPHKPtYKAeIxkPK H7J8ONKr1Al0WZVJzei9e2jU9Lj/Bkmz6IQpuwMDU8YSIJ4SCrAIrUmx eVvFIyBxPTOPk4dKTlf4pDUfCTLN/xTqpFjxhBtbOPR/BYB4BNG3P9Mx gH1GCGuN3Tbx/oaTFAmXy/HvV0KAUjWr71spv6fR1kxutNIx22ubPsmf 5NDVWnGiQdzpWE3SurXZwMDIHIhFLBph8SxLnoCOkwpg35DACdtPLPjR lL4Hbw==
 ns5.fj.			86400	IN	A	204.61.216.138
-org.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250215124630 20250106200139 17100 fj. EUMh2GP+FbsrDD9H76aGWpfx0hmQJBjDZarERhtHLPOUnlrCdcAA2sxs j9sT/WlSmanEpIQOGLo7w9mmoBZ0uKt0vQqd89jmRfOWP5Y1fRYXBaLR LJj13z9nAwG2oUPtAKUFCWdLudfCcz8wAe/E8tXk5l2sW/sZmpNrJkHt GsUP/lxhj23NX1b2L1we36hx39tvIZgPuOYR5f/tGubjkqVHGWjmkWEP oCjmDB2rJC/o4ti6N9U2iA3S4IfVcXd7ansbeHlDm6x8/RMAJgR8JZBG Pr3I2v953t0eLpuDNwZHm3Q2jTP4mEwbs5gKDZ0m/wDFcHyqGKnEH4iE tGClGQ==
-org.fj.			86400	IN	TXT	"Generation Time: 1736197298"
+org.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250216113124 20250107020138 17100 fj. 0Z0Uw/rIqs+oV+QkatwMYcDuOf9qPDESLqf3QtM42QcVMNYlggsM1awi RhmlsnF4vblraDq9sOCcR7Z9X6dVlXYOot/e77i1fm5jRscrfc5QBQ0v x0S8ObC5qrUgAiRJV9S+o/NOCYaEELzjglRcZMAQZt3mJrC01RIza2I9 IIMexK2uyR17+u9F+ZiOmWDrQFN8rakxLvNWem7MPhl9G0YA5mCQCXBC j7H6b5+KoAsUiOTLHbQY1W5vxGbKymHyicRfJm3RbshK86lupEZIYZKQ iHPOjafcVUgJEU6zXTwrm4agoejix4zpu2LXap3FUsbkXrTYlthUunzW bZeTuA==
+org.fj.			86400	IN	TXT	"Generation Time: 1736218896"
 10000toes.org.fj.	86400	IN	NS	lucy.ns.cloudflare.com.
 10000toes.org.fj.	86400	IN	NS	carlos.ns.cloudflare.com.
 3m.org.fj.		86400	IN	NS	a.ns.3m.com.
@@ -6760,8 +6792,8 @@ womensfund.org.fj.	86400	IN	NS	ns3-06.azure-dns.org.
 womensfund.org.fj.	86400	IN	NS	ns4-06.azure-dns.info.
 youthcamp.org.fj.	86400	IN	NS	ns1.justhost.com.
 youthcamp.org.fj.	86400	IN	NS	ns2.justhost.com.
-pro.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250215221544 20250106200139 17100 fj. JpfTacPfFwEl00nsHv+3AGCDvZeb79DOKjf+H/I7t2fI7aNaFFaO0YEI GPkSjEURE5vr1GAV/TwsqP4a++xLysCFE3QkEvyJmihhJa2WRYsq/m3C H7YjkaW6paRHL8sbED3K+8zM+CsHUIZyplIL77JuEaER8RHylsy4DD8t W3hG8BsR34T807u6yWlVe6XiqhnxIW+fznnqeSee9kBT+XeNn7+ey6g+ iDv4iH87Z/+0ap0wZviCdgvLj/XBKIzWBfaoHTKoimnrvzbxv6Yd/Q3J U8QlJ6mNQjTs3vB5B/jFr2VlCVF3lRClGxx4wwfc318FiY3+Kjtnnbhq nuOpRg==
-pro.fj.			86400	IN	TXT	"Generation Time: 1736197298"
+pro.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250215153513 20250107020138 17100 fj. R3+0wwfLoD8lyxjGY+Nr5Sgqto5WcDk1o0HLRaQnc3oeFhDQK+LHJHw7 OCKx/z3FGEFRJykufn3CAj/2of6jWWajmdo5ONHQ4hTCCTk3EpTiaYyi 9K8ftsN6YLQObxCbozOUHHZHksljUfg5zB317qTsaXthuqhDjLUBHeKr pdfVvDMhrZBfM5KKU9k7r4oUv8v/8aXCW02OegDO0H9cD0xIsCoaIt+G 42jMZH+rEN83vMicNeaLHQf8sHu4y5uo27FrE0/8kc718f8VbS9nOPrv frqgr8OJ32tr9VnRNxcWVK1eISzOVZfuC71PyTh8j7M2cH66TU8jCqHI Fz5mZQ==
+pro.fj.			86400	IN	TXT	"Generation Time: 1736218897"
 altria.pro.fj.		86400	IN	NS	dns1.cscdns.net.
 altria.pro.fj.		86400	IN	NS	dns2.cscdns.net.
 brother.pro.fj.		86400	IN	NS	ns1.ipmirror.com.
@@ -7189,8 +7221,10 @@ www.whois.fj.		86400	IN	A	144.120.141.13
 21716joamj43pvsio9br7gabrac4refn.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209144341 20241231224425 17100 fj. UYaAI1otVBfNaNq9pts0f7EjppHM4SK3MdsdnI1lqDLeo1FZdrmLVFqA yMjKSwkDb0sJuoLDmTKAx6vTEpOpw0MzR9PmQ2Xhg230aMuKAxqHOaec SgNc0lly4d6496v/mImDsxb8qqobIeI9InqTMwdNfx+9aoyhrzDUX/Am cgK8mQ+BhfyUpkLTO0MiN7EMzb1Aun9QJFUXB1id8AriFZrUoHwWfp7u lK92EzWtf0kJjuy8l5UVAj5Otaaba04t6YMNFI5oxaR2bgrzkf271OoB 0V+hjEOpXbwdyAjryXVodp//BSKqo9BMAoSiJKZSapvQY8ODNpyiwxNe bJxAlw==
 21ecirdfn0odmt9b9tt41qqaqvvkovc3.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 21FBD927RE1J88R7M16MIQ4D1JPGDSPB NS
 21ecirdfn0odmt9b9tt41qqaqvvkovc3.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209130249 20241231224425 17100 fj. 1913mxJx/OtNyTedDOV36zJiHCP1l0S6bMkdANTWweBAya9uYBhIlgjE xrWXazK0Ga9hqO30dXT9j3gS6TTzeDwrl7KZZGt7bh8SBGd8g9qFcfT+ 58I8/hU6dTmzPz6dlj3B92V4QAFVg/5ErP+Uww7p3h4Wt4wZn5uNAZDl 3bACsHox9TVXqfvytszswQUTrR3uXr7OOFHpf1RHoNk0aWBHxEigTIVx wbcpX9XCTE3+QUYkvPdBajB65mrlQOEbMl+gcPnvCINKoAK3FAEYkddY Rd2oe+P6TjDr31fSt6DYcIcZyQhQUGEiCpT6RnlRFXnw/FF/3tuh4ua0 1LpGtA==
-21fbd927re1j88r7m16miq4d1jpgdspb.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 21MGKAOMNA02DEFHMKIB4KM7HPCD1GAU NS
-21fbd927re1j88r7m16miq4d1jpgdspb.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250212220802 20250103220139 17100 fj. RjWupNjE9KjoUv+rgnkGLGwwgf4OM+4QMfDiuNlGe8FKVByq6vQIACDb HizuRu44hD3Gle/jRINwLhMuetd9xAe9ImFPjzv8BwtAK+dID7R7lNtu arXMjhqF33TX7ntmfqDzW0BtaoI5oiqipMkCAVqzzZh5M+dRFZisfyb8 RUj9Dx77gcVLavSzuVV4nqkqReNPAqwB3tz0wOzK3FL2Gnk9OV12Wqam TJTBC74L+18vxNf0zsAvupoqRDz67kHcxxkmAdQ7XcN3mx0ZAL8kclWJ Y818FVYcVDRzucskdvOM9ASw+TMrkUy/sF9FxhbdMr1xt/Vl0zR1+ju8 xzMCwQ==
+21fbd927re1j88r7m16miq4d1jpgdspb.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 21HQK4F1HP5JQ2I48GGG70KH7I69UU08 NS
+21fbd927re1j88r7m16miq4d1jpgdspb.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215120259 20250106210141 17100 fj. yOD5U1WeUyiwozFqrPh7VzyZB56Nd1vYEOxTaDCUPg2itk5vXCG17ucj tmy+0zTebjMNl5Jt7PSKb1kueG4ITJYOKVK/TeGQzMpY7Pwgt9Ehubo7 5ePG7wWOb9aUJzGJSu9DGQUWSP+wwrFWNZMq4c7YwK3xBe/MFcUl4bDE 7sqb5tB2s7k0bBloZWSiymcRV8FD9S9+TlnVT9ARoF0VLvts6GYhjzT+ aj+XjCfonmq7SUjc1daFrxPxdJtBzlndeIqeSE80qW0WgmlbFQlwjYMY RxM6tzbnZJTLsACYMH19VT+jDTKcYGIw+B+sibahok2Pkzm85Le6joEm kHlNpA==
+21hqk4f1hp5jq2i48ggg70kh7i69uu08.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215234702 20250106210141 17100 fj. M+Av5T9jElsW1ab9I3qXfotmUSZjn56Dff4rj+GrOoQee3dD5TILE1T7 TKG05wP9dFbPI6+koRowHZ+X2AJRu8EONLcsdETbfsk4vQ1fw6GirHN8 xDHxT0eCjUrw+WBcIswaEBybHkvAdM67vXY5AQ6RsGtTx68VIw61PQYA uspFSYkYF9TNocZnIMdKEpa+lMD70pcpoDJGGfcGaV9xVRCCghswDONv esnZcBGJGHgA8I0We20Lg32xN8vOBmSOjUFowuZ/MY1fzW+tcWGjBAb4 5nilpdkSn98T9JWrMmDCkCr70hfYT4fIi+eROwiEs2qr2IgFEQQXGBQY JR4qBQ==
+21hqk4f1hp5jq2i48ggg70kh7i69uu08.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 21MGKAOMNA02DEFHMKIB4KM7HPCD1GAU NS
 21mgkaomna02defhmkib4km7hpcd1gau.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 21S4F203OAIQ23EF0I473VKTFTPP7SRF NS
 21mgkaomna02defhmkib4km7hpcd1gau.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209144743 20241231224425 17100 fj. ywg1kCEK1NlbnVkZa2VGluaI09ZQvChYbiDtnEXzJeWjzXy5+CQ5BMfk 7pRvt2IgZ6o5Y7Pu4exqPezjDfGJUZ5+4Jfg8VYXcAW7mHazNiocRYLh n4TiCCyh5tgDldht1H9Ulq+A03ZQGYoJvo0mM6QhLtv1tKS7+SYGapuO iKVUI0fxNsofoS7xKj4FkvKTuwFFtHGmXZPjxFRkDSEIcOzDu/lhFFTR QTF9ROObsYFcTDbrbV1tXu4Xjbb+SOLgl8jChQExV/7mDaL6gGQp9ZzP Ny9XcE9uLxtAwN0zFrwccpmeD6P4PPHSfs0kCLuU//2n0qB0kgzeumTv auF6hg==
 21s4f203oaiq23ef0i473vktftpp7srf.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 227DF3MIA5SPUPKQILC3UUJOH60RGKLJ NS
@@ -7575,8 +7609,10 @@ www.whois.fj.		86400	IN	A	144.120.141.13
 4goca0qjki1nil0a0tj1bnlpiobbppsp.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209182159 20241231224425 17100 fj. QKKCzyZAksr67+GCL/8ZlTV6I7eaImrJjDe5f4CtGca3VFLsNKLLQT+g cl3yFoC9IBOYyONK1p6uie5ai7fMM1gory8QhkOKB5a7cJCl99nLpAvA VH0M4kpDXxKWF4BGjIhYpFyrvSqscqKRHwna6qSJgKlOW3S7VYr+bKUe Kr6Ul7NfLl3ulyUj0C558GqG1/eSBDavYuxRc/eCiuDALVzSZMpfSaRZ +JcYxsoh9IQ3rrGCDSF423NQRoOZG/5kaEL2+EKvIihfkMkG8epuLBPp XJCe8XPJqszMaj7vKq78Sr9ivL7dMoRsg88q2zVTwfgjcRFfTJXUSTBA IAvbuw==
 4hj9jj93obitt85bdpng6udbjtcldkr7.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 4HMBUP2HF1E3TDOKAUEV5HLQMDAIN70L NS
 4hj9jj93obitt85bdpng6udbjtcldkr7.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209141822 20241231224425 17100 fj. wMsPDwMa/sqf+TJaMhqUxVqPNP9ncKcGkkXaKZxq7ii47ApkMkHB9wnk FdoOKWiksE5Zw4WizljQG1uHXJEcwqaVXXRLbTjmOIwpGf8U9YDjOZhj kr/zjbRavbY0/PjvHtO6RkM5XdvKC6lCPj4G53tAW5XztIewXisnBw2M h0ty8ZIyI2j1mAvoHacmY7wWt1o7jW5ywly5GgaKoxMqjwV5NFGbIHDe MGvZcie/Q8ngOjNocRSin4m1nlMjMtVvZW3XCSWH3GIbQ9aNUxWwBFE+ VT/hqqaUfHNLtNnAEfCI4+iR+5O1gzis7lBhFr/eKCspN/B4d9KGc5Fl od+Vbg==
-4hmbup2hf1e3tdokauev5hlqmdain70l.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 4HT4GCDS3MOO22MI71J1MO7CNBH6U8HD NS
-4hmbup2hf1e3tdokauev5hlqmdain70l.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210040939 20241231224425 17100 fj. qPu0PzlJ2FTyBV19MoKM716KlwqPPuJSAA+L8b8JB/1To6Yg3vozXKAQ yZQP5+WRYmzd8jBdtHfopZpiIzxqDlq9MfCHqcBXB3Y7yT2VKbUqMZtu /8z44ltcpF8jKjuZtS85mcT1E0gcILEHwSqQnPwKB4Kd7G2b0wvXRPWq c/FfgvsZETxuIaRpyQ67RDLnOd6Gp7qcVZ0rjfgnN0oSAc1ry4jgyKby 8Fhmvhk7CzNiggH/wloVAjhq8e6k/gQ7JyEtfp2IzIhFbmfBSfWr8TNu DOZfIgXM6rzlv93/HNrz4qzwg9Vj7E2pJfQdyzAegHo0u50TSNem6jl2 YkCPHA==
+4hmbup2hf1e3tdokauev5hlqmdain70l.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 4HMU4PQCBK6PFO6FMOE43829P9QVNTOC NS
+4hmbup2hf1e3tdokauev5hlqmdain70l.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216020657 20250107010131 17100 fj. 2W9fRp17LuaNFRfdlcLGstqJpYzQ046E/0tySxukj06xFKKnOl/qtfgR Yagj8QSx/bx+7WV5KFf2NiOv5q54W2OWoKH02BcgbaiQ5qAM3QjEll2T SWoX1qSs/obKySFeVk6lRwtb9wBxehTJcwejdKSgotQfoC2g2KEQ1Jfk L8uaWOEWhx3JMXaiP6FJFaFGqR6ve230azgHULoUE2ZaW6+ghuLy8tcm ulIql9XyrHKSpmgSxddjHPr0vLcGr3L+ljhbVqevsr8M6uFjoCBa8Jnw sG252vkAQqZPE2gSE8r+MSbF+xl4DXQhv93CXXaB7essYoZ9rDfvKRjS Wr8Kwg==
+4hmu4pqcbk6pfo6fmoe43829p9qvntoc.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215163216 20250107010131 17100 fj. ayT3+e1kGCAapnBm3Pp/zif3x5+3b/ZIQCK66bxqh+MYfrY57QN18iRX nqjwWBc6aaEJ9W5VAw91JFKgdUVTsCWEzxJDEVy0kiZejbP4zrz+B8T9 0cb9A4dADeTK4B3vOlfElMliWYFZcW0Zun8nPMhwCC0zAykdjKMYVZww iBKUzM1Me65kbqHeFpV+8Gz5LD16tF7S0yAC2zjD7V4UezUBaqX8jMRX PTJP4Vr8jLvyRIyvUbyGhIsz3fZopXvZAiJYhYSdR1A4eczH4OM4g+DO TKFOjpqUIO3xHabs2kL2zsk7nYNLKQ3kPOAji8mpQ2T8rgwbuA0JO8XB g5HTOA==
+4hmu4pqcbk6pfo6fmoe43829p9qvntoc.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 4HT4GCDS3MOO22MI71J1MO7CNBH6U8HD NS
 4ht4gcds3moo22mi71j1mo7cnbh6u8hd.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 4IC2AL335CAC7JDU1K1F8UJHCN71Q0OQ NS
 4ht4gcds3moo22mi71j1mo7cnbh6u8hd.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210064354 20241231224425 17100 fj. FJGUSVBwDd9RRs72FlkYcfBQE6yu3xGO/VBc87fAZdqqDdNYA2EpVP90 Sj/AIZMCdMzviQczwBHJBsHrcMTn3cqd4XJuTj+isB5QVIeZQm2pyi7v VdWoqLkV2bfn8oksBIlJIJzx1A45xrwlsIg4LixsQGRYU53qHOIaDg+6 Mmod6T2bw00vl+EpjzAq7a1FV+m929dlbST5oAoGTPWtrXsSCWIbzW4f sPZI2EhuJNp9TY6MddS1nZF/3dYOxBeX9h0x47qv8KWlbquS0/PxYOcL AWNpZ0XX7jHK7fRXkxJ/Ff3Gr3odmFjndO+TXVGWiiePMnn68CA83vlI 6+ZH+g==
 4ic2al335cac7jdu1k1f8ujhcn71q0oq.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 4IG9N42SH0EFJ4LVJ667SPC5EHA0OGGT NS
@@ -7639,8 +7675,10 @@ www.whois.fj.		86400	IN	A	144.120.141.13
 4po74jv6n2dg0d24p4rb4nsclun60onn.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210035447 20241231224425 17100 fj. mzeoOtl9fO3HxgljwK5La678fMsrUP7irZNRYj/I/eSvmQIpY8H+E7Sj k5ujQalLdZIxWcntE900lA8f8qJNpM7DFSadbaRfC6V471BdXcFnwQed fR9D9XNDdO4HJZKCgKEYzPXKQ3hv4xDWyQLkaedljPGp2ghTLdcpyb0U w7i5nNpzgfOp6twvnbo6AUfAC1Z9W+dUzZ7ih4aqjH8eb/pFpeY0pF8u vkG0mpKcVc1CoZLcEeViZP/xM0/WzUGR+cNRzTeJE8IOE2mVkNgUza57 rkC8bkFJ6ihhDzjpNtwNj8C81VqE5qoee0HNFgCS+zeBih3inxNTUaPs fA6QjA==
 4poj3m9alirsdkk11bbh78rcp4j7sqh5.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 4Q042LONPAA8GD39N4FQASI6A01HNM01 NS
 4poj3m9alirsdkk11bbh78rcp4j7sqh5.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209141124 20241231224425 17100 fj. uH6zc3KCN+Wy+EKxUzDvJmdC39rfLfzREMb6ts8nwIezq9qL80NOuZLI IMrIKTLLwCXL57SF7keH9bejUJ3FxDBWIdlsCdytXU5xLUkHZuiaVGv6 IqTdzB3yigZq7b5riOy4fr9XJMQm9qcNNA300Z+DkV1Fp4TNnvYgSNaW 0oVxKlLAvEZLmP2I1LjQdERqRDWbEX1ZGAhhvPjbwxRSugQgVFj2ZO4c ax7eYXS0vB0eUrU5tX80PIZ1TSGAQwZfAbhagbPTrdnBro5eHVYsHI9G WqMDQtt5l2yg4GtUDxVd1kay4MohcCFKZsA+NIGlTVcW++GyrIYL1DQT aSuy0g==
-4q042lonpaa8gd39n4fqasi6a01hnm01.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 4QFM9DFSFRMC52C9QJS38T8KNO2H72IU NS
-4q042lonpaa8gd39n4fqasi6a01hnm01.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210102415 20241231224425 17100 fj. dQNC+zdrwOdvXtcPM/1+2i4LE/Ggaj1szLytujJ85A+9uuE3SveEFvFx NUSovbDSV0FNSOZE8RPHqb2+bB9SGxgufpH/CCvphk+Ze787p1bLQ/PN o63oxfZzKYu8nLQZxwgpQa2maYlc7NogEDdXtn6uY3a5DUzb5ARGsoTz 7kV3qKPXhiUHgXq4ks6rwR68DmVxC2GklXNo5Eg3E6CyRs/jjlmhlQpK cA27Hfc+rj5ZZGdDH9GEWfkY9ItIl+HSXF8hj7x+U3qR4Fe+rPsVz6LA y1p6YtCJ8WetGU2klqAkREpGMI3gJgEdEG4lNMwatjc57YD/qFxD4xbN Vp8eyA==
+4q042lonpaa8gd39n4fqasi6a01hnm01.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 4Q7EANSLSRH9GFN3K24O97L05EOGIARU NS
+4q042lonpaa8gd39n4fqasi6a01hnm01.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215191016 20250106210141 17100 fj. SBLOjGOk53zMIRiI6NOpOkFCEN4eAWuo65w1L4+XWbyjN+STjfC6pCES HHmpNBUNV+HTZoc14b5/JSTFaUJR/F7pLLZV/UHXOHu4DcMGTNjNqBDX 5B7KPkK12P1s4XQFKn+wUo9A7EHQpk14GNC9C9CqJxoH1hMYyzaEicnU 4ttUXGByfEknezQ2pUGRdGpaOM1ZMTw1BIbC2ZruATXAubzz10jaNA0e XglLwSduNxUrI3Ofy2Iwkc5AHfwzBO1a75Oh3xVxrjG0Ox7VupmYtxAY ERO585eJukJsFFxLYJdCWDe6NLEGkolwQ088Gi6IcRj9PIQx+NHvUoH1 e4mnuw==
+4q7eanslsrh9gfn3k24o97l05eogiaru.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216001636 20250106210141 17100 fj. HZMS4zS/+n+X92ggB7r6Dxoq4sxAIqUw6cHnzrRt3dtM2vsoVyGEybdx fc8mb4v9lT0GzwhcSt2BwxrERTsG5FRizNQCg1Nc1qA+oQs/v80wqqNY 47TghtBYz/Kzm40NFXDpYhTeu3vwXfBC/8dstYkfcO/XicFWzmTF2ouG 4NLWVmqN58cbFN7NbdDIgu5aKlX+RgqX6tzr1iGRYa3wZdbBtt83BO6Z b6K4dkK+4oiRpZ2fluM6EHtkXR12drkfmN5IeDxbENl3q/RLjsRdvRep bbvDgb2/wtFziYnDVcijDYsfzjJp3B4ShorSWSVJcHUSj1dbJgKK3cg4 v2iAHg==
+4q7eanslsrh9gfn3k24o97l05eogiaru.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 4QFM9DFSFRMC52C9QJS38T8KNO2H72IU NS
 4qfm9dfsfrmc52c9qjs38t8kno2h72iu.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 4S1TFO10IKICJSF8KM93A1VSTH6UMN5Q NS
 4qfm9dfsfrmc52c9qjs38t8kno2h72iu.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209190126 20241231224425 17100 fj. TH/vVAmnvJEjWSPLdC0MbrOHC5mJ6f1/LkfxnT77q3ZjbXw9E8kQNbhm 8x5Q90hrUBAGttAZeSHyXfdn2aZT2WK4IOcnWRXuNZDyIILplThR8B5u 5tu1rAuvPlzAhjPYbiKaOl47x+6FCJLHcI19J7i8R+2/4MBvmDOBT+eK aUSu5uH2k+s1+UDnfiV6dTIA7SZNpH/JvBqwrzQyHa+maiTu3zsb+vwy VF3aF/37xgWEfQ2sd4ALlGzgccJ4PuQqkS/xivkmJ3KJUyrqhj81HTiB 6cZALMntlIM9PxXCjuJ0hzjePcovtXzTHFecbvgrw4znEKBAuoiEhyTe KtBXBA==
 4s1tfo10ikicjsf8km93a1vsth6umn5q.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 4S31U68PIQCE8FV2K6URQDQMG8Q2ARDO NS
@@ -7875,12 +7913,16 @@ www.whois.fj.		86400	IN	A	144.120.141.13
 5vu65959s2ru88dks9pijarm3i63u5m9.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210003320 20241231224425 17100 fj. H8t5RTaizgKHhewyVdbSf0Elnxo2Dye4DHiZGHnbX/b3/yuH60BdAWgu BXZJLSFp0nPjUbZsx4/7L37fRRo+VjhBnHmgSwrtJ/O/85D0EflzF7p8 PGMsPLbbIldqJmZjyz4OEUgZ0KZ9guo6WXSbFceTj82OchHTRkzhM6th Bo7UGH/bM2iVZtjSNGAbRDMMAd1bW53G0xAO4Xk+ECMCLvSlzdDF/qRl hT+qpEcWL5UsU86bCNTD/zxZz43XX6INUWe1essTLacc1S8puBsLoxWY iL49FSy5uEpTS68IpydPLdLxto4X5XQkv2gmu5zwstJYbiRC6R/p2fq6 D8AhmQ==
 61bpsp7q8me3793m783uc2qfft3thefk.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 61EQUNF3N8B6SCJH0T58OJ4L8IUD8K7N NS
 61bpsp7q8me3793m783uc2qfft3thefk.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209211535 20241231224425 17100 fj. XMSd2z3RPEYIaXF4kVbwQRw2OVfVM/gBDFhKTcUdWhfjz4kcGi7K5oZs J/h6/6Z5Afj3HGGV7ts9rp1zzuNoMIdwh4QHzAozJ9JGJBW/P844Se7t RqoAoz0uA1KqZA/WOSW8cMGOAYe1UwVo8jfRDdb3QdprrvPIIne6GD8C 1fJQm63ozv2exupyEgeYYYhSRtyZYyskfb/foSxBVNJjrdQ1b7uirKSj OsP/o4eMD5OAp0NAaZ7CEqiOb1+UJhsra/fqDBEaXuiMNev9BeV7pzjO WunrlF97a9m8JA+KOq6ZXbks/NNUjASrnKPFyzLSV7LujtYbKsIdWTNS 8ytwlA==
-61equnf3n8b6scjh0t58oj4l8iud8k7n.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 62ENQ7V9F7TV6USCGDVD6LAA4MQCJ3AS NS
-61equnf3n8b6scjh0t58oj4l8iud8k7n.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250214184338 20250105070144 17100 fj. Ue91XhKNaSPYFiD245T6iaUyeZysxBDd5JXMLM3kQDcQ5QjLvLimtsZB M1DZrhViF8Bz3jFFRSD0s5uL5I3teo7FKBsGhooT5dJSfnaDNKYIqfbm Ym5PMHK1azeojF1GMIusHB+P6VmkghvFLRj9CyjTexuBPmnER753zCUh YmDlf1KzGvYYzYo4m4YY/Yqay551OI+5APVJVx+K7DjRLsnhM/P3oEB4 9du97850r4CPQUdn1qTII/LNvwhgmF0uqExv28CF2rtOjIzskQJNbuZq c77qMGRQ+tA62CFnBYSXWI1Oetpl7ZJUn6sDDVjysE3gJiLlF46jL9Gk r44TMA==
+61equnf3n8b6scjh0t58oj4l8iud8k7n.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 62EA913U2Q6OJRI43I037UDM0898LL8L NS
+61equnf3n8b6scjh0t58oj4l8iud8k7n.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216051029 20250106210141 17100 fj. SQTVMP7SH010XFFf3IWg/B0BDUzUi2rvjgYrQB36W1ChliFQIrDexFbl ndmmzUWrj06kgimu2OpBYBAMvETphw4DviG3+kzFUWIMnDsatESxCdFn CGbICrSCHgx9GDe2xS/I/A+nDpl2qijOTlTFKx1+C46ZRjYW2+xMPVRa fMGuNETBNt3GfVa1NW76ffyPJt0H4ZzyPJps4cY/zz92ctTL4EcwzKoh md67E0WwxJ7X7uHY9x0Q679JX9M9zVCdNvUiJp+xyQU+K1M6Dj9Htv5v 2GGbJd7hTQxBf4saL/UrE7rjvouVbYI7ZBkytnxs5RNRmPd0sh90lS+a SxTQbQ==
+62ea913u2q6ojri43i037udm0898ll8l.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216094330 20250106210141 17100 fj. ysgKq647upNC25kQzWmzned+Yqu2MFZty6eEtvZ3VSW/QVyo/ziIWkXh ZLZeG+egxvGqkiSdAWRysf8Tl8uy+yJzNWFFPOMfTLTX0f3fwNST7YCv e2bPws7RRZECOd0cI5hZ+et9OBcuZF9j2M1YyXeq/0X5Ob2RHb0ixL0+ oFwLJmmkCkbZLsV1SDCMilVjEkRRVpTNNgSJPG3OxQHZ4k+00pp/sSqN 2Jhg3pvUZPT/IGA1dQGkNOYHFv4yf0WAvn3tSu7XYwFevDJW3JEbcUVx 1PSKrM4cBOINYFophhetDnUwUNPlGcfc+hNd1ZetAL4brDUNUmlVF2Jr xDtziA==
+62ea913u2q6ojri43i037udm0898ll8l.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 62ENQ7V9F7TV6USCGDVD6LAA4MQCJ3AS NS
 62enq7v9f7tv6uscgdvd6laa4mqcj3as.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250214073015 20250105070144 17100 fj. b1z0KeadSnuil4FOcESu88kl3sarF3D7rAp/XhCmHoRNPIUVHzCgPr3t qyxLVzeND9Ji/jCeOhAly1QdVh1LjuxQlSH6m1AGTSE2V+gnFJty2okR edNO1nxgmsHdIJ4KnUUTJ+0WH8QEqRaAAkIr5hj4NzTsvQbbmcfFyVj9 7BRM9OnpOOUXMvbEuxFC1FeUZwka0POp8s432P0/AjB1LKVcns0/EkHF bGxgi90PQTSFURFoWYVscjpB2nqrn0ub5jRe/YJ1snDZdZ+aOj5LYOno 9df2WH2Xv7GsaPv0lLVi0ASqi7pKQVAfd7WLnUDD0+TkBzojQbv70nR7 B24zlA==
 62enq7v9f7tv6uscgdvd6laa4mqcj3as.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 62LFHO9G3JVK2MJTPCQM5PCDGMMBJALJ NS
-62lfho9g3jvk2mjtpcqm5pcdgmmbjalj.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 63BPEK8GFUJJSU3E4HN35PN69HBPAISG NS
-62lfho9g3jvk2mjtpcqm5pcdgmmbjalj.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250213025215 20250103220139 17100 fj. bYmC3bGz3j08HFEsyd8rAIGQgzoc9bSSf6LCRt3Eji+ZJegsXUQ4uAC1 4dKM8CnnaMBnjgLOtlnbJA/xtyS6De9wkuhaQhQomAwxvqjFv2zJgOME JREyOQVwpdv9krtcY5kphcRAEDiUwsnykPl4a5lOGuKnS7ORbDUx6tsO eO3Zj3wzDuBYMwkgFNixMOw9KvvLkyllt30Ofp6oTY54k10Mk6WM8/x6 21wNuxTG41w9rrCj/ye083Xy5Ah+vkBcE8hFt5YQcqptOkbsW2kns+6a Ez3Gm3dA4tGBo1v+M+76EbHVtoS90Hp1OdQc7xlyYy348ROpEjiMOp/5 sJm9Qg==
+62lfho9g3jvk2mjtpcqm5pcdgmmbjalj.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 631VI4V08UT6P08LHVTEP33H3IUF1T35 NS
+62lfho9g3jvk2mjtpcqm5pcdgmmbjalj.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215124751 20250106210141 17100 fj. JtU5G/LED/d22XR1gb9NZe1nYQGOMWJmS636N9eqAgB9vGvJZDH6hxZL NBSEZejVigVHOmw3k+fg0Cgj6f2uUIdKcGgvMLuONTTSYv7KuCwAoUmu SGX2SJk7sNPD4Kmv5Yk3Qa7ZgsSMgMshcKxGxJ+a6GpWQYkuMduTZlxT olxmps3POQW+w7B8d7kcIAzaBULfhwREYu9pIfdFBjhJB8usVL7IvREY XiCczR5Bt2y1gv+KwJv61GKux6NlwNifrL7qbFLaEYOxRHh0knfkbEXK iwmJwyK0X5ZtnL6N3PvKuEimBdnckeGyadsLN5iMZGMnuxTBSILA7Rxq y+ld1A==
+631vi4v08ut6p08lhvtep33h3iuf1t35.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215191359 20250106210141 17100 fj. sNiAz2VgYe3hzzBVcK9TgrzDdYAsHGbtLv2All39XXlNG5+VIpH8ICgQ /ou9olKFh+zCmh4i/KW6FKOue65r71c37y1eq1lq/osd4XL44heaxzTX bP8gT8nzjIR4PyDeITwDwbzLExWAvdCvHJy0+UxFHD04Aa18tTgVu8F0 JXKL1UAL429yi3sV5s4WZFyVwPYzhzaGFGD5RIBWMVt+wP7wlDP2WzI4 7A6jSsG1Iu5EHnB6eKxkBsk47cJObyRuDJlJwek93yaD6g5d3NW15DtM hv3dgC3+ST5qmYiHM5eOEB30b0cKFMS0cyGT8wsv8PLJr8TxTtTXnhMo LlYWWA==
+631vi4v08ut6p08lhvtep33h3iuf1t35.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 63BPEK8GFUJJSU3E4HN35PN69HBPAISG NS
 63bpek8gfujjsu3e4hn35pn69hbpaisg.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 63MCJBOMEJ0QCBG51EVEGC2V5AQD1LMG NS
 63bpek8gfujjsu3e4hn35pn69hbpaisg.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209230936 20241231224425 17100 fj. yKo7Zq0ysmB7l2RdeWTLveow64V+eT2x57BP+kEVdWbNllhWqzvwFXP5 iRGTyusBsHSfAjEaSzweu5Ay30JPaU0oYO2beZRkEPie8lp4GNNpqvd0 dZJfEO5tiUfd9On3pR3ts+tPfNdAAQs2im4SQE6MnYZc9RAWKIhtNNB1 B1dj7ik3r8q7a/CcnrTkUWxTXSx21R0C/BnpUkYGXk9FCvp0J1gHlPrl j3/Vl2ChlKcdJ4LNyNqdrRm1fWMMQvkB37jYt4VWDt2U56kDfnzaPIac j1fWohFP/xqUiB/YrB70uaQnM/sIi1vXQIpAPBr/PNqMbg8ec0ShTftm RcSFSQ==
 63mcjbomej0qcbg51evegc2v5aqd1lmg.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 63PJVLRHQKVAGUIPOQEBRSF5BP3ICP5E NS
@@ -8457,8 +8499,10 @@ www.whois.fj.		86400	IN	A	144.120.141.13
 97pr396gaq5ipepbmi12clq50ep66jom.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210053833 20241231224425 17100 fj. dL6PutBXvIgdYdffNHO2V3kRXXbz0p+Qt4gddZmrR3APLzv7u50fkz6t PhxiINO6SUgH6Dj/wTLeQITj6FUM79eiCfUfY6HJE9l4gnQR62A0Pmvx nKxReLNX4epFTXaQtgus24fyLbhGVUUmyi7S2/MUV/EoLDsMWjizN8ap x5Z9vcsCiVXCewa8m8NUrIuXOH1IaIpzvI6Ve9+GAV17Vg8DbKzfXoTW uRvZNfV8KuDG1gQd7zVUVGlO88qBK3KQoF+goh6yVU8oGf68uHx0vwYX nhXzYtz/1VG2t66j0FTA9Rviix1DARW+iyjLGInRgaUH006TMwCZ4Ji2 gFupEA==
 980hl0jq62ebv4gubcamfpvkj7gkd6ta.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 986306AQ6JKV5V4SM9RMNOIKP6ST5K93 NS
 980hl0jq62ebv4gubcamfpvkj7gkd6ta.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209133825 20241231224425 17100 fj. LV7Xq5n0dNVEd57Ga9M2h2w3Yukpwuw4NxLrMKYsXVqJSPGN7EC5PC1V 41dMD0zIvY1BwyYnstbiH277jGGlYhiulQpuKJxVd/GUekGqiWwrUzU/ qBJlO6S/WEt+DW29bYjo5QmzvIPucVtqcmAvxTuzr+j1eluEYgMldDDx 2P7Kx0TdP4sYxl/qwi0BCZBz34AnahlE0b0n9JpfwDsNdLBmYul76hM8 hfrBOwhxOQ/c+BFdNzta4sWRHbFHpbvDPDh6/uu7/LX03bjrQAp/2KFV MGdL3mVuN3CGE1TPauskM/niWK2iCP2tApA/2gCnIVpmaeEy2Mp51fwx uCeCWw==
-986306aq6jkv5v4sm9rmnoikp6st5k93.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 99AB74NERJP2A5J59TPPVG4E6FNQLTN1 NS
-986306aq6jkv5v4sm9rmnoikp6st5k93.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250211191406 20250102220132 17100 fj. f7WSF5dcSkcw1kf4YnMQ6nHiDBUPFQzw2TtQ5l8i4xDAzIv8Q5EkHfYq ClCx12K8N9E6SDvJyRNh8VwTNyEp/FZuFQMcqhVeTjSpR/AA2bUeW6qF oP/nPcTpYaNbsU1V0lVq9+uET0CRbC6olGH+5M/8bGAmSsVhaEIvNF19 iX4hT3sbzk+/bSQuxc+us5BASKMRFFZxDEYhnUrYDXYuPQsjOJBtJPh3 sAMQqUvSFmQSCjO0NRXpbg6ATpczws18i9s9esWTGVAsc7/vyHBpJ+ht kjtqZqzC40Onlddtks98LoyspSwxNRe/CiOUiSWtKnsY7dNsBA2QMHR3 wn/Etw==
+986306aq6jkv5v4sm9rmnoikp6st5k93.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 98LSI15R2MJILLIDULAP7TC7OJ4TBFVB NS
+986306aq6jkv5v4sm9rmnoikp6st5k93.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216084848 20250106210141 17100 fj. O4f7wcoxYGUjxMJ4JpGI/xp/RCbvlOrgKrh/LaXdVr8UBmOtDNcrVVjM 3YsfQQhTxXj+O7pnhMwJZcqDPXqyC8x7odlS0tcDEhjepdR1pF6ZVFHg UM0E0AubJ8ROCRRQ0qq93FUU6uM3Vnn0034jR+kpMMXcp+BIdPwgtheo 2BjFlGr4jbysB0S37Z9gkcukpjIiScsSVSMyiaLrl0HPJ1Cq2x5v8Hdb 9hJzPNsv5W8nral3nqJ6IZyLJDYUb/75CJ7T8tf/xCk0Hs2w1ZFWtxkW 6qjbVifB8z9b4nmw1jWAheUfC1ep9tuXmmCPiuUaYjZA/hR8LDD0FVyg TUOMEw==
+98lsi15r2mjillidulap7tc7oj4tbfvb.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215102940 20250106210141 17100 fj. BJWJrd2Zb7wGqCiLwLeS0esqn/7eRSOMKtGQC022bkSEZpODUfVy9NvB 9R11uCqoVR1W0eBz+0su5hNaz79oe4AFZbr+mGqJ4ghe5jJZlEvr4j+q Nw/IM6SNf3ooYtxbkF0M9m8t3+hToFewLvJAs+aa9Xo3czY9+eMfpaNw lSzbjbc4WisUTRKPLFdATsX5LnDRYY54PvaoqE9aIJdZiNcyEIJFsmPL mAqNGQf2LvniMjCaVoqZG1UCUHAFR9h2nokea6JrBvjRLg9EpeWWdd0z uIP6hqrUdjVSE9nvNugEVwpjY2i3yoXr0GqlcMfXaZXig4RFXMUY0BoS tguLVg==
+98lsi15r2mjillidulap7tc7oj4tbfvb.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 99AB74NERJP2A5J59TPPVG4E6FNQLTN1 NS
 99ab74nerjp2a5j59tppvg4e6fnqltn1.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 99CG6L9E3AKV59E7IVAQ992BD3AJFPD4 NS
 99ab74nerjp2a5j59tppvg4e6fnqltn1.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210042416 20241231224425 17100 fj. W976sMxczPylil3ZqmxzjkGK+pWxbL8I/imT5gOf57KbKz/DDFTfH1kH ifF/ceGDEpc3hA0H5+GPez24RFdmmb4/A9WG6EVuCgRKI3vjxNY3j8jH PFgmVx99eFOMdHU6DhDW+/yfGu5sGyb0SVvaXR4eAwpZBopaZiIhb9vb nJsYnpknYJa46kAjxWsSuL5y7sX8d5U9OnHUK22lAv2rpEku28SEM6IQ QSUYZlvBmGUvqi387Ld7k8+4jP9pwZW/AGrVbRDu7C2Ua09gYFYF63TN U7dhNzOV/u5wfpyYBZBMsmTEnCOFvRmF6TGa1Eb5RSckM+GgRQBKnP3F AWiIzg==
 99cg6l9e3akv59e7ivaq992bd3ajfpd4.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 99FTIA4BJFN4V7O3NLVLC1DN8N2M1E7V NS
@@ -8927,8 +8971,10 @@ c445lg25m1llg86al016385b9pigb108.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 C4L612
 c445lg25m1llg86al016385b9pigb108.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210062727 20241231224425 17100 fj. S8/RtuZbKtkLCBKtHFa7v45pWvkeJpZQ5e987YYMpwr3xTHwEV9OyUv5 kPDM764dHiYeZDmvSq3LV5m8SBbCH/lkbc36rg0ePehSTtJ5bPTYfifm uX1pqwF6fBzk1fEFH5boVWVlGZgZEKdkXuF1lEZMcWaQwa1G4jDinqNG 2C6Yz57R/24FqcPeeQiVUYT7woDO20S9xe3thFLFy15jqqR+qeNNgFHa QRh5LgchQWK6fwsOjKEo5tls+TPMTAIr7xd4l11GpKw28f2/X6Bba5Jx zakTuwc8wMjvJrk2BEn3pQR8elLZ6msjzUmqJHLzJQut9LjlgBsLS5AG OoX/IQ==
 c4l612hpul5cdu99mlfludrqnvdas6uj.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 C6F6BC2SKCM53100EMO7RBHFL0OE4N0E NS
 c4l612hpul5cdu99mlfludrqnvdas6uj.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209192725 20241231224425 17100 fj. J5QLNnIqDd7CdLKXFMXBPrDzztwRT75EsHDX+MFga+zPM9Zz7+fGt8pN 4n8clAPY8WEKP6QGwEujjkEO55rf0aWPeOVkM2J/N598IJhp13ayVrCt 1XNWSwqujwUlWRg6OPfAVuMSfM+KyPNlsD5oMIq7r/2YFoeMVPOtLttt /QTOtHK3BjGYiNj+eqZt2RnnrsdbCkU4FF1X/OtxtUne//OGQRJNCiyG Kz4W0Zw7M9CKeQsjnjyYz5O5S3wFlpgccbj/hHXyiJUERnnSrmt0Gxrw OhDiW9fyRDVVnvJ7/H8vfXcgkNByK1moaOrNi5SGBry5VKHPYuHJfeHS a0EGwg==
-c6f6bc2skcm53100emo7rbhfl0oe4n0e.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 C6T65U7E494F8LFL7HDRBSJVQOV3Q219 NS
-c6f6bc2skcm53100emo7rbhfl0oe4n0e.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250211185405 20250102220132 17100 fj. MPNOle8P4+MAnbokHEn42TaLf+vL7zg9hmK8VIYrrqytpAH+tTaBZNgk QwQSi5lrnnq8edDIMMoFADeiW98I2HOJUou1Dz/fG5qTO56ZgifLv4Ri /kyb7rfUXzihwBx93MHuZfpcHpcNnfjAW+/6G+U8I9F+/oehQKcK8RQS 9WDIpqrnY3m64eqQLIrmQKgipEng8OaBsXa7LWaWoAP76m24mBrcTcas YTweeIWz6trPvIjBeT1ld3cxkdodvaM7nivvOehnTZ1ozCrO3uoNzZnS 57w/1QnyzTkyUHVhyhQHcVjJ5+3Nhw6H0ZxWQDUOQUxpqzqgF1Mk+fmu mSxo/A==
+c6f6bc2skcm53100emo7rbhfl0oe4n0e.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 C6L8SL15RR757KP9V4ADQSI7HT4H3JM4 NS
+c6f6bc2skcm53100emo7rbhfl0oe4n0e.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216100857 20250107020138 17100 fj. SnGj3vevuP1WEpZwhmTc7tiuODCLfFABR1Au50ce6JqQVH2airz5cbdp 6Q1U9K78A1DbiDrjmJ4AtuIaaRtfwFoV93qIK9UBvX/YW+nJJjV9JjE/ OcqD8ijaQNOMW/j3WVWeLkihb45kBZeX8MoyLQLVdAwAxV3P1ZuJCrpg ljDrfuXghyRhsQaiCe0s+7PuwLWJvrbyPnC7be9lmiB/fWjNeRT03b7b SRUBCmye4ahHDFB6u52GUNh9bpCsfHq395jaQmsNIrcbvrhZ4shLF3hV YDYD1I64ylFvGyqXEhoWCv9pCVx8lIxSXpmngBn+6m6X8cKPfNAO4eOW 2QGqXg==
+c6l8sl15rr757kp9v4adqsi7ht4h3jm4.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215234105 20250107020138 17100 fj. HK/8XJAVblfaoyfSClBJ0tYb6ubSagp2NvFcGY3DLuWUKXo17uwLBMkY yco0BxrKGcylaYhYsOMH55UPbbyw39E5WYsh3hiIxDQpF1OtBdilzPK8 VjYPSmzVtzo+KNnBS1xaqbk67dqKahy7gkjlWiyydcbboiCqeDNjnrpk obDiK+6ayubQqUeQu3ZoxGpG34DkkAtJMN+8eiOB/evttR+VbtFVAxxT pXyMTuWRk6J8M6IWmiGWyCepzTTOVD58cS88yjNuhGgLsRDflvKVmsWh PIvRMiPK9aajO81l/WjOD0hJy5eE+IaMh6TN8kUwK7ZAEa76jqiBIYXQ 2AC6uA==
+c6l8sl15rr757kp9v4adqsi7ht4h3jm4.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 C6T65U7E494F8LFL7HDRBSJVQOV3Q219 NS
 c6t65u7e494f8lfl7hdrbsjvqov3q219.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 C6TNC4H8N8J1DJLAA1RA533RMD6CAAG8 NS
 c6t65u7e494f8lfl7hdrbsjvqov3q219.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209150722 20241231224425 17100 fj. jydtri0ji+pBp6NUn+rsm+SIdOs8LgtfEcb4a1AbFCzeV+JF1mWmu785 qHL8VVFQ0QXmrV0dYnHctCDvm+7Ye/K7cGxCmppJkAbhcYOvST64jaBg MjkvaRkGnnG3VXKHSQ163V1fNHN3dnxn6YUDza6dJE2hfnlvpFcZptHp EeN5uBg7HuuLoo5l1azdKbwsjXmYaODzJbb1tdMvan1YTcBcYIq2ZjDF hk49G6vsCDvykWo+bRDe5QR8m0ahgTgyTUq5teLbd39izyybB989z7+/ uWfTVb9aYLLkIlPjgRPIpqGrA0/8cN5NHl2zFUpnc6fMvZeqDIVulWtv G1zwng==
 c6tnc4h8n8j1djlaa1ra533rmd6caag8.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 C74R89HRU4UDO9C4T1P20N73T2C00HVA NS
@@ -9249,8 +9295,10 @@ dsc5l9ld5k8m45umblgragp285lg1v0e.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 DSIU8U
 dsc5l9ld5k8m45umblgragp285lg1v0e.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209153017 20241231224425 17100 fj. mp9yJq1gEEoWuPVfsIrxWM5yD9ZvcM1H6y6yOhZEHCOv7GhirFbCygqY GIAiTap0NcSBb9FkXBlzatKOYEbGQwORqIOzIchuiI6X7E/9GBQYDdtN B/x+F4ByCijkrTxSrr7H76nI8aqxDPg5/tgDt3Y1wUima3I+fp62UP0T eCdSTH0ZJcbjdW5jrZp1IdO2SUjDv3HoOqQ9lhj5DsmfseHgT5gRUgsV re41u7ekh7PDVKFZeyawX9LlIjcZ01DXceiJcAN+aJn4O3ZH35SXZMZr z0hkeVtWTaovOaLgNo4vhU+EgtUmwNIQbOQHmTX+1+fs7JHdHmYp7fX5 syrTtw==
 dsiu8ulfccvoc39cq4a3d2f6dknpc7u8.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 DSJ7Q9GJLI94S0319SQ52EFTSVV4CBD8 NS
 dsiu8ulfccvoc39cq4a3d2f6dknpc7u8.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209125036 20241231224425 17100 fj. oQlxK30waB+zVo/EDylDkH26lhwxlEOs+GxkBbLjWi84qJOc85c3rDSj CW0eIwxBMk5dpUi+Ui1rSDuAIjfOX79EP9lHOtCQNGYm1xrcVuHTXt2u ALfToKuDbPLrvZ8WmFcaWfPYwdXhYmZsXGxL6WhqRf5VzgzNqKiGUn70 IsLRdjyJlv8N6Q1b65l9NI9NT7MAgWYiTYvbN6b4G9Ib0KHVs1vcN0HN Kwd0pmq5CTwZrt33DhfYY5ggrv/1XJPh2W74KUF9pgw+wPGKqHWZoe5u 8mocU30K521zmlumoP+XGaPJnWB9N36wuT1z0lTsHbJ4ILPEGl7649mO gnbmgA==
-dsj7q9gjli94s0319sq52eftsvv4cbd8.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 DTHOKOFMGF3D35POR5B8FQF2IOLO696J NS
-dsj7q9gjli94s0319sq52eftsvv4cbd8.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210024830 20241231224425 17100 fj. nV5UWrVP11vrZ4iWlIIBfxRoGi602KN7gfosB2/1hlpMNJP4MM9TnnTE 2TTELCJA8fOPgBy/C+u3/EXNC0Czw1Zj/zf+fNlbkmjoYugaWHvuUyN6 LO2Px7KgmO8KQ61y9RC/epMJnnzwBOM+2rL9747LS239sfQd7UAD5VP+ LGAhBGZyaETuInkvnZE7d+pykexApaPjtQ7Om6E8cBOKZcOqpkn8+0TU +yTgxmpsof2qXJC4slkUmDkyomO/BOZ6x5f8AOYvymsrEKcFxrjqxTOc SScNwpl3jA+rWynxYHb+RTZLgvaJSNBN7X2uUHBi8mj/hI/6y50AlKV3 D5qjwQ==
+dsj7q9gjli94s0319sq52eftsvv4cbd8.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 DSQ0ETHFQPO7FAUEDJT2152II6HUV9SV NS
+dsj7q9gjli94s0319sq52eftsvv4cbd8.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216042747 20250106220141 17100 fj. IIvdmLazz6H9twV6kZinTEDN82z+SNAzOhIh4ASzulwUDWbuvVfe5mg5 Fsyq/T5/9nPg7E4o+ubPM3xFswY3ZXk8H9g1VZWdp7uFU1WfC/ycrJsu swpLSnSZEPKS961q/AbZwjXskh26KIHMBKsa+s/+xCzsJpZgB4096lWG g68qz3/Tko38IibAGpi0lwaKQa+teQgL4aaS1LI8JWOi8QzEj5Esz2Qn o0AbJl+wJb0VN9+QfaXiXz0Bo1bZ5MuADPb9bAJ9zVE2Kps934DMWON8 2DE66RTU19vv7MoOHQLBr/m0V2nP6ys6vM5Po2efcIzu6LdC5ZDWaV4m FnNsCQ==
+dsq0ethfqpo7fauedjt2152ii6huv9sv.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216081445 20250106220141 17100 fj. SSnum9JYpGAq//2b3FSuRmV9bFtsEmo7f0kfoSM2kUK8zZ312q0rGqWn c+4EgZOjKoMdkoTUHUCKxFLvyS2IkIG7p9WBSfOaKU/qGjXRHjYA8scR ASC4n6GB3UTjpgJl5nKsWa2CWl96UFYnBOyoxG5hcdYZvh2eqkIgkERk 1AossTOgE8g8rF5NufmXPEpc6C7bqM31N7XBw8lusaP6Cp1CQqvfcZ8U 5w+Yqc4jaIuFis8VY3s2wxrLsIWdvagdMJqVLUXbXRNMRp2HQbByXiRQ E0IRXzDmTn6BDhvaCoJgyhb3XqqSLlRB2WjEzhbJ60o9/CcsatOaJvba TqZxCQ==
+dsq0ethfqpo7fauedjt2152ii6huv9sv.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 DTHOKOFMGF3D35POR5B8FQF2IOLO696J NS
 dthokofmgf3d35por5b8fqf2iolo696j.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 DTUHS8V68CG9OCBVQUHIAVROTV2CN0US NS
 dthokofmgf3d35por5b8fqf2iolo696j.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209141850 20241231224425 17100 fj. HRvLhwZJil+ubZ0GFnCDidk3QxlFaz6u+u4zUwkME5JpUSBjNNxrZhYT XE5CKYpPbRJQivCIrQhq3LmtTFJvDBJlJGorwyO+lSEwyM1YNH4YHqS2 7Sqs2Hl/OaIqBRMNli/t8fvSgSW+MnjLj3g/qCooYIKYmOODzUCzQWw0 muWTL6dFLTNkE5Q9DTDnm7W7bJ0puzs/lQ8ZRdGj9Pi6x5jKN9K6qUI+ B2AtfGkFGxgWLJ7KQpYYo8NP7Lz5EveCiBFA/gwBwVTHknQsUcA7cC6P sZurDMnsP8I56VSAGX7fcUAB2aBtp8gbsk7i5n5dbZWM8Tw/b2IYUUFJ iOHoVQ==
 dtuhs8v68cg9ocbvquhiavrotv2cn0us.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 DUCMMJ623FRLQJFT1FOB9419LA4P14EN NS
@@ -9275,8 +9323,10 @@ e015nbia6o0njjmdr794k3n57h0f753c.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 E07L0I
 e015nbia6o0njjmdr794k3n57h0f753c.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210091933 20241231224425 17100 fj. LhOsyISX+B9wF1zxXTqdzCx8r8q49kBIyAunZ3rlUBv/VfyYgFWUFqjD 5p3NYHo9k9SooCTEh2kTVhJfzg3M8c0qZm108+FhhhmDZq8YMOnNAr2A CabR+gw/evzikmCq0HIRspoQlZH4smRJ5NFVKi3ci5ro21t2x3JX9Se3 RstmTHb5PNm0RYpx4/9zImdHik7JctZ6OWZqvoBWesw/WA9wb1TIu1/F ejsP5AiaSzpy9q9EVxC3oexgEh3kDhtkDs2nHxrtOOVDXVxpCGF2segj 8TTgaiajoT+yyDtvyLdc1LPh9nficdIbq4Hf8bHhFHp5NYNbGF9gHhmD QZLJ1A==
 e07l0i1tcsfelc6atd66eph08fcbd15e.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 E0DB6SB72TCPBK4QQNBO2U2U5FDNJHBM NS
 e07l0i1tcsfelc6atd66eph08fcbd15e.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209154304 20241231224425 17100 fj. dPvnzJ7+cbCFkv0QFmEeDDHOgT+TP60EdG2GBrhMz1QgDoIzTjC7vUYL z/p//Z71YO97sucFaCV9AuAda/4++NxeXoZAXhz9po5nUGl/k7MsOc6d 5b+nlVJ9Lg4fZQfxZx0kP/8tHBIsIj7q6f9m2D6D+nV4mBoRqAZpE8KR n8T7B2wjZexNeI7V7COZNrKdQVXklwWPvLIsEKlU5b6DRczKH4VoWK99 204DafOIIUoI/3TzOvUQ4MfetHdCwGlhL32zKimgBqLtWa4fgHLCKB0r up0pUQNwagKXzCfvP01M8H7H24kr4HbbdL6Z1YuBdXhrmJ7k2PDw98lu lW0rZQ==
-e0db6sb72tcpbk4qqnbo2u2u5fdnjhbm.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 E17KTMSBEEM4R8DR5BQJNEN3ES0J5R1N NS
-e0db6sb72tcpbk4qqnbo2u2u5fdnjhbm.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209213123 20241231224425 17100 fj. MDrNig8BY2uGmFfzM8QoreylXPQ6/BLvToR78y+5RLF7BGjs5jRXcMeE hL2mfd9v9kYFt1y4Grxktr5HpFamIuFPhazYtIyKmbrOuCc2QmXLR2Ii tYpBhYahtVz61Mw+vrYRET68xYehh6+qLNfeySQ9lQ8KLTY9fRzw45X1 IHPzpGX2aYDywPr6OFF57063dEQnCxpYcXFsk7e2uASVLfIEw+Pv+s6E iph8vISjJD5+JVC2pyHCKT4Eb4nHJpaj8wfb6xdAgP2svIi5rWa2cfAG hond4O/++e7mgavSfX4nFKMotR2L71M+Je9kki452twr+wQJXSsHzB49 lZdKrw==
+e0db6sb72tcpbk4qqnbo2u2u5fdnjhbm.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 E160V4S8TN52431DSK37CU5C88SO74GF NS
+e0db6sb72tcpbk4qqnbo2u2u5fdnjhbm.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215184005 20250107000143 17100 fj. SBtxhNUbTTQGh0r3f6ILnOL0a5Feqs1JOQ+Zg7Sk5NAcOT+ZclQDHw7d FXwZT63IUQY6j3FDSnwpa6bg4iMWjcnsCCtB9XC6xggHWjej8jPbk6ve tJmkHgXt6c0nruKWgxDd8uGxNDqrNqnCHEVTGkWUKHgMPec2p4PXO0/0 9jwcIS8jG9E9UMp9vV8pR+I+3daBHQGKDAz1pQn07fuExhouO0J+HvJB hf3pKPCuKkI3mBQ4JWc71Kkcs7kSVvltQ0h6FnhapU6JKdWp9w7TyTtC PpLIt6tGf9S9754c3sPN16/6qJIAJVFW5oA87/HGgP0YsWtU0vBW3Vze wIozLA==
+e160v4s8tn52431dsk37cu5c88so74gf.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216071715 20250107000143 17100 fj. Gl8htURPPCXBlXYLkstCEiNxcnyHejr+zRUn7/QO1wjalp29vKyWlmD5 65wjm3+/z1S+j+0uSqLgtnrIu1mhwWEY7Lw1ZBfd384WnwOxi8wZi23x sOed8c7gboibG7MYxhjD2mgpdvnrifKCP/XdKN2h8PyttkbRUwVdPDs1 zoRwUtp+lu7Dw00VvI/t9DTrbCGQPwsFK/rpgZjOoY9QqTQufn8i65DF 6GxO1gyVPZtstqbHetiYhqwKfT3IRx4V+u+kRuYRLcZpcNDzSOAKJOPk gzAGl6d4d6r3wjfCpbmApKcUhXNscOw3tlROPLXek2jXryfjAYzBgi9a /cq60w==
+e160v4s8tn52431dsk37cu5c88so74gf.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 E17KTMSBEEM4R8DR5BQJNEN3ES0J5R1N NS
 e17ktmsbeem4r8dr5bqjnen3es0j5r1n.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 E1J65QNQQEKSKJ0IFH527J99I4NR9S4A NS
 e17ktmsbeem4r8dr5bqjnen3es0j5r1n.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209185744 20241231224425 17100 fj. ubOpRzLeSF6P+1zBWW7p54iM6XMeXN3O3y5uGbk0iZdW/SFwcxaYeCCW 2Bgh/bRPsrfU8uAdSpViB/hKS/6Gw2JilWduEG0DUusqUb9Y85b7+xqK gI0sQJ9sUZz3crWg374Dusc+NpN7FGxxdcKOo4BFazTxfJIBrM6w8o3u 68mdiQT4AVOJlZZEO+Yc7T8f6SyXZVzwMlLUAAJ1Ga2LKCRXBBEtqUEl 6QIcaS18pKJkpvVlQjCpqlJgWSXxUlEdTHdOh2SZNDrpd8I2FrwjSzAx GMUHsnORMxyKzzE5Ng9dEvkArnnw9UB4BKYyN42tby3IZ+nrghKvn9BO OSrlxw==
 e1j65qnqqekskj0ifh527j99i4nr9s4a.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 E1TNVMGN5C35T3VPGS7S50Q6526TOMJO NS
@@ -9847,8 +9897,10 @@ h8lu4k1f751bj7on9oder7mg54u1bg9s.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 H95SK4
 h8lu4k1f751bj7on9oder7mg54u1bg9s.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209230201 20241231224425 17100 fj. FuOMTIXc7KhiNHajdzz/f8AROfG0aGAQeVt3VBM+aOliGEd6kfhe6fZU e8IR1az9vQL5mX6ldNsz4rL8nl2PbkjwxeQht7t5kOKV4iEMcTABCCdU aXdTXnPMYZiJtnD84Ff3vDlLFXaoS3jAlWDTVCS9d8l4NWaf+G3dlwae th3Bh3O2UItB5bHdP9T2XEv796vnU0mworX8yWjyGHTeQVYeWV0RkBZy BozvoNjgzGg9YtE/4yO/7hLIuBfgGVw2XEM/78HutiUXI7PaFp12gEE2 D+DdgnKTg2554e1EU/5Y1iihUVumcCOLkSZjv+LiPHnebjArndALweBD zQAHYA==
 h95sk4qs5pkidpb7gm0t4curjbglf6te.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 H9MCIC5RUKSFP9VVNAK3NEB5MUPAK6LM NS
 h95sk4qs5pkidpb7gm0t4curjbglf6te.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209191203 20241231224425 17100 fj. qqdE4EDdR52vcjdotougZdFGCGdI+RLlsoDgoNqGn8CvdSsBWq8odh2q pD9a/TrvQlMSjkl4CLBzbFEoDcV/bCFLUksazAmC1RqwYrwW8BlD1HFI PBC+ojxiVZM7YQdDvZ7gzMuFX4FWOwWLdZAbfclq/vVYJr8kIv/1ZpGs 9OKBRun4lx1vx4ah3d1euoq0WvPQjjC7RBGR156I0wEFO0+EDQE+p9UZ O8LlS4WeFGzlE/fnGaa+yqhG/D4dUXGpvYLOyx/TqM8IQ08uxC2mg2hl btYaGKj4F1bQpQRun2xh0Kl756YV6cMnJRxCjuxCawhecJ5UOrjVjiIx 9Os6vg==
-h9mcic5ruksfp9vvnak3neb5mupak6lm.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 HBANLG3IPC5FRLP2KFS70QI8DI4886PO NS
-h9mcic5ruksfp9vvnak3neb5mupak6lm.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210084050 20241231224425 17100 fj. U89A/NtLNuPuKcPQWZiUQhGQMwQ4DBHaxzdJPVNzhcguzCcFUKwpU/kT YitalgULPgjmkRGu87ecfIU9NRmsyi2tSStOR3zCVrshCUfNU5ywnrs4 qcMUW3tHlWcxxH441CNUAEgXkJmQs0e6Ldp1YqwO0UEdouBqvy8MhXDu 8901iryTrbml5L97mSc2fFgDDtwVH8ut9xxUUPkNCI7ZoN1TCgEfrLOf oXVAkVeczjHmTarhcoxSIsM4ja+QUxpFLtVbX6/rhFazgzYMj/e2a2eQ wwyZuoWwkmUVxnGf4aThsS+tpdV33yshxGYuhFV7jQVN0yYDiif4fxfE EXiSvA==
+h9mcic5ruksfp9vvnak3neb5mupak6lm.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 HAETFFJR84IMRR0509597QUUNURIJL3E NS
+h9mcic5ruksfp9vvnak3neb5mupak6lm.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215181221 20250107000143 17100 fj. K7O2XitxT27mrC2zNBdwso6PaQBrpNWSq3E3P/wLeM0QP+1jVvKMJk7E mUCINw0SXoEd7e69701U9Z+B5D+w1vlq1IktyItpbzghScQCXPxqGnkw aCvGxY/a+u/NrmhOnSYVym9OP+UzRvZzMjGSxodc8izrrGZrqsBWRPlZ gOa8K9tSuGOGW41ZwdIrXfpW+mbVoa/GEtQfoeEqbSe6kO4DG1xI9LvH UG3ED1XwJS9N8VEdNszXEHRiB6QtFG3CAdtkKsqREH8ge91Bu9N9bk4s XMznxrxUjAID9A/Wp+B6NMWE65QfwE/q+GQwsj1beDoMS4AATw9PUCNi 2cjuZQ==
+haetffjr84imrr0509597quunurijl3e.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215180806 20250107000143 17100 fj. KwYFS0IFcQZHjEuxBgbq1kErVSAc3EbJPB2UYWD9sPxvViUhMrxCV0ek qdzaJyyNj3OcAPwW3BZnpAyPFlVPeI02xe8pnZjuHr24gky2kEvLFG2m 319vyUYCpOiTN1gq8MXHrIPlY6aFaPc2Tb+E//WSdeYlch9C1Hl7iWQr Ax84xDsKpjRTN21FcwgxpsiiE69gkRT0ArMcSrN5V+zsgVdR00/7hy78 ZA4Ue4wBAHv5aNHIOdivs3yepHXcGT1rN7sNz+HD3pM0/BAKFnaER1ys A37u8bfFY63yuHPpLjqhZEr/977LPYcPSTi/+5NN/cAGiiGqYhI0Gmsj 3mJXtA==
+haetffjr84imrr0509597quunurijl3e.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 HBANLG3IPC5FRLP2KFS70QI8DI4886PO NS
 hbanlg3ipc5frlp2kfs70qi8di4886po.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 HBEP1JR1DD25SONQM879K5CUPRT02RA4 NS
 hbanlg3ipc5frlp2kfs70qi8di4886po.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210094209 20241231224425 17100 fj. rUO9xVXwPMlVS7Q1WRtzRn3tUM9edy8W5IInCfcWZLbvW5UTEtgwJESm wGbWlbrh8iuf+qppk+Crnh1I3X3dsKOcDppoGcC1hcvpxiCZ5moZI0BN WtDvwU8ZrKwHhqLaiLNUMeTDd05OaGaW+0s5stddbz08UzFg7yH2XdNh fLDlhEXPilO69krEfwygPLDEZA7nhd2lpPNU2rTJe2zZFO/A5bqrUKuy Rsyrk7/bQfPAj55IFrufXGf3vxGaqOs4zdWIkKjIYhoRps7YhpkRA/5H 4lREEimbrlRSMUKdKN2pX9qfm6jziMUjei/N5DxbmMl3BYFT3QhXZkAD x0uagg==
 hbep1jr1dd25sonqm879k5cuprt02ra4.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 HBI7FTU6K16TC85C0DN3091GP17EB1CG NS
@@ -9979,8 +10031,10 @@ i2mrktge6dog4q4nbu4rvndjcfclbdbe.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 I2S46A
 i2mrktge6dog4q4nbu4rvndjcfclbdbe.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210011348 20241231224425 17100 fj. C5I0/N/t4e8Z2WalA0RDHHiGlK8s8T3btbSZrA6pQRz1A1hwHFjXyhKe eqCnxpM2xchusagWcDadm7/ZDRn9C3WVi7HB9sMIhAb7Y5k/qZoMZYeP KTwG812peQJB8ZcdLYk0FMzTVQGF2w0lDkBm/zhefnNh6cXYLowD9KxU Y8eImpawqavfkaDopABb/FxnqvZ8SMb446F1Lh+f1xcqqlrSAhTswSNS 4CbYaaFgrx02zrLAxoata20ebQD62It9a7um0Im6iOK91GBIRFEZnwhV Iw1eo2XVYe1lK4PRU+FCBp+/XCenTPmXq0VUtfHqCg1JkvsQ26yUg4ba M+fFNw==
 i2s46aq27l0v9lbjq5vfa0ejmemk8pnm.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 I2V080HAMIVBNPFP2LC2N8GEA394MKFT NS
 i2s46aq27l0v9lbjq5vfa0ejmemk8pnm.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209185645 20241231224425 17100 fj. utyiBv5nMKzDCYjuN9J80IpRGpUP00LWw6DTjdehYtSt2td7w9GGOFR+ gUMoA98U3fgZJOBtWrjateMdbVlno3F1LCYISehkWw0wbs7O9v5kKWsr jkIFu/B9kdUHo+CyzR1fSWmciKYyxsLEWDnH6p4mUhBsTOM36s77ymiq Wq81Ac7Y3W1lbCDbPR9Kz1eRmVfyHETQ3sUeErh6nM6xAn/HQVQpgiK+ 1iWjSRL4ghgCGBWvw0tAE5hQ6mxzCJUQSEI62oaklenkRSW3tlNxiBOq 2zNA+XBl7qsmddf91ZqGUq5NWjA14U6U+o1MkV/ZahXM2Uk2p+SuPq+K yP6gfQ==
-i2v080hamivbnpfp2lc2n8gea394mkft.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 I3H57SFSRD9N62H9DMI4FTVIKJQSFL4R NS
-i2v080hamivbnpfp2lc2n8gea394mkft.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250213102251 20250103220139 17100 fj. CHoIlhxaNRFTnQJ0RpYSffoHHHxR9zPpH7tG7T7JMhwI8T9MIKzHii1b GoHqaY1PGXhPyUHT0jC8fG2fUaNQJihiQA6J7ismGiQrjyA6sHqdysQK l5rWjsdRD4WFW35LBXPIBOHk6WpQIMxAKRNH9UNZQc8wxqeycUcNwmAa D9fv3tzGFckQ9zyFZ6C7mwqkX3DF0ltBbvzSMxTm0VSFIedf8juYNJCg 1p45C2iehUKBfR0k9gdLhSrLj06s+riuJT4fwplY33M9aLwX1Ilgvg3v VSF3J0vQ6oDGHy18PIQnIAiuW0utRsrhONnopi8RfbgoWoVYmlgu0Mir mhNNmg==
+i2v080hamivbnpfp2lc2n8gea394mkft.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 I37I1CA06TRSLHV2O70GR6VDDIL8T2B5 NS
+i2v080hamivbnpfp2lc2n8gea394mkft.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216113712 20250107010131 17100 fj. TyeeDOqAjBbSJ9i81cHRTBPb4e1E/qg9ZEl3Q8D+4kgGCFXvc928VIGD e3jg9KupWkrCKTT3u0xhqZucHTWvc/3UtXfWt6DXY+XZ1bGVN35eF9mn fbjiD5ID67+CbVIxCFrWdkM1eDLUfdOl51O2t3hK8aYokA7KCNo7gwP4 Oy7ffRVp2CGwipdvkxktY5EDeRHOvTE/dEeqrqHDLY4WW8dPIN3/l/dY lD9LiHeMPZcNIa8fkGwwPwJ1anD+B1JbFJfZbeePlm0DBOd1bsdkAjHU C+fyuQgGRB6ukC87MnpEvEnZV/6X1/XoBk5uJdM9BBj6qzQ5S/hksQrw kWpM1Q==
+i37i1ca06trslhv2o70gr6vddil8t2b5.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216012834 20250107010131 17100 fj. Wbi+z+cj8WXxXC8Fxjnf9kBamiMqG/WaCQS30Rq/IEvZyU2wW2SLMCBt cw3zMRVe2HoRXSrRg4+myIK5KN4NK0ZCpW7nzBNBnnzdFKwDV5FkOzAK zMyof1RuvyDn1vvj4/3iiT53ECxfgyA5QyDhHzkUh+QGY45DxXKZ/IGb nWEpOUfy+JFOUgdOV/r/J5cq4CUsH8C4qYFPJK9mzQM00dx+E+i/2vAx moa/BFwxw1vVQlknnzQuv2qrXFWk6pvAoMv3dt410GNsGpGHTZHRuJW1 9HfyOPoWWwZbV4wrkUPRsB3jrlKycvFHuAKervA5jcv4jhKSOWZEDfGl S2w+UA==
+i37i1ca06trslhv2o70gr6vddil8t2b5.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 I3H57SFSRD9N62H9DMI4FTVIKJQSFL4R NS
 i3h57sfsrd9n62h9dmi4ftvikjqsfl4r.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 I3HDD5SM797D9IUOA4NS092CND83MHN3 NS
 i3h57sfsrd9n62h9dmi4ftvikjqsfl4r.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209200028 20241231224425 17100 fj. zBiGHGQafIqYL94fouWJoxTTrzTZfvrmIv1+MX9U0pLmTXDB8HU4ObN2 WLUZrFdyhRPHIYA2NbfelzBCTmORtJ+jbgrtdB4VaA5JL8qojwMKM7G2 1bFnnwrnYJZWxQCjH1xCpc3Zj+//iB87LrhMzxQ6DNgty5oj0ADxt5b9 nqUMpSls/yCv8ds1x3O+J4GnUwYiS7g6sNgo5Tq9HcIqCfJ40IL2LnjE +aQmZy8WpyBj8BLmfUf61HIjj35kjagh/HJ8zfuw6b9Oj33YphCMu46O e8gyrdR2STLFWavkeR74pLLeYRpBbIcFrsW/I6bMm+1zTrxa0qrGrAqL 0DnWYg==
 i3hdd5sm797d9iuoa4ns092cnd83mhn3.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 I3TJ1QNRR3TBI6AEQRRV2O61CHBC2T9K NS
@@ -10131,8 +10185,10 @@ itrk5h8pdpsslubnt6p3f9ah2lkv39hm.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 IU1IRU
 itrk5h8pdpsslubnt6p3f9ah2lkv39hm.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209203953 20241231224425 17100 fj. b+b4R+hOOAs5oyEs+gLmVH1NVll3bVq3NqBRXbbeappkdUehMOSvpG9B ty3NPcqksNJmJ7wzfPw9zi/nNO9SfwQ+0SSxCZjeF5g2ArGb8k7iJ/xU cGIwXM/EMzXP6G9LRy2H8ZfzWeGvE9eZGArG17BAyuxvd5eMTXS8S5au 1XrCwaBNKnO75s9SCaZFD6DGHVxiMGeeu1eB/9E09uKo2UowAODqDoJX LjlDWjwTe68WAZEOhDdg2MnZd3pRGkzRAEP2YxBRvx8VbOD6NhzNWbta o7w7+sHCbyMNvui3XTLgvggCLSYou+umAf5h4LKsNjd8efT4UHrnZQeD T5zySA==
 iu1iruasdd0ba6jaeb4l9fppj2ktpkn7.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 IUKHRGVQRMRI58TOCG0RTN26FCJST89Q NS
 iu1iruasdd0ba6jaeb4l9fppj2ktpkn7.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209224932 20241231224425 17100 fj. kti0OJbkHJOMZaFSjBSXHqZa82umfliqEozxLPpoGHUfGrBz0nVosL+s YgO9y4I+KEiKqadu+XanmSj3SdPG4WSrJxivOCjhGFQLjj+p+FKXKxxa +6cgL2PxF+QTVhXhA2XiXhgK2soztEISiE1TQXQLo83UcExJASwLDJPp TnPP0xgSKSQtjArkDayAKoo0dYufH8eub2mxqEl+mDrb5V9UAQPb5pqH VWqewzm+iNXVGtKb2NgvtD5tGR0oqTWRwYWuQwGUWIbXC50FEfzloIXc 71gCY5+Fmmsk/2MK1jvKzsJqcJZkcLtmF6gPoFY7cRG5BCNcMft/Vp+X +6klDQ==
-iukhrgvqrmri58tocg0rtn26fcjst89q.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 IUO5V9R9Q7NJIHRT2RMNRS4KR757KOC3 NS
-iukhrgvqrmri58tocg0rtn26fcjst89q.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250211203456 20250102220132 17100 fj. rp5zdrvt6p/Qoqnd1fYkXIaiJRhvs+8mA3Jm9PYJ9a2Si1BIGVlECCET 4z9wPYsDO/52LCk9wE72376fLF1XihTOxMB2ZXKTZjFL5X9BUmXSr0oq qqipeSW/a2JdiSNiEs9kkHS5s+3KsOkV34KGnmIhDKgSrTLnDbvFSnLU TaDu9LHVh5xAC8DJOFRG0BTydKC98EPDh7nbYF+kO8VoO+iVlaEHmly4 wYJ4E6xelD0WmSIUk1nM0SNfQPZ4fwDqNKz3E0vxVitaRgriy+MKpC2m 4ZPwizmrS/bdrZAuvXGR3hibxTbV7K/Z/Dk7WOT8o/6/SJduYw4Wallu MI3idw==
+iukhrgvqrmri58tocg0rtn26fcjst89q.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 IUM75I52PAQSTU70C6SMFBABH35IPMG3 NS
+iukhrgvqrmri58tocg0rtn26fcjst89q.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215213634 20250107020138 17100 fj. K8QZA78o6qCc3DO9qgvc7lLubzyo59TbyukZClQF1Szux+L+qmwuXn+t 6B6cDWYjWfFQw9m7cyroCFy5EfP0QoiKVqAy+xzSFYOufljcMNjrsZwp Oks5Q3Ggy5ophrXa01/koddq01iSvCL+4JdDTH9dx06PzaJHmZRNe2Rh QuU9U0s9XtjSWsvg+pfNCZlgxVI4tD3BLZOh40Ogkx3WswtjHMTgU0fW cYfLF8w9Jhc1wpomE+BLpklXjh2O5Z4jnYQcM4uw0Xo+er2O9hVAIZKS eipJsiRS/o+SuGjhoHDsyco27H+1kNZQFaSBRk+k0IwR5qyXnKGRamuk R7Klpw==
+ium75i52paqstu70c6smfbabh35ipmg3.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215172037 20250107020138 17100 fj. 0SCbCt27d565X1QZM0jGDT+rTBzfbouGFn0jZEMRcQioJr0dzUvlHBlD 15wvKXAOakQ6vSBqSakkDjp++8bLB4D/fdqZvtPhcYaR1jaaluEynq09 uqZwCFC6aWJpjGhwbx+F+CT6eQrcOW59oy9UzE0OeA1282DyETNpTtV1 vNKID3sqNfYGSeMtdPguxsSPK4XEuToU62SfIBfAshUtClh7bCGsej5v AXPYpKb6kHj2IyUtiVeKsU+vSBEKngHEnWgI6NjTjfoRpAk0u0dYqYeI 2ZddnM4wYiCep3y/hxl6oBnempLVgccEgr7siH2AhO6cw8ylEzomZM/r fuziDg==
+ium75i52paqstu70c6smfbabh35ipmg3.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 IUO5V9R9Q7NJIHRT2RMNRS4KR757KOC3 NS
 iuo5v9r9q7njihrt2rmnrs4kr757koc3.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 IVCPL0TSET8PHMVMQOQC0G10DE10823U NS
 iuo5v9r9q7njihrt2rmnrs4kr757koc3.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209144314 20241231224425 17100 fj. l1MT0J3JwtRSOK63qyK7s2pTFI37bqbotTKvcs9tX2xH6KERcOpozRHM ni/T5iONFDBxBoHDPOxiTog41buwgkg37KJI+VFi14syNhVkVRw4Yzmg MgEq8v/AXaV4+2dVyNj66lbJCn1OkQrrnp/4fjk6ggTjelnna2TwMNK7 fvM8M8Kl2zjHJgMOVn6mIowFzSfySweOLdfzybEd/1DWGoFbCoDhgLa9 X1CKpI9thmn84ryTqvTbD8CyTMkHsnDii5mU6guttW0kNJRk980oN1SM IGVyFkupedWo8fB/t0Dv9+/67x7TbdIzsdd9qVouKFmV28f2Lz8sQRKt nvGOwQ==
 ivcpl0tset8phmvmqoqc0g10de10823u.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 J070JI4G43C68NP9IFGMTC4PSSU8K3C9 NS
@@ -11407,8 +11463,10 @@ q2tk5r5asc5esd6013ovrb6vp73hdbrb.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 Q39V0K
 q2tk5r5asc5esd6013ovrb6vp73hdbrb.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210080725 20241231224425 17100 fj. kDtpVDC+P11U5rzsK6wOY66os7y4w+a5AK1tofvbgdatfnej0o93WkuP njPj23JZjQKhq2z70uasLbJcTr+qfe83B/53LZoJ5V2aDtpTxVN1OeQj KflTbAo/EGwKiJksxMYvs/dFkBRcFkRGk5KJpkWrOLfpZq5XUUAB+oeY 8ephjWVGBfcnHHgDF48YlJR0/oBQo5lsAnnIq+ZuAnH0u+B/9jyMCNTi a51V19bny10O5MGAY4Ums+jVXf28t7XlIT3zpi8pgL3q8n4Xuy9xRxE9 hf5mhnkKpfssZCe05IO9JTnJ8cVT3Som15AQ/as0/CFz9lNLBg3d2ODH 4/E8Eg==
 q39v0k1ltak0u0tqahoa6m3v4leiqn7q.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 Q3IH4V2D86PT2268IM63PE61R90BIHT8 NS
 q39v0k1ltak0u0tqahoa6m3v4leiqn7q.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209201748 20241231224425 17100 fj. gfLdGjQ1AfElfsN6ah+uIOx+qq+R+OvpTRsSVaEwubykBAfnjUulRmi1 VEr6OcKF+eKClQnKApPXxj8MdaA/wlwdlS3l+Ap73/dDiovjOKDAwFQB vxyJAYhFMKpx0Yo4uu2zAxFU61yVvzBHkSlFEbpS05r3iTVrOP3XPl// nku3iAQbcUBYPlsZPpBzhJ46yiZED3Gzb+ZxGY1nWCiy7Tj2lU9ouVIB khUq+3YrSvXlfcDMoZE6oZhTKYZoFI5pqkEl+xkJkcQESFKIfyKnwcqG B9u9/0GiZNy1jm8I5VlnOcE0h3HHmmVhsmMBjiGGyVoRQ+Y0dz99eOKZ /54rag==
-q3ih4v2d86pt2268im63pe61r90biht8.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 Q4GELCIILETDFMN3PIRPBI3B3U9G7DV8 NS
-q3ih4v2d86pt2268im63pe61r90biht8.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209133946 20241231224425 17100 fj. A2tzsnrqFNvEffWZBbW57riEjJxoonO3EsNpkiYsiQuiSVuewjMeYO/L 8DDb0KjkGdzBuTRbZC/OaeKk8ABy6vGNL2Juor8HSsRXlrQG8JqNbaYI IhsBXla8DOs/BrfZoBcFyvMkzzImJaH00rQFw4auvy0GTSuWyeJSsPch OGj79WSt9ckdI3D58nMTQbgUaOdsOz9Bp9bIC4O+AL6GjcFesMWkir1A J0G1HU1+SW4RQn5IAQ2BxIpfmPOyRQgKQHajw9Q/EuiqUd9lxhlYfQA/ 2qk2hQRlPIUjCBFmK9v0aDZR7lk7GgFEw+v8t57Ln/HZ0QySa0J/1OsH N/PHBQ==
+q3ih4v2d86pt2268im63pe61r90biht8.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 Q3PEBLIO4ECTJ7K7IKN7GR8T3VGSBAAB NS
+q3ih4v2d86pt2268im63pe61r90biht8.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250215122939 20250106220141 17100 fj. BstBPSqsY298ILxQukxAULHqGHfTNTEhSaoOE0/9tfIHfaN1jyLUuk/f 9srQcnFjOYH5V82So2gO8wh4sFpnEHSE7dMadKzMXw2LTCGTEzZy5ldd oYt+pin2VLE/gg+eKrwXlCgrHc3FBp99kQ9p7TndMk8Kz7+ZR9HWAeQN lwL5W2OAU2KGpbRI/ZAwJT+l64ztcVTRHOyIDEp0BfST7OURbs+TM9NY coUrQku8rLN02wWQcgOzjLe3UJjOUskREjFLI/W7/h6Vz7QjLHZaLxzc z9s97dks2TAs5ClmdJp3iuPHT0ttgfBAMXkASPHWYErM/LEVybQm0Yg+ P9VMfA==
+q3peblio4ectj7k7ikn7gr8t3vgsbaab.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216013403 20250106220141 17100 fj. yIroHAEQ8/UOtDvrp/Qv6Gp+mCFu1yhyGnRC20R3nhdta/wN42y9YHem HUIs5/eysKblvs3GD2DUcbEL15OnwrsIn6tScA6/XUR2f0hMBGkOc0a6 nbL3092ftOw+CCkj7Ozal/vWacNMWsBpGOyXL0LfSGTvmY8jpY1rN1AY vOXEp2PoXgYBYJknUkar5R9RfyvOqqiy6iVTKtxRY0oMCH8S9lIuK7tv K962I2CxGobQKbT2NDfSn0TU0ndqhH+aOHOjsO3WgYQgGs485SxJQOkt GuahwyUuQYlmic2AGV3wqpZDNcN1pJjneNsvK7DaADEZfvTb+JKmgnjh fI8oAA==
+q3peblio4ectj7k7ikn7gr8t3vgsbaab.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 Q4GELCIILETDFMN3PIRPBI3B3U9G7DV8 NS
 q4gelciiletdfmn3pirpbi3b3u9g7dv8.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 Q4TN2OE5CKB049EU2HNU19D298395L8G NS
 q4gelciiletdfmn3pirpbi3b3u9g7dv8.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250209183152 20241231224425 17100 fj. Dq4Yq9va1gZLcAt0o5zLWVYXXzg1s+E0Q/VeDXefQO1hF74XsHJoiTyF lcr3LsPv6gvWBeKow5Iz58Hc5uSPlW9nDIHGuZHaJOX0AQrT64FLfknE RxbZfmTdzgFm4zr2U5Lzd5zx20KOJqWSDzyuwQTed0OujoNU5xdw3KK3 U6iRtrjfTceSzslQeXSLCdOTVzIMs+Ejovb0gKK+N5/LZab0XmlTLn2V /En5g/c13c3MF1IqB5Fy12zReHONMCdLEhLTfiAZ+Z5oKBZ5agyAUyZN u4+9gr3e2Gbq9EU5hSp9nblpUGtdHJFvwzafitZzceTHNq1CuJ0xQUN4 1Aas6A==
 q4tn2oe5ckb049eu2hnu19d298395l8g.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 Q51QJEKJOIIGGA4MT8E7IN1ONRRDK8C8 NS
@@ -11715,8 +11773,10 @@ s3rl6tjlbajbu95caamsqei70ta0ge25.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 S3TJL2
 s3rl6tjlbajbu95caamsqei70ta0ge25.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210071645 20241231224425 17100 fj. XilBmWqXS/Dw+pnBvQvx7k0wjmG7cex7luOk+ZkgQKZ6gRQxiLOMe0hs mopepHdXowBjQM1Sp2N+ibYxVKSa3ASuLJVAcZ/6Bbfk+Yr3cJ1g5tD9 01BpHiqwT0nUbG+mgLheYgGmbIQTPYAM/gseb3zxmvw0TcM4Npfi+rNf H0qKfRNHKoJY1ckT0pen5N+fMarqCkar8iZZwuD99YVdZmm7fRfySPSN Xi9hNt9Q5s2o1RSzZwHeTNcyGsVVzb0/2qU8rCIVxu1RYk9lFwkvunEm tog+Z+UmBwx6RI1eTdGSIZZH3jqmBG73poixMeQcbOAdDwk9xRFmGxe5 kCtBww==
 s3tjl2dvts3j0popeg0p11hvs6nsohfs.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 S412HBPCM5C8C51QEFHH1FURV0PKE4HJ NS
 s3tjl2dvts3j0popeg0p11hvs6nsohfs.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210081928 20241231224425 17100 fj. ndOkYEs5Vhe1RcWoZfdab0hyZmy2Nc/6fZ9Wr09pnVl5WfiZbMcI1+Kj Jg5HewwFo3yJ1jOkEUtTYeiHRPqOsa4oPxad/0XPN3Tw3/PPy7tyc36o oJdjruG94aW0kt0jp93rv05vsHFGNr4+cuZXKI6mVdChiecEt76XCmUH CUyf5Wfn/F++vg6Zu36v4SKpLj4bybEFzTr1aR4xWq/bZQxhXZ7Obn1o IA/2vBiBwTGt9alMZ+NEuM9c9CR3sRwMqkyNJORZUH1vPBaLArZXfpvv wwXkWHeaguwBYG6OTvRBU+daldtt6QxVbNueoMF54tXV7jBtT9SY+wNI JPBRVw==
-s412hbpcm5c8c51qefhh1furv0pke4hj.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 S4E7LAUN5BE24TI449OHQAATP8UPQIQS NS
-s412hbpcm5c8c51qefhh1furv0pke4hj.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250211193900 20250102220132 17100 fj. HXdu3hcegmMHwr2SQ9E68A6G7NLBs53DR/nRVSqAPa8OArg+4hYSLTE3 rhXkuiHVaCPYculxRTEpNECc2KMi+XDAjxC/HhpJnvq6TKdXu+9np8Jz qfGAXNzuTB62OUXhkUPFBsOHUb4jjbBrl6SjOJVPGRldAm3petHLLEKU SF2Sf+Jl4NyImY5qNt4Y8cUH5beZAkf53QwQ1lTy6Kgckjyc9PVVUZr2 5PqM0YscCimQtL1vVIyk1Rr5NCz8O+YK8FyBHHo/Tz0tBmMszMtWm20q lTg1F1rsPrs/7fq10Gx++0e82UeskEA+gPrprXHXVpz97XDMlwPLwvtQ SmY3jA==
+s412hbpcm5c8c51qefhh1furv0pke4hj.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 S4D651144N1GNGU3KC5N1TM6E682RESN NS
+s412hbpcm5c8c51qefhh1furv0pke4hj.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216071308 20250107020138 17100 fj. ISmkAaCkaIZZAXPNnMwiJqXLlAWXTcJFseLdYyhB0Wfj3FeKpK5WX/KH KLLMNDuFQHsEJqyLtHi3CcFF4Hw5b7La4KJcGxoKbmoXeC80TF/w1nSi iWpVA6oiHMM9tAOE6cZimJIyTza7ZJkATP2LvsdSOXeqdo5r7H/rCq6h IE6wFs7O6XGwQq1GpS89wC1Xr5A4JayDIh6ox/OGOK0TEuipgmcTVmBL BUG6UfEsUgoIVkevjDqB/doF/GDDuJ6s9iUb80g2RLuBg/fkGgpNoCgB SS8G66pZhhzjUivPsOdz1u1ZkNMqha8x0bs+f3vQu5kmxVDqBVP6PYb2 vosucg==
+s4d651144n1gngu3kc5n1tm6e682resn.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216131216 20250107020138 17100 fj. EyIcyUu/hHw/WoSJK0ZTVTLziUJB7wZJq8Sk9GZ59hPw4DrEGhHafMrk 5HsKvwhqrJHWr+4+C2QFQeZT9SAIJobkHKNcWMbI9H/uKsVyLcioAkfw CQHQZBRko6E7IasUeNrQ8hgJ23ttqj39CK0D7PO0821epf6RpY5enj7P 0T83I1nErTRilHk5jUskp7pXTn4NPRZWj550JVTBssbn5Feo43GnSNfr 9c+w7wyEeCI8PFiDJ2hpMK9siK/IXAdJ7T3rPmLEP5l97OQwU4xdNqLN xxx3gAHXE4ojnL/geZXwirzFjM/RSWQIOsRMc7MN1wUkXVkw99V1ZCu5 qIF/Lw==
+s4d651144n1gngu3kc5n1tm6e682resn.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 S4E7LAUN5BE24TI449OHQAATP8UPQIQS NS
 s4e7laun5be24ti449ohqaatp8upqiqs.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 S4M50EGI08IFUO9TBNGHG595NVRAUK0B
 s4e7laun5be24ti449ohqaatp8upqiqs.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210053948 20241231224425 17100 fj. jZ0TESfyzOcX+mu04NUJc9lARApK3mc0QZ70rnoLKZFsMg7oaAUz8IYb XKsTzC4mZK7Q/OhxjNHnNJ/vUsRVHicT7sf28ogA0eGMduxR/6tbZOm0 t4TkDaFHlcLZeaQ217acqbO+cZWRRbu9JuUkl5uWlyKNcAH5KmrQ7vO/ Cgu+bkkFrRbBhqpFIJZ8C0wrURkkN7XN0EEtmELlWslzrsMgjQh1UVYe DrSu0bpnXYocbJo1QQzZK/x52sRJOMR9ym0opfWMwnwaD1RuPXsjCVKD Jrhnrk1Ybxq/UEWqW7R4yCNIHAvMcFupm2tRwBQyjxiRqYtsjvHdtoSm VEryCA==
 s4m50egi08ifuo9tbnghg595nvrauk0b.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 S4O6E4C8KLM5DU2152EHIKFK58GAGU6A NS
@@ -11815,8 +11875,10 @@ si4uh4ke1u72brlff735hd4mltl1luo1.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250212174916
 si4uh4ke1u72brlff735hd4mltl1luo1.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 SI8G7296SQJK6E7DKSKSU4KQIIO1SAKQ NS
 si8g7296sqjk6e7dksksu4kqiio1sakq.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 SI8M5H1EMV6BMNUPUPISO2A53QPCQNNA NS
 si8g7296sqjk6e7dksksu4kqiio1sakq.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210062439 20241231224425 17100 fj. DYHceFktDqPUWMcZ3R5dvJRtsHAEa4vCZyD7a2LdoTBHjNSk3+l2YJMJ QMa/zF6lbShZBgbYrEmckiOCVx48RXYUVQGwXrRBDIJD+7w8Ea9XwbW1 brGrI4N5G5prXZGl5zkZAERUKTQRabeZ/G37gjspxgpU3V9Fpnl9sJjU t9Ai7xAwgwPSrRLIsOk7q0dmB5Pg3hGJ/B9dIpijUEJfJuBVdetvxBr3 bJvOjD/wG/OJbzIb66CoB27A/S4l6XGCXf5QsHjKiXOhp4Ejy2iM810V nqY47afTr3+1rIg0ux4/VBlgbDtyI3HhilvDdYmqiC2lez5F2YanoNJd FfmA7Q==
-si8m5h1emv6bmnupupiso2a53qpcqnna.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 SJM190OOH5QKM4S63FK4DLUQU4OJR81M NS
-si8m5h1emv6bmnupupiso2a53qpcqnna.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210035604 20241231224425 17100 fj. eDHT0IY/Ct5U59oZPZV5ZPkyNvCAZFqPR3vDzY1ZTB+9vQUE1+8bY1z3 LO69k0iOCDEB7usd/TDwHwkQhjmno1jxkrvCBQQfGEzjqPdQnTcYpkwF fa1KNZCAuIyPT8LVhwz0b9pDWVnf00isxun7aOEoLDl1/On6eE6ajsz4 hHZDwqTgJRqyXMtQWBmQvd56dEa0I/39aMAyNg9DQgmEoYQbKyIb+Rdr JBnwmoVNDICZygj5X7xY3IntdRN8iOkri7h8hxy19w8dWu18vNuHQ5Th Jyi4NqBSzelw1CSHjUEm4GhfNOsV9nLDz7j3u+Ptv4J18IkHp1G5dTO5 AjjMsQ==
+si8m5h1emv6bmnupupiso2a53qpcqnna.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 SIEKIKTLL4TO4QUEBQ87J262OLOHTRFJ NS
+si8m5h1emv6bmnupupiso2a53qpcqnna.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216032907 20250106230143 17100 fj. CJkibt71Ghwjywa+Rb2mHbaBt+BF5gpPkH8wtoPhKDgz0l5qlRqXVy5J zraqK+gjkNreLrE+Ix7ITgeQwQmgP0CMFLVmGPdVrC8piOSIeoWqEiAa P00Hmf1tAJTWyV1g2X+bN3t1EHEx3aDkLhyjBCwJXDlfguWIdkrI+lgi ngup6t3ozxlfmDPHaAP/1KtKJIjjnECVUO11o94EV5jhn1DidVkq8a73 C0TyY84ov0Jt0T2hvpljzqrBHRFyFM4qUqgsDFJMiZmGfy0jJeV/CrkF WxrN1mfBn+RPvJwqlQqOMrR2ToTMUHuDn9WFFt1/FMRR3u8kBeB5mGgd fhBLjw==
+siekiktll4to4quebq87j262olohtrfj.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250216004425 20250106230143 17100 fj. G6WYZUpzYZW14RqbGJncAsM0zuOmeif5NQopAsohCFDjUGtCi65t65uD WSlOh7pwbxFVs5n9ui/g/u4JY1xe4Q2RlBEVjibqwp7DHmaJVuGyfLg+ +qB3uD8SwbV6rih9njWDSczgITSUNRApdX1O/Lis/6NLuC4vN/zXMETe GeyvUll4QAvZaWLmc8BE4UsbSASyzYzQdwhEB0bgl6fzhjS9uq0jVlir If2Xhnxdk6hjoNqQ4DQRjbdesDBRt241iowFRlxC4MXw/wt6kedqR4Kg 3XMg6N/0X7Gn2x2YE2VQvYtTJz3QUjGF3X8yHzswmzxqUFDribY3+6rw W9qIcg==
+siekiktll4to4quebq87j262olohtrfj.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 SJM190OOH5QKM4S63FK4DLUQU4OJR81M NS
 sjm190ooh5qkm4s63fk4dluqu4ojr81m.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 SL87CHK9DBMMVOV8HRGC2SNP0GQB0VP8 NS
 sjm190ooh5qkm4s63fk4dluqu4ojr81m.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210024004 20241231224425 17100 fj. eTnDD8drVRiBpcUqFrZ7WbSiszE/idaG4LwsW0wmO5ThU9CkM5D4InG+ jaw7HRLkxC2DAoD/Y88JmSxOTfb8UTmnjHxSgSoi1gCw3cReY7CeQrwi 8eNcMmiVCd7QvDWFQ9XI5E2OzNjh9QOqmpl2Dm+5rqgK8NGBFiEPNWLr kuuIChS/iN8sPUJR53FMTydsYRZ7rak94e7VFg+7yScm7LStrUvEiEcv +OtQaejotyBl6aiZLjL/zPc6c6TpY73ZZ0gm9uNvYenak1NPu2h2Wn71 83rlCfWZTrRfmtaMyAdMt7Lk8J1Q/YN8IZNEUPWDij0aE9PZgWiBt0U2 kA/n5Q==
 sl87chk9dbmmvov8hrgc2snp0gqb0vp8.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 SLK1BG7TLNNVA35BC3A05IKOFB3KRBSB NS
@@ -12433,4 +12495,4 @@ vvijvi350phielnael9j924f1hovpdvc.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 VVNOA3
 vvijvi350phielnael9j924f1hovpdvc.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210074306 20241231224425 17100 fj. L9y5K4z1A64yJg4xIJQMvCRLGbdo+j5RMMYSBr6pEGzWfUrnDbPyJUWj J5hT5B+SAxYPNi81zpjVRdOjzzcec7NSKM/RyTvERZTkZR/g5qgR+zPi PEOCkb/chpzNhXWgFWIYvPHhYqY197jHKq1rbPH4AiMf9jcxRB6DUX8N jYNtAUUqaccozBd2YZe3c1vb5IOJq8Nxyw/yCh9IaLXUtyM1cMXOXfdP yvgN8GdxprViDxzmY40iLh/bwC7aDAs0nNJuel1hULFq0Rlk1bg3Y2FK doW0pxO+I6nB47BsC2t7m/Zze5BALhydipFK9KpeqROMXK2Te9XLMXWA G04DoQ==
 vvnoa3ht3k1598bgl9oaspj7l1kpohal.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 0050LD0MKUEDH9M224UADR401VE72TPF NS
 vvnoa3ht3k1598bgl9oaspj7l1kpohal.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250210070435 20241231224425 17100 fj. vlj267PeOn4bs0bmgkSjxqaiFljpQzDrb+BvGbiuo5aLJe3XXXu969tS y/jE5CqRmKEYA7/q9jqU1hVcBmhAD7lHgaTzt7NN1n4Q2Ehzsx9lj3z4 q/uSDcU67rVlanv+6jYeRXFG1gCKQISjaQVhI7z9aA1NRaqer4dX4L7H tjzBSMI5Z59sFegEgf0t7g5sYeF4C5+1enQrsGZr/QRr1iW6Wft7kFPX FoQY3FSkv0lhstHmIAxgKFaF0FExI/3WdcbxqvQUxePgZazITuZqoFDk WNK0kiFJD/4EwL7m7Ozg9T3YpQnaUdNpMJTxbyjANuoptJjFVrzwiau+ fxkfNw==
-fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2025010711 21600 3600 1209600 3600
+fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2025010717 21600 3600 1209600 3600
