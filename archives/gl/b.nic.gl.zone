@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157151 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. Q9jVET4V/c8l/ErGias+QMcNGbGN0WYY9Mdlkz5vF2/W2MeK/vq8Ehjj r56fmFg126oSQe2SwLfoHh3CXgCM0a9UyC1eDXJoK+OsT58VGr4MnOSF vfcS5WkXQemH2va22+sGuG4TqhjzFSI9r1s1WOGVSQTjPZI08pB97lX7 8qYxmd7Pu7HrkN6Ita7hPmvp9C+Hu9RRYCmCfoWI1JycxIo5Bo00w8No /pL+zCYEk7TCiJm2Hq5omjLCEoKH65u8+DzMJ2CS/iR80klJY25nxxN1 FMCa/u1iK8T1+UETmABtwjRO7Y+ZMedCABYnDSgWTvAWy/E9HKApXUyA UQon7w==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157161 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. b/DPu/AgGne40I/xf/b9bKpIMo+ee3TjBZIznYuvLmEmS4lbmn1gIZ/h T+zOmnIQ8pFxxdLT8CFFst72md7UirevxKBCc5vwDXqTY9GoeLwOUC8Z 3lk9gu5FxkZJ080+/7atjYntsFyGEnKE8QB6gaEXYC421NGvnpccHJl1 pkQc3gQK7MkjVeSZJLjku3v5/CE/f6qfx5fEfejvsxO5UZ2tfGzgM8zm LEYeYGKr89g0by5Xi8wpaeUprTsty2uiURn2JqZ2oI2PjwwOLyf+48i5 gQVbM9oKmJ2MJANuHWW/4UmT1CFlFwBki45t9mSoxCvh1YhVGMMM993M nOp7og==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -12783,10 +12783,10 @@ mrvegas.gl.		3600	IN	NS	ns1.dnshost.net.
 mrvegas.gl.		3600	IN	NS	ns2.dnshost.net.
 ms.gl.			3600	IN	NS	ns1.siteground.net.
 ms.gl.			3600	IN	NS	ns2.siteground.net.
-msd.gl.			3600	IN	NS	ns6.customer.level3.net.
-msd.gl.			3600	IN	NS	ns9.customer.level3.net.
-msd.gl.			3600	IN	NS	cbru.br.ns.els-gms.att.net.
-msd.gl.			3600	IN	NS	cmtu.mt.ns.els-gms.att.net.
+msd.gl.			3600	IN	NS	dns1.p03.nsone.net.
+msd.gl.			3600	IN	NS	dns2.p03.nsone.net.
+msd.gl.			3600	IN	NS	dns3.p03.nsone.net.
+msd.gl.			3600	IN	NS	dns4.p03.nsone.net.
 msgreymatters.gl.	3600	IN	NS	ns1.bms.com.
 msgreymatters.gl.	3600	IN	NS	ns2.bms.com.
 msgreymatters.gl.	3600	IN	NS	ns3.bms.com.
@@ -16833,11 +16833,8 @@ realkompetencer.gl.	3600	IN	NS	ns3.nordicway.dk.
 realkompetencer.gl.	3600	IN	NS	ns4.nordicway.dk.
 rectan.gl.		3600	IN	NS	damien.ns.cloudflare.com.
 rectan.gl.		3600	IN	NS	dorthy.ns.cloudflare.com.
-redbarnet.gl.		3600	IN	NS	ns1.gigahost.dk.
-redbarnet.gl.		3600	IN	NS	ns2.gigahost.dk.
-redbarnet.gl.		3600	IN	NS	ns3.gigahost.dk.
-redbarnet.gl.		3600	IN	NS	ns4.gigahost.dk.
-redbarnet.gl.		3600	IN	NS	ns5.gigahost.dk.
+redbarnet.gl.		3600	IN	NS	betty.ns.cloudflare.com.
+redbarnet.gl.		3600	IN	NS	simon.ns.cloudflare.com.
 redbull.gl.		3600	IN	NS	pdns91.ultradns.biz.
 redbull.gl.		3600	IN	NS	pdns91.ultradns.com.
 redbull.gl.		3600	IN	NS	pdns91.ultradns.net.
@@ -23220,4 +23217,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157151 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157161 900 1800 6048000 3600
