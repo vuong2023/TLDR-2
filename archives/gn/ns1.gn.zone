@@ -1,3 +1,9 @@
+;; Connection to 41.77.190.237#53(41.77.190.237) for gn. failed: timed out.
+;; no servers could be reached
+
+;; Connection to 41.77.190.237#53(41.77.190.237) for gn. failed: timed out.
+;; no servers could be reached
+
 gn.			14400	IN	SOA	ns1.gn. hostmaster.ande.gov.gn. 2025011030 86400 3600 2592000 14400
 gn.			14400	IN	TXT	"Generation Time: 1736519414"
 gn.			14400	IN	RRSIG	TXT 8 1 14400 20250124143015 20250110130015 24288 gn. PCeGS3jOfaz3NAzl1yVDQZOoEnxbmQQ0eaK76QT5cQ1pZ//vzgjJlnlj lkg7bE6q8Ryqs1g12kByrPoxM8Nndwu6f7xsgFjBFnNbIwtjfHuOSKuv 1HyatThRXtQFU3RLGrqfj5Q5aqOl2CYRbMRyBYd1E4OIaDYwbe2J8TBY sHg+dLRf2mpaTrHSVFBw8j3pmQD5NL4LbDPQUUA+u2GoFh6tG1156BVJ YaEaKBX/rcMzfRJfJ+UZLw4go0U8kiDd7sr5YUnBY7CrAM7ekfEOPbMP w7QutPP+kXxERYJu+wKYBPqJS+NOxJvx+0Ryp9SNF0yYH9UYQMUPlDBF 4Hvekw==
