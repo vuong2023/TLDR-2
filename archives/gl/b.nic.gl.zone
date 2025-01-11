@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157262 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. Dw2gsrRTesmVSb/CebqF5/JnISMYZrLrRPrkvZ0aelSKVi3zcj6zW+UR vrcOgw/WBJN4ULBXjNiyeze6B0Dm1L3Y1oM+40N4fvIliLX2dLvDWqJ+ 229yIHV4m2aPBXwLNX/rp3fQ3x+Mu4KvZ43yHbVwa8lXmjUNJbFDOVJ1 +SyDwgnPbmwF4nJ/gYWvyvDgcSVn3rCnFNBs2SSzwlT75LWrqvl7JF/4 nzuDftjcLYaLs+Hlei9Eg0LFAch2ZI9hqfNS0eRxd9kI9gjo1duPWKCk w9gnaYTGs+CUzoOdVibSZnVDVK5B/eYz9sUHHAqMHhckMmt8t/iXvcle CDjlrg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157265 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. IwXYsLs1G+5ueQnoLf+aUlYG54jCv6xnkZF0R68SIPeKK76UNjwGVmQN Uj1LFwhd2ZTw76OyyrxIekCQS8KxP7EHi/LEWXrsCx5xWCVzHs1OsR/p 9c4/kmcS4Jl3hJ8P8ag3kk6RwtviK9n4y+mCMId2G1968xivItQkZoZf 9GgQIl99i3zGsjS/XhwkPz/JqHwT1c2wdhT33/COyOexspHzUZMBWGft AQ3+/5gUbQOrxUYMu7921crFssJbHyBKlbh9E/4+ANWxZwt/+63PPvs8 ChhruT1+krUUbdzFqIdKU2drWEMBRzYiIdyRsZ0CmhHRJZJncZDLCO1j gZczwg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -8063,6 +8063,10 @@ d.hosting.gl.		3600	IN	A	185.136.99.219
 d.hosting.gl.		3600	IN	AAAA	2a06:fb00:1::4:219
 hostix.gl.		3600	IN	NS	ns.hostix.de.
 hostix.gl.		3600	IN	NS	ns2.hostix.de.
+hot.gl.			3600	IN	NS	dns1.p03.nsone.net.
+hot.gl.			3600	IN	NS	dns2.p03.nsone.net.
+hot.gl.			3600	IN	NS	dns3.p03.nsone.net.
+hot.gl.			3600	IN	NS	dns4.p03.nsone.net.
 hotel-arctic.gl.	3600	IN	NS	ns1.eurodns.com.
 hotel-arctic.gl.	3600	IN	NS	ns2.eurodns.com.
 hotel-arctic.gl.	3600	IN	NS	ns3.eurodns.com.
@@ -19967,6 +19971,8 @@ treuhand.gl.		3600	IN	NS	ns91.tophost.ch.
 treuhand.gl.		3600	IN	NS	ns92.tophost.ch.
 trian.gl.		3600	IN	NS	ns1.afternic.com.
 trian.gl.		3600	IN	NS	ns2.afternic.com.
+trip.gl.		3600	IN	NS	ns1-coming-soon.sav.com.
+trip.gl.		3600	IN	NS	ns2-coming-soon.sav.com.
 trivago.gl.		3600	IN	NS	pdns1.ultradns.net.
 trivago.gl.		3600	IN	NS	pdns2.ultradns.net.
 trivago.gl.		3600	IN	NS	pdns3.ultradns.org.
@@ -23246,4 +23252,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157262 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157265 900 1800 6048000 3600
