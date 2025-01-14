@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025011311 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025011405 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1736802179"
+ps.			86400	IN	TXT	"Generation Time: 1736845411"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -1305,6 +1305,9 @@ almadina.ps.		86400	IN	NS	ns13.nepras.net.
 almadina.ps.		86400	IN	NS	ns14.nepras.net.
 almadinaclub.ps.	86400	IN	NS	ns1.super-host.ps.
 almadinaclub.ps.	86400	IN	NS	ns2.super-host.ps.
+almadinah.ps.		86400	IN	NS	ns1.sederhost.com.
+almadinah.ps.		86400	IN	NS	ns2.sederhost.com.
+almadinah.ps.		86400	IN	NS	ns3.sederhost.com.
 almadinatv.ps.		86400	IN	NS	ns1.networksolutions.com.
 almadinatv.ps.		86400	IN	NS	ns2.networksolutions.com.
 almahal.ps.		86400	IN	NS	ns1.supercp.com.
@@ -10468,6 +10471,10 @@ mehr.ps.		86400	IN	NS	ns2.netim.net.
 mehr.ps.		86400	IN	NS	ns3.netim.net.
 mehr.ps.		86400	IN	NS	ns4.netim.net.
 mehr.ps.		86400	IN	NS	ns5.netim.net.
+meithalun.ps.		86400	IN	NS	ns-406.awsdns-50.com.
+meithalun.ps.		86400	IN	NS	ns-587.awsdns-09.net.
+meithalun.ps.		86400	IN	NS	ns-1098.awsdns-09.org.
+meithalun.ps.		86400	IN	NS	ns-2046.awsdns-63.co.uk.
 mela.ps.		86400	IN	NS	ns1.contabo.net.
 mela.ps.		86400	IN	NS	ns2.contabo.net.
 mela.ps.		86400	IN	NS	ns3.contabo.net.
@@ -12822,11 +12829,11 @@ paltelfoundation.ps.	86400	IN	NS	ns-cloud-c1.googledomains.com.
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c2.googledomains.com.
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c3.googledomains.com.
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c4.googledomains.com.
-paltelgroup.ps.		86400	IN	DS	50044 13 2 AC2016C79868DD2BBDDD9525CA58E33E0D752E049BF399F4A53532E2 41D38DAF
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c1.googledomains.com.
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c2.googledomains.com.
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c3.googledomains.com.
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c4.googledomains.com.
+paltelgroup.ps.		86400	IN	DS	50044 13 2 AC2016C79868DD2BBDDD9525CA58E33E0D752E049BF399F4A53532E2 41D38DAF
 paltellight.ps.		86400	IN	NS	ns.paltel.net.
 paltellight.ps.		86400	IN	NS	dns.paltel.net.
 paltellight.ps.		86400	IN	NS	gns.paltel.net.
@@ -18803,4 +18810,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025011311 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025011405 86400 7200 3600000 172800
