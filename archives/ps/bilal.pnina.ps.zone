@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025011510 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025011605 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1736967800"
+ps.			86400	IN	TXT	"Generation Time: 1737018183"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -9254,6 +9254,8 @@ kma-institute.ps.	86400	IN	NS	ns1.zone.ps.
 kma-institute.ps.	86400	IN	NS	ns2.zone.ps.
 kmail.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 kmail.ps.		86400	IN	NS	ns2.injazatcloud.ps.
+kmarketing.ps.		86400	IN	NS	ns1.zone.ps.
+kmarketing.ps.		86400	IN	NS	ns2.zone.ps.
 kmax.ps.		86400	IN	NS	ns60.mistrosoft.org.
 kmax.ps.		86400	IN	NS	ns61.mistrosoft.org.
 kmg.ps.			86400	IN	NS	ns17.domaincontrol.com.
@@ -17841,6 +17843,8 @@ vienna.ps.		86400	IN	NS	cdns1.hadara.ps.
 vienna.ps.		86400	IN	NS	cdns2.hadara.ps.
 viennahotel.ps.		86400	IN	NS	ns1.dns-parking.com.
 viennahotel.ps.		86400	IN	NS	ns2.dns-parking.com.
+viet69.ps.		86400	IN	NS	sid.ns.cloudflare.com.
+viet69.ps.		86400	IN	NS	robin.ns.cloudflare.com.
 view.ps.		86400	IN	NS	ns1.leg-des.com.
 view.ps.		86400	IN	NS	ns2.leg-des.com.
 viewarts.ps.		86400	IN	NS	ns1.leg-des.com.
@@ -18818,4 +18822,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025011510 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025011605 86400 7200 3600000 172800
