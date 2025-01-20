@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025011906 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025011909 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1737284511"
+ps.			86400	IN	TXT	"Generation Time: 1737306104"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -8461,6 +8461,8 @@ islamionline.ps.	86400	IN	NS	ns3-04.azure-dns.org.
 islamionline.ps.	86400	IN	NS	ns4-04.azure-dns.info.
 islamzco.ps.		86400	IN	NS	cdns1.hadara.ps.
 islamzco.ps.		86400	IN	NS	cdns2.hadara.ps.
+isnad.ps.		86400	IN	NS	ines.ns.cloudflare.com.
+isnad.ps.		86400	IN	NS	norm.ns.cloudflare.com.
 isoc.ps.		86400	IN	NS	vera.ns.cloudflare.com.
 isoc.ps.		86400	IN	NS	dylan.ns.cloudflare.com.
 isoft.ps.		86400	IN	NS	ns1.thcservers.com.
@@ -11693,6 +11695,9 @@ nextshop.ps.		86400	IN	NS	dns1.ngn.ps.
 nextshop.ps.		86400	IN	NS	dns2.ngn.ps.
 nextwave.ps.		86400	IN	NS	cdns1.hadara.ps.
 nextwave.ps.		86400	IN	NS	cdns2.hadara.ps.
+nexus.ps.		86400	IN	NS	1-you.njalla.no.
+nexus.ps.		86400	IN	NS	2-can.njalla.in.
+nexus.ps.		86400	IN	NS	3-get.njalla.fo.
 nftstam.ps.		86400	IN	NS	ns01.hostnet.nl.
 nftstam.ps.		86400	IN	NS	ns02.hostnet.nl.
 ngchamber.ps.		86400	IN	NS	ns1.atyaf.co.
@@ -12680,6 +12685,8 @@ palgov.ps.		86400	IN	NS	dns4.pna.ps.
 palgov.ps.		86400	IN	NS	dns5.gov.ps.
 palgraph.ps.		86400	IN	NS	ns1.contabo.net.
 palgraph.ps.		86400	IN	NS	ns2.contabo.net.
+palgroup.ps.		86400	IN	NS	desi.ns.cloudflare.com.
+palgroup.ps.		86400	IN	NS	norm.ns.cloudflare.com.
 palgum.ps.		86400	IN	NS	gail.ns.cloudflare.com.
 palgum.ps.		86400	IN	NS	norm.ns.cloudflare.com.
 palhadath.ps.		86400	IN	NS	erin.ns.cloudflare.com.
@@ -13938,6 +13945,8 @@ puretech.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 puretech.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 purex.ps.		86400	IN	NS	dns1.ngn.ps.
 purex.ps.		86400	IN	NS	dns2.ngn.ps.
+purple.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+purple.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 purpose.ps.		86400	IN	NS	ns1.biscloud.ps.
 purpose.ps.		86400	IN	NS	ns2.biscloud.ps.
 pusf.ps.		86400	IN	NS	ns1-panda.dl-cms.com.
@@ -18835,4 +18844,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025011906 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025011909 86400 7200 3600000 172800
