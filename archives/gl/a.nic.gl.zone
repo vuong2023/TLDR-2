@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157847 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. VwgBTncYADt/6fSvPBAu8kPMe4tAScTcA14KttGRPm729ZVN4khSy7de N18XCTI1mMqUqj5ZgNRL4W9QLNgKvo7OvUz1kPqQguVGOcS+t6RSMyT6 nkrQR1FZccLu3/xHQzCdjRtr9Ab5BmHvI3YrFSMEEAQ3uOvSLrT+3ns8 6C+QBtFRGHl0z24Vg9o+zJ1BzNSX9KTp84+iLE4O+NvZcMkF+s6I3BDm dNdItp7wpLNI4g58b+flSXAdSZmcN1WpwWSrgX2bAzK0SVYw9nABCyS6 Ta3yTjeBC7LDOCf5D4gWeVCEUdoCmDTuBY2tXBWQrKdqJWoOpwTNWv9j MWpwLw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157853 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. BX+N2onImr3hZdz6H4GQM5LkICJdKa2CbqtzAKijar/BkMBn1NqlJdsJ xXUJDFXczqRg+qkhD74SyWmkAdhbfoxaSmgj3PZ88u7bClQceHVJ1HUd F8s9EP+aKqtTl7nD6J5JxoMObAK7Qw6YsMSpco25uQAAZRva9icwV7RN +C9987IJFCbiGN9vWBB90bNdFT47A/2/1fap8XhftC0j46mPWn+YoVjh I8VBgGvCMJG3mfoXwUf9enF4Xd25ZiZLcu2j2A8Ubgc+bxHHgkvZYocn L/jpPVd/bL/JDZIEldWBGcxw0z8yE8xyjimacS+nL9lbmVesqp7v7ORk 9vhoYw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1842,6 +1842,8 @@ asg.gl.			3600	IN	NS	a.hosting.gl.
 asg.gl.			3600	IN	NS	b.hosting.gl.
 asg.gl.			3600	IN	NS	c.hosting.gl.
 asg.gl.			3600	IN	NS	d.hosting.gl.
+asggaerasg.gl.		3600	IN	NS	ns1.curanet.dk.
+asggaerasg.gl.		3600	IN	NS	ns2.curanet.dk.
 asiaq.gl.		3600	IN	NS	ns1.modulo.gl.
 asiaq.gl.		3600	IN	NS	ns2.modulo.gl.
 asiaq.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -2077,6 +2079,8 @@ avani.gl.		3600	IN	NS	ns2.gigahost.dk.
 avani.gl.		3600	IN	NS	ns3.gigahost.dk.
 avannaa.gl.		3600	IN	NS	ns1.kimik-it.gl.
 avannaa.gl.		3600	IN	NS	ns2.kimik-it.gl.
+avannaaarcticgames.gl.	3600	IN	NS	ns1.curanet.dk.
+avannaaarcticgames.gl.	3600	IN	NS	ns2.curanet.dk.
 avannaani.gl.		3600	IN	NS	ns1.modulo.gl.
 avannaani.gl.		3600	IN	NS	ns2.modulo.gl.
 avannaani.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -18809,6 +18813,8 @@ startv.gl.		3600	IN	NS	dns1.cscdns.net.
 startv.gl.		3600	IN	NS	dns2.cscdns.net.
 stashpartick.gl.	3600	IN	NS	ns1.bluehost.in.
 stashpartick.gl.	3600	IN	NS	ns2.bluehost.in.
+stashpatric.gl.		3600	IN	NS	ns1.hosting.reg.ru.
+stashpatric.gl.		3600	IN	NS	ns2.hosting.reg.ru.
 stashpatrick.gl.	3600	IN	NS	uma.ns.cloudflare.com.
 stashpatrick.gl.	3600	IN	NS	nash.ns.cloudflare.com.
 stashpatricks.gl.	3600	IN	NS	ns3.my-ndns.com.
@@ -23370,4 +23376,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157847 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157853 900 1800 6048000 3600
