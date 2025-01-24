@@ -6806,8 +6806,8 @@ h.nic.es.		172800	IN	A	194.0.33.53
 h.nic.es.		172800	IN	AAAA	2001:678:40::53
 ad.ns.nic.es.		172800	IN	A	194.69.254.15
 ad.ns.nic.es.		172800	IN	AAAA	2001:67c:21cc:2000::64:47
-cat.ns.nic.es.		172800	IN	AAAA	2001:67c:21cc:2000::64:47
 cat.ns.nic.es.		172800	IN	A	194.69.254.15
+cat.ns.nic.es.		172800	IN	AAAA	2001:67c:21cc:2000::64:47
 esq.			172800	IN	NS	ns-tld1.charlestonroadregistry.com.
 esq.			172800	IN	NS	ns-tld2.charlestonroadregistry.com.
 esq.			172800	IN	NS	ns-tld3.charlestonroadregistry.com.
