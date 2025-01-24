@@ -886,6 +886,10 @@ fredperry.mp.		3600	IN	NS	ns5.markmonitor.com.
 fredperry.mp.		3600	IN	NS	ns6.markmonitor.com.
 fredperry.mp.		3600	IN	NS	NS7.markmonitor.com.
 fredperry.mp.		3600	IN	NS	ns1.markmonitor.com.
+freestreams-live.mp.	3600	IN	NS	pns61.cloudns.net.
+freestreams-live.mp.	3600	IN	NS	pns62.cloudns.com.
+freestreams-live.mp.	3600	IN	NS	pns63.cloudns.net.
+freestreams-live.mp.	3600	IN	NS	pns64.cloudns.uk.
 freseniusmedicalcare.mp. 3600	IN	NS	ns1.markmonitor.com.
 freseniusmedicalcare.mp. 3600	IN	NS	ns2.markmonitor.com.
 freseniusmedicalcare.mp. 3600	IN	NS	ns3.markmonitor.com.
@@ -2145,6 +2149,8 @@ troweprice.mp.		3600	IN	NS	edns1.ultradns.net.
 troweprice.mp.		3600	IN	NS	edns1.ultradns.org.
 truckers.mp.		3600	IN	NS	jobs.ns.cloudflare.com.
 truckers.mp.		3600	IN	NS	ruth.ns.cloudflare.com.
+trump.mp.		3600	IN	NS	ns1.sedoparking.com.
+trump.mp.		3600	IN	NS	ns2.sedoparking.com.
 trumpet.mp.		3600	IN	NS	ns1.dreamhost.com.
 trumpet.mp.		3600	IN	NS	ns2.dreamhost.com.
 trumpet.mp.		3600	IN	NS	ns3.dreamhost.com.
@@ -2322,11 +2328,11 @@ wizardshop.mp.		3600	IN	NS	c.dnspod.com.
 womp-wo.mp.		3600	IN	NS	miguel.ns.cloudflare.com.
 womp-wo.mp.		3600	IN	NS	olga.ns.cloudflare.com.
 wordju.mp.		3600	IN	NS	NS10.DNSMADEEASY.com.
-wordju.mp.		3600	IN	NS	NS11.DNSMADEEASY.COM.
-wordju.mp.		3600	IN	NS	NS12.DNSMADEEASY.COM.
-wordju.mp.		3600	IN	NS	NS13.DNSMADEEASY.COM.
-wordju.mp.		3600	IN	NS	NS14.DNSMADEEASY.COM.
-wordju.mp.		3600	IN	NS	NS15.DNSMADEEASY.COM.
+wordju.mp.		3600	IN	NS	NS11.DNSMADEEASY.com.
+wordju.mp.		3600	IN	NS	NS12.DNSMADEEASY.com.
+wordju.mp.		3600	IN	NS	NS13.DNSMADEEASY.com.
+wordju.mp.		3600	IN	NS	NS14.DNSMADEEASY.com.
+wordju.mp.		3600	IN	NS	NS15.DNSMADEEASY.com.
 wukong.mp.		3600	IN	NS	elijah.ns.cloudflare.com.
 wukong.mp.		3600	IN	NS	may.ns.cloudflare.com.
 www.mp.			86400	IN	CNAME	get.mp.
