@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158117 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. VKaj0bgWy7bu7ghuGYKazCJPE+k8GV6T/r+S03cOSjO2pmHAYvCdY+ge 4Gze+mdXnptJm8GotLkt87VMbifNwN1cAfHh26yqxJkfjm/3/i0q13J6 8X56RYEriI4QRaNeFNsl2YZcUOKk0VkN2oe/j6NrC/9TFRm5RkaW5I2H Qhe9TjrFjQg/AKzgsrNiQ8gNB9eTTCAi8zpiZMpbc2GDf5w24/Tq4T9R y2FypxlifxDpq94POfKJisLu+tzv8ImswRPimBiaF4/0c5dCsHJ1g2dL mSS7V4Gy+F9P162cQ4WB3he66Fx8MjW6GK5emW017xUr75oN5Vdhm260 Z52fbg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158121 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. A94+lW4LgN0UrCEmYD6zsCvW7npSDfroSvVlNEn8oJBmMfCl7lg5orPt llDr8n1Juvcxi4NSMIJSTPHraQkV2aGhBNH6HS+irI2OpAEkxvYP8dnv ppdq+G61ABQ+Vf3UlJOCleQDFTt4OUVD+U4PW9DbduDKbzUK0xugX41+ 6oOLPYgg6u/F34tErSJ7gMQGVz75+IR9I5sP4IbNK4RyjJ4jp+wjLNfN LqGVhVTWE465MGYl3X5OZnKtSbOavoWi203rp0kM/a9E2fdDoOxThvBD ktcxoG9AujEbl6453u53c2QJflmSTpr4xwG8J3zJOEvBLrs7p/eM+sYG Cum43Q==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -6441,6 +6441,8 @@ frelsenshaeri.gl.	3600	IN	NS	kristin.ns.cloudflare.com.
 fremtid.gl.		3600	IN	NS	ns1.netim.net.
 fremtid.gl.		3600	IN	NS	ns2.netim.net.
 fremtid.gl.		3600	IN	NS	ns3.netim.net.
+frentepopular.gl.	3600	IN	NS	aron.ns.cloudflare.com.
+frentepopular.gl.	3600	IN	NS	jeremy.ns.cloudflare.com.
 freseniusmedicalcare.gl. 3600	IN	NS	ns1.markmonitor.com.
 freseniusmedicalcare.gl. 3600	IN	NS	ns2.markmonitor.com.
 freseniusmedicalcare.gl. 3600	IN	NS	ns3.markmonitor.com.
@@ -11253,8 +11255,8 @@ leovegas.gl.		3600	IN	NS	dns03.ports.se.
 leovegas.gl.		3600	IN	NS	dns04.ports.net.
 lernstube.gl.		3600	IN	NS	dns1.exigo.ch.
 lernstube.gl.		3600	IN	NS	dns2.exigo.ch.
-lesbian.gl.		3600	IN	NS	cris.ns.cloudflare.com.
-lesbian.gl.		3600	IN	NS	jocelyn.ns.cloudflare.com.
+lesbian.gl.		3600	IN	NS	ns1.sedoparking.com.
+lesbian.gl.		3600	IN	NS	ns2.sedoparking.com.
 leth.gl.		3600	IN	NS	dom.ns.cloudflare.com.
 leth.gl.		3600	IN	NS	irma.ns.cloudflare.com.
 lets-brand.gl.		3600	IN	NS	sec1.rcode0.net.
@@ -15966,8 +15968,8 @@ pornbox.gl.		3600	IN	NS	ns1.serverstack.com.
 pornbox.gl.		3600	IN	NS	ns2.serverstack.com.
 pornbox.gl.		3600	IN	NS	ns3.serverstack.com.
 pornbox.gl.		3600	IN	NS	ns4.serverstack.com.
-porno.gl.		3600	IN	NS	beth.ns.cloudflare.com.
-porno.gl.		3600	IN	NS	kevin.ns.cloudflare.com.
+porno.gl.		3600	IN	NS	ns1.sedoparking.com.
+porno.gl.		3600	IN	NS	ns2.sedoparking.com.
 pornografi.gl.		3600	IN	NS	ns1.simply.com.
 pornografi.gl.		3600	IN	NS	ns2.simply.com.
 pornografi.gl.		3600	IN	NS	ns3.simply.com.
@@ -23117,4 +23119,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158117 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158121 900 1800 6048000 3600
