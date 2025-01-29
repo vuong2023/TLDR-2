@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025012805 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025012810 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1738054899"
+ps.			86400	IN	TXT	"Generation Time: 1738090899"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -996,8 +996,10 @@ alawael.ps.		86400	IN	NS	gwen.ns.cloudflare.com.
 alawael.ps.		86400	IN	NS	lars.ns.cloudflare.com.
 alawda.ps.		86400	IN	NS	cdns1.hadara.ps.
 alawda.ps.		86400	IN	NS	cdns2.hadara.ps.
-alawdaschool.ps.	86400	IN	NS	ns1.injazatcloud.ps.
-alawdaschool.ps.	86400	IN	NS	ns2.injazatcloud.ps.
+alawdaschool.ps.	86400	IN	NS	ns1045.ui-dns.de.
+alawdaschool.ps.	86400	IN	NS	ns1045.ui-dns.biz.
+alawdaschool.ps.	86400	IN	NS	ns1045.ui-dns.com.
+alawdaschool.ps.	86400	IN	NS	ns1045.ui-dns.org.
 alayoub.ps.		86400	IN	NS	cdns1.hadara.ps.
 alayoub.ps.		86400	IN	NS	cdns2.hadara.ps.
 albader.ps.		86400	IN	NS	ns39.domaincontrol.com.
@@ -1626,6 +1628,8 @@ alshams.ps.		86400	IN	NS	ns1.pts-services.online.
 alshams.ps.		86400	IN	NS	ns2.pts-services.online.
 alsharawi.ps.		86400	IN	NS	ns1.vultr.com.
 alsharawi.ps.		86400	IN	NS	ns2.vultr.com.
+alsharif-office.ps.	86400	IN	NS	hosting01.mada.ps.
+alsharif-office.ps.	86400	IN	NS	hosting02.mada.ps.
 alsharq.ps.		86400	IN	NS	cdns1.hadara.ps.
 alsharq.ps.		86400	IN	NS	cdns2.hadara.ps.
 alshini.ps.		86400	IN	NS	ns1.sederhost.com.
@@ -2715,8 +2719,6 @@ babyste.ps.		86400	IN	NS	ns55.domaincontrol.com.
 babyste.ps.		86400	IN	NS	ns56.domaincontrol.com.
 backdro.ps.		86400	IN	NS	ns1.variomedia.de.
 backdro.ps.		86400	IN	NS	ns2.variomedia.de.
-backsla.ps.		86400	IN	NS	delete1.rebel.com.
-backsla.ps.		86400	IN	NS	delete2.rebel.com.
 backu.ps.		86400	IN	NS	pns21.cloudns.net.
 backu.ps.		86400	IN	NS	pns22.cloudns.net.
 badawivitacare.ps.	86400	IN	NS	ns1.biscloud.ps.
@@ -5826,6 +5828,9 @@ everbeauty.ps.		86400	IN	NS	ns1.leg-des.com.
 everbeauty.ps.		86400	IN	NS	ns2.leg-des.com.
 everest.ps.		86400	IN	NS	ns271.websitewelcome.com.
 everest.ps.		86400	IN	NS	ns272.websitewelcome.com.
+everestco.ps.		86400	IN	NS	ns1.netim.net.
+everestco.ps.		86400	IN	NS	ns2.netim.net.
+everestco.ps.		86400	IN	NS	ns3.netim.net.
 everything.ps.		86400	IN	NS	dns1.p03.nsone.net.
 everything.ps.		86400	IN	NS	dns2.p03.nsone.net.
 everything.ps.		86400	IN	NS	dns3.p03.nsone.net.
@@ -7221,6 +7226,8 @@ habaybna.ps.		86400	IN	NS	ns271.websitewelcome.com.
 habaybna.ps.		86400	IN	NS	ns272.websitewelcome.com.
 hableh.ps.		86400	IN	NS	ns1.bluetd.com.
 hableh.ps.		86400	IN	NS	ns2.bluetd.com.
+haboush.ps.		86400	IN	NS	cdns1.hadara.ps.
+haboush.ps.		86400	IN	NS	cdns2.hadara.ps.
 hacker.ps.		86400	IN	NS	gail.ns.cloudflare.com.
 hacker.ps.		86400	IN	NS	weston.ns.cloudflare.com.
 hackerone.ps.		86400	IN	NS	a.ns.hackerone.com.
@@ -8176,8 +8183,6 @@ impact.ps.		86400	IN	NS	ns1.provision-servers.com.
 impact.ps.		86400	IN	NS	ns2.provision-servers.com.
 impactagency.ps.	86400	IN	NS	ns1.101domain.com.
 impactagency.ps.	86400	IN	NS	ns2.101domain.com.
-impupa.ps.		86400	IN	NS	ns1.injazatcloud.ps.
-impupa.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 imss.ps.		86400	IN	NS	ns1-cat.dl-cms.com.
 imss.ps.		86400	IN	NS	ns2-cat.dl-cms.com.
 imtair.ps.		86400	IN	NS	ns1.bluetd.com.
@@ -13795,6 +13800,8 @@ primebroadband.ps.	86400	IN	NS	nssui.comlaude.ch.
 primebroadband.ps.	86400	IN	NS	nsusa.comlaude.net.
 primefitness.ps.	86400	IN	NS	mia.ns.cloudflare.com.
 primefitness.ps.	86400	IN	NS	gerald.ns.cloudflare.com.
+primetec.ps.		86400	IN	NS	kate.ns.cloudflare.com.
+primetec.ps.		86400	IN	NS	will.ns.cloudflare.com.
 primevideo.ps.		86400	IN	NS	ns-59.awsdns-07.com.
 primevideo.ps.		86400	IN	NS	ns-734.awsdns-27.net.
 primevideo.ps.		86400	IN	NS	ns-1287.awsdns-32.org.
@@ -14981,6 +14988,9 @@ safqa.ps.		86400	IN	NS	cp4.privatesystems.net.
 safra.ps.		86400	IN	NS	ns1.i-net.ps.
 safra.ps.		86400	IN	NS	ns4.i-net.ps.
 safra.ps.		86400	IN	NS	ns7.i-net.ps.
+saga.ps.		86400	IN	NS	ns1.netim.net.
+saga.ps.		86400	IN	NS	ns2.netim.net.
+saga.ps.		86400	IN	NS	ns3.netim.net.
 sageappliances.ps.	86400	IN	NS	dns1.cscdns.net.
 sageappliances.ps.	86400	IN	NS	dns2.cscdns.net.
 sah.ps.			86400	IN	NS	ns1.he.net.
@@ -18747,8 +18757,8 @@ zarad.ps.		86400	IN	NS	ns3.cortoba.net.
 zarad.ps.		86400	IN	NS	ns4.cortoba.net.
 zarkash.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 zarkash.ps.		86400	IN	NS	ns2.injazatcloud.ps.
-zaro.ps.		86400	IN	NS	ns1.trustedcom.com.
-zaro.ps.		86400	IN	NS	ns2.trustedcom.com.
+zaro.ps.		86400	IN	NS	ns1.mysecurecloudhost.com.
+zaro.ps.		86400	IN	NS	ns2.mysecurecloudhost.com.
 zarotex.ps.		86400	IN	NS	ns1.vultr.com.
 zarotex.ps.		86400	IN	NS	ns2.vultr.com.
 zawaki.ps.		86400	IN	NS	cdns1.hadara.ps.
@@ -18881,4 +18891,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025012805 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025012810 86400 7200 3600000 172800
