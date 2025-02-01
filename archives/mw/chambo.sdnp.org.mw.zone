@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1738346701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1738418701 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -17,6 +17,8 @@ mw.			18000	IN	NS	ns4.apnic.net.
 101domains.mw.		18000	IN	NS	nelly.ns.cloudflare.com.
 10bet.mw.		18000	IN	NS	john.ns.cloudflare.com.
 10bet.mw.		18000	IN	NS	sara.ns.cloudflare.com.
+11.mw.			18000	IN	NS	ns1.dyna-ns.net.
+11.mw.			18000	IN	NS	ns2.dyna-ns.net.
 14trees.mw.		18000	IN	NS	ns01ch.holcim.com.
 14trees.mw.		18000	IN	NS	ns01us.holcim.com.
 14trees.mw.		18000	IN	NS	ns02ch.holcim.com.
@@ -1887,6 +1889,10 @@ grin.mw.		18000	IN	NS	ns2.101domain.com.
 grincc.mw.		18000	IN	NS	ns1.netim.net.
 grincc.mw.		18000	IN	NS	ns2.netim.net.
 grincc.mw.		18000	IN	NS	ns3.netim.net.
+grinchat.mw.		18000	IN	NS	ns1.no-ip.com.
+grinchat.mw.		18000	IN	NS	ns2.no-ip.com.
+grinchat.mw.		18000	IN	NS	ns3.no-ip.com.
+grinchat.mw.		18000	IN	NS	ns4.no-ip.com.
 groove100.mw.		18000	IN	NS	ns1663.websitewelcome.com.
 groove100.mw.		18000	IN	NS	ns1664.websitewelcome.com.
 grundfos.mw.		18000	IN	NS	ns1.netnames.net.
@@ -2495,6 +2501,8 @@ kingmakers.mw.		18000	IN	NS	dns2.safenames.net.
 kingmakers.mw.		18000	IN	NS	dns3.safenames.org.
 kings.mw.		18000	IN	NS	ns2.hostpoint.ch.
 kings.mw.		18000	IN	NS	ns.hostpoint.ch.
+kinogo.mw.		18000	IN	NS	ns1.dyna-ns.net.
+kinogo.mw.		18000	IN	NS	ns2.dyna-ns.net.
 kiomi.mw.		18000	IN	NS	ns01.brandshelter.com.
 kiomi.mw.		18000	IN	NS	ns02.brandshelter.net.
 kisssafety.mw.		18000	IN	NS	olof.ns.cloudflare.com.
@@ -2579,6 +2587,8 @@ lafargeholcim.mw.	18000	IN	NS	ns02ch.holcim.com.
 lafargeholcimgroup.mw.	18000	IN	NS	ns01ch.holcim.com.
 lafargeholcimgroup.mw.	18000	IN	NS	ns01us.holcim.com.
 lafargeholcimgroup.mw.	18000	IN	NS	ns02ch.holcim.com.
+lagra.mw.		18000	IN	NS	araliya.globemw.net.
+lagra.mw.		18000	IN	NS	maxdns.globemw.net.
 landrover.mw.		18000	IN	NS	ns1.hostinger.web.tr.
 landrover.mw.		18000	IN	NS	ns2.hostinger.web.tr.
 landrover.mw.		18000	IN	NS	ns3.hostinger.web.tr.
@@ -2712,8 +2722,8 @@ luckystrike.mw.		18000	IN	NS	nssui.comlaude.ch.
 lukeinternational.mw.	18000	IN	NS	dns1.sircon.net.
 lukeinternational.mw.	18000	IN	NS	dns2.sircon.net.
 lukeinternational.mw.	18000	IN	NS	dns3.sircon.net.
-lunatech.mw.		18000	IN	NS	dns1.namecheaphosting.com.
-lunatech.mw.		18000	IN	NS	dns2.namecheaphosting.com.
+lunatech.mw.		18000	IN	NS	ns1.africadojo.com.
+lunatech.mw.		18000	IN	NS	ns2.africadojo.com.
 lundbeck.mw.		18000	IN	NS	nsgbr.comlaude.co.uk.
 lundbeck.mw.		18000	IN	NS	nssui.comlaude.ch.
 lundbeck.mw.		18000	IN	NS	nsusa.comlaude.net.
@@ -5145,4 +5155,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1738346701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1738418701 1800 600 604800 1800
