@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025020515 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1738767922"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025020516 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1738771523"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -19694,6 +19694,8 @@ apmaraicher.cm.		3600	IN	NS	ns1.cirt.cm.
 apmaraicher.cm.		3600	IN	NS	ns2.cirt.cm.
 apme.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 apme.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
+apme-academy-online.cm.	3600	IN	NS	ns1.mtnbusiness.cm.
+apme-academy-online.cm.	3600	IN	NS	ns2.mtnbusiness.cm.
 apmearchive.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 apmearchive.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 apmebd.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
@@ -22214,6 +22216,12 @@ beko.cm.		3600	IN	NS	dnsa2.vodafone.net.tr.
 belaviation.cm.		3600	IN	NS	nsa.n0c.com.
 belaviation.cm.		3600	IN	NS	nsb.n0c.com.
 belaviation.cm.		3600	IN	NS	nsc.n0c.com.
+believeit.cm.		3600	IN	NS	dns1.safenames.com.
+believeit.cm.		3600	IN	NS	dns2.safenames.net.
+believeit.cm.		3600	IN	NS	dns3.safenames.org.
+believeitornot.cm.	3600	IN	NS	dns1.safenames.com.
+believeitornot.cm.	3600	IN	NS	dns2.safenames.net.
+believeitornot.cm.	3600	IN	NS	dns3.safenames.org.
 belk.cm.		3600	IN	NS	pns21.cloudns.net.
 belk.cm.		3600	IN	NS	pns22.cloudns.net.
 belk.cm.		3600	IN	NS	pns23.cloudns.net.
@@ -33237,8 +33245,8 @@ eberjey.cm.		3600	IN	NS	ns1.adtraks.com.
 eberjey.cm.		3600	IN	NS	ns2.adtraks.com.
 eberlitzfusion.cm.	3600	IN	NS	dns1.cscdns.net.
 eberlitzfusion.cm.	3600	IN	NS	dns2.cscdns.net.
-ebet.cm.		3600	IN	NS	ns1.dn.com.
-ebet.cm.		3600	IN	NS	ns2.dn.com.
+ebet.cm.		3600	IN	NS	ns1.netsto.net.
+ebet.cm.		3600	IN	NS	ns2.netsto.net.
 ebike-abs.cm.		3600	IN	NS	gwa.fe.bosch.de.
 ebike-abs.cm.		3600	IN	NS	gwa2.fe.bosch.de.
 ebike-alarm.cm.		3600	IN	NS	gwa.fe.bosch.de.
@@ -51075,6 +51083,8 @@ mitafrica.cm.		3600	IN	NS	dns3.supremepanel.com.
 mitafrica.cm.		3600	IN	NS	dns4.supremepanel.com.
 mitao.cm.		3600	IN	NS	ns1.netsto.net.
 mitao.cm.		3600	IN	NS	ns2.netsto.net.
+mitech.cm.		3600	IN	NS	dns2015a.trouble-free.net.
+mitech.cm.		3600	IN	NS	dns2015b.trouble-free.net.
 mitek.cm.		3600	IN	NS	dns1.p01.nsone.net.
 mitek.cm.		3600	IN	NS	dns2.p01.nsone.net.
 mitek.cm.		3600	IN	NS	ns01.jnjdns.com.
@@ -52854,8 +52864,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -54738,8 +54748,6 @@ oleriasecurity.cm.	3600	IN	NS	ns-1059.awsdns-04.org.
 oleriasecurity.cm.	3600	IN	NS	ns-1778.awsdns-30.co.uk.
 olg.cm.			3600	IN	NS	dns.internic.ca.
 olg.cm.			3600	IN	NS	dns2.internic.ca.
-olginebusiness.cm.	3600	IN	NS	ns1.camoogroup.com.
-olginebusiness.cm.	3600	IN	NS	ns2.camoogroup.com.
 oli.cm.			3600	IN	NS	a.dns.gandi.net.
 oli.cm.			3600	IN	NS	b.dns.gandi.net.
 oli.cm.			3600	IN	NS	c.dns.gandi.net.
@@ -60711,8 +60719,14 @@ rings.cm.		3600	IN	NS	ns1.afternic.com.
 rings.cm.		3600	IN	NS	ns2.afternic.com.
 ripcurl.cm.		3600	IN	NS	ns1.parkingcrew.net.
 ripcurl.cm.		3600	IN	NS	ns2.parkingcrew.net.
+ripley.cm.		3600	IN	NS	dns1.safenames.com.
+ripley.cm.		3600	IN	NS	dns2.safenames.net.
+ripley.cm.		3600	IN	NS	dns3.safenames.org.
 ripleys.cm.		3600	IN	NS	ns1.adtraks.com.
 ripleys.cm.		3600	IN	NS	ns2.adtraks.com.
+ripleysbelieveitornot.cm. 3600	IN	NS	dns1.safenames.com.
+ripleysbelieveitornot.cm. 3600	IN	NS	dns2.safenames.net.
+ripleysbelieveitornot.cm. 3600	IN	NS	dns3.safenames.org.
 ripple.cm.		3600	IN	NS	1666.ns1.above.com.
 ripple.cm.		3600	IN	NS	1666.ns2.above.com.
 risecredit.cm.		3600	IN	NS	ns1.parkingcrew.net.
@@ -76132,4 +76146,4 @@ zzz.cm.			3600	IN	NS	elle.ns.cloudflare.com.
 zzz.cm.			3600	IN	NS	matteo.ns.cloudflare.com.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025020515 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025020516 1800 900 1209600 3600
