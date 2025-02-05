@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025020513 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1738760722"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025020515 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1738767922"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -3446,6 +3446,12 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 203681.cm.		3600	IN	NS	ns2.alidns.com.
 204.cm.			3600	IN	NS	faye.ns.cloudflare.com.
 204.cm.			3600	IN	NS	sergi.ns.cloudflare.com.
+20411.cm.		3600	IN	NS	ns1.netsto.net.
+20411.cm.		3600	IN	NS	ns2.netsto.net.
+20422.cm.		3600	IN	NS	ns1.netsto.net.
+20422.cm.		3600	IN	NS	ns2.netsto.net.
+20433.cm.		3600	IN	NS	ns1.netsto.net.
+20433.cm.		3600	IN	NS	ns2.netsto.net.
 205.cm.			3600	IN	NS	faye.ns.cloudflare.com.
 205.cm.			3600	IN	NS	sergi.ns.cloudflare.com.
 2050.cm.		3600	IN	NS	ns6.netsto.net.
@@ -23304,8 +23310,8 @@ biore.cm.		3600	IN	NS	dns2.idp365.net.
 biore.cm.		3600	IN	NS	dns3.idp365.net.
 biosante.cm.		3600	IN	NS	ns8331.hostgator.com.
 biosante.cm.		3600	IN	NS	ns8332.hostgator.com.
-bioskinlove.cm.		3600	IN	NS	udns1.cscdns.net.
-bioskinlove.cm.		3600	IN	NS	udns2.cscdns.uk.
+bioskinlove.cm.		3600	IN	NS	udns1.cscudns.com.
+bioskinlove.cm.		3600	IN	NS	udns2.cscudns.org.
 biovea.cm.		3600	IN	NS	ns1.adtraks.com.
 biovea.cm.		3600	IN	NS	ns2.adtraks.com.
 bip.cm.			3600	IN	NS	ns1.parkingcrew.net.
@@ -33231,6 +33237,8 @@ eberjey.cm.		3600	IN	NS	ns1.adtraks.com.
 eberjey.cm.		3600	IN	NS	ns2.adtraks.com.
 eberlitzfusion.cm.	3600	IN	NS	dns1.cscdns.net.
 eberlitzfusion.cm.	3600	IN	NS	dns2.cscdns.net.
+ebet.cm.		3600	IN	NS	ns1.dn.com.
+ebet.cm.		3600	IN	NS	ns2.dn.com.
 ebike-abs.cm.		3600	IN	NS	gwa.fe.bosch.de.
 ebike-abs.cm.		3600	IN	NS	gwa2.fe.bosch.de.
 ebike-alarm.cm.		3600	IN	NS	gwa.fe.bosch.de.
@@ -48625,8 +48633,8 @@ luct.cm.		3600	IN	NS	ns1.ezydomain.com.
 luct.cm.		3600	IN	NS	ns2.ezydomain.com.
 ludo.cm.		3600	IN	NS	ns1.netsto.net.
 ludo.cm.		3600	IN	NS	ns2.netsto.net.
-lufthansa.cm.		3600	IN	NS	udns1.cscdns.net.
-lufthansa.cm.		3600	IN	NS	udns2.cscdns.uk.
+lufthansa.cm.		3600	IN	NS	udns1.cscudns.com.
+lufthansa.cm.		3600	IN	NS	udns2.cscudns.org.
 lugik.cm.		3600	IN	NS	ns-83-c.gandi.net.
 lugik.cm.		3600	IN	NS	ns-114-a.gandi.net.
 lugik.cm.		3600	IN	NS	ns-247-b.gandi.net.
@@ -52844,8 +52852,8 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
@@ -53562,8 +53570,6 @@ nglelt.cm.		3600	IN	NS	a13-64.akam.net.
 nglelt.cm.		3600	IN	NS	a14-65.akam.net.
 nglic.cm.		3600	IN	NS	ns1.abovedomains.com.
 nglic.cm.		3600	IN	NS	ns2.abovedomains.com.
-ngolbang-zoetel.cm.	3600	IN	NS	ns1.camoogroup.com.
-ngolbang-zoetel.cm.	3600	IN	NS	ns2.camoogroup.com.
 ngole.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 ngole.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 ngole.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -76126,4 +76132,4 @@ zzz.cm.			3600	IN	NS	elle.ns.cloudflare.com.
 zzz.cm.			3600	IN	NS	matteo.ns.cloudflare.com.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025020513 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025020515 1800 900 1209600 3600
