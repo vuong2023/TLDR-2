@@ -1,12 +1,12 @@
-;; Connection to 196.45.190.9#53(196.45.190.9) for mw. failed: timed out.
-;; no servers could be reached
-
-;; Connection to 196.45.190.9#53(196.45.190.9) for mw. failed: timed out.
-;; no servers could be reached
-
-;; Connection to 196.45.190.9#53(196.45.190.9) for mw. failed: timed out.
 ;; Connection to 41.87.5.162#53(41.87.5.162) for mw. failed: timed out.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1738821901 1800 600 604800 1800
+;; no servers could be reached
+
+;; Connection to 41.87.5.162#53(41.87.5.162) for mw. failed: timed out.
+;; no servers could be reached
+
+;; Connection to 41.87.5.162#53(41.87.5.162) for mw. failed: timed out.
+;; Connection to 196.45.190.9#53(196.45.190.9) for mw. failed: timed out.
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1738829102 1800 600 604800 1800
 mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
 mw.			18000	IN	NS	ns4.apnic.net.
 mw.			18000	IN	NS	rip.psg.com.
@@ -1304,9 +1304,17 @@ dividendgroup.mw.	18000	IN	NS	ns21.my-control-panel.com.
 dividendgroup.mw.	18000	IN	NS	ns22.my-control-panel.com.
 domain.mw.		18000	IN	NS	mona.ns.cloudflare.com.
 domain.mw.		18000	IN	NS	maxim.ns.cloudflare.com.
+domainr.mw.		18000	IN	NS	ns1.dnsimple.com.
+domainr.mw.		18000	IN	NS	ns2.dnsimple-edge.net.
+domainr.mw.		18000	IN	NS	ns3.dnsimple.com.
+domainr.mw.		18000	IN	NS	ns4.dnsimple-edge.org.
 domainrecover.mw.	18000	IN	NS	ns1.bb-online.net.
 domainrecover.mw.	18000	IN	NS	ns2.bb-online.org.
 domainrecover.mw.	18000	IN	NS	ns3.bb-online.info.
+domainresearch.mw.	18000	IN	NS	ns1.dnsimple.com.
+domainresearch.mw.	18000	IN	NS	ns2.dnsimple-edge.net.
+domainresearch.mw.	18000	IN	NS	ns3.dnsimple.com.
+domainresearch.mw.	18000	IN	NS	ns4.dnsimple-edge.org.
 domains.mw.		18000	IN	NS	mw.cctld.authdns.ripe.net.
 domains.mw.		18000	IN	NS	rip.psg.com.
 domains.mw.		18000	IN	NS	pch1.nic.mw.
@@ -5151,4 +5159,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1738821901 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1738829102 1800 600 604800 1800
