@@ -1,5 +1,5 @@
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025021040 120 3600 604800 10800
-xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20250312112335 20250210102335 15315 xn--54b7fta0cc. c6U4KcV/NoXiCzZvLiMJvZ4UXpruAgb36dCOAlHwjbHHCcmD3J5KWj1H e3kMrZKgS5gHIHLXqEnudpuNkvGTVPmLKOGerV2mGpO+lbKKS5iJR/TJ MoHGx0JYfhbQHzXp4n0qtJwbcDdLBHtUxu14MaNyOR6TAjotzf15xUAk fo8=
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025021045 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20250312125506 20250210115506 15315 xn--54b7fta0cc. h32y85iKVeBLue/OTdV4BNAvnAR8VXFgeb7r6l33VvUIcP3MmYEEbDBx wCG1wQwuHZjaP6uc/NIBRe4BfpoFRwE66bQM8K/YsR9c23SQ7ynBbwBa 1OWnVKfvI8o/8FjMcuhebPdUNcDJUUBn/cK5HAMxiFsg++BXUCAdGcQK JjI=
 xn--54b7fta0cc.		10800	IN	NS	ekushey.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	bd-ns.anycast.pch.net.
@@ -1125,7 +1125,7 @@ xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20250224111751 
 xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN NSEC xn--s5bs9al6dkc.xn--54b7fta0cc. NS RRSIG NSEC
 xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN NS	ns1.dns-parking.com.
 xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN NS	ns2.dns-parking.com.
-xn--s5bs9al6dkc.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20250218004407 20250119004312 15315 xn--54b7fta0cc. r11IXN9Djr8+d2lWmOcp7puI19C1x7p7p2jYY0opsOcDqAgDJ+pDre/R 9/v3sT4GwQRYkk9XMRkR1j2ZP2VH60QVpLS0X8S22kNaRe4unKx3masI bLESsk+yXEbtHi0iF6sSpsHo01LrGaR8eUYMa2AecITd/aEoNMgIg8YI I7M=
+xn--s5bs9al6dkc.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20250312121532 20250210114407 15315 xn--54b7fta0cc. jHpqfkd+VFiwXSxFyCbiDKk4hmoWxcCkBGt8zXv7pOIDem4fQyRGNR0C 2DwEyQpTj9Osc7sY3CSA+p5m3j7yZlVrC65mb81SlHATb12kuJv7h74C /1nx+Z+pNK2b3y0ymlB+FoF18UkRLOKbh4oTVOVli3wLwtMUp7gYawhM iWw=
 xn--s5bs9al6dkc.xn--54b7fta0cc.	10800 IN NSEC	xn--u5bo4cb1dc.xn--54b7fta0cc. NS RRSIG NSEC
 xn--s5bs9al6dkc.xn--54b7fta0cc.	10800 IN NS	ns1.dhakawebhost.com.
 xn--s5bs9al6dkc.xn--54b7fta0cc.	10800 IN NS	ns2.dhakawebhost.com.
@@ -1222,4 +1222,4 @@ xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20250301205443 2025
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NSEC	xn--54b7fta0cc. NS RRSIG NSEC
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NS	ns1.exonhost.com.
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NS	ns2.exonhost.com.
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025021040 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025021045 120 3600 604800 10800
