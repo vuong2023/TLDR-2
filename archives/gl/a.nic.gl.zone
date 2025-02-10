@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158897 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. H8Qd0QRhZpGpXWjg8Um/1v0SA6MkPm+f9bK17voxlkc1rc0Ih0eesSvy hn1rQzsAMGiQ1NHd2mOerX1ji/5E6GeJEpk04a7oD7dKodr5IrGD2fK8 JgysdFQCEXIa26zrokdN0xIeOq1G2v39Na5zNOupmVUzOhPU+r2I3XdO fOAlWHde0gW+wbbA8V6R1vOQ4Spt10mUu6tYwxkAtGq2iDimuZbZ82JV rgBHBZO3IYB3G9dpM46XF7SDnMVdivER1WWsgRhNGr0Z5RiateK/kfvY nEYT4rI4kN1M4XDKnJ8UC38Xih63P6IY+ERmxdX5zaAosa6Em4z0rPXy S/gKjg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158908 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. cP4pCaSFh86BJ3mgvBwBtXhGxYpQpQIH96SfLwasZOdcpOP6RQjkP1JN 9osDR3hnL1+8rF6AjmiZLM9AVAE41gNcyL0AzSPl9Q92TzH4jGj/WnsD PL1//8K2Vptf+c324sOw7lYyGlbs/oU8dY25UkLx6dMo+zbEtrWe6In1 CTosk931V/VVkUfdcRTe2fL4uDhGihySfUikqb/L6zWtmDsLl0RSHgAg lXbuEImWQFlS1FdtYlveCWX91f5XI6CWir16uWZn8V5igdycQ/PVgG8G kt9mm1eOfTi/HTHoLZWZyb3tYeYvZBDyx7ZZdIHa4Dl6CZR9HpEEfkqA zLUe/A==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -615,6 +615,9 @@ adiamondisforever.gl.	3600	IN	NS	ns2.lexsynergy.us.
 adiamondisforever.gl.	3600	IN	NS	ns3.lexsynergy.info.
 adidas.gl.		3600	IN	NS	udns1.cscdns.net.
 adidas.gl.		3600	IN	NS	udns2.cscdns.uk.
+adler.gl.		3600	IN	NS	ns.hostpoint.ch.
+adler.gl.		3600	IN	NS	ns2.hostpoint.ch.
+adler.gl.		3600	IN	NS	ns3.hostpoint.ch.
 admin.gl.		3600	IN	NS	adam.ns.cloudflare.com.
 admin.gl.		3600	IN	NS	sharon.ns.cloudflare.com.
 adminet.gl.		3600	IN	NS	ns1.o2switch.net.
@@ -11600,8 +11603,10 @@ luckycasino.gl.		3600	IN	NS	dns01.dipcon.com.
 luckycasino.gl.		3600	IN	NS	dns02.ports.se.
 luckycasino.gl.		3600	IN	NS	dns03.ports.se.
 luckycasino.gl.		3600	IN	NS	dns04.ports.net.
-luckycola.gl.		3600	IN	NS	ns1.bodis.com.
-luckycola.gl.		3600	IN	NS	ns2.bodis.com.
+luckycola.gl.		3600	IN	NS	ns-3.awsdns-00.com.
+luckycola.gl.		3600	IN	NS	ns-704.awsdns-24.net.
+luckycola.gl.		3600	IN	NS	ns-1113.awsdns-11.org.
+luckycola.gl.		3600	IN	NS	ns-1773.awsdns-29.co.uk.
 luckypari.gl.		3600	IN	NS	ns-63-c.gandi.net.
 luckypari.gl.		3600	IN	NS	ns-127-a.gandi.net.
 luckypari.gl.		3600	IN	NS	ns-237-b.gandi.net.
@@ -23068,4 +23073,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158897 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158908 900 1800 6048000 3600
