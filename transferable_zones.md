@@ -32,6 +32,6 @@
 * `xn--54b7fta0cc` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/bayanno.btcl.net.bd.zone)
 * `xn--fzc2c9e2c` via `ns-l.nic.lk.`: [Click here to view zone data.](archives/xn--fzc2c9e2c/ns-l.nic.lk.zone)
 * `xn--mgbtx2b` via `ns.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/ns.cmc.iq.zone)
-* `xn--wgbh1c` via `ns3.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/ns3.dotmasr.eg.zone)
+* `xn--wgbh1c` via `ns1.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/ns1.dotmasr.eg.zone)
 * `xn--xkc2al3hye2a` via `ns-l.nic.lk.`: [Click here to view zone data.](archives/xn--xkc2al3hye2a/ns-l.nic.lk.zone)
-* `xn--ygbi2ammx` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/ns1.pnina.ps.zone)
+* `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
