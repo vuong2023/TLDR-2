@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025021508 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025021605 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1739631697"
+ps.			86400	IN	TXT	"Generation Time: 1739696495"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -8586,8 +8586,10 @@ iztechvalley.ps.	86400	IN	NS	ns1.injazatcloud.ps.
 iztechvalley.ps.	86400	IN	NS	ns2.injazatcloud.ps.
 jab.ps.			86400	IN	NS	cdns1.hadara.ps.
 jab.ps.			86400	IN	NS	cdns2.hadara.ps.
-jabalia.ps.		86400	IN	NS	ns1.cutecurve.com.
-jabalia.ps.		86400	IN	NS	ns2.cutecurve.com.
+jabalia.ps.		86400	IN	NS	ns1.supercp.com.
+jabalia.ps.		86400	IN	NS	ns2.supercp.com.
+jabalia.ps.		86400	IN	NS	ns3.supercp.com.
+jabalia.ps.		86400	IN	NS	ns4.supercp.com.
 jabalnar.ps.		86400	IN	NS	ns1.zaytona.net.
 jabalnar.ps.		86400	IN	NS	ns1.alzaytona.net.
 jabalnar.ps.		86400	IN	NS	ns2.zaytona.net.
@@ -12894,11 +12896,11 @@ paltech.ps.		86400	IN	NS	ns1.paltech.ps.
 paltech.ps.		86400	IN	NS	ns2.paltech.ps.
 ns1.paltech.ps.		86400	IN	A	38.242.209.203
 ns2.paltech.ps.		86400	IN	A	38.242.209.203
-paltel.ps.		86400	IN	DS	30944 13 2 5B6E4A860BC99FB8C8E7E7E6B1E0CA57456075F2AAF4E7277DFE7D56 44B8E4D0
 paltel.ps.		86400	IN	NS	ns1.paltel.ps.
 paltel.ps.		86400	IN	NS	ns2.paltel.ps.
 paltel.ps.		86400	IN	NS	ns3.paltel.ps.
 paltel.ps.		86400	IN	NS	ns4.paltel.ps.
+paltel.ps.		86400	IN	DS	30944 13 2 5B6E4A860BC99FB8C8E7E7E6B1E0CA57456075F2AAF4E7277DFE7D56 44B8E4D0
 ns1.paltel.ps.		86400	IN	A	216.239.32.106
 ns2.paltel.ps.		86400	IN	A	216.239.34.106
 ns3.paltel.ps.		86400	IN	A	216.239.36.106
@@ -17083,6 +17085,8 @@ themob.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 themob.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 thepjplace.ps.		86400	IN	NS	dns1.cscdns.net.
 thepjplace.ps.		86400	IN	NS	dns2.cscdns.net.
+therax.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+therax.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 therightnowclimatefund.ps. 86400 IN	NS	nsgbr.comlaude.co.uk.
 therightnowclimatefund.ps. 86400 IN	NS	nssui.comlaude.ch.
 therightnowclimatefund.ps. 86400 IN	NS	nsusa.comlaude.net.
@@ -17095,6 +17099,8 @@ thesho.ps.		86400	IN	NS	ns-281.awsdns-35.com.
 thesho.ps.		86400	IN	NS	ns-660.awsdns-18.net.
 thesho.ps.		86400	IN	NS	ns-1059.awsdns-04.org.
 thesho.ps.		86400	IN	NS	ns-1923.awsdns-48.co.uk.
+thesilverpalace.ps.	86400	IN	NS	dns1.namecheaphosting.com.
+thesilverpalace.ps.	86400	IN	NS	dns2.namecheaphosting.com.
 thestreameast.ps.	86400	IN	NS	ns1.abovedomains.com.
 thestreameast.ps.	86400	IN	NS	ns2.abovedomains.com.
 thetarget.ps.		86400	IN	NS	ns1.thetarget.ps.
@@ -18921,4 +18927,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025021508 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025021605 86400 7200 3600000 172800
