@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159297 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. B5uLl/zp0+jUBOYxbHn6VrUapQHdectla2kWIjyaXSJMhwgpyMESeLfX nFR3WVIR2DaMTu5NRbXBscinlmxmubOeEOLJCxzLnJ10ym/rhzTxVTqa UGSO8nLoqmKeq6Eo2hvLGtsYmLbdWERI5sypaI423sujHpRfLqACekdG cLHOISXuQxMVd5x9uvuW1TXoqrsvieQ89RbuZeDf04QtBVUAQOKupzsK QsB0pw0DMVTyKWS8EtfwY0gjcMyljaYg6cx555/4i8QAizylVwE9/qtu 72uQgjoxK7SsTLIiX/IB+Amc4weMNY2s/bNzdtjo0jGpkvfSYHG83DUT fbKzKQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159303 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. FT7fuf3maBeq2KD0fgdRpGLcR+Io7p0UhBPGcochT4+k4/kFbRVSttrf JVlt1iEVsH/TivydaiXM2eeP2Zc4vQ+KX5azFeOmhSc1KGCiHTNAfD5e TfZ36MHr+493nX9ZUZlJIbq8gEr0U5MFWzDKhCsxhQCR/RxqN9jCBM/S 2LyAjIBWJsWv4103ZUddzokp5rT12fYEj6CABTvbr1FSGTQBF1IdA+Qz KQNT85EhioHLXgY7NpgWVFQfSd0+P3Xy0C8rgxQGLhwSvtUxmGYncLac XXJiO/deYXOzTA0+4aVnrIj5xgvi0GUAD2XYD1mLKpB9/O5s9Xjkj0sq 94r/og==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -7471,6 +7471,9 @@ groenlandsrejsebureau.gl. 3600	IN	DS	49648 13 1 AC03FBAD5E0D5F7BC63EEFE749964E9C
 groenlandsrejsebureau.gl. 3600	IN	DS	49648 13 2 B8229762EB3968F82674D45AA8843E44234CD28AD268D11CC58B61FE 89F2FE6C
 groenlandsrejsebureau.gl. 3600	IN	DS	49648 13 4 95C248DE6FE80337AAF2EEFFDB4D36F170301111CD6649AC14B84EF8 D5ACB0A7606B7D105851E2418A939C8EEF1FAEC4
 groenlandsrejsebureau.gl. 3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. LaOXdxKkC4IIZTyS2MGzrgh62x21jnjl29S8yzSumzBKss7o+Qsx+t61 TAkkcwfvi525RSs0fZAGkTulWkTD3ay0GhMoq+9Lhbr7SBHpoY2x94GQ OI9DrTJRcDyqH/3JnUNG1hTkTPSvynekobDUSoCtKYKFGB+i67yk30GK 65fPwsg3r7wRNvspexXoyMFRlsm3xempPC7TnP3s5v5ZCaTz0xlCAJQp YuPzB76RCrZXefMQFkKZtVvvWTu83qMlAigh2QfBCRNYPRrM92ucFUJ9 IGngSCkLRxFam8YPQ9I09w59E7TPKtrNC7qnHUbIiVY6LGhivdUNZ0PB E+6iAQ==
+groenlandsvogterne.gl.	3600	IN	NS	ns1.simply.com.
+groenlandsvogterne.gl.	3600	IN	NS	ns2.simply.com.
+groenlandsvogterne.gl.	3600	IN	NS	ns3.simply.com.
 grok.gl.		3600	IN	NS	ns-34.awsdns-04.com.
 grok.gl.		3600	IN	NS	ns-964.awsdns-56.net.
 grok.gl.		3600	IN	NS	ns-1259.awsdns-29.org.
@@ -7501,6 +7504,9 @@ gruppeforsikring.gl.	3600	IN	NS	ns1.unoeuro.com.
 gruppeforsikring.gl.	3600	IN	NS	ns2.unoeuro.com.
 gruppeforsikring.gl.	3600	IN	NS	ns3.unoeuro.com.
 gruppeforsikring.gl.	3600	IN	NS	ns4.unoeuro.com.
+grv.gl.			3600	IN	NS	ns1.simply.com.
+grv.gl.			3600	IN	NS	ns2.simply.com.
+grv.gl.			3600	IN	NS	ns3.simply.com.
 grx.gl.			3600	IN	NS	ns.gransy.com.
 grx.gl.			3600	IN	NS	ns2.gransy.com.
 grx.gl.			3600	IN	NS	ns3.gransy.com.
@@ -9923,6 +9929,9 @@ kalaallit.gl.		3600	IN	NS	a.hosting.gl.
 kalaallit.gl.		3600	IN	NS	b.hosting.gl.
 kalaallit.gl.		3600	IN	NS	c.hosting.gl.
 kalaallit.gl.		3600	IN	NS	d.hosting.gl.
+kalaallit-nunaata-alapernaatsui.gl. 3600 IN NS	ns1.simply.com.
+kalaallit-nunaata-alapernaatsui.gl. 3600 IN NS	ns2.simply.com.
+kalaallit-nunaata-alapernaatsui.gl. 3600 IN NS	ns3.simply.com.
 kalaallitairports.gl.	3600	IN	NS	ns1.bdm.microsoftonline.com.
 kalaallitairports.gl.	3600	IN	NS	ns2.bdm.microsoftonline.com.
 kalaallitairports.gl.	3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -10363,6 +10372,9 @@ kn.gl.			3600	IN	NS	ns1.kn.gl.
 kn.gl.			3600	IN	NS	ns2.kn.gl.
 ns1.kn.gl.		3600	IN	A	163.172.174.127
 ns2.kn.gl.		3600	IN	A	163.172.174.127
+kna.gl.			3600	IN	NS	ns1.simply.com.
+kna.gl.			3600	IN	NS	ns2.simply.com.
+kna.gl.			3600	IN	NS	ns3.simply.com.
 knapk.gl.		3600	IN	NS	ns4.supercp.com.
 knb.gl.			3600	IN	NS	ns1.eurodns.com.
 knb.gl.			3600	IN	NS	ns2.eurodns.com.
@@ -23064,4 +23076,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159297 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159303 900 1800 6048000 3600
