@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025021806 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1739858427"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025021808 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1739865628"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -27113,8 +27113,8 @@ chowsangsang.cm.	3600	IN	NS	pns23.cloudns.net.
 chowsangsang.cm.	3600	IN	NS	pns24.cloudns.net.
 choxi.cm.		3600	IN	NS	ns1.parkingcrew.net.
 choxi.cm.		3600	IN	NS	ns2.parkingcrew.net.
-chr-ebolowa.cm.		3600	IN	NS	ns3.newtoncorp.net.
-chr-ebolowa.cm.		3600	IN	NS	ns4.newtoncorp.net.
+chr-ebolowa.cm.		3600	IN	NS	cheryl.ns.cloudflare.com.
+chr-ebolowa.cm.		3600	IN	NS	merlin.ns.cloudflare.com.
 chr-garoua.cm.		3600	IN	NS	ns1.dnshostservices.com.
 chr-garoua.cm.		3600	IN	NS	ns2.dnshostservices.com.
 chr-garoua.cm.		3600	IN	NS	ns3.dnshostservices.com.
@@ -43106,6 +43106,8 @@ jdate.cm.		3600	IN	NS	ns1.above.com.
 jdate.cm.		3600	IN	NS	ns2.above.com.
 jdav1.cm.		3600	IN	NS	ns1.netsto.net.
 jdav1.cm.		3600	IN	NS	ns2.netsto.net.
+jdb.cm.			3600	IN	NS	a5.share-dns.com.
+jdb.cm.			3600	IN	NS	b5.share-dns.net.
 jdbuy.cm.		3600	IN	NS	ns1.brandcloudns.com.
 jdbuy.cm.		3600	IN	NS	ns2.brandcloudns.com.
 jdbuy.cm.		3600	IN	NS	ns3.brandcloudns.com.
@@ -68871,8 +68873,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
+bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -69991,8 +69993,8 @@ vin777.cm.		3600	IN	NS	dara.ns.cloudflare.com.
 vin777.cm.		3600	IN	NS	nash.ns.cloudflare.com.
 vinafarm.cm.		3600	IN	NS	ns1.netsto.net.
 vinafarm.cm.		3600	IN	NS	ns2.netsto.net.
-vinatravel.cm.		3600	IN	NS	ns3.newtoncorp.net.
-vinatravel.cm.		3600	IN	NS	ns4.newtoncorp.net.
+vinatravel.cm.		3600	IN	NS	cheryl.ns.cloudflare.com.
+vinatravel.cm.		3600	IN	NS	merlin.ns.cloudflare.com.
 vinbet.cm.		3600	IN	NS	ns1.netsto.net.
 vinbet.cm.		3600	IN	NS	ns2.netsto.net.
 vinci-autoroutes.cm.	3600	IN	NS	udns1.cscdns.net.
@@ -75338,4 +75340,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025021806 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025021808 1800 900 1209600 3600
