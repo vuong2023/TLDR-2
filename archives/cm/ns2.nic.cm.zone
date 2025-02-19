@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025021819 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1739905223"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025021903 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1739934326"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -38498,9 +38498,8 @@ growatt.cm.		3600	IN	NS	ns1.icp100.net.
 growatt.cm.		3600	IN	NS	ns2.icp100.net.
 grownbrilliance.cm.	3600	IN	NS	ns1.adtraks.com.
 grownbrilliance.cm.	3600	IN	NS	ns2.adtraks.com.
-grpnchouwatbtp.cm.	3600	IN	NS	ns3.cloud.stdigital.network.
-grpnchouwatbtp.cm.	3600	IN	NS	ns4.cloud.stdigital.network.
-grpnchouwatbtp.cm.	3600	IN	NS	ns5.cloud.stdigital.network.
+grpnchouwatbtp.cm.	3600	IN	NS	ns1.o2switch.net.
+grpnchouwatbtp.cm.	3600	IN	NS	ns2.o2switch.net.
 grubhub.cm.		3600	IN	NS	ns1.ii51.parklogic.com.
 grubhub.cm.		3600	IN	NS	ns2.ii51.parklogic.com.
 grundfos.cm.		3600	IN	NS	is1.grundfos.com.
@@ -61447,6 +61446,8 @@ schwaballiance.cm.	3600	IN	NS	ns1.parkingcrew.net.
 schwaballiance.cm.	3600	IN	NS	ns2.parkingcrew.net.
 schwabbank.cm.		3600	IN	NS	ns1.markmonitor.com.
 schwabbank.cm.		3600	IN	NS	ns2.markmonitor.com.
+schwartz.cm.		3600	IN	NS	ns1.101domain.com.
+schwartz.cm.		3600	IN	NS	ns2.101domain.com.
 sci-emergence.cm.	3600	IN	NS	brady.ns.cloudflare.com.
 sci-emergence.cm.	3600	IN	NS	liberty.ns.cloudflare.com.
 sci-mti.cm.		3600	IN	NS	nsa.n0c.com.
@@ -68874,8 +68875,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
+bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -69527,6 +69528,8 @@ vanessa.cm.		3600	IN	NS	ns2.parkingcrew.net.
 vanguard.cm.		3600	IN	NS	ns.vanguard.com.
 vanguard.cm.		3600	IN	NS	ns2.vanguard.com.
 vanguard.cm.		3600	IN	NS	ns3.vanguard.com.
+vanguardd.cm.		3600	IN	NS	ns0.thundercloud.uk.
+vanguardd.cm.		3600	IN	NS	ns1.thundercloud.uk.
 vanguardinvestments.cm.	3600	IN	NS	ns.vanguard.com.
 vanguardinvestments.cm.	3600	IN	NS	ns2.vanguard.com.
 vanguardinvestments.cm.	3600	IN	NS	ns3.vanguard.com.
@@ -75341,4 +75344,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025021819 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025021903 1800 900 1209600 3600
