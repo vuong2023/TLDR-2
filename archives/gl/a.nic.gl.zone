@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159468 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. h5q2LefysgbwTQDCinV7/Koa/lmlFsduSx3dcrUsgR4n1nzfT13YMR2R FfbhvhzMbgqiSfm+MTOWFBLApiA16M6I1uxB47GBBB+Z/gSvovtt77yE imXnIsKlK+21nTkqFdyuK5eGx0ibuPQoa2wOSfpkW7Ybyo+/Szo4Z/ld l4CXJPG2lH9zjXGW0JsXPR9Mj88u05b6/57CI/sOHtbU8V0vzLa3XTUr zSejVQ80welkNZsVsz/ht5SpFEbHy4wmsuVbKJ4fyykA1VGK5++iXpSm s0jL8tGJhudQRmDFIV4rdu8dSypVGu3d6WxvrSqSH0g0RTb3iDBqbolJ WiES7Q==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159472 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. PrTVfCloWjGLZ3QQJ1RbNwEgodh+d0OYOm6OCwOvEyD6zn8l/cdeoZ6r WqaSBOHpadduTxaoQGOE8tVvzSCZq0pE2z9/7WJWhb8ywRL8R6Ed+jw1 Ozrmj6ebFEspjSKXMfJJKYt9Kd4wxRmyot6c0c+0E3c6slKVeeNcVTGi /UNtBFbhFU1zahLpyS9VJZao0m4sKIi3aJ2o745soYJ34YMP2REv/8yf oiYud8W3aYa6R5kCfgSEyNZW4l4Ac/mHV/TYYpNh0r6Y8QtebOVJHPmz PJ9nIUwn0039fxSfYpLo2wdnLylun89WnsCpTAv737GtkUccsDtjhnJr RIjs4w==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -8428,8 +8428,8 @@ ibm.gl.			3600	IN	NS	dns3.p05.nsone.net.
 ibm.gl.			3600	IN	NS	dns4.p05.nsone.net.
 ibs.gl.			3600	IN	NS	venus.ns.cloudflare.com.
 ibs.gl.			3600	IN	NS	charles.ns.cloudflare.com.
-ibsanordic.gl.		3600	IN	NS	ns1.register.it.
-ibsanordic.gl.		3600	IN	NS	ns2.register.it.
+ibsanordic.gl.		3600	IN	NS	hank.ns.cloudflare.com.
+ibsanordic.gl.		3600	IN	NS	carlane.ns.cloudflare.com.
 ibt.gl.			3600	IN	NS	a.hosting.gl.
 ibt.gl.			3600	IN	NS	b.hosting.gl.
 ibt.gl.			3600	IN	NS	c.hosting.gl.
@@ -16297,8 +16297,8 @@ qaqortuptimersortarfia.gl. 3600	IN	NS	a.hosting.gl.
 qaqortuptimersortarfia.gl. 3600	IN	NS	b.hosting.gl.
 qaqortuptimersortarfia.gl. 3600	IN	NS	c.hosting.gl.
 qaqortuptimersortarfia.gl. 3600	IN	NS	d.hosting.gl.
-qaqunnak.gl.		3600	IN	NS	ns.dandomain.dk.
-qaqunnak.gl.		3600	IN	NS	ns2.dandomain.dk.
+qaqunnak.gl.		3600	IN	NS	ns1.curanet.dk.
+qaqunnak.gl.		3600	IN	NS	ns2.curanet.dk.
 qarsoq.gl.		3600	IN	NS	ns1.modulo.gl.
 qarsoq.gl.		3600	IN	NS	ns2.modulo.gl.
 qarsoq.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -23106,4 +23106,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159468 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159472 900 1800 6048000 3600
