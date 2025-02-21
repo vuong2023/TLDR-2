@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022116 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1740153923"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022117 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1740157525"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -21803,6 +21803,9 @@ bettomax.cm.		3600	IN	NS	ns02.trademarkarea.com.
 bettomax.cm.		3600	IN	NS	ns03.trademarkarea.com.
 bettt.cm.		3600	IN	NS	ns1.netsto.net.
 bettt.cm.		3600	IN	NS	ns2.netsto.net.
+betty.cm.		3600	IN	NS	ns1.netim.net.
+betty.cm.		3600	IN	NS	ns2.netim.net.
+betty.cm.		3600	IN	NS	ns3.netim.net.
 bettycrocker.cm.	3600	IN	NS	jfbextdns1.genmills.com.
 bettycrocker.cm.	3600	IN	NS	mgoextdns1.genmills.com.
 bettycrocker.cm.	3600	IN	NS	mgoextdns2.genmills.com.
@@ -34793,10 +34796,8 @@ fedec.cm.		3600	IN	NS	ns5.lwsdns.com.
 fedec.cm.		3600	IN	NS	ns6.lwsdns.com.
 fedec.cm.		3600	IN	NS	ns7.lwsdns.com.
 fedec.cm.		3600	IN	NS	ns8.lwsdns.com.
-fedex.cm.		3600	IN	NS	ns1.hasns.com.
-fedex.cm.		3600	IN	NS	ns2.hasns.com.
-fedex.cm.		3600	IN	NS	ns3.hasns.com.
-fedex.cm.		3600	IN	NS	ns4.hasns.com.
+fedex.cm.		3600	IN	NS	ns1.hastydns.com.
+fedex.cm.		3600	IN	NS	ns2.hastydns.com.
 fee.cm.			3600	IN	NS	dns1.registrar-servers.com.
 fee.cm.			3600	IN	NS	dns2.registrar-servers.com.
 feed.cm.		3600	IN	NS	ns1.parkingcrew.net.
@@ -68789,8 +68790,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
+bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -75270,4 +75271,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022116 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022117 1800 900 1209600 3600
