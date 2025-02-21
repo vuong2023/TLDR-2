@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022112 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1740139521"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022114 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1740146722"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -19565,6 +19565,10 @@ autoblog.cm.		3600	IN	NS	ns3.markmonitor.com.
 autoblog.cm.		3600	IN	NS	ns4.markmonitor.com.
 autoblog.cm.		3600	IN	NS	ns5.markmonitor.com.
 autoblog.cm.		3600	IN	NS	ns6.markmonitor.com.
+autodesk.cm.		3600	IN	NS	pns21.cloudns.net.
+autodesk.cm.		3600	IN	NS	pns22.cloudns.net.
+autodesk.cm.		3600	IN	NS	pns23.cloudns.net.
+autodesk.cm.		3600	IN	NS	pns24.cloudns.net.
 autodiscover.cm.	3600	IN	NS	ns1-38.azure-dns.com.
 autodiscover.cm.	3600	IN	NS	ns2-38.azure-dns.net.
 autodiscover.cm.	3600	IN	NS	ns3-38.azure-dns.org.
@@ -51916,8 +51920,8 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
+ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
@@ -65053,6 +65057,8 @@ supstudy.cm.		3600	IN	NS	ns8347.hostgator.com.
 supstudy.cm.		3600	IN	NS	ns8348.hostgator.com.
 surefit.cm.		3600	IN	NS	ns1.adtraks.com.
 surefit.cm.		3600	IN	NS	ns2.adtraks.com.
+suresecurity.cm.	3600	IN	NS	ns1.mtnbusiness.cm.
+suresecurity.cm.	3600	IN	NS	ns2.mtnbusiness.cm.
 surface.cm.		3600	IN	NS	ns1.bodis.com.
 surface.cm.		3600	IN	NS	ns2.bodis.com.
 surfacehub.cm.		3600	IN	NS	ns1-06.azure-dns.com.
@@ -66003,8 +66009,6 @@ tencentmind.cm.		3600	IN	NS	ns02.trademarkarea.com.
 tencentmind.cm.		3600	IN	NS	ns03.trademarkarea.com.
 tenda.cm.		3600	IN	NS	ns1.ii51.parklogic.com.
 tenda.cm.		3600	IN	NS	ns2.ii51.parklogic.com.
-tendance.cm.		3600	IN	NS	ns1.camoogroup.com.
-tendance.cm.		3600	IN	NS	ns2.camoogroup.com.
 tendances-scenic.cm.	3600	IN	NS	ns1.camoogroup.com.
 tendances-scenic.cm.	3600	IN	NS	ns2.camoogroup.com.
 tendawifi.cm.		3600	IN	NS	leo.ns.cloudflare.com.
@@ -68785,8 +68789,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -75266,4 +75270,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022112 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022114 1800 900 1209600 3600
