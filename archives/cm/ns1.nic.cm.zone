@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022122 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1740175528"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022201 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1740186030"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -20709,6 +20709,8 @@ bata.cm.		3600	IN	NS	ns1-08.azure-dns.com.
 bata.cm.		3600	IN	NS	ns2-08.azure-dns.net.
 bata.cm.		3600	IN	NS	ns3-08.azure-dns.org.
 bata.cm.		3600	IN	NS	ns4-08.azure-dns.info.
+batcham.cm.		3600	IN	NS	ns1.camoogroup.com.
+batcham.cm.		3600	IN	NS	ns2.camoogroup.com.
 bateworld.cm.		3600	IN	NS	ns1.parkingcrew.net.
 bateworld.cm.		3600	IN	NS	ns2.parkingcrew.net.
 bath.cm.		3600	IN	NS	ns3.abovedomains.com.
@@ -36071,10 +36073,10 @@ france-travail-jeune.cm. 3600	IN	NS	obs.ns1.fr.
 france-travail-jeunes.cm. 3600	IN	NS	ns2.observatoiredesmarques.fr.
 france-travail-jeunes.cm. 3600	IN	NS	ns3.nameshield.net.
 france-travail-jeunes.cm. 3600	IN	NS	obs.ns1.fr.
+francedns.cm.		86400	IN	DS	41347 8 2 CF688370394A592FCE169602F653B368EC881D0596C5E245F2691FBC 84DFC6F5
 francedns.cm.		3600	IN	NS	ns1.netim.net.
 francedns.cm.		3600	IN	NS	ns2.netim.net.
 francedns.cm.		3600	IN	NS	ns3.netim.net.
-francedns.cm.		86400	IN	DS	41347 8 2 CF688370394A592FCE169602F653B368EC881D0596C5E245F2691FBC 84DFC6F5
 francescas.cm.		3600	IN	NS	ns1.adtraks.com.
 francescas.cm.		3600	IN	NS	ns2.adtraks.com.
 francetravail.cm.	3600	IN	NS	ns2.observatoiredesmarques.fr.
@@ -71435,9 +71437,6 @@ wikipedia.cm.		3600	IN	NS	ns1.parkingcrew.net.
 wikipedia.cm.		3600	IN	NS	ns2.parkingcrew.net.
 wikipreneurs.cm.	3600	IN	NS	ns17.ovh.net.
 wikipreneurs.cm.	3600	IN	NS	dns17.ovh.net.
-wikomobile.cm.		3600	IN	NS	ns-40-b.gandi.net.
-wikomobile.cm.		3600	IN	NS	ns-82-c.gandi.net.
-wikomobile.cm.		3600	IN	NS	ns-136-a.gandi.net.
 wildcasino.cm.		3600	IN	NS	dns1.idp365.net.
 wildcasino.cm.		3600	IN	NS	dns2.idp365.net.
 wildcasino.cm.		3600	IN	NS	dns3.idp365.net.
@@ -75278,4 +75277,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022122 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022201 1800 900 1209600 3600
