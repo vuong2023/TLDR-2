@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022207 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1740207635"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022209 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1740214820"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -43479,8 +43479,6 @@ jobrie.cm.		3600	IN	NS	ns1.camoogroup.com.
 jobrie.cm.		3600	IN	NS	ns2.camoogroup.com.
 jobs.cm.		3600	IN	NS	buynow.nametime.com.
 jobs.cm.		3600	IN	NS	forsale.nametime.com.
-jobsika.cm.		3600	IN	NS	leanna.ns.cloudflare.com.
-jobsika.cm.		3600	IN	NS	lennox.ns.cloudflare.com.
 jobstreet.cm.		3600	IN	NS	ns1.hastydns.com.
 jobstreet.cm.		3600	IN	NS	ns2.hastydns.com.
 jockey.cm.		3600	IN	NS	dns1.cscdns.net.
@@ -51141,9 +51139,8 @@ murcas.cm.		3600	IN	NS	ns1.camoogroup.com.
 murcas.cm.		3600	IN	NS	ns2.camoogroup.com.
 musan.cm.		3600	IN	NS	ns1.camoogroup.com.
 musan.cm.		3600	IN	NS	ns2.camoogroup.com.
-muse.cm.		3600	IN	NS	ns1.netim.net.
-muse.cm.		3600	IN	NS	ns2.netim.net.
-muse.cm.		3600	IN	NS	ns3.netim.net.
+muse.cm.		3600	IN	NS	june.ns.cloudflare.com.
+muse.cm.		3600	IN	NS	edward.ns.cloudflare.com.
 museedespeuplesdelaforet.cm. 3600 IN	NS	dns1.antic.cm.
 museedespeuplesdelaforet.cm. 3600 IN	NS	dns2.antic.cm.
 museedesroisbamoun.cm.	3600	IN	NS	ns1.mtnbusiness.cm.
@@ -69546,8 +69543,8 @@ vatel.cm.		3600	IN	NS	ns.vatelconnect.com.
 vatel.cm.		3600	IN	NS	sdns2.ovh.net.
 vauto.cm.		3600	IN	NS	ns1.ii50.parklogic.com.
 vauto.cm.		3600	IN	NS	ns2.ii50.parklogic.com.
-vave.cm.		3600	IN	NS	dns101.registrar-servers.com.
-vave.cm.		3600	IN	NS	dns102.registrar-servers.com.
+vave.cm.		3600	IN	NS	audrey.ns.cloudflare.com.
+vave.cm.		3600	IN	NS	mustafa.ns.cloudflare.com.
 vaxevria.cm.		3600	IN	NS	dns1.comlaude-dns.com.
 vaxevria.cm.		3600	IN	NS	dns2.comlaude-dns.net.
 vaxevria.cm.		3600	IN	NS	dns3.comlaude-dns.co.uk.
@@ -75271,4 +75268,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022207 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022209 1800 900 1209600 3600
