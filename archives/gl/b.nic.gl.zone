@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159625 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. Lzyz7UXlcwSkPCEsOdRrF92fiAATtgzvr4Hwno8I3fce940M4UXk9HaG B+CQPXo9tXCK14BsAG25s3zzDPXC6Rd+dVoslz/WvO1Ss2ieQnAGTet0 6Z9gYCUXHC09JD8+CHFe5J5Ul1oWm4ZTQiPmu/gQB7rVE9huXxZnkieF sETigJRAKOgQG4PIJ+RWVk6KsNjujE7kD7lMCHUKlUCfidasEYjQ+e2h u4i5IEv1IuNoMfkRBfS55Tfu9Q5BTsvaadNDx0Q2pEXOpyfPyzu45HG+ nmZgHDUaCrRwSgo3a0i4KDOp8JfLRVw3IloXdv0s5W/AIN3OSgBXyJys M1LnWQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159647 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. T46f9KBSz6GWS2MRGNW7ZFtx5KLReJh5ntF7vralRJKvtzvys6lqyY7p LrOgANn+KG7m3o7YRgwFw5tWdJmlobIaWAYASi5wrc0tPf4f+KooU14G z7hwmRE7zNczsW4l26DRMXtMgRWjVK1uyOT3epqAwiitkG558FlxIMnS j0hcMugaWIUUxNVV1oHalb9ZxLevq1POXRo7wQpmlr0rMJgN/UMuC5+D 5ivEnyn0FichoH6+Kv6FrQsZiWZ6yztDO+KRiFrU1HHPlLNaI+6fIvtI ujXqm9PwzCg5IP/sR5cnQCCtXv3E81NIgGUWW+FxiLqwvMLGcTpdB6T1 rYg7yQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -7004,10 +7004,9 @@ gofundme.gl.		3600	IN	NS	ns2.lexsynergy.us.
 gofundme.gl.		3600	IN	NS	ns3.lexsynergy.info.
 gog.gl.			3600	IN	NS	ns1.bodis.com.
 gog.gl.			3600	IN	NS	ns2.bodis.com.
-gogreenland.gl.		3600	IN	NS	ns1.unoeuro.com.
-gogreenland.gl.		3600	IN	NS	ns2.unoeuro.com.
-gogreenland.gl.		3600	IN	NS	ns3.unoeuro.com.
-gogreenland.gl.		3600	IN	NS	ns4.unoeuro.com.
+gogreenland.gl.		3600	IN	NS	ns1.modulo.gl.
+gogreenland.gl.		3600	IN	NS	ns2.modulo.gl.
+gogreenland.gl.		3600	IN	NS	ns3.modulo.gl.
 goi.gl.			3600	IN	NS	170.ns1.above.com.
 goi.gl.			3600	IN	NS	170.ns2.above.com.
 goiardi.gl.		3600	IN	NS	ns-313.awsdns-39.com.
@@ -8672,6 +8671,8 @@ ilj.gl.			3600	IN	NS	ns2.gigahost.dk.
 ilj.gl.			3600	IN	NS	ns3.gigahost.dk.
 ilj.gl.			3600	IN	NS	ns4.gigahost.dk.
 ilj.gl.			3600	IN	NS	ns5.gigahost.dk.
+ill.gl.			3600	IN	NS	desi.ns.cloudflare.com.
+ill.gl.			3600	IN	NS	porter.ns.cloudflare.com.
 illersuisoq.gl.		3600	IN	NS	ns1.curanet.dk.
 illersuisoq.gl.		3600	IN	NS	ns2.curanet.dk.
 illersuisuuneq.gl.	3600	IN	NS	ns1.simply.com.
@@ -14698,6 +14699,10 @@ omg-2.gl.		3600	IN	NS	mia.ns.cloudflare.com.
 omg-2.gl.		3600	IN	NS	noah.ns.cloudflare.com.
 omg-3.gl.		3600	IN	NS	mia.ns.cloudflare.com.
 omg-3.gl.		3600	IN	NS	noah.ns.cloudflare.com.
+omg1.gl.		3600	IN	NS	ns1-virt.catched.com.
+omg1.gl.		3600	IN	NS	ns2-virt.catched.com.
+omg10.gl.		3600	IN	NS	ns3.my-ndns.com.
+omg10.gl.		3600	IN	NS	ns4.my-ndns.com.
 omg11.gl.		3600	IN	NS	eva.ns.cloudflare.com.
 omg11.gl.		3600	IN	NS	keanu.ns.cloudflare.com.
 omg12.gl.		3600	IN	NS	sonny.ns.cloudflare.com.
@@ -14727,8 +14732,26 @@ omg33.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
 omg33.gl.		3600	IN	NS	diana.ns.cloudflare.com.
 omg3zzz.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
 omg3zzz.gl.		3600	IN	NS	diana.ns.cloudflare.com.
+omg4.gl.		3600	IN	NS	ns1.regery.net.
+omg4.gl.		3600	IN	NS	ns2.regery.net.
+omg4.gl.		3600	IN	NS	ns3.regery.net.
 omg44.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
 omg44.gl.		3600	IN	NS	diana.ns.cloudflare.com.
+omg5.gl.		3600	IN	NS	ns1.regery.net.
+omg5.gl.		3600	IN	NS	ns2.regery.net.
+omg5.gl.		3600	IN	NS	ns3.regery.net.
+omg6.gl.		3600	IN	NS	ns1.regery.net.
+omg6.gl.		3600	IN	NS	ns2.regery.net.
+omg6.gl.		3600	IN	NS	ns3.regery.net.
+omg7.gl.		3600	IN	NS	ns1.regery.net.
+omg7.gl.		3600	IN	NS	ns2.regery.net.
+omg7.gl.		3600	IN	NS	ns3.regery.net.
+omg8.gl.		3600	IN	NS	ns1.regery.net.
+omg8.gl.		3600	IN	NS	ns2.regery.net.
+omg8.gl.		3600	IN	NS	ns3.regery.net.
+omg9.gl.		3600	IN	NS	ns1.regery.net.
+omg9.gl.		3600	IN	NS	ns2.regery.net.
+omg9.gl.		3600	IN	NS	ns3.regery.net.
 omgbuy1.gl.		3600	IN	NS	art.ns.cloudflare.com.
 omgbuy1.gl.		3600	IN	NS	holly.ns.cloudflare.com.
 omgbuy10.gl.		3600	IN	NS	art.ns.cloudflare.com.
@@ -15957,6 +15980,9 @@ poulsen.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. c
 poundfit.gl.		3600	IN	NS	ns01.trademarkarea.com.
 poundfit.gl.		3600	IN	NS	ns02.trademarkarea.com.
 poundfit.gl.		3600	IN	NS	ns03.trademarkarea.com.
+pov.gl.			3600	IN	NS	ns1.netim.net.
+pov.gl.			3600	IN	NS	ns2.netim.net.
+pov.gl.			3600	IN	NS	ns3.netim.net.
 power.gl.		3600	IN	NS	ns1.eurodns.com.
 power.gl.		3600	IN	NS	ns2.eurodns.com.
 power.gl.		3600	IN	NS	ns3.eurodns.com.
@@ -19821,10 +19847,8 @@ trygoo.gl.		3600	IN	NS	ns-cloud-e1.googledomains.com.
 trygoo.gl.		3600	IN	NS	ns-cloud-e2.googledomains.com.
 trygoo.gl.		3600	IN	NS	ns-cloud-e3.googledomains.com.
 trygoo.gl.		3600	IN	NS	ns-cloud-e4.googledomains.com.
-tryn.gl.		3600	IN	NS	ns1.iwantmyname.net.
-tryn.gl.		3600	IN	NS	ns2.iwantmyname.net.
-tryn.gl.		3600	IN	NS	ns3.iwantmyname.net.
-tryn.gl.		3600	IN	NS	ns4.iwantmyname.net.
+tryn.gl.		3600	IN	NS	abby.ns.cloudflare.com.
+tryn.gl.		3600	IN	NS	trey.ns.cloudflare.com.
 ts.gl.			3600	IN	NS	ns01.one.com.
 ts.gl.			3600	IN	NS	ns02.one.com.
 tschudi.gl.		3600	IN	NS	ns1.cyon.ch.
@@ -20738,6 +20762,9 @@ vodanet.gl.		3600	IN	NS	ns2.curanet.dk.
 vodaphone.gl.		3600	IN	NS	ns1.vodafone.com.
 vodaphone.gl.		3600	IN	NS	ns3.vodafone.com.
 vodaphone.gl.		3600	IN	NS	ns5.vodafone.com.
+vods.gl.		3600	IN	NS	ns1.netim.net.
+vods.gl.		3600	IN	NS	ns2.netim.net.
+vods.gl.		3600	IN	NS	ns3.netim.net.
 voe.gl.			3600	IN	NS	ns.inwx.de.
 voe.gl.			3600	IN	NS	ns2.inwx.de.
 voe.gl.			3600	IN	NS	ns3.inwx.eu.
@@ -23078,4 +23105,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159625 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159647 900 1800 6048000 3600
