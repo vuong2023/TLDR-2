@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022414 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1740405628"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022423 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1740438020"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -19524,8 +19524,6 @@ autozone.cm.		3600	IN	NS	ns1.autozone.com.
 autozone.cm.		3600	IN	NS	ns2.autozone.com.
 autozone.cm.		3600	IN	NS	ns3.autozone.com.
 autozone.cm.		3600	IN	NS	ns4.autozone.com.
-auxano.cm.		3600	IN	NS	ns1.camoogroup.com.
-auxano.cm.		3600	IN	NS	ns2.camoogroup.com.
 av.cm.			3600	IN	NS	ns1.sedoparking.com.
 av.cm.			3600	IN	NS	ns2.sedoparking.com.
 av288.cm.		3600	IN	NS	ns1.netsto.net.
@@ -26884,12 +26882,8 @@ circuses.cm.		3600	IN	NS	ns3.dnsmadeeasy.com.
 circuses.cm.		3600	IN	NS	ns4.dnsmadeeasy.com.
 circusny.cm.		3600	IN	NS	ns1.adtraks.com.
 circusny.cm.		3600	IN	NS	ns2.adtraks.com.
-cirrus.cm.		3600	IN	NS	a1-29.akam.net.
-cirrus.cm.		3600	IN	NS	a7-67.akam.net.
-cirrus.cm.		3600	IN	NS	a9-64.akam.net.
-cirrus.cm.		3600	IN	NS	a18-64.akam.net.
-cirrus.cm.		3600	IN	NS	a22-65.akam.net.
-cirrus.cm.		3600	IN	NS	a26-66.akam.net.
+cirrus.cm.		3600	IN	NS	dns1.cscdns.net.
+cirrus.cm.		3600	IN	NS	dns2.cscdns.net.
 cirt.cm.		3600	IN	NS	ns1.cirt.cm.
 cirt.cm.		3600	IN	NS	ns3.cirt.cm.
 ns1.cirt.cm.		3600	IN	A	154.126.128.20
@@ -28579,6 +28573,8 @@ cprfc.cm.		3600	IN	NS	ns1.dnshostservices.com.
 cprfc.cm.		3600	IN	NS	ns2.dnshostservices.com.
 cprfc.cm.		3600	IN	NS	ns3.dnshostservices.com.
 cprfc.cm.		3600	IN	NS	ns4.dnshostservices.com.
+cps.cm.			3600	IN	NS	ns1.camoogroup.com.
+cps.cm.			3600	IN	NS	ns2.camoogroup.com.
 cpt.cm.			3600	IN	NS	ns1.netsto.net.
 cpt.cm.			3600	IN	NS	ns2.netsto.net.
 cpt588.cm.		3600	IN	NS	ns1.alidns.com.
@@ -37550,6 +37546,10 @@ god.cm.			3600	IN	NS	newt.ns.cloudflare.com.
 god.cm.			3600	IN	NS	angela.ns.cloudflare.com.
 godaddy.cm.		3600	IN	NS	ns1.adtraks.com.
 godaddy.cm.		3600	IN	NS	ns2.adtraks.com.
+godaddyairo.cm.		3600	IN	NS	ns1.brandsight-dns.com.
+godaddyairo.cm.		3600	IN	NS	ns1.brandsight-dns.net.
+godaddyairo.cm.		3600	IN	NS	ns2.brandsight-dns.com.
+godaddyairo.cm.		3600	IN	NS	ns2.brandsight-dns.net.
 godaddyairoplus.cm.	3600	IN	NS	ns1.brandsight-dns.com.
 godaddyairoplus.cm.	3600	IN	NS	ns1.brandsight-dns.net.
 godaddyairoplus.cm.	3600	IN	NS	ns2.brandsight-dns.com.
@@ -38969,12 +38969,8 @@ hearthsong.cm.		3600	IN	NS	barbara.ns.cloudflare.com.
 hearthsong.cm.		3600	IN	NS	dimitris.ns.cloudflare.com.
 heartlandvetsupply.cm.	3600	IN	NS	ns1.adtraks.com.
 heartlandvetsupply.cm.	3600	IN	NS	ns2.adtraks.com.
-heartofcommerce.cm.	3600	IN	NS	a1-29.akam.net.
-heartofcommerce.cm.	3600	IN	NS	a7-67.akam.net.
-heartofcommerce.cm.	3600	IN	NS	a9-64.akam.net.
-heartofcommerce.cm.	3600	IN	NS	a18-64.akam.net.
-heartofcommerce.cm.	3600	IN	NS	a22-65.akam.net.
-heartofcommerce.cm.	3600	IN	NS	a26-66.akam.net.
+heartofcommerce.cm.	3600	IN	NS	dns1.cscdns.net.
+heartofcommerce.cm.	3600	IN	NS	dns2.cscdns.net.
 heatandcool.cm.		3600	IN	NS	ns1.adtraks.com.
 heatandcool.cm.		3600	IN	NS	ns2.adtraks.com.
 heatupamerica.cm.	3600	IN	NS	dns1.cscdns.net.
@@ -48444,12 +48440,8 @@ mastercardinternational.cm. 3600 IN	NS	a9-64.akam.net.
 mastercardinternational.cm. 3600 IN	NS	a18-64.akam.net.
 mastercardinternational.cm. 3600 IN	NS	a22-65.akam.net.
 mastercardinternational.cm. 3600 IN	NS	a26-66.akam.net.
-mastercardmerchant.cm.	3600	IN	NS	a1-29.akam.net.
-mastercardmerchant.cm.	3600	IN	NS	a7-67.akam.net.
-mastercardmerchant.cm.	3600	IN	NS	a9-64.akam.net.
-mastercardmerchant.cm.	3600	IN	NS	a18-64.akam.net.
-mastercardmerchant.cm.	3600	IN	NS	a22-65.akam.net.
-mastercardmerchant.cm.	3600	IN	NS	a26-66.akam.net.
+mastercardmerchant.cm.	3600	IN	NS	dns1.cscdns.net.
+mastercardmerchant.cm.	3600	IN	NS	dns2.cscdns.net.
 mastercardmoneysend.cm.	3600	IN	NS	dns1.cscdns.net.
 mastercardmoneysend.cm.	3600	IN	NS	dns2.cscdns.net.
 mastercardonline.cm.	3600	IN	NS	a1-29.akam.net.
@@ -51755,8 +51747,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -65824,8 +65816,6 @@ tempurpedic.cm.		3600	IN	NS	ns5.markmonitor.com.
 tempurpedic.cm.		3600	IN	NS	ns6.markmonitor.com.
 temr.cm.		3600	IN	NS	dns1.registrar-servers.com.
 temr.cm.		3600	IN	NS	dns2.registrar-servers.com.
-temu.cm.		3600	IN	NS	ns1.bodis.com.
-temu.cm.		3600	IN	NS	ns2.bodis.com.
 ten.cm.			3600	IN	NS	dan.ns.cloudflare.com.
 ten.cm.			3600	IN	NS	alice.ns.cloudflare.com.
 tena.cm.		3600	IN	NS	melkor.ngninfra.net.
@@ -68620,8 +68610,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -75087,4 +75077,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022414 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022423 1800 900 1209600 3600
