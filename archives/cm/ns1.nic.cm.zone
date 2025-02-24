@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022404 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1740369622"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022405 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1740373222"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -20397,8 +20397,8 @@ bankomat.cm.		3600	IN	NS	ns3.ddos-guard.net.
 bankomat.cm.		3600	IN	NS	ns4.ddos-guard.net.
 bankomat.cm.		3600	IN	NS	ns5.ddos-guard.net.
 bankomat.cm.		3600	IN	NS	ns6.ddos-guard.net.
-bankomatcm.cm.		3600	IN	NS	ns3.my-ndns.com.
-bankomatcm.cm.		3600	IN	NS	ns4.my-ndns.com.
+bankomatcm.cm.		3600	IN	NS	rex.ns.cloudflare.com.
+bankomatcm.cm.		3600	IN	NS	stevie.ns.cloudflare.com.
 bankozarks.cm.		3600	IN	NS	carl.ns.cloudflare.com.
 bankozarks.cm.		3600	IN	NS	zita.ns.cloudflare.com.
 bankrate.cm.		3600	IN	NS	ns1.hastydns.com.
@@ -75070,4 +75070,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022404 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022405 1800 900 1209600 3600
