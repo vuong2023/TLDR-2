@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030114 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1740837923"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030115 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1740841525"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -11959,6 +11959,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 775277.cm.		3600	IN	NS	ns2.netsto.net.
 7753.cm.		3600	IN	NS	ns1.dns.com.
 7753.cm.		3600	IN	NS	ns2.dns.com.
+775359.cm.		3600	IN	NS	reza.ns.cloudflare.com.
+775359.cm.		3600	IN	NS	major.ns.cloudflare.com.
 7755.cm.		3600	IN	NS	ns1.netsto.net.
 7755.cm.		3600	IN	NS	ns2.netsto.net.
 775544.cm.		3600	IN	NS	ns1.alidns.com.
@@ -63466,8 +63468,6 @@ speedtv.cm.		3600	IN	NS	ns2.brandsight-dns.com.
 speedtv.cm.		3600	IN	NS	ns2.brandsight-dns.net.
 speedway.cm.		3600	IN	NS	ns1.parkingcrew.net.
 speedway.cm.		3600	IN	NS	ns2.parkingcrew.net.
-speedybygap.cm.		3600	IN	NS	ns21.truehostdns.com.
-speedybygap.cm.		3600	IN	NS	ns22.truehostdns.com.
 speedycash.cm.		3600	IN	NS	ns3.abovedomains.com.
 speedycash.cm.		3600	IN	NS	ns4.abovedomains.com.
 spelling.cm.		3600	IN	NS	ns-108.awsdns-13.com.
@@ -74924,4 +74924,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030114 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030115 1800 900 1209600 3600
