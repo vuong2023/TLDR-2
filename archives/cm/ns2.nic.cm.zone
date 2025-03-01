@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022818 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1740765625"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030103 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1740798331"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -22282,8 +22282,6 @@ blank.cm.		3600	IN	NS	ns1jsv.name.com.
 blank.cm.		3600	IN	NS	ns2knz.name.com.
 blank.cm.		3600	IN	NS	ns3dgr.name.com.
 blank.cm.		3600	IN	NS	ns4fmx.name.com.
-blast.cm.		3600	IN	NS	elisa.ns.cloudflare.com.
-blast.cm.		3600	IN	NS	cosmin.ns.cloudflare.com.
 blastarswap.cm.		3600	IN	NS	elisa.ns.cloudflare.com.
 blastarswap.cm.		3600	IN	NS	cosmin.ns.cloudflare.com.
 blasterswap.cm.		3600	IN	NS	elisa.ns.cloudflare.com.
@@ -22633,8 +22631,6 @@ bnb89.cm.		3600	IN	NS	ns2.alidns.com.
 bncr.cm.		3600	IN	NS	ns1.digitalocean.com.
 bncr.cm.		3600	IN	NS	ns2.digitalocean.com.
 bncr.cm.		3600	IN	NS	ns3.digitalocean.com.
-bncreation.cm.		3600	IN	NS	ns21.truehostdns.com.
-bncreation.cm.		3600	IN	NS	ns22.truehostdns.com.
 bng.cm.			3600	IN	NS	ns1-08.azure-dns.com.
 bng.cm.			3600	IN	NS	ns2-08.azure-dns.net.
 bng.cm.			3600	IN	NS	ns3-08.azure-dns.org.
@@ -31855,8 +31851,8 @@ easyconstruction.cm.	3600	IN	NS	ns0.thundercloud.uk.
 easyconstruction.cm.	3600	IN	NS	ns1.thundercloud.uk.
 easydeals.cm.		3600	IN	NS	ns3.abovedomains.com.
 easydeals.cm.		3600	IN	NS	ns4.abovedomains.com.
-easyenglish.cm.		3600	IN	NS	ns1.consolidis.com.
-easyenglish.cm.		3600	IN	NS	ns2.consolidis.com.
+easyenglish.cm.		3600	IN	NS	ns1.newtoncorp.net.
+easyenglish.cm.		3600	IN	NS	ns2.newtoncorp.net.
 easyinsurance.cm.	3600	IN	NS	ns3.netim.net.
 easyinsurance.cm.	3600	IN	NS	mrozia.mtds.com.
 easyinsurance.cm.	3600	IN	NS	rfissa.mtds.com.
@@ -34666,8 +34662,8 @@ ffybak.cm.		3600	IN	NS	ns1.netsto.net.
 ffybak.cm.		3600	IN	NS	ns2.netsto.net.
 fg.cm.			3600	IN	NS	ns1.dns.com.
 fg.cm.			3600	IN	NS	ns2.dns.com.
-fgbc.cm.		3600	IN	NS	ns1.o2switch.net.
-fgbc.cm.		3600	IN	NS	ns2.o2switch.net.
+fgbc.cm.		3600	IN	NS	ns1.dns-parking.com.
+fgbc.cm.		3600	IN	NS	ns2.dns-parking.com.
 fgc88.cm.		3600	IN	NS	ns1.netsto.net.
 fgc88.cm.		3600	IN	NS	ns2.netsto.net.
 fgf8.cm.		3600	IN	NS	ns1.alidns.com.
@@ -51583,10 +51579,10 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -60564,6 +60560,8 @@ sallybeauty.cm.		3600	IN	NS	ns1.adtraks.com.
 sallybeauty.cm.		3600	IN	NS	ns2.adtraks.com.
 salon.cm.		3600	IN	NS	ns1.ii51.parklogic.com.
 salon.cm.		3600	IN	NS	ns2.ii51.parklogic.com.
+salondumobilier.cm.	3600	IN	NS	ns1.camoogroup.com.
+salondumobilier.cm.	3600	IN	NS	ns2.camoogroup.com.
 salonpas.cm.		3600	IN	NS	rns1.rightsdns.com.
 salonpas.cm.		3600	IN	NS	rns2.rightsdns.com.
 saloodo.cm.		3600	IN	NS	ns-319.awsdns-39.com.
@@ -73312,8 +73310,6 @@ yaoundephotofest.cm.	3600	IN	NS	ns3.dnshostservices.com.
 yaoundephotofest.cm.	3600	IN	NS	ns4.dnshostservices.com.
 yara.cm.		3600	IN	NS	dns1.cscdns.net.
 yara.cm.		3600	IN	NS	dns2.cscdns.net.
-yard.cm.		3600	IN	NS	ns12.ovh.net.
-yard.cm.		3600	IN	NS	dns12.ovh.net.
 yardhouse.cm.		3600	IN	NS	auth111.ns.uu.net.
 yardhouse.cm.		3600	IN	NS	auth120.ns.uu.net.
 yarn.cm.		3600	IN	NS	ns1.parkingcrew.net.
@@ -74918,4 +74914,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022818 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030103 1800 900 1209600 3600
