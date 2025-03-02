@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030211 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1740913224"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030212 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1740916824"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -44494,6 +44494,8 @@ kiavy.cm.		3600	IN	NS	dns1.registrar-servers.com.
 kiavy.cm.		3600	IN	NS	dns2.registrar-servers.com.
 kibbutz.cm.		3600	IN	NS	bart.ns.cloudflare.com.
 kibbutz.cm.		3600	IN	NS	brenda.ns.cloudflare.com.
+kibris.cm.		3600	IN	NS	ns1.vercel-dns.com.
+kibris.cm.		3600	IN	NS	ns2.vercel-dns.com.
 kic.cm.			3600	IN	NS	ns1.101domain.com.
 kic.cm.			3600	IN	NS	ns2.101domain.com.
 kick.cm.		3600	IN	NS	588.ns1.abovedomains.com.
@@ -51477,8 +51479,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -74731,4 +74733,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030211 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030212 1800 900 1209600 3600
