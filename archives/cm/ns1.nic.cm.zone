@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030406 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741068025"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030408 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741075225"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -2893,9 +2893,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 1a.cm.			3600	IN	NS	ns.udag.org.
 1and1.cm.		3600	IN	NS	ns1.parkingcrew.net.
 1and1.cm.		3600	IN	NS	ns2.parkingcrew.net.
-1b.cm.			3600	IN	NS	ns-16-c.gandi.net.
-1b.cm.			3600	IN	NS	ns-217-b.gandi.net.
-1b.cm.			3600	IN	NS	ns-252-a.gandi.net.
 1bet.cm.		3600	IN	NS	dora.ns.cloudflare.com.
 1bet.cm.		3600	IN	NS	wilson.ns.cloudflare.com.
 1bet365.cm.		3600	IN	NS	ns1.netsto.net.
@@ -32567,8 +32564,6 @@ emabrquecars.cm.	3600	IN	NS	udns1.cscdns.net.
 emabrquecars.cm.	3600	IN	NS	udns2.cscdns.uk.
 emag.cm.		3600	IN	NS	ns1.emag.ro.
 emag.cm.		3600	IN	NS	ns2.emag.ro.
-emah-etoundi-mfoundi3.cm. 3600	IN	NS	ns1.camoogroup.com.
-emah-etoundi-mfoundi3.cm. 3600	IN	NS	ns2.camoogroup.com.
 emails.cm.		3600	IN	NS	ns3.abovedomains.com.
 emails.cm.		3600	IN	NS	ns4.abovedomains.com.
 emanualonline.cm.	3600	IN	NS	ns1.adtraks.com.
@@ -35007,6 +35002,11 @@ fj.cm.			3600	IN	NS	ns1.4.cn.
 fj.cm.			3600	IN	NS	ns2.4.cn.
 fjordfoundry.cm.	3600	IN	NS	ns1.ddos-guard.net.
 fjordfoundry.cm.	3600	IN	NS	ns2.ddos-guard.net.
+fjordfuondry.cm.	3600	IN	NS	ns1.ddos-guard.net.
+fjordfuondry.cm.	3600	IN	NS	ns2.ddos-guard.net.
+fjordfuondry.cm.	3600	IN	NS	ns3.ddos-guard.net.
+fjordfuondry.cm.	3600	IN	NS	ns4.ddos-guard.net.
+fjordfuondry.cm.	3600	IN	NS	ns5.ddos-guard.net.
 fjzhibo.cm.		3600	IN	NS	ns1.alidns.com.
 fjzhibo.cm.		3600	IN	NS	ns2.alidns.com.
 fk.cm.			3600	IN	NS	abdullah.ns.cloudflare.com.
@@ -65584,6 +65584,8 @@ tempurpedic.cm.		3600	IN	NS	ns5.markmonitor.com.
 tempurpedic.cm.		3600	IN	NS	ns6.markmonitor.com.
 temr.cm.		3600	IN	NS	dns1.registrar-servers.com.
 temr.cm.		3600	IN	NS	dns2.registrar-servers.com.
+temu.cm.		3600	IN	NS	ns1.bodis.com.
+temu.cm.		3600	IN	NS	ns2.bodis.com.
 ten.cm.			3600	IN	NS	dan.ns.cloudflare.com.
 ten.cm.			3600	IN	NS	alice.ns.cloudflare.com.
 tena.cm.		3600	IN	NS	melkor.ngninfra.net.
@@ -74744,4 +74746,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030406 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030408 1800 900 1209600 3600
