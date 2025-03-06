@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030619 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741287620"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030623 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741302023"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -28957,6 +28957,8 @@ deepcoin.cm.		3600	IN	NS	dns1.registrar-servers.com.
 deepcoin.cm.		3600	IN	NS	dns2.registrar-servers.com.
 deeper.cm.		3600	IN	NS	ns3.abovedomains.com.
 deeper.cm.		3600	IN	NS	ns4.abovedomains.com.
+deepl.cm.		3600	IN	NS	ernest.ns.cloudflare.com.
+deepl.cm.		3600	IN	NS	kinsley.ns.cloudflare.com.
 deepmind.cm.		3600	IN	NS	ns1.google.com.
 deepmind.cm.		3600	IN	NS	ns2.google.com.
 deepmind.cm.		3600	IN	NS	ns3.google.com.
@@ -31198,6 +31200,12 @@ ebayenterprise.cm.	3600	IN	NS	ns1.markmonitor.com.
 ebayenterprise.cm.	3600	IN	NS	ns3.markmonitor.com.
 ebayinc.cm.		3600	IN	NS	ns1.markmonitor.com.
 ebayinc.cm.		3600	IN	NS	ns3.markmonitor.com.
+ebaylive.cm.		3600	IN	NS	ns1.markmonitor.com.
+ebaylive.cm.		3600	IN	NS	ns2.markmonitor.com.
+ebaylive.cm.		3600	IN	NS	ns3.markmonitor.com.
+ebaylive.cm.		3600	IN	NS	ns4.markmonitor.com.
+ebaylive.cm.		3600	IN	NS	ns5.markmonitor.com.
+ebaylive.cm.		3600	IN	NS	ns6.markmonitor.com.
 ebaylocal.cm.		3600	IN	NS	ns1.markmonitor.com.
 ebaylocal.cm.		3600	IN	NS	ns2.markmonitor.com.
 ebaylocal.cm.		3600	IN	NS	ns3.markmonitor.com.
@@ -36974,10 +36982,8 @@ governmentjobs.cm.	3600	IN	NS	ns1.parkingcrew.net.
 governmentjobs.cm.	3600	IN	NS	ns2.parkingcrew.net.
 govx.cm.		3600	IN	NS	ns1.ii50.parklogic.com.
 govx.cm.		3600	IN	NS	ns2.ii50.parklogic.com.
-gowash.cm.		3600	IN	NS	ns5.lwsdns.com.
-gowash.cm.		3600	IN	NS	ns6.lwsdns.com.
-gowash.cm.		3600	IN	NS	ns7.lwsdns.com.
-gowash.cm.		3600	IN	NS	ns8.lwsdns.com.
+gowash.cm.		3600	IN	NS	ns1.o2switch.net.
+gowash.cm.		3600	IN	NS	ns2.o2switch.net.
 gowow.cm.		3600	IN	NS	e.ezdnscenter.com.
 gowow.cm.		3600	IN	NS	f.ezdnscenter.com.
 gp.cm.			3600	IN	NS	ns1.dns.com.
@@ -50745,8 +50751,8 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
@@ -67621,8 +67627,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -73454,8 +73460,6 @@ zentiva.cm.		3600	IN	NS	dns2.idp365.net.
 zentiva.cm.		3600	IN	NS	dns3.idp365.net.
 zepbound.cm.		3600	IN	NS	ns1.parkingcrew.net.
 zepbound.cm.		3600	IN	NS	ns2.parkingcrew.net.
-zephyr.cm.		3600	IN	NS	dns101.registrar-servers.com.
-zephyr.cm.		3600	IN	NS	dns102.registrar-servers.com.
 zerodha.cm.		3600	IN	NS	ns1.parkingcrew.net.
 zerodha.cm.		3600	IN	NS	ns2.parkingcrew.net.
 zerohedge.cm.		3600	IN	NS	ns1.ii51.parklogic.com.
@@ -73925,4 +73929,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030619 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030623 1800 900 1209600 3600
