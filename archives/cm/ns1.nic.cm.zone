@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030604 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741233626"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030605 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741237225"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -31745,8 +31745,8 @@ elephanttube.cm.	3600	IN	NS	ns31.constellix.com.
 elephanttube.cm.	3600	IN	NS	ns41.constellix.net.
 elephanttube.cm.	3600	IN	NS	ns51.constellix.net.
 elephanttube.cm.	3600	IN	NS	ns61.constellix.net.
-elevate.cm.		3600	IN	NS	dns1.registrar-servers.com.
-elevate.cm.		3600	IN	NS	dns2.registrar-servers.com.
+elevate.cm.		3600	IN	NS	uma.ns.cloudflare.com.
+elevate.cm.		3600	IN	NS	apollo.ns.cloudflare.com.
 elevise.cm.		3600	IN	NS	dns1.cscdns.net.
 elevise.cm.		3600	IN	NS	dns2.cscdns.net.
 elevize.cm.		3600	IN	NS	dns1.cscdns.net.
@@ -73840,4 +73840,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030604 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030605 1800 900 1209600 3600
