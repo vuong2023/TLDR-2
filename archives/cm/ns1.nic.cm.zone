@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030704 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741320328"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030707 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741331132"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -16008,6 +16008,8 @@ ai6zcrypto.cm.		3600	IN	NS	ns2.lexsynergy.us.
 ai6zcrypto.cm.		3600	IN	NS	ns3.lexsynergy.info.
 aia.cm.			3600	IN	NS	amalia.ns.cloudflare.com.
 aia.cm.			3600	IN	NS	emerson.ns.cloudflare.com.
+aiagent.cm.		3600	IN	NS	ns1.atom.com.
+aiagent.cm.		3600	IN	NS	ns2.atom.com.
 aib.cm.			3600	IN	NS	ns109.ovh.net.
 aib.cm.			3600	IN	NS	dns109.ovh.net.
 aibot.cm.		3600	IN	NS	dns1.comlaude-dns.com.
@@ -45307,6 +45309,8 @@ lgbt.cm.		3600	IN	NS	harvey.ns.cloudflare.com.
 lgbt.cm.		3600	IN	NS	teagan.ns.cloudflare.com.
 lgcorp.cm.		3600	IN	NS	siti.ns.orangewebsite.com.
 lgcorp.cm.		3600	IN	NS	buffy.ns.orangewebsite.com.
+lge.cm.			3600	IN	NS	ns3.abovedomains.com.
+lge.cm.			3600	IN	NS	ns4.abovedomains.com.
 lgn.cm.			3600	IN	NS	dns1.registrar-servers.com.
 lgn.cm.			3600	IN	NS	dns2.registrar-servers.com.
 lgseeds.cm.		3600	IN	NS	dns.w3line.fr.
@@ -47357,6 +47361,8 @@ mattresswarehouse.cm.	3600	IN	NS	ns1.adtraks.com.
 mattresswarehouse.cm.	3600	IN	NS	ns2.adtraks.com.
 matureplay.cm.		3600	IN	NS	ns1.parkingcrew.net.
 matureplay.cm.		3600	IN	NS	ns2.parkingcrew.net.
+maturetube.cm.		3600	IN	NS	ns3.abovedomains.com.
+maturetube.cm.		3600	IN	NS	ns4.abovedomains.com.
 mauijim.cm.		3600	IN	NS	ns1.adtraks.com.
 mauijim.cm.		3600	IN	NS	ns2.adtraks.com.
 maurices.cm.		3600	IN	NS	ns1.bodis.com.
@@ -50566,8 +50572,8 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
+ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
@@ -59628,6 +59634,8 @@ sandever.cm.		3600	IN	NS	ns-21-a.gandi.net.
 sandever.cm.		3600	IN	NS	ns-160-b.gandi.net.
 sandro-paris.cm.	3600	IN	NS	ns1.adtraks.com.
 sandro-paris.cm.	3600	IN	NS	ns2.adtraks.com.
+sands.cm.		3600	IN	NS	ns3.abovedomains.com.
+sands.cm.		3600	IN	NS	ns4.abovedomains.com.
 sandvik.cm.		3600	IN	NS	ns.sandvik.com.
 sandvik.cm.		3600	IN	NS	nx1.sandvik.com.
 sandvik.cm.		3600	IN	NS	nx2.sandvik.com.
@@ -67421,8 +67429,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -73687,4 +73695,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030704 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030707 1800 900 1209600 3600
