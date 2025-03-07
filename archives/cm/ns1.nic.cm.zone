@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030715 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741359919"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030716 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741363521"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -39432,8 +39432,6 @@ http-bclub.cm.		3600	IN	NS	terry.ns.cloudflare.com.
 http-bclub.cm.		3600	IN	NS	meilani.ns.cloudflare.com.
 http-briansclub.cm.	3600	IN	NS	ns1.parkingcrew.net.
 http-briansclub.cm.	3600	IN	NS	ns2.parkingcrew.net.
-http-kfcclub.cm.	3600	IN	NS	drew.ns.cloudflare.com.
-http-kfcclub.cm.	3600	IN	NS	piper.ns.cloudflare.com.
 http8x8x.cm.		3600	IN	NS	ns1.alidns.com.
 http8x8x.cm.		3600	IN	NS	ns2.alidns.com.
 https-briankrebs.cm.	3600	IN	NS	ns89.hostlife.net.
@@ -43332,6 +43330,8 @@ kay.cm.			3600	IN	NS	ns2.hastydns.com.
 kayak.cm.		3600	IN	NS	ns1.101domain.com.
 kayak.cm.		3600	IN	NS	ns2.101domain.com.
 kayak.cm.		3600	IN	NS	ns5.101domain.com.
+kayo.cm.		3600	IN	NS	ns20.ovh.net.
+kayo.cm.		3600	IN	NS	dns20.ovh.net.
 kb.cm.			3600	IN	NS	ns1.netsto.net.
 kb.cm.			3600	IN	NS	ns2.netsto.net.
 kb03.cm.		3600	IN	NS	kira.ns.cloudflare.com.
@@ -61439,6 +61439,8 @@ skittles.cm.		3600	IN	NS	ns-49.awsdns-06.com.
 skittles.cm.		3600	IN	NS	ns-758.awsdns-30.net.
 skittles.cm.		3600	IN	NS	ns-1314.awsdns-36.org.
 skittles.cm.		3600	IN	NS	ns-1566.awsdns-03.co.uk.
+skm.cm.			3600	IN	NS	dns1.obambu.com.
+skm.cm.			3600	IN	NS	dns2.obambu.com.
 skoda.cm.		3600	IN	NS	isp2.viapraga.cz.
 skoda.cm.		3600	IN	NS	skoda2.skoda-auto.cz.
 skoda.cm.		3600	IN	NS	skoda3.skoda-auto.cz.
@@ -67441,8 +67443,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -73707,4 +73709,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030715 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030716 1800 900 1209600 3600
