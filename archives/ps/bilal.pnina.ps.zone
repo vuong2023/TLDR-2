@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025030707 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025030711 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1741352499"
+ps.			86400	IN	TXT	"Generation Time: 1741381293"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -6489,8 +6489,8 @@ frihatlaw.ps.		86400	IN	NS	ns1-panda.dl-cms.com.
 frihatlaw.ps.		86400	IN	NS	ns2-panda.dl-cms.com.
 frizer.ps.		86400	IN	NS	lex.ns.cloudflare.com.
 frizer.ps.		86400	IN	NS	roxy.ns.cloudflare.com.
-frndz.ps.		86400	IN	NS	ns1.bluehost.com.
-frndz.ps.		86400	IN	NS	ns2.bluehost.com.
+frndz.ps.		86400	IN	NS	eric.ns.cloudflare.com.
+frndz.ps.		86400	IN	NS	gloria.ns.cloudflare.com.
 fseasons.ps.		86400	IN	NS	cdns1.hadara.ps.
 fseasons.ps.		86400	IN	NS	cdns2.hadara.ps.
 fstgchi.ps.		86400	IN	NS	jfbextdns1.genmills.com.
@@ -10205,6 +10205,8 @@ masterpiece.ps.		86400	IN	NS	lars.ns.cloudflare.com.
 masterpiece.ps.		86400	IN	NS	yolanda.ns.cloudflare.com.
 masterweb.ps.		86400	IN	NS	ns3.masterweb-ps.com.
 masterweb.ps.		86400	IN	NS	ns4.masterweb-ps.com.
+mastodon.ps.		86400	IN	NS	todd.ns.cloudflare.com.
+mastodon.ps.		86400	IN	NS	lauryn.ns.cloudflare.com.
 masvita.ps.		86400	IN	NS	ns1.zone.ps.
 masvita.ps.		86400	IN	NS	ns2.zone.ps.
 masya.ps.		86400	IN	NS	ns1.servconfig.com.
@@ -13680,9 +13682,10 @@ powergroup.ps.		86400	IN	NS	ns1.dns-parking.com.
 powergroup.ps.		86400	IN	NS	ns2.dns-parking.com.
 powerinfinity.ps.	86400	IN	NS	ns13.nepras.net.
 powerinfinity.ps.	86400	IN	NS	ns14.nepras.net.
-powerpuffgirls.ps.	86400	IN	NS	ns1.timewarner.net.
-powerpuffgirls.ps.	86400	IN	NS	ns3.timewarner.net.
-powerpuffgirls.ps.	86400	IN	NS	ns5.timewarner.net.
+powerpuffgirls.ps.	86400	IN	NS	ns-83.awsdns-10.com.
+powerpuffgirls.ps.	86400	IN	NS	ns-804.awsdns-36.net.
+powerpuffgirls.ps.	86400	IN	NS	ns-1351.awsdns-40.org.
+powerpuffgirls.ps.	86400	IN	NS	ns-1683.awsdns-18.co.uk.
 ppa.ps.			86400	IN	NS	ns1.bluehost.com.
 ppa.ps.			86400	IN	NS	ns2.bluehost.com.
 ppag.ps.		86400	IN	NS	ns5.high-five.co.
@@ -14815,6 +14818,8 @@ rstc.ps.		86400	IN	NS	harley.ns.cloudflare.com.
 rsv.ps.			86400	IN	NS	ns01.trademarkarea.com.
 rsv.ps.			86400	IN	NS	ns02.trademarkarea.com.
 rsv.ps.			86400	IN	NS	ns03.trademarkarea.com.
+ruaa.ps.		86400	IN	NS	ns6549.hostgator.com.
+ruaa.ps.		86400	IN	NS	ns6550.hostgator.com.
 rulaphone.ps.		86400	IN	NS	ns13.nepras.net.
 rulaphone.ps.		86400	IN	NS	ns14.nepras.net.
 runelocus.ps.		86400	IN	NS	ns0.transip.net.
@@ -15420,6 +15425,8 @@ shambeauty.ps.		86400	IN	NS	ns1.mongiddesigns.com.
 shambeauty.ps.		86400	IN	NS	ns2.mongiddesigns.com.
 shamel.ps.		86400	IN	NS	ns1.trustedcom.com.
 shamel.ps.		86400	IN	NS	ns2.trustedcom.com.
+shammarket.ps.		86400	IN	NS	ns1.mysecurecloudhost.com.
+shammarket.ps.		86400	IN	NS	ns2.mysecurecloudhost.com.
 shams.ps.		86400	IN	NS	jerry.ns.cloudflare.com.
 shams.ps.		86400	IN	NS	monroe.ns.cloudflare.com.
 shamsuna.ps.		86400	IN	NS	ns1.trustedcom.com.
@@ -16831,9 +16838,10 @@ tblock.ps.		86400	IN	NS	ns1.rhostbh.com.
 tblock.ps.		86400	IN	NS	ns2.rhostbh.com.
 tcare.ps.		86400	IN	NS	dns2013a.trouble-free.net.
 tcare.ps.		86400	IN	NS	dns2013b.trouble-free.net.
-tcm.ps.			86400	IN	NS	ns1.timewarner.net.
-tcm.ps.			86400	IN	NS	ns3.timewarner.net.
-tcm.ps.			86400	IN	NS	ns5.timewarner.net.
+tcm.ps.			86400	IN	NS	ns-258.awsdns-32.com.
+tcm.ps.			86400	IN	NS	ns-750.awsdns-29.net.
+tcm.ps.			86400	IN	NS	ns-1380.awsdns-44.org.
+tcm.ps.			86400	IN	NS	ns-1835.awsdns-37.co.uk.
 tcom.ps.		86400	IN	NS	cdns1.hadara.ps.
 tcom.ps.		86400	IN	NS	cdns2.hadara.ps.
 tconsulting.ps.		86400	IN	NS	ns1.bluetd.com.
@@ -17147,9 +17155,10 @@ tnbonline.ps.		86400	IN	NS	ns1-02.azure-dns.com.
 tnbonline.ps.		86400	IN	NS	ns2-02.azure-dns.net.
 tnbonline.ps.		86400	IN	NS	ns3-02.azure-dns.org.
 tnbonline.ps.		86400	IN	NS	ns4-02.azure-dns.info.
-tnt.ps.			86400	IN	NS	ns1.timewarner.net.
-tnt.ps.			86400	IN	NS	ns3.timewarner.net.
-tnt.ps.			86400	IN	NS	ns5.timewarner.net.
+tnt.ps.			86400	IN	NS	ns-184.awsdns-23.com.
+tnt.ps.			86400	IN	NS	ns-627.awsdns-14.net.
+tnt.ps.			86400	IN	NS	ns-1368.awsdns-43.org.
+tnt.ps.			86400	IN	NS	ns-1624.awsdns-11.co.uk.
 to-go.ps.		86400	IN	NS	desi.ns.cloudflare.com.
 to-go.ps.		86400	IN	NS	norm.ns.cloudflare.com.
 to-me.ps.		86400	IN	NS	ns1.superapple.co.
@@ -18870,4 +18879,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025030707 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025030711 86400 7200 3600000 172800
