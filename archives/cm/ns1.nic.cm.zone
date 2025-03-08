@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030821 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741467627"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030822 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741471227"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -22652,6 +22652,8 @@ brianscub.cm.		3600	IN	NS	ns3.abovedomains.com.
 brianscub.cm.		3600	IN	NS	ns4.abovedomains.com.
 briansculb.cm.		3600	IN	NS	ns3.abovedomains.com.
 briansculb.cm.		3600	IN	NS	ns4.abovedomains.com.
+brianseclub.cm.		3600	IN	NS	kenia.ns.cloudflare.com.
+brianseclub.cm.		3600	IN	NS	merlin.ns.cloudflare.com.
 briansiclub.cm.		3600	IN	NS	ns1.parkingcrew.net.
 briansiclub.cm.		3600	IN	NS	ns2.parkingcrew.net.
 briansklub.cm.		3600	IN	NS	ns3.abovedomains.com.
@@ -73764,4 +73766,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030821 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030822 1800 900 1209600 3600
