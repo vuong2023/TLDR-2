@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030921 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741554328"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031002 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741572034"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -50599,8 +50599,8 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
@@ -54396,9 +54396,8 @@ perfectpay.cm.		3600	IN	NS	ns10.prosygma-cm.com.
 perfly.cm.		3600	IN	NS	ns-135-b.gandi.net.
 perfly.cm.		3600	IN	NS	ns-233-c.gandi.net.
 perfly.cm.		3600	IN	NS	ns-238-a.gandi.net.
-perfmindset.cm.		3600	IN	NS	nsa.planethoster.net.
-perfmindset.cm.		3600	IN	NS	nsb.planethoster.net.
-perfmindset.cm.		3600	IN	NS	nsc.planethoster.net.
+perfmindset.cm.		3600	IN	NS	dns1.namecheaphosting.com.
+perfmindset.cm.		3600	IN	NS	dns2.namecheaphosting.com.
 performance.cm.		3600	IN	NS	ns1.camoogroup.com.
 performance.cm.		3600	IN	NS	ns2.camoogroup.com.
 performance-afrique.cm.	3600	IN	NS	ns1.africexplorer.com.
@@ -67483,8 +67482,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
+bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -73743,4 +73742,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030921 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031002 1800 900 1209600 3600
