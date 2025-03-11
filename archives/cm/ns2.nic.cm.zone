@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031104 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741665621"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031109 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741683625"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -4845,6 +4845,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 33649.cm.		3600	IN	NS	ns2.netsto.net.
 3365.cm.		3600	IN	NS	ns6.netsto.net.
 3365.cm.		3600	IN	NS	ns7.netsto.net.
+336562.cm.		3600	IN	NS	reza.ns.cloudflare.com.
+336562.cm.		3600	IN	NS	major.ns.cloudflare.com.
 336686.cm.		3600	IN	NS	ns1.alidns.com.
 336686.cm.		3600	IN	NS	ns2.alidns.com.
 3367.cm.		3600	IN	NS	ns1.dns.com.
@@ -15422,8 +15424,6 @@ afib.cm.		3600	IN	NS	art.ns.cloudflare.com.
 afib.cm.		3600	IN	NS	daisy.ns.cloudflare.com.
 afics.cm.		3600	IN	NS	ns1.101domain.com.
 afics.cm.		3600	IN	NS	ns2.101domain.com.
-afiri.cm.		3600	IN	NS	ns1.boxsecured.com.
-afiri.cm.		3600	IN	NS	ns2.boxsecured.com.
 afisa.cm.		3600	IN	NS	ns1.inmotionhosting.com.
 afisa.cm.		3600	IN	NS	ns2.inmotionhosting.com.
 afl.cm.			3600	IN	NS	ns.domainnetwork.se.
@@ -32252,6 +32252,8 @@ eudes.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 eudes.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
 euecoflow.cm.		3600	IN	NS	ns1.adtraks.com.
 euecoflow.cm.		3600	IN	NS	ns2.adtraks.com.
+eufy.cm.		3600	IN	NS	ns1.bodis.com.
+eufy.cm.		3600	IN	NS	ns2.bodis.com.
 euna.cm.		3600	IN	NS	dns1.registrar-servers.com.
 euna.cm.		3600	IN	NS	dns2.registrar-servers.com.
 eunasolutions.cm.	3600	IN	NS	dns1.registrar-servers.com.
@@ -41560,6 +41562,8 @@ jhancock.cm.		3600	IN	NS	udns1.cscdns.net.
 jhancock.cm.		3600	IN	NS	udns2.cscdns.uk.
 jhancock.cm.		3600	IN	NS	ns0005.secondary.cloudflare.com.
 jhancock.cm.		3600	IN	NS	ns0182.secondary.cloudflare.com.
+jhbet.cm.		3600	IN	NS	ns1.netsto.net.
+jhbet.cm.		3600	IN	NS	ns2.netsto.net.
 jhfuli.cm.		3600	IN	NS	ns1.netsto.net.
 jhfuli.cm.		3600	IN	NS	ns2.netsto.net.
 jhgame.cm.		3600	IN	NS	ns1.netsto.net.
@@ -46879,6 +46883,8 @@ marriott.cm.		3600	IN	NS	ns-1188.awsdns-20.org.
 marriott.cm.		3600	IN	NS	ns-1813.awsdns-34.co.uk.
 marriottbonvoy.cm.	3600	IN	NS	dns1.cscdns.net.
 marriottbonvoy.cm.	3600	IN	NS	dns2.cscdns.net.
+marriotthotels.cm.	3600	IN	NS	ns1.bb-online.net.
+marriotthotels.cm.	3600	IN	NS	ns2.bb-online.org.
 marryme237.cm.		3600	IN	NS	ns1.stackdns.com.
 marryme237.cm.		3600	IN	NS	ns2.stackdns.com.
 marryme237.cm.		3600	IN	NS	ns3.stackdns.com.
@@ -50308,10 +50314,10 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -58235,6 +58241,8 @@ ritchielist.cm.		3600	IN	NS	ns-1214.awsdns-23.org.
 ritchielist.cm.		3600	IN	NS	ns-1944.awsdns-51.co.uk.
 riteaid.cm.		3600	IN	NS	ns3.abovedomains.com.
 riteaid.cm.		3600	IN	NS	ns4.abovedomains.com.
+ritzcarlton.cm.		3600	IN	NS	ns1.bb-online.net.
+ritzcarlton.cm.		3600	IN	NS	ns2.bb-online.org.
 riu.cm.			3600	IN	NS	ns1.parkingcrew.net.
 riu.cm.			3600	IN	NS	ns2.parkingcrew.net.
 rivalo.cm.		3600	IN	NS	ns1.misto-net.com.
@@ -68697,6 +68705,9 @@ vortex.cm.		3600	IN	NS	freedns1.registrar-servers.com.
 vortex.cm.		3600	IN	NS	freedns2.registrar-servers.com.
 vortex.cm.		3600	IN	NS	freedns3.registrar-servers.com.
 vortex.cm.		3600	IN	NS	freedns4.registrar-servers.com.
+vote.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
+vote.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
+vote.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
 vought.cm.		3600	IN	NS	cameron.ns.cloudflare.com.
 vought.cm.		3600	IN	NS	rosalyn.ns.cloudflare.com.
 vox.cm.			3600	IN	NS	ns1.hastydns.com.
@@ -73419,4 +73430,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031104 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031109 1800 900 1209600 3600
