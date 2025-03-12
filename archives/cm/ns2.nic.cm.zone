@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031123 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741734034"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031201 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741741520"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -16507,8 +16507,8 @@ amabo.cm.		3600	IN	NS	ns1.internex.at.
 amabo.cm.		3600	IN	NS	ns2.internex.at.
 amabo.cm.		3600	IN	NS	ns3.internex.at.
 amabo.cm.		3600	IN	NS	ns4.internex.at.
-amadoutravel.cm.	3600	IN	NS	ns1.orangehost.com.
-amadoutravel.cm.	3600	IN	NS	ns2.orangehost.com.
+amadoutravel.cm.	3600	IN	NS	amy.ns.cloudflare.com.
+amadoutravel.cm.	3600	IN	NS	ricardo.ns.cloudflare.com.
 amamzon.cm.		3600	IN	NS	ns1.parkingcrew.net.
 amamzon.cm.		3600	IN	NS	ns2.parkingcrew.net.
 amanbo.cm.		3600	IN	NS	cora.ns.cloudflare.com.
@@ -25500,8 +25500,6 @@ cilag.cm.		3600	IN	NS	dns1.p01.nsone.net.
 cilag.cm.		3600	IN	NS	dns2.p01.nsone.net.
 cilag.cm.		3600	IN	NS	ns01.jnjdns.com.
 cilag.cm.		3600	IN	NS	ns02.jnjdns.com.
-ciligou.cm.		3600	IN	NS	ns3.abovedomains.com.
-ciligou.cm.		3600	IN	NS	ns4.abovedomains.com.
 cimaf.cm.		3600	IN	NS	ns1.dns-parking.com.
 cimaf.cm.		3600	IN	NS	ns2.dns-parking.com.
 cimaf-groupe.cm.	3600	IN	NS	ns1.dns-parking.com.
@@ -27693,8 +27691,6 @@ cszb.cm.		3600	IN	NS	a.share-dns.com.
 cszb.cm.		3600	IN	NS	b.share-dns.net.
 ct.cm.			3600	IN	NS	ns1.parkingcrew.net.
 ct.cm.			3600	IN	NS	ns2.parkingcrew.net.
-cta.cm.			3600	IN	NS	ns3.abovedomains.com.
-cta.cm.			3600	IN	NS	ns4.abovedomains.com.
 ctc.cm.			3600	IN	NS	ns1.kalawebs.com.
 ctc.cm.			3600	IN	NS	ns2.kalawebs.com.
 ctchito.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
@@ -43632,9 +43628,6 @@ kmw.cm.			3600	IN	NS	ns1.netsto.net.
 kmw.cm.			3600	IN	NS	ns2.netsto.net.
 kn.cm.			3600	IN	NS	ns1.alidns.com.
 kn.cm.			3600	IN	NS	ns2.alidns.com.
-knds.cm.		3600	IN	NS	ns1205.hexonet.net.
-knds.cm.		3600	IN	NS	ns2170.hexonet.net.
-knds.cm.		3600	IN	NS	ns3213.hexonet.net.
 knight.cm.		3600	IN	NS	ns1.stackdns.com.
 knight.cm.		3600	IN	NS	ns2.stackdns.com.
 knight.cm.		3600	IN	NS	ns3.stackdns.com.
@@ -50316,8 +50309,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -64359,6 +64352,8 @@ telmore.cm.		3600	IN	NS	ns1.eurodns.com.
 telmore.cm.		3600	IN	NS	ns2.eurodns.com.
 telmore.cm.		3600	IN	NS	ns3.eurodns.com.
 telmore.cm.		3600	IN	NS	ns4.eurodns.com.
+telnet.cm.		3600	IN	NS	dns1.namecheaphosting.com.
+telnet.cm.		3600	IN	NS	dns2.namecheaphosting.com.
 telstra.cm.		3600	IN	NS	adns01.bigpond.com.
 telstra.cm.		3600	IN	NS	adns02.bigpond.com.
 telstra.cm.		3600	IN	NS	adns03.bigpond.com.
@@ -73427,4 +73422,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031123 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031201 1800 900 1209600 3600
