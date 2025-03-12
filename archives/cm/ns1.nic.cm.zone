@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031213 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741784729"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031216 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741795531"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -26869,6 +26869,8 @@ continentalmarket.cm.	3600	IN	NS	ns1.dns-parking.com.
 continentalmarket.cm.	3600	IN	NS	ns2.dns-parking.com.
 contract.cm.		3600	IN	NS	ns104.ovh.net.
 contract.cm.		3600	IN	NS	dns104.ovh.net.
+control.cm.		3600	IN	NS	ns1.vercel-dns.com.
+control.cm.		3600	IN	NS	ns2.vercel-dns.com.
 controller.cm.		3600	IN	NS	noel.ns.cloudflare.com.
 controller.cm.		3600	IN	NS	ingrid.ns.cloudflare.com.
 convention-amorc-cameroun.cm. 3600 IN	NS	ns1.camoogroup.com.
@@ -46162,8 +46164,6 @@ lycatv.cm.		3600	IN	NS	ns1.dnsbycomodo.net.
 lycatv.cm.		3600	IN	NS	ns2.dnsbycomodo.net.
 lycatv.cm.		3600	IN	NS	ns3.dnsbycomodo.net.
 lycatv.cm.		3600	IN	NS	ns4.dnsbycomodo.net.
-lycee-de-mballa2.cm.	3600	IN	NS	dns1400a.trouble-free.net.
-lycee-de-mballa2.cm.	3600	IN	NS	dns1400b.trouble-free.net.
 lyceemballa2.cm.	3600	IN	NS	ns1.dnshostservices.com.
 lyceemballa2.cm.	3600	IN	NS	ns2.dnshostservices.com.
 lyceemballa2.cm.	3600	IN	NS	ns3.dnshostservices.com.
@@ -50296,10 +50296,10 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -51239,6 +51239,10 @@ nkoabegolfandresort.cm.	3600	IN	NS	ns1.stackdns.com.
 nkoabegolfandresort.cm.	3600	IN	NS	ns2.stackdns.com.
 nkoabegolfandresort.cm.	3600	IN	NS	ns3.stackdns.com.
 nkoabegolfandresort.cm.	3600	IN	NS	ns4.stackdns.com.
+nkolbongdouala.cm.	3600	IN	NS	dns1.supremepanel.com.
+nkolbongdouala.cm.	3600	IN	NS	dns2.supremepanel.com.
+nkolbongdouala.cm.	3600	IN	NS	dns3.supremepanel.com.
+nkolbongdouala.cm.	3600	IN	NS	dns4.supremepanel.com.
 nkongsamba.cm.		3600	IN	NS	ns1.camoogroup.com.
 nkongsamba.cm.		3600	IN	NS	ns2.camoogroup.com.
 nkuleding.cm.		3600	IN	NS	ns1.o2switch.net.
@@ -73324,9 +73328,8 @@ zun.cm.			3600	IN	NS	eugene.ns.cloudflare.com.
 zun.cm.			3600	IN	NS	addilyn.ns.cloudflare.com.
 zunilingo.cm.		3600	IN	NS	mona.ns.cloudflare.com.
 zunilingo.cm.		3600	IN	NS	henry.ns.cloudflare.com.
-zunostore.cm.		3600	IN	NS	ns1.mijn.host.
-zunostore.cm.		3600	IN	NS	ns2.mijn.host.
-zunostore.cm.		3600	IN	NS	ns3.mijn.host.
+zunostore.cm.		3600	IN	NS	zeus.ns.cloudflare.com.
+zunostore.cm.		3600	IN	NS	crystal.ns.cloudflare.com.
 zuora.cm.		3600	IN	NS	dns1.idp365.net.
 zuora.cm.		3600	IN	NS	dns2.idp365.net.
 zuora.cm.		3600	IN	NS	dns3.idp365.net.
@@ -73417,4 +73420,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031213 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031216 1800 900 1209600 3600
