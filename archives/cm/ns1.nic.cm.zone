@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031417 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741971920"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031418 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741975521"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -4153,8 +4153,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 2ngs.cm.		3600	IN	NS	dns2015b.trouble-free.net.
 2o.cm.			3600	IN	NS	bradley.dnspod.net.
 2o.cm.			3600	IN	NS	chester.dnspod.net.
-2p.cm.			3600	IN	NS	peyton.ns.cloudflare.com.
-2p.cm.			3600	IN	NS	saanvi.ns.cloudflare.com.
+2p.cm.			3600	IN	NS	ns1.netsto.net.
+2p.cm.			3600	IN	NS	ns2.netsto.net.
 2play.cm.		3600	IN	NS	ns-448.awsdns-56.com.
 2play.cm.		3600	IN	NS	ns-702.awsdns-23.net.
 2play.cm.		3600	IN	NS	ns-1522.awsdns-62.org.
@@ -14226,8 +14226,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 9k9k.cm.		3600	IN	NS	ns2.netsto.net.
 9m.cm.			3600	IN	NS	sam.ns.cloudflare.com.
 9m.cm.			3600	IN	NS	maria.ns.cloudflare.com.
-9n.cm.			3600	IN	NS	sam.ns.cloudflare.com.
-9n.cm.			3600	IN	NS	maria.ns.cloudflare.com.
+9n.cm.			3600	IN	NS	ns1.netsto.net.
+9n.cm.			3600	IN	NS	ns2.netsto.net.
 9news.cm.		3600	IN	NS	581.ns1.abovedomains.com.
 9news.cm.		3600	IN	NS	581.ns2.abovedomains.com.
 9nn.cm.			3600	IN	NS	ns1.netsto.net.
@@ -27435,6 +27435,8 @@ csge.cm.		3600	IN	NS	ns200.anycast.me.
 csge.cm.		3600	IN	NS	dns200.anycast.me.
 csgoempire.cm.		3600	IN	NS	dns1.registrar-servers.com.
 csgoempire.cm.		3600	IN	NS	dns2.registrar-servers.com.
+csilagaiete-edu.cm.	3600	IN	NS	ns1.camoogroup.com.
+csilagaiete-edu.cm.	3600	IN	NS	ns2.camoogroup.com.
 csileasing.cm.		3600	IN	NS	ns1.101domain.com.
 csileasing.cm.		3600	IN	NS	ns2.101domain.com.
 csino.cm.		3600	IN	NS	s-cloud-a2.googledomains.com.
@@ -50038,10 +50040,10 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -73128,4 +73130,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031417 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031418 1800 900 1209600 3600
