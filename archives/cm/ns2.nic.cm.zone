@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031410 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741946731"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031415 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741964734"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -17804,6 +17804,8 @@ atosworldline.cm.	3600	IN	NS	ns1.netnames.net.
 atosworldline.cm.	3600	IN	NS	ns2.netnames.net.
 atosworldline.cm.	3600	IN	NS	ns5.netnames.net.
 atosworldline.cm.	3600	IN	NS	ns6.netnames.net.
+atp.cm.			3600	IN	NS	ns1.camoogroup.com.
+atp.cm.			3600	IN	NS	ns2.camoogroup.com.
 atpartners.cm.		3600	IN	NS	ns1.hgd.cm.
 atpartners.cm.		3600	IN	NS	ns2.hgd.cm.
 atr.cm.			3600	IN	NS	ns-17-c.gandi.net.
@@ -24664,6 +24666,8 @@ cfmn.cm.		3600	IN	NS	ns9.lwsdns.com.
 cfmn.cm.		3600	IN	NS	ns10.lwsdns.com.
 cfmn.cm.		3600	IN	NS	ns11.lwsdns.com.
 cfmn.cm.		3600	IN	NS	ns12.lwsdns.com.
+cfmne.cm.		3600	IN	NS	ns1.camoogroup.com.
+cfmne.cm.		3600	IN	NS	ns2.camoogroup.com.
 cfna.cm.		3600	IN	NS	ns1.ii51.parklogic.com.
 cfna.cm.		3600	IN	NS	ns2.ii51.parklogic.com.
 cfped.cm.		3600	IN	NS	ns1.ccntechnologies.us.
@@ -50014,8 +50018,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -71678,6 +71682,11 @@ ydl.cm.			3600	IN	NS	dns1.registrar-servers.com.
 ydl.cm.			3600	IN	NS	dns2.registrar-servers.com.
 ydl531.cm.		3600	IN	NS	ns6.netsto.net.
 ydl531.cm.		3600	IN	NS	ns7.netsto.net.
+ydys.cm.		3600	IN	NS	ns1.he.net.
+ydys.cm.		3600	IN	NS	ns2.he.net.
+ydys.cm.		3600	IN	NS	ns3.he.net.
+ydys.cm.		3600	IN	NS	ns4.he.net.
+ydys.cm.		3600	IN	NS	ns5.he.net.
 ye.cm.			3600	IN	NS	ns1.alidns.com.
 ye.cm.			3600	IN	NS	ns2.alidns.com.
 ye321.cm.		3600	IN	NS	hope.ns.cloudflare.com.
@@ -73097,4 +73106,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031410 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031415 1800 900 1209600 3600
