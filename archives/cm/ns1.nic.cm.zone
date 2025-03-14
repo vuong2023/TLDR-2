@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031403 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741921526"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031404 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741925127"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -3355,8 +3355,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 22881261.cm.		3600	IN	NS	ns2.alidns.com.
 2289.cm.		3600	IN	NS	yoxall.ns.cloudflare.com.
 2289.cm.		3600	IN	NS	jasmine.ns.cloudflare.com.
-228ayx.cm.		3600	IN	NS	ns1.alidns.com.
-228ayx.cm.		3600	IN	NS	ns2.alidns.com.
 229.cm.			3600	IN	NS	hertz.ddddns.net.
 229.cm.			3600	IN	NS	vince.ddddns.net.
 22900.cm.		3600	IN	NS	ns1.alidns.com.
@@ -4357,8 +4355,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 30441010.cm.		3600	IN	NS	ns2.alidns.com.
 30443535.cm.		3600	IN	NS	ns1.alidns.com.
 30443535.cm.		3600	IN	NS	ns2.alidns.com.
-30444545.cm.		3600	IN	NS	ns1.alidns.com.
-30444545.cm.		3600	IN	NS	ns2.alidns.com.
 305.cm.			3600	IN	NS	ns1.parkingcrew.net.
 305.cm.			3600	IN	NS	ns2.parkingcrew.net.
 30555.cm.		3600	IN	NS	yoxall.ns.cloudflare.com.
@@ -4739,8 +4735,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 33333.cm.		3600	IN	NS	ns2.netsto.net.
 3333qp.cm.		3600	IN	NS	ns1.dns.com.
 3333qp.cm.		3600	IN	NS	ns2.dns.com.
-33355cai.cm.		3600	IN	NS	ns1.alidns.com.
-33355cai.cm.		3600	IN	NS	ns2.alidns.com.
 333575.cm.		3600	IN	NS	ns1.netsto.net.
 333575.cm.		3600	IN	NS	ns2.netsto.net.
 333637.cm.		3600	IN	NS	ns1.netsto.net.
@@ -6388,8 +6382,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 4369.cm.		3600	IN	NS	jasmine.ns.cloudflare.com.
 437.cm.			3600	IN	NS	ns1.dns.com.
 437.cm.			3600	IN	NS	ns2.dns.com.
-43777.cm.		3600	IN	NS	ns1.alidns.com.
-43777.cm.		3600	IN	NS	ns2.alidns.com.
 4377888.cm.		3600	IN	NS	ns1.alidns.com.
 4377888.cm.		3600	IN	NS	ns2.alidns.com.
 438.cm.			3600	IN	NS	hasslo.ns.cloudflare.com.
@@ -6802,8 +6794,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 4756.cm.		3600	IN	NS	jasmine.ns.cloudflare.com.
 476.cm.			3600	IN	NS	john.ns.cloudflare.com.
 476.cm.			3600	IN	NS	jocelyn.ns.cloudflare.com.
-47602.cm.		3600	IN	NS	ns1.alidns.com.
-47602.cm.		3600	IN	NS	ns2.alidns.com.
 47622.cm.		3600	IN	NS	ns1.netsto.net.
 47622.cm.		3600	IN	NS	ns2.netsto.net.
 4766.cm.		3600	IN	NS	yoxall.ns.cloudflare.com.
@@ -7020,32 +7010,14 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 4932.cm.		3600	IN	NS	jasmine.ns.cloudflare.com.
 49333.cm.		3600	IN	NS	yoxall.ns.cloudflare.com.
 49333.cm.		3600	IN	NS	jasmine.ns.cloudflare.com.
-49333006.cm.		3600	IN	NS	ns1.alidns.com.
-49333006.cm.		3600	IN	NS	ns2.alidns.com.
 49333008.cm.		3600	IN	NS	ns1.alidns.com.
 49333008.cm.		3600	IN	NS	ns2.alidns.com.
 49333a21.cm.		3600	IN	NS	ns1.alidns.com.
 49333a21.cm.		3600	IN	NS	ns2.alidns.com.
-49333a31.cm.		3600	IN	NS	ns1.alidns.com.
-49333a31.cm.		3600	IN	NS	ns2.alidns.com.
-49333a33.cm.		3600	IN	NS	ns1.alidns.com.
-49333a33.cm.		3600	IN	NS	ns2.alidns.com.
-49333a51.cm.		3600	IN	NS	ns1.alidns.com.
-49333a51.cm.		3600	IN	NS	ns2.alidns.com.
-49333a52.cm.		3600	IN	NS	ns1.alidns.com.
-49333a52.cm.		3600	IN	NS	ns2.alidns.com.
-49333a55.cm.		3600	IN	NS	ns1.alidns.com.
-49333a55.cm.		3600	IN	NS	ns2.alidns.com.
-49333a58.cm.		3600	IN	NS	ns1.alidns.com.
-49333a58.cm.		3600	IN	NS	ns2.alidns.com.
 49333a61.cm.		3600	IN	NS	ns1.alidns.com.
 49333a61.cm.		3600	IN	NS	ns2.alidns.com.
 49333a63.cm.		3600	IN	NS	ns1.alidns.com.
 49333a63.cm.		3600	IN	NS	ns2.alidns.com.
-49333a66.cm.		3600	IN	NS	ns1.alidns.com.
-49333a66.cm.		3600	IN	NS	ns2.alidns.com.
-49333a68.cm.		3600	IN	NS	ns1.alidns.com.
-49333a68.cm.		3600	IN	NS	ns2.alidns.com.
 49333a70.cm.		3600	IN	NS	ns1.alidns.com.
 49333a70.cm.		3600	IN	NS	ns2.alidns.com.
 49333a78.cm.		3600	IN	NS	ns1.alidns.com.
@@ -7774,8 +7746,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 53350.cm.		3600	IN	NS	ns2.netsto.net.
 533512.cm.		3600	IN	NS	ns1.netsto.net.
 533512.cm.		3600	IN	NS	ns2.netsto.net.
-53361a.cm.		3600	IN	NS	ns1.alidns.com.
-53361a.cm.		3600	IN	NS	ns2.alidns.com.
 534.cm.			3600	IN	NS	hasslo.ns.cloudflare.com.
 534.cm.			3600	IN	NS	ursula.ns.cloudflare.com.
 53421.cm.		3600	IN	NS	n1.xundns.com.
@@ -8304,8 +8274,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 575158.cm.		3600	IN	NS	ns7.netsto.net.
 575576.cm.		3600	IN	NS	ns1.alidns.com.
 575576.cm.		3600	IN	NS	ns2.alidns.com.
-575989.cm.		3600	IN	NS	ns1.alidns.com.
-575989.cm.		3600	IN	NS	ns2.alidns.com.
 575v444.cm.		3600	IN	NS	ns1.netsto.net.
 575v444.cm.		3600	IN	NS	ns2.netsto.net.
 576.cm.			3600	IN	NS	jakub.ns.cloudflare.com.
@@ -9087,8 +9055,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 6319.cm.		3600	IN	NS	jasmine.ns.cloudflare.com.
 6319h.cm.		3600	IN	NS	ns1.alidns.com.
 6319h.cm.		3600	IN	NS	ns2.alidns.com.
-6319w.cm.		3600	IN	NS	ns1.alidns.com.
-6319w.cm.		3600	IN	NS	ns2.alidns.com.
 632.cm.			3600	IN	NS	hertz.ddddns.net.
 632.cm.			3600	IN	NS	vince.ddddns.net.
 632199.cm.		3600	IN	NS	ns1.alidns.com.
@@ -10202,8 +10168,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 6kj.cm.			3600	IN	NS	ns2.netsto.net.
 6m.cm.			3600	IN	NS	ns1.netsto.net.
 6m.cm.			3600	IN	NS	ns2.netsto.net.
-6n.cm.			3600	IN	NS	ns1.alidns.com.
-6n.cm.			3600	IN	NS	ns2.alidns.com.
 6o.cm.			3600	IN	NS	ns1.cloudns.net.
 6o.cm.			3600	IN	NS	ns2.cloudns.net.
 6o.cm.			3600	IN	NS	ns3.cloudns.net.
@@ -11028,8 +10992,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 77256.cm.		3600	IN	NS	ns2.netsto.net.
 7728app.cm.		3600	IN	NS	ns1.alidns.com.
 7728app.cm.		3600	IN	NS	ns2.alidns.com.
-7728pp.cm.		3600	IN	NS	ns1.alidns.com.
-7728pp.cm.		3600	IN	NS	ns2.alidns.com.
 773.cm.			3600	IN	NS	jakub.ns.cloudflare.com.
 773.cm.			3600	IN	NS	cheryl.ns.cloudflare.com.
 7730.cm.		3600	IN	NS	sky.ns.cloudflare.com.
@@ -11128,8 +11090,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 7765.cm.		3600	IN	NS	jasmine.ns.cloudflare.com.
 77658.cm.		3600	IN	NS	ns6.netsto.net.
 77658.cm.		3600	IN	NS	ns7.netsto.net.
-7765cc.cm.		3600	IN	NS	ns1.alidns.com.
-7765cc.cm.		3600	IN	NS	ns2.alidns.com.
 7766.cm.		3600	IN	NS	ns1.netsto.net.
 7766.cm.		3600	IN	NS	ns2.netsto.net.
 7766109.cm.		3600	IN	NS	ns1.alidns.com.
@@ -12420,8 +12380,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 8733991.cm.		3600	IN	NS	ns2.alidns.com.
 8733995.cm.		3600	IN	NS	ns1.alidns.com.
 8733995.cm.		3600	IN	NS	ns2.alidns.com.
-87365.cm.		3600	IN	NS	ns1.alidns.com.
-87365.cm.		3600	IN	NS	ns2.alidns.com.
 87377.cm.		3600	IN	NS	ns1.alidns.com.
 87377.cm.		3600	IN	NS	ns2.alidns.com.
 874.cm.			3600	IN	NS	jakub.ns.cloudflare.com.
@@ -12526,8 +12484,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 880868.cm.		3600	IN	NS	ns2.alidns.com.
 881.cm.			3600	IN	NS	hertz.ddddns.net.
 881.cm.			3600	IN	NS	vince.ddddns.net.
-88100.cm.		3600	IN	NS	ns1.alidns.com.
-88100.cm.		3600	IN	NS	ns2.alidns.com.
 8811.cm.		3600	IN	NS	ns1.netsto.net.
 8811.cm.		3600	IN	NS	ns2.netsto.net.
 88135.cm.		3600	IN	NS	ns6.netsto.net.
@@ -12943,8 +12899,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 898.cm.			3600	IN	NS	vince.ddddns.net.
 8980.cm.		3600	IN	NS	yoxall.ns.cloudflare.com.
 8980.cm.		3600	IN	NS	jasmine.ns.cloudflare.com.
-89808mm.cm.		3600	IN	NS	ns1.alidns.com.
-89808mm.cm.		3600	IN	NS	ns2.alidns.com.
 89868a.cm.		3600	IN	NS	ns1.alidns.com.
 89868a.cm.		3600	IN	NS	ns2.alidns.com.
 8989.cm.		3600	IN	NS	ns6.netsto.net.
@@ -13658,8 +13612,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 9486.cm.		3600	IN	NS	jasmine.ns.cloudflare.com.
 948604.cm.		3600	IN	NS	ns1.alidns.com.
 948604.cm.		3600	IN	NS	ns2.alidns.com.
-948605.cm.		3600	IN	NS	ns1.alidns.com.
-948605.cm.		3600	IN	NS	ns2.alidns.com.
 948609.cm.		3600	IN	NS	ns1.alidns.com.
 948609.cm.		3600	IN	NS	ns2.alidns.com.
 9486477.cm.		3600	IN	NS	ns1.alidns.com.
@@ -14052,8 +14004,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 98909.cm.		3600	IN	NS	ns2.alidns.com.
 9891444.cm.		3600	IN	NS	ns1.alidns.com.
 9891444.cm.		3600	IN	NS	ns2.alidns.com.
-98922225.cm.		3600	IN	NS	ns1.alidns.com.
-98922225.cm.		3600	IN	NS	ns2.alidns.com.
 989222888.cm.		3600	IN	NS	ns1.alidns.com.
 989222888.cm.		3600	IN	NS	ns2.alidns.com.
 98922444.cm.		3600	IN	NS	ns1.alidns.com.
@@ -22990,10 +22940,6 @@ bvt9.cm.		3600	IN	NS	ns1.netsto.net.
 bvt9.cm.		3600	IN	NS	ns2.netsto.net.
 bvty.cm.		3600	IN	NS	ns1.netsto.net.
 bvty.cm.		3600	IN	NS	ns2.netsto.net.
-bvty1007.cm.		3600	IN	NS	ns1.alidns.com.
-bvty1007.cm.		3600	IN	NS	ns2.alidns.com.
-bvty1029.cm.		3600	IN	NS	ns1.alidns.com.
-bvty1029.cm.		3600	IN	NS	ns2.alidns.com.
 bvty1148.cm.		3600	IN	NS	ns1.alidns.com.
 bvty1148.cm.		3600	IN	NS	ns2.alidns.com.
 bvty1173.cm.		3600	IN	NS	ns1.alidns.com.
@@ -42697,8 +42643,6 @@ k54v.cm.		3600	IN	NS	ns1.alidns.com.
 k54v.cm.		3600	IN	NS	ns2.alidns.com.
 k58.cm.			3600	IN	NS	ns7.alidns.com.
 k58.cm.			3600	IN	NS	ns8.alidns.com.
-k5845.cm.		3600	IN	NS	ns1.alidns.com.
-k5845.cm.		3600	IN	NS	ns2.alidns.com.
 k5y6.cm.		3600	IN	NS	vicente.ns.cloudflare.com.
 k5y6.cm.		3600	IN	NS	anastasia.ns.cloudflare.com.
 k6.cm.			3600	IN	NS	ns1.dns123456789.com.
@@ -42762,8 +42706,6 @@ k9.cm.			3600	IN	NS	ivan.ns.cloudflare.com.
 k9.cm.			3600	IN	NS	nelly.ns.cloudflare.com.
 k90.cm.			3600	IN	NS	ns6.netsto.net.
 k90.cm.			3600	IN	NS	ns7.netsto.net.
-k932.cm.		3600	IN	NS	ns1.alidns.com.
-k932.cm.		3600	IN	NS	ns2.alidns.com.
 k957.cm.		3600	IN	NS	ns1.netsto.net.
 k957.cm.		3600	IN	NS	ns2.netsto.net.
 k96.cm.			3600	IN	NS	ns6.netsto.net.
@@ -46093,8 +46035,6 @@ lvs132.cm.		3600	IN	NS	ns1.alidns.com.
 lvs132.cm.		3600	IN	NS	ns2.alidns.com.
 lvs143.cm.		3600	IN	NS	ns1.alidns.com.
 lvs143.cm.		3600	IN	NS	ns2.alidns.com.
-lvs177.cm.		3600	IN	NS	ns1.alidns.com.
-lvs177.cm.		3600	IN	NS	ns2.alidns.com.
 lw.cm.			3600	IN	NS	ns1.4.cn.
 lw.cm.			3600	IN	NS	ns2.4.cn.
 lw.cm.			3600	IN	NS	ns3.goldenname.com.
@@ -48612,8 +48552,6 @@ mm.cm.			3600	IN	NS	sara.ns.cloudflare.com.
 mm.cm.			3600	IN	NS	major.ns.cloudflare.com.
 mm365.cm.		3600	IN	NS	ns6.netsto.net.
 mm365.cm.		3600	IN	NS	ns7.netsto.net.
-mm5262.cm.		3600	IN	NS	ns1.alidns.com.
-mm5262.cm.		3600	IN	NS	ns2.alidns.com.
 mm554f.cm.		3600	IN	NS	ns1.netsto.net.
 mm554f.cm.		3600	IN	NS	ns2.netsto.net.
 mm6.cm.			3600	IN	NS	ns6.netsto.net.
@@ -50269,8 +50207,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -56289,8 +56227,6 @@ pzb.cm.			3600	IN	NS	ns1.netsto.net.
 pzb.cm.			3600	IN	NS	ns2.netsto.net.
 q.cm.			3600	IN	NS	ns.aimhigh.net.
 q.cm.			3600	IN	NS	cats.aimhigh.net.
-q0030.cm.		3600	IN	NS	ns1.alidns.com.
-q0030.cm.		3600	IN	NS	ns2.alidns.com.
 q1.cm.			3600	IN	NS	ns1.netsto.net.
 q1.cm.			3600	IN	NS	ns2.netsto.net.
 q2.cm.			3600	IN	NS	ns1.netsto.net.
@@ -67134,8 +67070,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
+bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -70008,10 +69944,6 @@ wnba.cm.		3600	IN	NS	a16-64.akam.net.
 wnba.cm.		3600	IN	NS	a18-65.akam.net.
 wns.cm.			3600	IN	NS	ns1.dynu.com.
 wns.cm.			3600	IN	NS	ns2.dynu.com.
-wns111.cm.		3600	IN	NS	ns1.alidns.com.
-wns111.cm.		3600	IN	NS	ns2.alidns.com.
-wns8888.cm.		3600	IN	NS	ns1.alidns.com.
-wns8888.cm.		3600	IN	NS	ns2.alidns.com.
 wnsr.cm.		3600	IN	NS	cow.dnspod.net.
 wnsr.cm.		3600	IN	NS	cormorant.dnspod.net.
 wo.cm.			3600	IN	NS	ns1.parkingcrew.net.
@@ -72066,8 +71998,6 @@ yh32.cm.		3600	IN	NS	ns1.netsto.net.
 yh32.cm.		3600	IN	NS	ns2.netsto.net.
 yh321.cm.		3600	IN	NS	ns1.netsto.net.
 yh321.cm.		3600	IN	NS	ns2.netsto.net.
-yh321a.cm.		3600	IN	NS	ns1.alidns.com.
-yh321a.cm.		3600	IN	NS	ns2.alidns.com.
 yh39.cm.		3600	IN	NS	ns1.netsto.net.
 yh39.cm.		3600	IN	NS	ns2.netsto.net.
 yh500.cm.		3600	IN	NS	ns1.netsto.net.
@@ -73383,4 +73313,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031403 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031404 1800 900 1209600 3600
