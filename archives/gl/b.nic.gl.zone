@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160730 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. QxZnmznIr3LXcUNoskEDHuJLNfZcll2xqGdh6xYdWX0GubSi8HehZqJ+ rB40uc4uq16fdzcb3p3DOA+O6x0CWmLdn0v9cIh0F5kUYT9e5bzqkVvl DcQpwY3wOSkpD0UzGY2nXcTHxIexVxyQIwjQv1T74X+y2ldLUPoaksyl vIB5UGYSBzLEsbFn03fB+ZGWd4Fj6oD1Se48IdJs4dePy4SE06rBdT2T 2lGoQvVq1kv3lO0jiXWlRh6ymsUYwPE2CuCxNFbqVtPslI7sv7WxYr/i 44exixIo5Q+EJa9s9xlYyWE8J+U1YdZ9tNnpZrd/rMMBCkgJkYlYsegq t1I1eQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160734 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. bZkolYVqVtI7Cba7y50lllYI7ldLLVUIn8Pc9LbzrqyocDCM8aJhZ62i ZLPjZOoQpWoxxvGAa8ICvKjOWjnVycvE8pomI4YSm3ss371j8XbWi+Lx H4vN3fXQBd4HmMxlt77sbliGmhP0mDMc1K4xM3K3b28k46kGnVpk1XZm ++cLyLUVOEvZJ7/REl4ZokTDAm+n1Z8MJnd+lOXkn96SEiZAXBo6DzR4 YPqHCfOmDmDkbwhKCaRsviIWSamTsFN0ZQaM5YZU0tljiWJKqUZ14Une Uh/Z14BhT3a57wPit5DYXJmal0pMdbyHiBMBiqSsKUw4PazGJxodFiTo +uO21w==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -3571,9 +3571,8 @@ carllynge.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 carllynge.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 carllynge.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
 carllynge.gl.		3600	IN	NS	ns4.bdm.microsoftonline.com.
-carlos.gl.		3600	IN	NS	ns1.grupoloading.com.
-carlos.gl.		3600	IN	NS	ns2.grupoloading.com.
-carlos.gl.		3600	IN	NS	ns3.grupoloading.com.
+carlos.gl.		3600	IN	NS	europe-1451.banahosting.com.
+carlos.gl.		3600	IN	NS	europe-1452.banahosting.com.
 carlsberg.gl.		3600	IN	NS	ns1.brandshelter.com.
 carlsberg.gl.		3600	IN	NS	ns2.brandshelter.de.
 carlsberg.gl.		3600	IN	NS	ns3.brandshelter.info.
@@ -23098,4 +23097,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160730 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160734 900 1800 6048000 3600
