@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031722 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1742248830"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031723 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1742252430"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -45734,6 +45734,8 @@ lync.cm.		3600	IN	NS	ns3-07.azure-dns.org.
 lync.cm.		3600	IN	NS	ns4-07.azure-dns.info.
 lynda.cm.		3600	IN	NS	ns1.parkingcrew.net.
 lynda.cm.		3600	IN	NS	ns2.parkingcrew.net.
+lynk.cm.		3600	IN	NS	dns1.registrar-servers.com.
+lynk.cm.		3600	IN	NS	dns2.registrar-servers.com.
 lyoness.cm.		3600	IN	NS	ns1.lyoness.ag.
 lyoness.cm.		3600	IN	NS	ns2.lyoness.ag.
 lyqp.cm.		3600	IN	NS	ns1.netsto.net.
@@ -72900,4 +72902,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031722 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031723 1800 900 1209600 3600
