@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160881 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. Xboyr/X1mLh5+iFJKdPRQ+fHtcS2l9bNClM7uyjfJDzZiPiNVtpYRzNm qFlUsr4n58Cnm2o/NEDQs/R2wooF0Ub2jn8pGDjIs89eYQTgGWDUSOeP w8CGU4jMYyvJc+uutOaHxmHzHFXLQpgz5iXF5jCd1HZdDfDMSRPaHgOc Yr8yim2wT+VgLSEJ1c3/ulHFRMgBsTpZQF/4bVJ+2S2B/sjVHQ+yjAvB 6fo3lpkNasc2jd+wiIOLfQEQUhKl/xdL1xhDX9pVa/Ztv+HtBpp6gyWB HzxXDrrczvQFgiVB8p4vi6wXYIgpAxUv7QWad8mfwcw7Wqf16CD4gcpT dnQxNg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160891 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. ScZfcT0mvXdoouOhh9xCzJLK0bMVAHlG/RshKKeLxwgx3dSdjKBphAQe thuNu6M1e+O+3TOYs9xXZ/Fw6ApXoSN8rRN2+ogzEiGDU+dov4YDbckt GWRg+G7FD0Ro6BXILj8HJQLnScscZ2PNcyU8C+6Vq+wrCNSd9oyW1mmP cT8dIBXpJCy2lPrmr+YlTj5oOKdRmrbIedQCWVJfF2A3SoTP0q4Iln1U T9HUYeSdEB5Qb+E2AZp6o4ZkFIwqoAi5r597BAl98KY7MloNv/454Ccv 7WN9eCThTAIj8OiNatGoB1YGvqZ15h8nd1xIFeKtZs1//Glj5EaqV/xT dLWBvw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -9266,8 +9266,10 @@ isi.gl.			3600	IN	NS	a.hosting.gl.
 isi.gl.			3600	IN	NS	b.hosting.gl.
 isi.gl.			3600	IN	NS	c.hosting.gl.
 isi.gl.			3600	IN	NS	d.hosting.gl.
-isi4u.gl.		3600	IN	NS	ns1.curanet.dk.
-isi4u.gl.		3600	IN	NS	ns2.curanet.dk.
+isi4u.gl.		3600	IN	NS	ns1.nunahosting.net.
+isi4u.gl.		3600	IN	NS	ns2.nunahosting.net.
+isi4u.gl.		3600	IN	NS	ns3.nunahosting.net.
+isi4u.gl.		3600	IN	NS	ns4.nunahosting.net.
 isikkivigissoq.gl.	3600	IN	NS	ns1.simply.com.
 isikkivigissoq.gl.	3600	IN	NS	ns2.simply.com.
 isikkivigissoq.gl.	3600	IN	NS	ns3.simply.com.
@@ -9305,8 +9307,10 @@ islandwithwaterallaround.gl. 3600 IN	RRSIG	DS 8 2 3600 20250428120000 2025020712
 isocell.gl.		3600	IN	NS	ns.inwx.de.
 isocell.gl.		3600	IN	NS	ns2.inwx.de.
 isocell.gl.		3600	IN	NS	ns3.inwx.eu.
-isortaq.gl.		3600	IN	NS	ns1.curanet.dk.
-isortaq.gl.		3600	IN	NS	ns2.curanet.dk.
+isortaq.gl.		3600	IN	NS	ns1.nunahosting.net.
+isortaq.gl.		3600	IN	NS	ns2.nunahosting.net.
+isortaq.gl.		3600	IN	NS	ns3.nunahosting.net.
+isortaq.gl.		3600	IN	NS	ns4.nunahosting.net.
 isp.gl.			3600	IN	NS	ns.incogdns.gl.
 isp.gl.			3600	IN	NS	ns.incogdns.me.
 isp.gl.			3600	IN	NS	ns.incogdns.st.
@@ -9552,8 +9556,10 @@ jis.gl.			3600	IN	NS	ns2.modulo.gl.
 jis.gl.			3600	IN	NS	ns3.modulo.gl.
 jj.gl.			3600	IN	NS	ns1.netsto.net.
 jj.gl.			3600	IN	NS	ns2.netsto.net.
-jjhyre.gl.		3600	IN	NS	ns1.curanet.dk.
-jjhyre.gl.		3600	IN	NS	ns2.curanet.dk.
+jjhyre.gl.		3600	IN	NS	ns1.nunahosting.net.
+jjhyre.gl.		3600	IN	NS	ns2.nunahosting.net.
+jjhyre.gl.		3600	IN	NS	ns3.nunahosting.net.
+jjhyre.gl.		3600	IN	NS	ns4.nunahosting.net.
 jjjconsult.gl.		3600	IN	NS	a.hosting.gl.
 jjjconsult.gl.		3600	IN	NS	b.hosting.gl.
 jjjconsult.gl.		3600	IN	NS	c.hosting.gl.
@@ -23066,4 +23072,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160881 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160891 900 1800 6048000 3600
