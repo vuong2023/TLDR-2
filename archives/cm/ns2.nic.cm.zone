@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031717 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1742230826"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031817 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1742317528"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -8229,6 +8229,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 58qp.cm.		3600	IN	NS	ns2.dnsip.com.
 58ty7.cm.		3600	IN	NS	ns1.alidns.com.
 58ty7.cm.		3600	IN	NS	ns2.alidns.com.
+58u.cm.			3600	IN	NS	n1.xundns.com.
+58u.cm.			3600	IN	NS	n2.xundns.com.
 58vip.cm.		3600	IN	NS	amalia.ns.cloudflare.com.
 58vip.cm.		3600	IN	NS	merlin.ns.cloudflare.com.
 58vp.cm.		3600	IN	NS	ns1.netsto.net.
@@ -10020,8 +10022,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 7.cm.			3600	IN	NS	candy.ns.cloudflare.com.
 70.cm.			3600	IN	NS	ns2.4.cn.
 70.cm.			3600	IN	NS	ns1-show.myhostadmin.net.
-700.cm.			3600	IN	NS	trey.ns.cloudflare.com.
-700.cm.			3600	IN	NS	becky.ns.cloudflare.com.
+700.cm.			3600	IN	NS	ns1.parkingcrew.net.
+700.cm.			3600	IN	NS	ns2.parkingcrew.net.
 7000.cm.		3600	IN	NS	jakub.ns.cloudflare.com.
 7000.cm.		3600	IN	NS	cheryl.ns.cloudflare.com.
 7001.cm.		3600	IN	NS	yoxall.ns.cloudflare.com.
@@ -12756,9 +12758,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 9.cm.			3600	IN	NS	cheryl.ns.cloudflare.com.
 90.cm.			3600	IN	NS	cow.dnspod.net.
 90.cm.			3600	IN	NS	cormorant.dnspod.net.
-900.cm.			3600	IN	NS	ns1215.ispapi.net.
-900.cm.			3600	IN	NS	ns2182.ispapi.net.
-900.cm.			3600	IN	NS	ns3221.ispapi.net.
+900.cm.			3600	IN	NS	ns1.parkingcrew.net.
+900.cm.			3600	IN	NS	ns2.parkingcrew.net.
 9000.cm.		3600	IN	NS	hasslo.ns.cloudflare.com.
 9000.cm.		3600	IN	NS	ursula.ns.cloudflare.com.
 9001.cm.		3600	IN	NS	ns1.alidns.com.
@@ -14242,6 +14243,8 @@ aa1.cm.			3600	IN	NS	ns1.netsto.net.
 aa1.cm.			3600	IN	NS	ns2.netsto.net.
 aa1116788.cm.		3600	IN	NS	ns1.alidns.com.
 aa1116788.cm.		3600	IN	NS	ns2.alidns.com.
+aa2.cm.			3600	IN	NS	ns1.netsto.net.
+aa2.cm.			3600	IN	NS	ns2.netsto.net.
 aa365.cm.		3600	IN	NS	ns6.netsto.net.
 aa365.cm.		3600	IN	NS	ns7.netsto.net.
 aa5.cm.			3600	IN	NS	ns6.netsto.net.
@@ -17371,8 +17374,6 @@ ashleymadison.cm.	3600	IN	NS	dns2.idp365.net.
 ashleymadison.cm.	3600	IN	NS	dns3.idp365.net.
 ashleystewart.cm.	3600	IN	NS	3860.ns1.abovedomains.com.
 ashleystewart.cm.	3600	IN	NS	3860.ns2.abovedomains.com.
-ashokleyland.cm.	3600	IN	NS	ns1.greengeeks.net.
-ashokleyland.cm.	3600	IN	NS	ns2.greengeeks.net.
 ashoo.cm.		3600	IN	NS	nicole.ns.cloudflare.com.
 ashoo.cm.		3600	IN	NS	donovan.ns.cloudflare.com.
 ashoo-casino.cm.	3600	IN	NS	dns1.registrar-servers.com.
@@ -18379,8 +18380,6 @@ bab52.cm.		3600	IN	NS	ns1.alidns.com.
 bab52.cm.		3600	IN	NS	ns2.alidns.com.
 babana.cm.		3600	IN	NS	ns0.thundercloud.uk.
 babana.cm.		3600	IN	NS	ns1.thundercloud.uk.
-babanaexpress.cm.	3600	IN	NS	ns1.camoogroup.com.
-babanaexpress.cm.	3600	IN	NS	ns2.camoogroup.com.
 babbel.cm.		3600	IN	NS	f1g1ns1.dnspod.net.
 babbel.cm.		3600	IN	NS	f1g1ns2.dnspod.net.
 babble.cm.		3600	IN	NS	ns1.parkingcrew.net.
@@ -20125,8 +20124,6 @@ bfsms.cm.		3600	IN	NS	ns3.alliancedata.com.
 bfsms.cm.		3600	IN	NS	ns4.alliancedata.com.
 bfvr.cm.		3600	IN	NS	ns3.alliancedata.com.
 bfvr.cm.		3600	IN	NS	ns4.alliancedata.com.
-bfx.cm.			3600	IN	NS	ns3.abovedomains.com.
-bfx.cm.			3600	IN	NS	ns4.abovedomains.com.
 bg.cm.			3600	IN	NS	ns1.bg.cm.
 bg.cm.			3600	IN	NS	ns2.bg.cm.
 ns1.bg.cm.		3600	IN	A	185.176.40.31
@@ -22929,6 +22926,8 @@ ca-associes.cm.		3600	IN	NS	ns1.dns-parking.com.
 ca-associes.cm.		3600	IN	NS	ns2.dns-parking.com.
 caa.cm.			3600	IN	NS	ns1.iccnet.cm.
 caa.cm.			3600	IN	NS	ns2.iccnet.cm.
+caa.cm.			3600	IN	NS	scott.ns.cloudflare.com.
+caa.cm.			3600	IN	NS	romina.ns.cloudflare.com.
 cabaretclub.cm.		3600	IN	NS	ns1.instradns.com.
 cabaretclub.cm.		3600	IN	NS	ns2.instradns.com.
 cabaretclub.cm.		3600	IN	NS	ns3.instradns.com.
@@ -23111,12 +23110,11 @@ calvinklein.cm.		3600	IN	NS	ns4.markmonitor.com.
 calvinklein.cm.		3600	IN	NS	ns5.markmonitor.com.
 calvinklein.cm.		3600	IN	NS	ns6.markmonitor.com.
 calvinklein.cm.		3600	IN	NS	ns7.markmonitor.com.
-calywoodindustry.cm.	3600	IN	NS	ns1.camoogroup.com.
-calywoodindustry.cm.	3600	IN	NS	ns2.camoogroup.com.
-calzedonia.cm.		3600	IN	NS	dns1.novagraaf-dns.com.
-calzedonia.cm.		3600	IN	NS	dns2.novagraaf-dns.net.
-calzedonia.cm.		3600	IN	NS	dns3.novagraaf-dns.nl.
-calzedonia.cm.		3600	IN	NS	dns4.novagraaf-dns.eu.
+calzedonia.cm.		3600	IN	NS	ns1.brandshelter.com.
+calzedonia.cm.		3600	IN	NS	ns2.brandshelter.de.
+calzedonia.cm.		3600	IN	NS	ns3.brandshelter.info.
+calzedonia.cm.		3600	IN	NS	ns4.brandshelter.net.
+calzedonia.cm.		3600	IN	NS	ns5.brandshelter.us.
 cam.cm.			3600	IN	NS	pns21.cloudns.net.
 cam.cm.			3600	IN	NS	pns22.cloudns.net.
 cam.cm.			3600	IN	NS	pns23.cloudns.net.
@@ -24971,6 +24969,8 @@ chrc.cm.		3600	IN	NS	kim.camnet.cm.
 chrc.cm.		3600	IN	NS	mbam.camnet.cm.
 chris.cm.		3600	IN	NS	dns1.abovedomains.com.
 chris.cm.		3600	IN	NS	dns2.abovedomains.com.
+chrisma.cm.		3600	IN	NS	ns1.dns-parking.com.
+chrisma.cm.		3600	IN	NS	ns2.dns-parking.com.
 chrismorris.cm.		3600	IN	NS	dns1.registrar-servers.com.
 chrismorris.cm.		3600	IN	NS	dns2.registrar-servers.com.
 christ-sauveur-domayo-maroua.cm. 3600 IN NS	ns10.hostblast.net.
@@ -25771,7 +25771,6 @@ cny.cm.			3600	IN	NS	ns01.serverspace.io.
 cny.cm.			3600	IN	NS	ns02.serverspace.io.
 cnzz.cm.		3600	IN	NS	ns1.parkingcrew.net.
 cnzz.cm.		3600	IN	NS	ns2.parkingcrew.net.
-co.cm.			86400	IN	DS	6754 13 2 D05CA87AFFE28DF406D2A60795A1F31D98CE4F1054860C99F5B7CBFD 61741614
 co.cm.			3600	IN	NS	ns1.nic.cm.
 co.cm.			3600	IN	NS	ns2.nic.cm.
 co-19oracle.cm.		3600	IN	NS	ns1.markmonitor.com.
@@ -26089,7 +26088,6 @@ columbo.cm.		3600	IN	NS	mgoextdns1.genmills.com.
 columbo.cm.		3600	IN	NS	mgoextdns2.genmills.com.
 columbuslife.cm.	3600	IN	NS	ns1.abovedomains.com.
 columbuslife.cm.	3600	IN	NS	ns2.abovedomains.com.
-com.cm.			86400	IN	DS	14139 13 2 3CD79F8405D86A94575D5A4F39A93308901D26D21675F3CFD408D7CD 5A588010
 com.cm.			3600	IN	NS	ns1.nic.cm.
 com.cm.			3600	IN	NS	ns2.nic.cm.
 comagropht.cm.		3600	IN	NS	ns1.kevsecurity.net.
@@ -30639,7 +30637,6 @@ edpuzzle.cm.		3600	IN	NS	581.ns1.abovedomains.com.
 edpuzzle.cm.		3600	IN	NS	581.ns2.abovedomains.com.
 edreams.cm.		3600	IN	NS	ns1.parkingcrew.net.
 edreams.cm.		3600	IN	NS	ns2.parkingcrew.net.
-edu.cm.			86400	IN	DS	41038 13 2 6B58841EFABDAA7EBDE0AAF3774B52DAB1F474310F9D1EB725B891E9 A7F1D03B
 edu.cm.			3600	IN	NS	ns1.nic.cm.
 edu.cm.			3600	IN	NS	ns2.nic.cm.
 eduram.cm.		3600	IN	NS	ns1045.ui-dns.de.
@@ -38352,8 +38349,6 @@ horiba.cm.		3600	IN	NS	rns2.rightsdns.com.
 horiken.cm.		3600	IN	NS	ns.sensyu.ne.jp.
 horiken.cm.		3600	IN	NS	ns2.sensyu.ne.jp.
 horiken.cm.		3600	IN	NS	ns3.sensyu.ne.jp.
-horizon-security.cm.	3600	IN	NS	ns1.camoogroup.com.
-horizon-security.cm.	3600	IN	NS	ns2.camoogroup.com.
 horizoncommodities.cm.	3600	IN	NS	ns1.mtnbusiness.cm.
 horizoncommodities.cm.	3600	IN	NS	ns2.mtnbusiness.cm.
 horoscope.cm.		3600	IN	NS	ns1.parkingcrew.net.
@@ -42651,8 +42646,6 @@ kc52.cm.		3600	IN	NS	ns1.netsto.net.
 kc52.cm.		3600	IN	NS	ns2.netsto.net.
 kclife.cm.		3600	IN	NS	ns1.abovedomains.com.
 kclife.cm.		3600	IN	NS	ns2.abovedomains.com.
-kconsulting.cm.		3600	IN	NS	ns1.camoogroup.com.
-kconsulting.cm.		3600	IN	NS	ns2.camoogroup.com.
 kd.cm.			3600	IN	NS	leah.ns.cloudflare.com.
 kd.cm.			3600	IN	NS	major.ns.cloudflare.com.
 kdbakery.cm.		3600	IN	NS	ns1.netim.net.
@@ -45632,6 +45625,8 @@ lush.cm.		3600	IN	NS	dns3.idp365.net.
 lustagenten.cm.		3600	IN	NS	ns1.internetdomainnameregistrar.org.
 lustagenten.cm.		3600	IN	NS	ns2.internetdomainnameregistrar.org.
 lustagenten.cm.		3600	IN	NS	ns3.internetdomainnameregistrar.org.
+lutomacm.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
+lutomacm.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 lutron.cm.		3600	IN	NS	ns3.abovedomains.com.
 lutron.cm.		3600	IN	NS	ns4.abovedomains.com.
 luvmehair.cm.		3600	IN	NS	ns1.adtraks.com.
@@ -45734,6 +45729,8 @@ lync.cm.		3600	IN	NS	ns3-07.azure-dns.org.
 lync.cm.		3600	IN	NS	ns4-07.azure-dns.info.
 lynda.cm.		3600	IN	NS	ns1.parkingcrew.net.
 lynda.cm.		3600	IN	NS	ns2.parkingcrew.net.
+lynk.cm.		3600	IN	NS	dns1.registrar-servers.com.
+lynk.cm.		3600	IN	NS	dns2.registrar-servers.com.
 lyoness.cm.		3600	IN	NS	ns1.lyoness.ag.
 lyoness.cm.		3600	IN	NS	ns2.lyoness.ag.
 lyqp.cm.		3600	IN	NS	ns1.netsto.net.
@@ -47133,18 +47130,8 @@ melbet.cm.		3600	IN	NS	ns1.camoogroup.com.
 melbet.cm.		3600	IN	NS	ns2.camoogroup.com.
 melbet-apk.cm.		3600	IN	NS	ns1.dns-parking.com.
 melbet-apk.cm.		3600	IN	NS	ns2.dns-parking.com.
-melbet-cameroun.cm.	3600	IN	NS	frank.ns.cloudflare.com.
-melbet-cameroun.cm.	3600	IN	NS	treasure.ns.cloudflare.com.
 melbet1.cm.		3600	IN	NS	west.ns.cloudflare.com.
 melbet1.cm.		3600	IN	NS	keira.ns.cloudflare.com.
-melbetapk.cm.		3600	IN	NS	frank.ns.cloudflare.com.
-melbetapk.cm.		3600	IN	NS	treasure.ns.cloudflare.com.
-melbetapp.cm.		3600	IN	NS	ns1.netim.net.
-melbetapp.cm.		3600	IN	NS	ns2.netim.net.
-melbetapp.cm.		3600	IN	NS	ns3.netim.net.
-melbetdownload.cm.	3600	IN	NS	ns1.netim.net.
-melbetdownload.cm.	3600	IN	NS	ns2.netim.net.
-melbetdownload.cm.	3600	IN	NS	ns3.netim.net.
 melbets.cm.		3600	IN	NS	phil.ns.cloudflare.com.
 melbets.cm.		3600	IN	NS	surina.ns.cloudflare.com.
 melbourne.cm.		3600	IN	NS	pns21.cloudns.net.
@@ -49846,8 +49833,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -50264,7 +50251,6 @@ nestup.cm.		3600	IN	NS	ns1.markmonitor.com.
 nestup.cm.		3600	IN	NS	ns3.markmonitor.com.
 nestweave.cm.		3600	IN	NS	ns1.markmonitor.com.
 nestweave.cm.		3600	IN	NS	ns3.markmonitor.com.
-net.cm.			86400	IN	DS	50508 13 2 5BE8AD4415C8844FD82858AED63306B6D31444F639710D4AD38E3662 2E891C78
 net.cm.			3600	IN	NS	ns1.nic.cm.
 net.cm.			3600	IN	NS	ns2.nic.cm.
 net-a-porter.cm.	3600	IN	NS	ns1.parkingcrew.net.
@@ -65897,8 +65883,6 @@ tvline.cm.		3600	IN	NS	ns1.hastydns.com.
 tvline.cm.		3600	IN	NS	ns2.hastydns.com.
 tvmao.cm.		3600	IN	NS	ns1.netsto.net.
 tvmao.cm.		3600	IN	NS	ns2.netsto.net.
-tvs.cm.			3600	IN	NS	ns1.greengeeks.net.
-tvs.cm.			3600	IN	NS	ns2.greengeeks.net.
 tvsou.cm.		3600	IN	NS	ns1.netsto.net.
 tvsou.cm.		3600	IN	NS	ns2.netsto.net.
 tvt.cm.			3600	IN	NS	ns1.netsto.net.
@@ -66216,6 +66200,8 @@ u3c.cm.			3600	IN	NS	dns1.namecheaphosting.com.
 u3c.cm.			3600	IN	NS	dns2.namecheaphosting.com.
 u5365.cm.		3600	IN	NS	ns1.netsto.net.
 u5365.cm.		3600	IN	NS	ns2.netsto.net.
+u58.cm.			3600	IN	NS	n1.xundns.com.
+u58.cm.			3600	IN	NS	n2.xundns.com.
 u7.cm.			3600	IN	NS	ns1.netsto.net.
 u7.cm.			3600	IN	NS	ns2.netsto.net.
 u71197.cm.		3600	IN	NS	ns1.netsto.net.
@@ -66475,6 +66461,8 @@ ultimaterewards.cm.	3600	IN	NS	lunlun.ns.giantpanda.com.
 ultimaterewards.cm.	3600	IN	NS	yangyang.ns.giantpanda.com.
 ultimateschool.cm.	3600	IN	NS	ns1.vercel-dns.com.
 ultimateschool.cm.	3600	IN	NS	ns2.vercel-dns.com.
+ultimateshop.cm.	3600	IN	NS	dns1.registrar-servers.com.
+ultimateshop.cm.	3600	IN	NS	dns2.registrar-servers.com.
 ultipro.cm.		3600	IN	NS	ns1.parkingcrew.net.
 ultipro.cm.		3600	IN	NS	ns2.parkingcrew.net.
 ultram.cm.		3600	IN	NS	dns1.p01.nsone.net.
@@ -72275,6 +72263,8 @@ zao.cm.			3600	IN	NS	ns1.parkingcrew.net.
 zao.cm.			3600	IN	NS	ns2.parkingcrew.net.
 zaobao.cm.		3600	IN	NS	ns1.netsto.net.
 zaobao.cm.		3600	IN	NS	ns2.netsto.net.
+zap.cm.			3600	IN	NS	rachel.ns.cloudflare.com.
+zap.cm.			3600	IN	NS	dilbert.ns.cloudflare.com.
 zapier.cm.		3600	IN	NS	ns3.abovedomains.com.
 zapier.cm.		3600	IN	NS	ns4.abovedomains.com.
 zappos.cm.		3600	IN	NS	ns1.hastydns.com.
@@ -72910,4 +72900,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031717 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031817 1800 900 1209600 3600
