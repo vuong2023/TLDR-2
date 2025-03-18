@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031816 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1742313928"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031818 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1742321129"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -18380,8 +18380,6 @@ bab52.cm.		3600	IN	NS	ns1.alidns.com.
 bab52.cm.		3600	IN	NS	ns2.alidns.com.
 babana.cm.		3600	IN	NS	ns0.thundercloud.uk.
 babana.cm.		3600	IN	NS	ns1.thundercloud.uk.
-babanaexpress.cm.	3600	IN	NS	ns1.camoogroup.com.
-babanaexpress.cm.	3600	IN	NS	ns2.camoogroup.com.
 babbel.cm.		3600	IN	NS	f1g1ns1.dnspod.net.
 babbel.cm.		3600	IN	NS	f1g1ns2.dnspod.net.
 babble.cm.		3600	IN	NS	ns1.parkingcrew.net.
@@ -22926,8 +22924,6 @@ ca.cm.			3600	IN	NS	ns1.parkingcrew.net.
 ca.cm.			3600	IN	NS	ns2.parkingcrew.net.
 ca-associes.cm.		3600	IN	NS	ns1.dns-parking.com.
 ca-associes.cm.		3600	IN	NS	ns2.dns-parking.com.
-caa.cm.			3600	IN	NS	ns1.iccnet.cm.
-caa.cm.			3600	IN	NS	ns2.iccnet.cm.
 caa.cm.			3600	IN	NS	scott.ns.cloudflare.com.
 caa.cm.			3600	IN	NS	romina.ns.cloudflare.com.
 cabaretclub.cm.		3600	IN	NS	ns1.instradns.com.
@@ -24823,6 +24819,9 @@ chen.cm.		3600	IN	NS	v1s1.xundns.com.
 chen.cm.		3600	IN	NS	v1s2.xundns.com.
 chengdu.cm.		3600	IN	NS	ns1.4.cn.
 chengdu.cm.		3600	IN	NS	ns2.4.cn.
+chenosis.cm.		3600	IN	NS	ns1.lexsynergy.net.
+chenosis.cm.		3600	IN	NS	ns2.lexsynergy.us.
+chenosis.cm.		3600	IN	NS	ns3.lexsynergy.info.
 chenze.cm.		3600	IN	NS	ns1.netsto.net.
 chenze.cm.		3600	IN	NS	ns2.netsto.net.
 chercher.cm.		3600	IN	NS	ns1.camoogroup.com.
@@ -38344,6 +38343,8 @@ hopit.cm.		3600	IN	NS	ns2.dreamhost.com.
 hopitallaquintinie.cm.	3600	IN	NS	ns1.whc.ca.
 hopitallaquintinie.cm.	3600	IN	NS	ns2.whc.ca.
 hopitallaquintinie.cm.	3600	IN	NS	ns3.whc.ca.
+hopitalregionalfoumban.cm. 3600	IN	NS	ns1.camoogroup.com.
+hopitalregionalfoumban.cm. 3600	IN	NS	ns2.camoogroup.com.
 hopper.cm.		3600	IN	NS	ns11.abovedomains.com.
 hopper.cm.		3600	IN	NS	ns12.abovedomains.com.
 horiba.cm.		3600	IN	NS	rns1.rightsdns.com.
@@ -72902,4 +72903,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031816 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031818 1800 900 1209600 3600
