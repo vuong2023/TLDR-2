@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032217 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1742663122"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032222 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1742681124"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -21811,6 +21811,8 @@ brianscllub.cm.		3600	IN	NS	ns3.abovedomains.com.
 brianscllub.cm.		3600	IN	NS	ns4.abovedomains.com.
 briansclob.cm.		3600	IN	NS	ns1.parkingcrew.net.
 briansclob.cm.		3600	IN	NS	ns2.parkingcrew.net.
+briansclubb.cm.		3600	IN	NS	ns3.my-ndns.com.
+briansclubb.cm.		3600	IN	NS	ns4.my-ndns.com.
 briansclubc.cm.		3600	IN	NS	ns3.abovedomains.com.
 briansclubc.cm.		3600	IN	NS	ns4.abovedomains.com.
 briansclubcm.cm.	3600	IN	NS	ns1.parkingcrew.net.
@@ -24565,6 +24567,8 @@ chatturbate.cm.		3600	IN	NS	1665.ns1.above.com.
 chatturbate.cm.		3600	IN	NS	1665.ns2.above.com.
 chatubate.cm.		3600	IN	NS	ns1.parkingcrew.net.
 chatubate.cm.		3600	IN	NS	ns2.parkingcrew.net.
+chaturbat.cm.		3600	IN	NS	ns1.bodis.com.
+chaturbat.cm.		3600	IN	NS	ns2.bodis.com.
 chaturbate.cm.		3600	IN	NS	pns21.cloudns.net.
 chaturbate.cm.		3600	IN	NS	pns22.cloudns.net.
 chaturbate.cm.		3600	IN	NS	pns23.cloudns.net.
@@ -45539,6 +45543,8 @@ lyana-ss.cm.		3600	IN	NS	ns1.camoogroup.com.
 lyana-ss.cm.		3600	IN	NS	ns2.camoogroup.com.
 lyb.cm.			3600	IN	NS	venus.ns.cloudflare.com.
 lyb.cm.			3600	IN	NS	george.ns.cloudflare.com.
+lybilnkong.cm.		3600	IN	NS	ns1.camoogroup.com.
+lybilnkong.cm.		3600	IN	NS	ns2.camoogroup.com.
 lycamobile.cm.		3600	IN	NS	ns1.brandshelter.com.
 lycamobile.cm.		3600	IN	NS	ns2.brandshelter.de.
 lycamobile.cm.		3600	IN	NS	ns3.brandshelter.info.
@@ -46081,6 +46087,8 @@ manoramaonline.cm.	3600	IN	NS	ns1.hastydns.com.
 manoramaonline.cm.	3600	IN	NS	ns2.hastydns.com.
 manpower.cm.		3600	IN	NS	auth00.ns.uu.net.
 manpower.cm.		3600	IN	NS	auth100.ns.uu.net.
+mansaah.cm.		3600	IN	NS	ns1.dns-parking.com.
+mansaah.cm.		3600	IN	NS	ns2.dns-parking.com.
 manscaped.cm.		3600	IN	NS	ns01.trademarkarea.com.
 manscaped.cm.		3600	IN	NS	ns02.trademarkarea.com.
 manscaped.cm.		3600	IN	NS	ns03.trademarkarea.com.
@@ -49669,8 +49677,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -72734,4 +72742,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032217 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032222 1800 900 1209600 3600
