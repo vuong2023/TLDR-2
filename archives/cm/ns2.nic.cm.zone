@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032222 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1742681124"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032311 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1742727633"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -6915,6 +6915,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 49tuku.cm.		3600	IN	NS	ns2.dnscu.com.
 49uuu.cm.		3600	IN	NS	ns1.netsto.net.
 49uuu.cm.		3600	IN	NS	ns2.netsto.net.
+49uw.cm.		3600	IN	NS	ns1.netsto.net.
+49uw.cm.		3600	IN	NS	ns2.netsto.net.
 49vv.cm.		3600	IN	NS	ns1.alidns.com.
 49vv.cm.		3600	IN	NS	ns2.alidns.com.
 49vvv.cm.		3600	IN	NS	ns1.netsto.net.
@@ -17446,8 +17448,6 @@ atm.cm.			3600	IN	NS	guss.ns.cloudflare.com.
 atm.cm.			3600	IN	NS	maria.ns.cloudflare.com.
 atma.cm.		3600	IN	NS	ns1.stackdns.com.
 atma.cm.		3600	IN	NS	ns2.stackdns.com.
-atmatm.cm.		3600	IN	NS	ns6.netsto.net.
-atmatm.cm.		3600	IN	NS	ns7.netsto.net.
 atmhkshare.cm.		3600	IN	NS	ns6.netsto.net.
 atmhkshare.cm.		3600	IN	NS	ns7.netsto.net.
 atmwt.cm.		3600	IN	NS	ns1.netsto.net.
@@ -20904,8 +20904,6 @@ blvck.cm.		3600	IN	NS	ns1.adtraks.com.
 blvck.cm.		3600	IN	NS	ns2.adtraks.com.
 bly.cm.			3600	IN	NS	ns1.mtnbusiness.cm.
 bly.cm.			3600	IN	NS	ns2.mtnbusiness.cm.
-blyl58.cm.		3600	IN	NS	ns6.netsto.net.
-blyl58.cm.		3600	IN	NS	ns7.netsto.net.
 bm.cm.			3600	IN	NS	ns1.dns.com.
 bm.cm.			3600	IN	NS	ns2.dns.com.
 bm-flash.cm.		3600	IN	NS	ns1.camoogroup.com.
@@ -22054,8 +22052,6 @@ bsneny.cm.		3600	IN	NS	ns1.abovedomains.com.
 bsneny.cm.		3600	IN	NS	ns2.abovedomains.com.
 bsport.cm.		3600	IN	NS	harley.ns.cloudflare.com.
 bsport.cm.		3600	IN	NS	rihana.ns.cloudflare.com.
-bsports5.cm.		3600	IN	NS	ns6.netsto.net.
-bsports5.cm.		3600	IN	NS	ns7.netsto.net.
 bsqt.cm.		3600	IN	NS	ns1.newleaders.com.
 bsqt.cm.		3600	IN	NS	ns2.newleaders.com.
 bsqt.cm.		3600	IN	NS	ns3.newleaders.com.
@@ -29903,6 +29899,8 @@ dy7778.cm.		3600	IN	NS	v1s1.xundns.com.
 dy7778.cm.		3600	IN	NS	v1s2.xundns.com.
 dy79.cm.		3600	IN	NS	ns1.netsto.net.
 dy79.cm.		3600	IN	NS	ns2.netsto.net.
+dy88.cm.		3600	IN	NS	ns1.netsto.net.
+dy88.cm.		3600	IN	NS	ns2.netsto.net.
 dybaf.cm.		3600	IN	NS	ns1.caurisoftech.com.
 dybaf.cm.		3600	IN	NS	ns2.caurisoftech.com.
 dyd.cm.			3600	IN	NS	ns1.netsto.net.
@@ -31772,8 +31770,8 @@ evadict.cm.		3600	IN	NS	ns-191-c.gandi.net.
 evadict.cm.		3600	IN	NS	ns-243-a.gandi.net.
 evagabor.cm.		3600	IN	NS	ns.rackspace.com.
 evagabor.cm.		3600	IN	NS	ns2.rackspace.com.
-evat.cm.		3600	IN	NS	dns1.registrar-servers.com.
-evat.cm.		3600	IN	NS	dns2.registrar-servers.com.
+evat.cm.		3600	IN	NS	ns1.digitalocean.com.
+evat.cm.		3600	IN	NS	ns2.digitalocean.com.
 eve.cm.			3600	IN	NS	ns1.parkingcrew.net.
 eve.cm.			3600	IN	NS	ns2.parkingcrew.net.
 evemall.cm.		3600	IN	NS	ns01.trademarkarea.com.
@@ -38865,6 +38863,8 @@ hyvee.cm.		3600	IN	NS	ns3.abovedomains.com.
 hyvee.cm.		3600	IN	NS	ns4.abovedomains.com.
 hyy7.cm.		3600	IN	NS	vicente.ns.cloudflare.com.
 hyy7.cm.		3600	IN	NS	anastasia.ns.cloudflare.com.
+hyylc.cm.		3600	IN	NS	ns1.netsto.net.
+hyylc.cm.		3600	IN	NS	ns2.netsto.net.
 hz.cm.			3600	IN	NS	ns1.dns.com.
 hz.cm.			3600	IN	NS	ns2.dns.com.
 hzb.cm.			3600	IN	NS	ns1.netsto.net.
@@ -40501,8 +40501,6 @@ j92a64.cm.		3600	IN	NS	ns1.alidns.com.
 j92a64.cm.		3600	IN	NS	ns2.alidns.com.
 j92a69.cm.		3600	IN	NS	ns1.alidns.com.
 j92a69.cm.		3600	IN	NS	ns2.alidns.com.
-j9669.cm.		3600	IN	NS	ns6.netsto.net.
-j9669.cm.		3600	IN	NS	ns7.netsto.net.
 ja.cm.			3600	IN	NS	ns1.4.cn.
 ja.cm.			3600	IN	NS	ns2.4.cn.
 jabeen.cm.		3600	IN	NS	ignat.ns.cloudflare.com.
@@ -40719,6 +40717,8 @@ jboss.cm.		3600	IN	NS	dns1.p01.nsone.net.
 jboss.cm.		3600	IN	NS	dns2.p01.nsone.net.
 jboss.cm.		3600	IN	NS	dns3.p01.nsone.net.
 jboss.cm.		3600	IN	NS	dns4.p01.nsone.net.
+jbyl.cm.		3600	IN	NS	ns1.netsto.net.
+jbyl.cm.		3600	IN	NS	ns2.netsto.net.
 jc.cm.			3600	IN	NS	f1g1ns1.dnspod.net.
 jc.cm.			3600	IN	NS	f1g1ns2.dnspod.net.
 jc723.cm.		3600	IN	NS	ns1.alidns.com.
@@ -41219,12 +41219,6 @@ jlty104.cm.		3600	IN	NS	ns6.netsto.net.
 jlty104.cm.		3600	IN	NS	ns7.netsto.net.
 jlty131.cm.		3600	IN	NS	ns6.netsto.net.
 jlty131.cm.		3600	IN	NS	ns7.netsto.net.
-jlyl30.cm.		3600	IN	NS	ns6.netsto.net.
-jlyl30.cm.		3600	IN	NS	ns7.netsto.net.
-jlyl710.cm.		3600	IN	NS	ns6.netsto.net.
-jlyl710.cm.		3600	IN	NS	ns7.netsto.net.
-jlyl774.cm.		3600	IN	NS	ns6.netsto.net.
-jlyl774.cm.		3600	IN	NS	ns7.netsto.net.
 jlzr.cm.		3600	IN	NS	ns6.netsto.net.
 jlzr.cm.		3600	IN	NS	ns7.netsto.net.
 jm.cm.			3600	IN	NS	f1g1ns1.dnspod.net.
@@ -41674,10 +41668,6 @@ jpyy.cm.		3600	IN	NS	ns1.alidns.com.
 jpyy.cm.		3600	IN	NS	ns2.alidns.com.
 jq.cm.			3600	IN	NS	ns1.dns.com.
 jq.cm.			3600	IN	NS	ns2.dns.com.
-jqk.cm.			3600	IN	NS	ns1dhl.name.com.
-jqk.cm.			3600	IN	NS	ns2gtx.name.com.
-jqk.cm.			3600	IN	NS	ns3jnr.name.com.
-jqk.cm.			3600	IN	NS	ns4cjp.name.com.
 jr.cm.			3600	IN	NS	ns1.alidns.com.
 jr.cm.			3600	IN	NS	ns2.alidns.com.
 jrants.cm.		3600	IN	NS	ns6.netsto.net.
@@ -43380,8 +43370,6 @@ kugou.cm.		3600	IN	NS	ns2.netsto.net.
 kuikma.cm.		3600	IN	NS	ns-25-c.gandi.net.
 kuikma.cm.		3600	IN	NS	ns-149-b.gandi.net.
 kuikma.cm.		3600	IN	NS	ns-209-a.gandi.net.
-kuma.cm.		3600	IN	NS	dom.ns.cloudflare.com.
-kuma.cm.		3600	IN	NS	harleigh.ns.cloudflare.com.
 kumagai.cm.		3600	IN	NS	dns.interq.or.jp.
 kumagai.cm.		3600	IN	NS	dns1.interq.or.jp.
 kumagai.cm.		3600	IN	NS	mldns01.interq.or.jp.
@@ -46830,8 +46818,8 @@ mediaprofili.cm.	3600	IN	NS	ns.abdns.biz.
 mediaprofili.cm.	3600	IN	NS	ns.abdns.info.
 mediastore.cm.		3600	IN	NS	hgns1.hostgator.com.
 mediastore.cm.		3600	IN	NS	hgns2.hostgator.com.
-mediasystem.cm.		3600	IN	NS	dns1.p05.nsone.net.
-mediasystem.cm.		3600	IN	NS	dns2.p05.nsone.net.
+mediasystem.cm.		3600	IN	NS	ns1.o2switch.net.
+mediasystem.cm.		3600	IN	NS	ns2.o2switch.net.
 medicalbeauty.cm.	3600	IN	NS	ns1.camoogroup.com.
 medicalbeauty.cm.	3600	IN	NS	ns2.camoogroup.com.
 medicalex.cm.		3600	IN	NS	ns5.lwsdns.com.
@@ -49677,8 +49665,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -49872,6 +49860,8 @@ nb191.cm.		3600	IN	NS	ns1.netsto.net.
 nb191.cm.		3600	IN	NS	ns2.netsto.net.
 nb62.cm.		3600	IN	NS	ns1.alidns.com.
 nb62.cm.		3600	IN	NS	ns2.alidns.com.
+nb855.cm.		3600	IN	NS	ns1.netsto.net.
+nb855.cm.		3600	IN	NS	ns2.netsto.net.
 nba.cm.			3600	IN	NS	ns1.hastydns.com.
 nba.cm.			3600	IN	NS	ns2.hastydns.com.
 nba01.cm.		3600	IN	NS	ns1.netsto.net.
@@ -50571,8 +50561,8 @@ nitagcameroon.cm.	3600	IN	NS	ns1.mtnbusiness.cm.
 nitagcameroon.cm.	3600	IN	NS	ns2.mtnbusiness.cm.
 niteflirt.cm.		3600	IN	NS	ns3.abovedomains.com.
 niteflirt.cm.		3600	IN	NS	ns4.abovedomains.com.
-niu.cm.			3600	IN	NS	job.dnspod.net.
-niu.cm.			3600	IN	NS	dogwood.dnspod.net.
+niu.cm.			3600	IN	NS	vip1.alidns.com.
+niu.cm.			3600	IN	NS	vip2.alidns.com.
 nivea.cm.		3600	IN	NS	ns1.netnames.net.
 nivea.cm.		3600	IN	NS	ns2.netnames.net.
 nivea.cm.		3600	IN	NS	ns5.netnames.net.
@@ -55825,6 +55815,8 @@ qantas.cm.		3600	IN	NS	pdns109.ultradns.net.
 qantas.cm.		3600	IN	NS	pdns109.ultradns.org.
 qaq.cm.			3600	IN	NS	elmo.ns.cloudflare.com.
 qaq.cm.			3600	IN	NS	bingo.ns.cloudflare.com.
+qatar.cm.		3600	IN	NS	n1.xundns.com.
+qatar.cm.		3600	IN	NS	n2.xundns.com.
 qatar-energy.cm.	3600	IN	NS	ns1.lovellsnames.org.
 qatar-energy.cm.	3600	IN	NS	ns2.lovellsnames.org.
 qatar-energy.cm.	3600	IN	NS	ns3.lovellsnames.org.
@@ -58661,8 +58653,6 @@ sam94.cm.		3600	IN	NS	ns1.alidns.com.
 sam94.cm.		3600	IN	NS	ns2.alidns.com.
 samaritan.cm.		3600	IN	NS	dns1.namecheaphosting.com.
 samaritan.cm.		3600	IN	NS	dns2.namecheaphosting.com.
-samariya.cm.		3600	IN	NS	lee.ns.cloudflare.com.
-samariya.cm.		3600	IN	NS	diana.ns.cloudflare.com.
 samash.cm.		3600	IN	NS	ns1.adtraks.com.
 samash.cm.		3600	IN	NS	ns2.adtraks.com.
 samashdirect.cm.	3600	IN	NS	dns1.name-services.com.
@@ -69357,8 +69347,6 @@ wk573.cm.		3600	IN	NS	ns1.alidns.com.
 wk573.cm.		3600	IN	NS	ns2.alidns.com.
 wkh7.cm.		3600	IN	NS	ns6.netsto.net.
 wkh7.cm.		3600	IN	NS	ns7.netsto.net.
-wktiyu.cm.		3600	IN	NS	ns6.netsto.net.
-wktiyu.cm.		3600	IN	NS	ns7.netsto.net.
 wkty.cm.		3600	IN	NS	ns6.netsto.net.
 wkty.cm.		3600	IN	NS	ns7.netsto.net.
 wl.cm.			3600	IN	NS	ns1.myhostadmin.net.
@@ -70510,6 +70498,8 @@ xgox.cm.		3600	IN	NS	ns1-09.azure-dns.com.
 xgox.cm.		3600	IN	NS	ns2-09.azure-dns.net.
 xgox.cm.		3600	IN	NS	ns3-09.azure-dns.org.
 xgox.cm.		3600	IN	NS	ns4-09.azure-dns.info.
+xgyl.cm.		3600	IN	NS	ns1.netsto.net.
+xgyl.cm.		3600	IN	NS	ns2.netsto.net.
 xh.cm.			3600	IN	NS	a.dnspod.com.
 xh.cm.			3600	IN	NS	b.dnspod.com.
 xh.cm.			3600	IN	NS	c.dnspod.com.
@@ -70529,6 +70519,8 @@ xhs.cm.			3600	IN	NS	claude.dnspod.net.
 xhs.cm.			3600	IN	NS	pomfret.dnspod.net.
 xhtd.cm.		3600	IN	NS	ns1.dns.com.
 xhtd.cm.		3600	IN	NS	ns2.dns.com.
+xhyl.cm.		3600	IN	NS	ns1.netsto.net.
+xhyl.cm.		3600	IN	NS	ns2.netsto.net.
 xi.cm.			3600	IN	NS	ns1.4.cn.
 xi.cm.			3600	IN	NS	ns2.4.cn.
 xia.cm.			3600	IN	NS	cory.ns.cloudflare.com.
@@ -72269,8 +72261,8 @@ zenefits.cm.		3600	IN	NS	ns1.bodis.com.
 zenefits.cm.		3600	IN	NS	ns2.bodis.com.
 zenni.cm.		3600	IN	NS	ns1.parkingcrew.net.
 zenni.cm.		3600	IN	NS	ns2.parkingcrew.net.
-zennioptical.cm.	3600	IN	NS	ns1.bodis.com.
-zennioptical.cm.	3600	IN	NS	ns2.bodis.com.
+zennioptical.cm.	3600	IN	NS	ns1.parkingcrew.net.
+zennioptical.cm.	3600	IN	NS	ns2.parkingcrew.net.
 zenoah.cm.		3600	IN	NS	ns.domainnetwork.se.
 zenoah.cm.		3600	IN	NS	ns2.domainnetwork.se.
 zenoah.cm.		3600	IN	NS	ns3.domainnetwork.com.
@@ -72742,4 +72734,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032222 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032311 1800 900 1209600 3600
