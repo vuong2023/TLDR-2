@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032515 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1742914825"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032516 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1742918426"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -24724,6 +24724,8 @@ chewy.cm.		3600	IN	NS	ns1.ii51.parklogic.com.
 chewy.cm.		3600	IN	NS	ns2.ii51.parklogic.com.
 chewys.cm.		3600	IN	NS	1665.ns1.above.com.
 chewys.cm.		3600	IN	NS	1665.ns2.above.com.
+chezmarco.cm.		3600	IN	NS	ns1.dns-parking.com.
+chezmarco.cm.		3600	IN	NS	ns2.dns-parking.com.
 chia.cm.		3600	IN	NS	ns3.abovedomains.com.
 chia.cm.		3600	IN	NS	ns4.abovedomains.com.
 chiadecentral.cm.	3600	IN	NS	tara.ns.cloudflare.com.
@@ -27520,6 +27522,8 @@ dailyfinance.cm.	3600	IN	NS	ns3.markmonitor.com.
 dailyfinance.cm.	3600	IN	NS	ns4.markmonitor.com.
 dailyfinance.cm.	3600	IN	NS	ns5.markmonitor.com.
 dailyfinance.cm.	3600	IN	NS	ns6.markmonitor.com.
+dailyfit.cm.		3600	IN	NS	ns1.rhopenlabs.cm.
+dailyfit.cm.		3600	IN	NS	ns2.rhopenlabs.cm.
 dailymail.cm.		3600	IN	NS	ns1.bodis.com.
 dailymail.cm.		3600	IN	NS	ns2.bodis.com.
 dailymarket.cm.		3600	IN	NS	ns200.anycast.me.
@@ -49671,8 +49675,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -66527,8 +66531,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
+bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -72741,4 +72745,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032515 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032516 600 300 1209600 3600
