@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032609 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1742979923"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032612 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1742990726"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -7012,6 +7012,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 4win.cm.		3600	IN	NS	ns7.netsto.net.
 4x.cm.			3600	IN	NS	peyton.ns.cloudflare.com.
 4x.cm.			3600	IN	NS	saanvi.ns.cloudflare.com.
+4xcentral.cm.		3600	IN	NS	aron.ns.cloudflare.com.
+4xcentral.cm.		3600	IN	NS	rodrigo.ns.cloudflare.com.
 4yh.cm.			3600	IN	NS	ns1.dns.com.
 4yh.cm.			3600	IN	NS	ns2.dns.com.
 4yp9.cm.		3600	IN	NS	ns1.alidns.com.
@@ -15918,6 +15920,8 @@ alosafada.cm.		3600	IN	NS	ns1.parkingcrew.net.
 alosafada.cm.		3600	IN	NS	ns2.parkingcrew.net.
 aloyoga.cm.		3600	IN	NS	3860.ns1.abovedomains.com.
 aloyoga.cm.		3600	IN	NS	3860.ns2.abovedomains.com.
+alpcapital.cm.		3600	IN	NS	dns1.registrar-servers.com.
+alpcapital.cm.		3600	IN	NS	dns2.registrar-servers.com.
 alpha.cm.		3600	IN	NS	ns3.abovedomains.com.
 alpha.cm.		3600	IN	NS	ns4.abovedomains.com.
 alpha041.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
@@ -16836,8 +16840,8 @@ apollo.cm.		3600	IN	NS	ns3.abovedomains.com.
 apollo.cm.		3600	IN	NS	ns4.abovedomains.com.
 apollogames.cm.		3600	IN	NS	kirk.ns.cloudflare.com.
 apollogames.cm.		3600	IN	NS	ruth.ns.cloudflare.com.
-apon.cm.		3600	IN	NS	ns1.rhopenlabs.cm.
-apon.cm.		3600	IN	NS	ns2.rhopenlabs.cm.
+apon.cm.		3600	IN	NS	ns1.servconfig.com.
+apon.cm.		3600	IN	NS	ns2.servconfig.com.
 app.cm.			3600	IN	NS	ns1.4.cn.
 app.cm.			3600	IN	NS	ns2.4.cn.
 app8620.cm.		3600	IN	NS	ns1.netsto.net.
@@ -36038,8 +36042,10 @@ gowash.cm.		3600	IN	NS	ns1.o2switch.net.
 gowash.cm.		3600	IN	NS	ns2.o2switch.net.
 gowow.cm.		3600	IN	NS	e.ezdnscenter.com.
 gowow.cm.		3600	IN	NS	f.ezdnscenter.com.
-gp.cm.			3600	IN	NS	ns1.netsto.net.
-gp.cm.			3600	IN	NS	ns2.netsto.net.
+gp.cm.			3600	IN	NS	ns1.4.cn.
+gp.cm.			3600	IN	NS	ns2.4.cn.
+gp.cm.			3600	IN	NS	ns3.goldenname.com.
+gp.cm.			3600	IN	NS	ns4.goldenname.com.
 gp-prc.cm.		3600	IN	NS	kim.camnet.cm.
 gp-prc.cm.		3600	IN	NS	mbam.camnet.cm.
 gpc.cm.			3600	IN	NS	ns5.lwsdns.com.
@@ -36353,8 +36359,10 @@ gttc.cm.		3600	IN	NS	ns1.camoogroup.com.
 gttc.cm.		3600	IN	NS	ns2.camoogroup.com.
 gtv.cm.			3600	IN	NS	ns6.netsto.net.
 gtv.cm.			3600	IN	NS	ns7.netsto.net.
-gu.cm.			3600	IN	NS	ns1.netsto.net.
-gu.cm.			3600	IN	NS	ns2.netsto.net.
+gu.cm.			3600	IN	NS	ns1.4.cn.
+gu.cm.			3600	IN	NS	ns2.4.cn.
+gu.cm.			3600	IN	NS	ns3.goldenname.com.
+gu.cm.			3600	IN	NS	ns4.goldenname.com.
 guanabana.cm.		3600	IN	NS	ns1.webhostingpad.com.
 guanabana.cm.		3600	IN	NS	ns2.webhostingpad.com.
 guanghui.cm.		3600	IN	NS	siti.ns.orangewebsite.com.
@@ -37846,8 +37854,10 @@ hitlbamenda.cm.		3600	IN	NS	dns1.registrar-servers.com.
 hitlbamenda.cm.		3600	IN	NS	dns2.registrar-servers.com.
 hiyahealth.cm.		3600	IN	NS	ns1.adtraks.com.
 hiyahealth.cm.		3600	IN	NS	ns2.adtraks.com.
-hj.cm.			3600	IN	NS	ns1.netsto.net.
-hj.cm.			3600	IN	NS	ns2.netsto.net.
+hj.cm.			3600	IN	NS	ns1.4.cn.
+hj.cm.			3600	IN	NS	ns2.4.cn.
+hj.cm.			3600	IN	NS	ns3.goldenname.com.
+hj.cm.			3600	IN	NS	ns4.goldenname.com.
 hj3388.cm.		3600	IN	NS	ns1.netsto.net.
 hj3388.cm.		3600	IN	NS	ns2.netsto.net.
 hj595.cm.		3600	IN	NS	ns1.alidns.com.
@@ -66535,8 +66545,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -67562,6 +67572,8 @@ viavisolutions.cm.	3600	IN	NS	ns-1129.awsdns-13.org.
 viavisolutions.cm.	3600	IN	NS	ns-1658.awsdns-15.co.uk.
 vib.cm.			3600	IN	NS	ns1.vu.cm.
 vib.cm.			3600	IN	NS	ns2.vu.cm.
+vibecoding.cm.		3600	IN	NS	dns1.registrar-servers.com.
+vibecoding.cm.		3600	IN	NS	dns2.registrar-servers.com.
 viber.cm.		3600	IN	NS	ns1.parkingcrew.net.
 viber.cm.		3600	IN	NS	ns2.parkingcrew.net.
 vibrators.cm.		3600	IN	NS	ns3.abovedomains.com.
@@ -72749,4 +72761,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032609 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032612 600 300 1209600 3600
