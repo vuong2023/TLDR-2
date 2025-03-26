@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025032506 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025032511 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1742900502"
+ps.			86400	IN	TXT	"Generation Time: 1742936506"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -4130,6 +4130,8 @@ cloudap.ps.		86400	IN	NS	ns2.101domain.com.
 cloudap.ps.		86400	IN	NS	ns5.101domain.com.
 cloudeng.ps.		86400	IN	NS	evelyn.ns.cloudflare.com.
 cloudeng.ps.		86400	IN	NS	sterling.ns.cloudflare.com.
+cloudish.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+cloudish.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 clouds.ps.		86400	IN	NS	ns1.purecore.net.
 clouds.ps.		86400	IN	NS	ns2.purecore.net.
 cloudtech.ps.		86400	IN	NS	ns71.domaincontrol.com.
@@ -6944,6 +6946,8 @@ goldengatetours.ps.	86400	IN	NS	ns1.injazatcloud.ps.
 goldengatetours.ps.	86400	IN	NS	ns2.injazatcloud.ps.
 goldenkitchen.ps.	86400	IN	NS	ns1.injazatcloud.ps.
 goldenkitchen.ps.	86400	IN	NS	ns2.injazatcloud.ps.
+goldenoldcity.ps.	86400	IN	NS	ns8291.hostgator.com.
+goldenoldcity.ps.	86400	IN	NS	ns8292.hostgator.com.
 goldenratio.ps.		86400	IN	NS	cdns1.hadara.ps.
 goldenratio.ps.		86400	IN	NS	cdns2.hadara.ps.
 goldentrust.ps.		86400	IN	NS	cdns1.hadara.ps.
@@ -8064,6 +8068,8 @@ idigital.ps.		86400	IN	NS	sasha.ns.cloudflare.com.
 idigital.ps.		86400	IN	NS	gerardo.ns.cloudflare.com.
 idmc.ps.		86400	IN	NS	ines.ns.cloudflare.com.
 idmc.ps.		86400	IN	NS	norm.ns.cloudflare.com.
+idplus.ps.		86400	IN	NS	cdns1.hadara.ps.
+idplus.ps.		86400	IN	NS	cdns2.hadara.ps.
 idrive.ps.		86400	IN	NS	love.ns.cloudflare.com.
 idrive.ps.		86400	IN	NS	terry.ns.cloudflare.com.
 idservice.ps.		86400	IN	NS	dns1.cscdns.net.
@@ -10293,6 +10299,8 @@ maximum.ps.		86400	IN	NS	ns2.101domain.com.
 maximum.ps.		86400	IN	NS	ns5.101domain.com.
 maxmall.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 maxmall.ps.		86400	IN	NS	ns2.injazatcloud.ps.
+maxmar.ps.		86400	IN	NS	vita.ns.cloudflare.com.
+maxmar.ps.		86400	IN	NS	bjorn.ns.cloudflare.com.
 maxplay.ps.		86400	IN	NS	ns01.trademarkarea.com.
 maxplay.ps.		86400	IN	NS	ns02.trademarkarea.com.
 maxplay.ps.		86400	IN	NS	ns03.trademarkarea.com.
@@ -15841,8 +15849,10 @@ smartcash.ps.		86400	IN	NS	ns1.bluetd.com.
 smartcash.ps.		86400	IN	NS	ns2.bluetd.com.
 smartcenter.ps.		86400	IN	NS	cdns1.hadara.ps.
 smartcenter.ps.		86400	IN	NS	cdns2.hadara.ps.
-smartcloud.ps.		86400	IN	NS	ns1.palname.com.
-smartcloud.ps.		86400	IN	NS	ns2.palname.com.
+smartcloud.ps.		86400	IN	NS	ns1.smartcloud.ps.
+smartcloud.ps.		86400	IN	NS	ns2.smartcloud.ps.
+ns1.smartcloud.ps.	86400	IN	A	139.162.165.131
+ns2.smartcloud.ps.	86400	IN	A	139.162.165.131
 smartdeals.ps.		86400	IN	NS	ns1.arabfb.net.
 smartdeals.ps.		86400	IN	NS	ns2.arabfb.net.
 smartek.ps.		86400	IN	NS	ns1.bluetd.com.
@@ -18889,4 +18899,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025032506 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025032511 86400 7200 3600000 172800
