@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032813 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743167130"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032818 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743185134"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -15202,6 +15202,9 @@ ahj.cm.			3600	IN	NS	ns1.alidns.com.
 ahj.cm.			3600	IN	NS	ns2.alidns.com.
 ahk.cm.			3600	IN	NS	ns6.netsto.net.
 ahk.cm.			3600	IN	NS	ns7.netsto.net.
+ahmadtea.cm.		3600	IN	NS	ns01.trademarkarea.com.
+ahmadtea.cm.		3600	IN	NS	ns02.trademarkarea.com.
+ahmadtea.cm.		3600	IN	NS	ns03.trademarkarea.com.
 ahmed.cm.		3600	IN	NS	ignat.ns.cloudflare.com.
 ahmed.cm.		3600	IN	NS	davina.ns.cloudflare.com.
 ahoo.cm.		3600	IN	NS	ns3.abovedomains.com.
@@ -21863,10 +21866,8 @@ brianskrebs.cm.		3600	IN	NS	ns3.eurodns.com.
 brianskrebs.cm.		3600	IN	NS	ns4.eurodns.com.
 brianslub.cm.		3600	IN	NS	ns3.abovedomains.com.
 brianslub.cm.		3600	IN	NS	ns4.abovedomains.com.
-brianssclub.cm.		3600	IN	NS	ns1.ddos-guard.net.
-brianssclub.cm.		3600	IN	NS	ns2.ddos-guard.net.
-brianssclub.cm.		3600	IN	NS	nola.ns.cloudflare.com.
-brianssclub.cm.		3600	IN	NS	theo.ns.cloudflare.com.
+brianssclub.cm.		3600	IN	NS	drew.ns.cloudflare.com.
+brianssclub.cm.		3600	IN	NS	piper.ns.cloudflare.com.
 brianszclub.cm.		3600	IN	NS	ns1.parkingcrew.net.
 brianszclub.cm.		3600	IN	NS	ns2.parkingcrew.net.
 bricklink.cm.		3600	IN	NS	ns3.abovedomains.com.
@@ -28369,10 +28370,6 @@ di.cm.			3600	IN	NS	ns1.4.cn.
 di.cm.			3600	IN	NS	ns2.4.cn.
 di.cm.			3600	IN	NS	ns3.goldenname.com.
 di.cm.			3600	IN	NS	ns4.goldenname.com.
-diabetesinstitute.cm.	3600	IN	NS	dns1.p01.nsone.net.
-diabetesinstitute.cm.	3600	IN	NS	dns2.p01.nsone.net.
-diabetesinstitute.cm.	3600	IN	NS	ns01.jnjdns.com.
-diabetesinstitute.cm.	3600	IN	NS	ns02.jnjdns.com.
 diagbox.cm.		3600	IN	NS	ns-107-a.gandi.net.
 diagbox.cm.		3600	IN	NS	ns-184-c.gandi.net.
 diagbox.cm.		3600	IN	NS	ns-225-b.gandi.net.
@@ -35589,6 +35586,9 @@ gmfinance.cm.		3600	IN	NS	ns1.camoogroup.com.
 gmfinance.cm.		3600	IN	NS	ns2.camoogroup.com.
 gmfinancial.cm.		3600	IN	NS	ns3.abovedomains.com.
 gmfinancial.cm.		3600	IN	NS	ns4.abovedomains.com.
+gmg.cm.			3600	IN	NS	ns1.regery.net.
+gmg.cm.			3600	IN	NS	ns2.regery.net.
+gmg.cm.			3600	IN	NS	ns3.regery.net.
 gmial.cm.		3600	IN	NS	dns101.registrar-servers.com.
 gmial.cm.		3600	IN	NS	dns102.registrar-servers.com.
 gmil.cm.		3600	IN	NS	ns1.bodis.com.
@@ -35986,8 +35986,6 @@ gorillawear.cm.		3600	IN	NS	ns1.adtraks.com.
 gorillawear.cm.		3600	IN	NS	ns2.adtraks.com.
 gosat.cm.		3600	IN	NS	ns1.camoogroup.com.
 gosat.cm.		3600	IN	NS	ns2.camoogroup.com.
-gosen.cm.		3600	IN	NS	ns1.camoogroup.com.
-gosen.cm.		3600	IN	NS	ns2.camoogroup.com.
 gosphero.cm.		3600	IN	NS	ns1mtw.name.com.
 gosphero.cm.		3600	IN	NS	ns2fhn.name.com.
 gosphero.cm.		3600	IN	NS	ns3dgj.name.com.
@@ -36226,6 +36224,8 @@ groupe-cimentsafrique.cm. 3600	IN	NS	ns1.dns-parking.com.
 groupe-cimentsafrique.cm. 3600	IN	NS	ns2.dns-parking.com.
 groupe-daf-cameroun.cm.	3600	IN	NS	dns1.namecheaphosting.com.
 groupe-daf-cameroun.cm.	3600	IN	NS	dns2.namecheaphosting.com.
+groupe-madia.cm.	3600	IN	NS	ns1.camoogroup.com.
+groupe-madia.cm.	3600	IN	NS	ns2.camoogroup.com.
 groupe-psa.cm.		3600	IN	NS	a.dns.gandi.net.
 groupe-psa.cm.		3600	IN	NS	b.dns.gandi.net.
 groupe-psa.cm.		3600	IN	NS	c.dns.gandi.net.
@@ -42853,6 +42853,8 @@ kioskonline.cm.		3600	IN	NS	dns1.namecheaphosting.com.
 kioskonline.cm.		3600	IN	NS	dns2.namecheaphosting.com.
 kiox.cm.		3600	IN	NS	gwa.fe.bosch.de.
 kiox.cm.		3600	IN	NS	gwa2.fe.bosch.de.
+kip.cm.			3600	IN	NS	dns1.registrar-servers.com.
+kip.cm.			3600	IN	NS	dns2.registrar-servers.com.
 kiplinger.cm.		3600	IN	NS	ns1.bodis.com.
 kiplinger.cm.		3600	IN	NS	ns2.bodis.com.
 kiprun.cm.		3600	IN	NS	ns-79-b.gandi.net.
@@ -45945,8 +45947,8 @@ mairiedouala4.cm.	3600	IN	NS	ns1.camoogroup.com.
 mairiedouala4.cm.	3600	IN	NS	ns2.camoogroup.com.
 mairiedouala5eme.cm.	3600	IN	NS	kim.camnet.cm.
 mairiedouala5eme.cm.	3600	IN	NS	mbam.camnet.cm.
-mairies.cm.		3600	IN	NS	ns41.infomaniak.com.
-mairies.cm.		3600	IN	NS	ns42.infomaniak.com.
+mairies.cm.		3600	IN	NS	ns11.infomaniak.ch.
+mairies.cm.		3600	IN	NS	ns12.infomaniak.ch.
 mais.cm.		3600	IN	NS	ns6.netsto.net.
 mais.cm.		3600	IN	NS	ns7.netsto.net.
 maison.cm.		3600	IN	NS	ns1.camoogroup.com.
@@ -49695,10 +49697,10 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -50628,6 +50630,7 @@ nk-motors.cm.		3600	IN	NS	ns7.lwsdns.com.
 nk-motors.cm.		3600	IN	NS	ns8.lwsdns.com.
 nkapcall.cm.		3600	IN	NS	ns1.camoogroup.com.
 nkapcall.cm.		3600	IN	NS	ns2.camoogroup.com.
+nkapcall.cm.		3600	IN	NS	dash.nom-digital.cm.
 nkauto-services.cm.	3600	IN	NS	ns5.lwsdns.com.
 nkauto-services.cm.	3600	IN	NS	ns6.lwsdns.com.
 nkauto-services.cm.	3600	IN	NS	ns7.lwsdns.com.
@@ -56404,6 +56407,9 @@ quotidieneconews.cm.	3600	IN	NS	dns1.supremedns.com.
 quotidieneconews.cm.	3600	IN	NS	dns2.supremedns.com.
 quotidieneconews.cm.	3600	IN	NS	dns3.supremedns.com.
 quotidieneconews.cm.	3600	IN	NS	dns4.supremedns.com.
+quotidienmutations.cm.	3600	IN	NS	ns1.regery.net.
+quotidienmutations.cm.	3600	IN	NS	ns2.regery.net.
+quotidienmutations.cm.	3600	IN	NS	ns3.regery.net.
 quran.cm.		3600	IN	NS	1665.ns1.above.com.
 quran.cm.		3600	IN	NS	1665.ns2.above.com.
 quty.cm.		3600	IN	NS	ns1.alidns.com.
@@ -63067,10 +63073,6 @@ symbicort.cm.		3600	IN	NS	dns3.comlaude-dns.co.uk.
 symbicort.cm.		3600	IN	NS	dns4.comlaude-dns.eu.
 symbolab.cm.		3600	IN	NS	ns1.parkingcrew.net.
 symbolab.cm.		3600	IN	NS	ns2.parkingcrew.net.
-symcare.cm.		3600	IN	NS	dns1.p01.nsone.net.
-symcare.cm.		3600	IN	NS	dns2.p01.nsone.net.
-symcare.cm.		3600	IN	NS	ns01.jnjdns.com.
-symcare.cm.		3600	IN	NS	ns02.jnjdns.com.
 sympl.cm.		3600	IN	NS	ns-9.awsdns-01.com.
 sympl.cm.		3600	IN	NS	ns-611.awsdns-12.net.
 sympl.cm.		3600	IN	NS	ns-1095.awsdns-08.org.
@@ -64880,8 +64882,8 @@ toryburch.cm.		3600	IN	NS	ns1.bodis.com.
 toryburch.cm.		3600	IN	NS	ns2.bodis.com.
 torysport.cm.		3600	IN	NS	udns1.cscdns.net.
 torysport.cm.		3600	IN	NS	udns2.cscdns.uk.
-toscanisoft.cm.		3600	IN	NS	ns0.thundercloud.uk.
-toscanisoft.cm.		3600	IN	NS	ns1.thundercloud.uk.
+toscanisoft.cm.		3600	IN	NS	ns1.vercel-dns.com.
+toscanisoft.cm.		3600	IN	NS	ns2.vercel-dns.com.
 toshiba.cm.		3600	IN	NS	ns1.toshiba-europe.com.
 toshiba.cm.		3600	IN	NS	ns2.toshiba-europe.com.
 toshiba.cm.		3600	IN	NS	ns3.toshiba-europe.com.
@@ -66559,8 +66561,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -72769,4 +72771,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032813 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032818 600 300 1209600 3600
