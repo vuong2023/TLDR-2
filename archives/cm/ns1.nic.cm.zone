@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032812 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743163529"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032814 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743170730"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -21478,8 +21478,6 @@ bostonproper.cm.	3600	IN	NS	ns3.abovedomains.com.
 bostonproper.cm.	3600	IN	NS	ns4.abovedomains.com.
 bot.cm.			3600	IN	NS	ns1.parkingcrew.net.
 bot.cm.			3600	IN	NS	ns2.parkingcrew.net.
-boti.cm.		3600	IN	NS	dns1.registrar-servers.com.
-boti.cm.		3600	IN	NS	dns2.registrar-servers.com.
 bots.cm.		3600	IN	NS	ns1.parkingcrew.net.
 bots.cm.		3600	IN	NS	ns2.parkingcrew.net.
 bottegaveneta.cm.	3600	IN	NS	dns1.comlaude-dns.com.
@@ -35591,6 +35589,9 @@ gmfinance.cm.		3600	IN	NS	ns1.camoogroup.com.
 gmfinance.cm.		3600	IN	NS	ns2.camoogroup.com.
 gmfinancial.cm.		3600	IN	NS	ns3.abovedomains.com.
 gmfinancial.cm.		3600	IN	NS	ns4.abovedomains.com.
+gmg.cm.			3600	IN	NS	ns1.regery.net.
+gmg.cm.			3600	IN	NS	ns2.regery.net.
+gmg.cm.			3600	IN	NS	ns3.regery.net.
 gmial.cm.		3600	IN	NS	dns101.registrar-servers.com.
 gmial.cm.		3600	IN	NS	dns102.registrar-servers.com.
 gmil.cm.		3600	IN	NS	ns1.bodis.com.
@@ -38917,8 +38918,8 @@ hyvee.cm.		3600	IN	NS	ns3.abovedomains.com.
 hyvee.cm.		3600	IN	NS	ns4.abovedomains.com.
 hyy7.cm.		3600	IN	NS	vicente.ns.cloudflare.com.
 hyy7.cm.		3600	IN	NS	anastasia.ns.cloudflare.com.
-hyylc.cm.		3600	IN	NS	ns1.netsto.net.
-hyylc.cm.		3600	IN	NS	ns2.netsto.net.
+hyylc.cm.		3600	IN	NS	rose.ns.cloudflare.com.
+hyylc.cm.		3600	IN	NS	everton.ns.cloudflare.com.
 hz.cm.			3600	IN	NS	ns1.netsto.net.
 hz.cm.			3600	IN	NS	ns2.netsto.net.
 hzb.cm.			3600	IN	NS	ns1.netsto.net.
@@ -56406,6 +56407,9 @@ quotidieneconews.cm.	3600	IN	NS	dns1.supremedns.com.
 quotidieneconews.cm.	3600	IN	NS	dns2.supremedns.com.
 quotidieneconews.cm.	3600	IN	NS	dns3.supremedns.com.
 quotidieneconews.cm.	3600	IN	NS	dns4.supremedns.com.
+quotidienmutations.cm.	3600	IN	NS	ns1.regery.net.
+quotidienmutations.cm.	3600	IN	NS	ns2.regery.net.
+quotidienmutations.cm.	3600	IN	NS	ns3.regery.net.
 quran.cm.		3600	IN	NS	1665.ns1.above.com.
 quran.cm.		3600	IN	NS	1665.ns2.above.com.
 quty.cm.		3600	IN	NS	ns1.alidns.com.
@@ -70570,8 +70574,8 @@ xhs.cm.			3600	IN	NS	claude.dnspod.net.
 xhs.cm.			3600	IN	NS	pomfret.dnspod.net.
 xhtd.cm.		3600	IN	NS	ns1.dns.com.
 xhtd.cm.		3600	IN	NS	ns2.dns.com.
-xhyl.cm.		3600	IN	NS	ns1.netsto.net.
-xhyl.cm.		3600	IN	NS	ns2.netsto.net.
+xhyl.cm.		3600	IN	NS	rose.ns.cloudflare.com.
+xhyl.cm.		3600	IN	NS	everton.ns.cloudflare.com.
 xi.cm.			3600	IN	NS	ns1.4.cn.
 xi.cm.			3600	IN	NS	ns2.4.cn.
 xia.cm.			3600	IN	NS	cory.ns.cloudflare.com.
@@ -72771,4 +72775,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032812 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032814 600 300 1209600 3600
