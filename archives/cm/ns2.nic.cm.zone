@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032912 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743249632"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032919 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743274822"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -26243,8 +26243,6 @@ conseilregional.cm.	3600	IN	NS	dns2.lws-hosting.com.
 conseilregional.cm.	3600	IN	NS	vps108644.serveur-vps.net.
 conseilregionaladamaoua.cm. 3600 IN	NS	ns1.cloud139466.mywhc.ca.
 conseilregionaladamaoua.cm. 3600 IN	NS	ns2.cloud139466.mywhc.ca.
-conseilregionalest.cm.	3600	IN	NS	ns1.camoogroup.com.
-conseilregionalest.cm.	3600	IN	NS	ns2.camoogroup.com.
 conseilregionallittoral.cm. 3600 IN	NS	ns1.camoogroup.com.
 conseilregionallittoral.cm. 3600 IN	NS	ns2.camoogroup.com.
 conseilregionalouest.cm. 3600	IN	NS	ns1.camoogroup.com.
@@ -38891,8 +38889,8 @@ i1.cm.			3600	IN	NS	ns6.netsto.net.
 i1.cm.			3600	IN	NS	ns7.netsto.net.
 i18.cm.			3600	IN	NS	ns6.netsto.net.
 i18.cm.			3600	IN	NS	ns7.netsto.net.
-i2.cm.			3600	IN	NS	autumn.ns.cloudflare.com.
-i2.cm.			3600	IN	NS	carter.ns.cloudflare.com.
+i2.cm.			3600	IN	NS	ns1.netsto.net.
+i2.cm.			3600	IN	NS	ns2.netsto.net.
 i3.cm.			3600	IN	NS	ns6.netsto.net.
 i3.cm.			3600	IN	NS	ns7.netsto.net.
 i365.cm.		3600	IN	NS	ns1.netsto.net.
@@ -44049,6 +44047,8 @@ lebes.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 leboncandidat.cm.	3600	IN	NS	ns1.netim.net.
 leboncandidat.cm.	3600	IN	NS	ns2.netim.net.
 leboncandidat.cm.	3600	IN	NS	ns3.netim.net.
+lebonplan.cm.		3600	IN	NS	ns1.camoogroup.com.
+lebonplan.cm.		3600	IN	NS	ns2.camoogroup.com.
 lebricoleur.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 lebricoleur.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 lecafeebene.cm.		3600	IN	NS	kim.camnet.cm.
@@ -49654,8 +49654,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -51309,8 +51309,6 @@ oculusvr.cm.		3600	IN	NS	ns1.lovellsnames.org.
 oculusvr.cm.		3600	IN	NS	ns2.lovellsnames.org.
 oculusvr.cm.		3600	IN	NS	ns3.lovellsnames.org.
 oculusvr.cm.		3600	IN	NS	ns4.lovellsnames.org.
-ocurate.cm.		3600	IN	NS	dns101.registrar-servers.com.
-ocurate.cm.		3600	IN	NS	dns102.registrar-servers.com.
 od.cm.			3600	IN	NS	ns1.netsto.net.
 od.cm.			3600	IN	NS	ns2.netsto.net.
 od666.cm.		3600	IN	NS	ns1.netsto.net.
@@ -51700,6 +51698,8 @@ oneclick8.cm.		3600	IN	NS	ns6.netsto.net.
 oneclick8.cm.		3600	IN	NS	ns7.netsto.net.
 oneclick88.cm.		3600	IN	NS	ns6.netsto.net.
 oneclick88.cm.		3600	IN	NS	ns7.netsto.net.
+oneclickcomply.cm.	3600	IN	NS	dns1.registrar-servers.com.
+oneclickcomply.cm.	3600	IN	NS	dns2.registrar-servers.com.
 onecountry.cm.		3600	IN	NS	ns1.parkingcrew.net.
 onecountry.cm.		3600	IN	NS	ns2.parkingcrew.net.
 onedayacuvue.cm.	3600	IN	NS	dns1.p01.nsone.net.
@@ -64815,8 +64815,8 @@ toryburch.cm.		3600	IN	NS	ns1.bodis.com.
 toryburch.cm.		3600	IN	NS	ns2.bodis.com.
 torysport.cm.		3600	IN	NS	udns1.cscdns.net.
 torysport.cm.		3600	IN	NS	udns2.cscdns.uk.
-toscanisoft.cm.		3600	IN	NS	ns1.vercel-dns.com.
-toscanisoft.cm.		3600	IN	NS	ns2.vercel-dns.com.
+toscanisoft.cm.		3600	IN	NS	ns0.thundercloud.uk.
+toscanisoft.cm.		3600	IN	NS	ns1.thundercloud.uk.
 toshiba.cm.		3600	IN	NS	ns1.toshiba-europe.com.
 toshiba.cm.		3600	IN	NS	ns2.toshiba-europe.com.
 toshiba.cm.		3600	IN	NS	ns3.toshiba-europe.com.
@@ -72692,4 +72692,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032912 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032919 600 300 1209600 3600
