@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032922 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743285623"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025033006 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743314730"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -30449,6 +30449,10 @@ edreams.cm.		3600	IN	NS	ns1.parkingcrew.net.
 edreams.cm.		3600	IN	NS	ns2.parkingcrew.net.
 edu.cm.			3600	IN	NS	ns1.nic.cm.
 edu.cm.			3600	IN	NS	ns2.nic.cm.
+educ.cm.		3600	IN	NS	ns1.dnshostservices.com.
+educ.cm.		3600	IN	NS	ns2.dnshostservices.com.
+educ.cm.		3600	IN	NS	ns3.dnshostservices.com.
+educ.cm.		3600	IN	NS	ns4.dnshostservices.com.
 eduram.cm.		3600	IN	NS	ns1045.ui-dns.de.
 eduram.cm.		3600	IN	NS	ns1045.ui-dns.biz.
 eduram.cm.		3600	IN	NS	ns1045.ui-dns.com.
@@ -38965,6 +38969,8 @@ ibishotel.cm.		3600	IN	NS	ns1.netnames.net.
 ibishotel.cm.		3600	IN	NS	ns2.netnames.net.
 ibishotel.cm.		3600	IN	NS	ns5.netnames.net.
 ibishotel.cm.		3600	IN	NS	ns6.netnames.net.
+iblog.cm.		3600	IN	NS	ns1.dns-parking.com.
+iblog.cm.		3600	IN	NS	ns2.dns-parking.com.
 ibm.cm.			3600	IN	NS	ns1.hastydns.com.
 ibm.cm.			3600	IN	NS	ns2.hastydns.com.
 ibmconcert.cm.		3600	IN	NS	dns1.p05.nsone.net.
@@ -49644,8 +49650,8 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
+ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
@@ -54017,8 +54023,6 @@ pinkberry.cm.		3600	IN	NS	ns02.trademarkarea.com.
 pinkberry.cm.		3600	IN	NS	ns03.trademarkarea.com.
 pinkbike.cm.		3600	IN	NS	ns3.abovedomains.com.
 pinkbike.cm.		3600	IN	NS	ns4.abovedomains.com.
-pinksale.cm.		3600	IN	NS	elisa.ns.cloudflare.com.
-pinksale.cm.		3600	IN	NS	cosmin.ns.cloudflare.com.
 pinksalefinance.cm.	3600	IN	NS	elisa.ns.cloudflare.com.
 pinksalefinance.cm.	3600	IN	NS	cosmin.ns.cloudflare.com.
 pinktogether.cm.	3600	IN	NS	jfbextdns1.genmills.com.
@@ -67485,12 +67489,6 @@ vialto.cm.		3600	IN	NS	ns1.markmonitor.com.
 vialto.cm.		3600	IN	NS	ns2.markmonitor.com.
 vialtopartners.cm.	3600	IN	NS	ns1.markmonitor.com.
 vialtopartners.cm.	3600	IN	NS	ns2.markmonitor.com.
-viaplay.cm.		3600	IN	NS	ns1.zaccodns.com.
-viaplay.cm.		3600	IN	NS	ns2.zaccodns.se.
-viaplay.cm.		3600	IN	NS	dns1.zaccodigitaltrustlabs.com.
-viaplay.cm.		3600	IN	NS	dns2.zaccodigitaltrustlabs.net.
-viaplay.cm.		3600	IN	NS	dns3.zaccodigitaltrustlabs.se.
-viaplay.cm.		3600	IN	NS	dns4.zaccodigitaltrustlabs.se.
 viator.cm.		3600	IN	NS	ns1.bodis.com.
 viator.cm.		3600	IN	NS	ns2.bodis.com.
 viatris.cm.		3600	IN	NS	ns-176.awsdns-22.com.
@@ -72684,4 +72682,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025032922 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025033006 600 300 1209600 3600
