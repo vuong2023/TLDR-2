@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025033010 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743329133"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025033014 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743343519"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -1144,8 +1144,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 1004116.cm.		3600	IN	NS	ns2.alidns.com.
 1005.cm.		3600	IN	NS	rs1.hostcab.com.
 1005.cm.		3600	IN	NS	rs2.hostcab.com.
-1006.cm.		3600	IN	NS	ns1.dns.com.
-1006.cm.		3600	IN	NS	ns2.dns.com.
+1006.cm.		3600	IN	NS	ns1.dnsip.com.
+1006.cm.		3600	IN	NS	ns2.dnsip.com.
 1007.cm.		3600	IN	NS	guy.ns.cloudflare.com.
 1007.cm.		3600	IN	NS	jasmine.ns.cloudflare.com.
 1008.cm.		3600	IN	NS	guy.ns.cloudflare.com.
@@ -12285,8 +12285,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 888hb.cm.		3600	IN	NS	ns2.dnsip.com.
 888hd.cm.		3600	IN	NS	asa.ns.cloudflare.com.
 888hd.cm.		3600	IN	NS	marty.ns.cloudflare.com.
-888pc.cm.		3600	IN	NS	ns1.1-api.org.
-888pc.cm.		3600	IN	NS	ns2.1-api.org.
 888poker.cm.		3600	IN	NS	dns1.idp365.net.
 888poker.cm.		3600	IN	NS	dns2.idp365.net.
 888poker.cm.		3600	IN	NS	dns3.idp365.net.
@@ -38160,8 +38158,8 @@ hongtu.cm.		3600	IN	NS	ns6.netsto.net.
 hongtu.cm.		3600	IN	NS	ns7.netsto.net.
 hongxiu.cm.		3600	IN	NS	ns1.netsto.net.
 hongxiu.cm.		3600	IN	NS	ns2.netsto.net.
-honor.cm.		3600	IN	NS	ns1.netsto.net.
-honor.cm.		3600	IN	NS	ns2.netsto.net.
+honor.cm.		3600	IN	NS	zod.ns.cloudflare.com.
+honor.cm.		3600	IN	NS	amanda.ns.cloudflare.com.
 honorablemoustaphasaya.cm. 3600	IN	NS	ns1.dnspanel.com.
 honorablemoustaphasaya.cm. 3600	IN	NS	ns2.dnspanel.com.
 honoris.cm.		3600	IN	NS	ns-57-b.gandi.net.
@@ -49650,10 +49648,10 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -52236,8 +52234,6 @@ oros.cm.		3600	IN	NS	dns1.p01.nsone.net.
 oros.cm.		3600	IN	NS	dns2.p01.nsone.net.
 oros.cm.		3600	IN	NS	ns01.jnjdns.com.
 oros.cm.		3600	IN	NS	ns02.jnjdns.com.
-orphelinatislamiquedouala.cm. 3600 IN	NS	ns1.camoogroup.com.
-orphelinatislamiquedouala.cm. 3600 IN	NS	ns2.camoogroup.com.
 orsys.cm.		3600	IN	NS	ns1.netim.net.
 orsys.cm.		3600	IN	NS	ns2.netim.net.
 orsys.cm.		3600	IN	NS	ns3.netim.net.
@@ -55065,9 +55061,6 @@ primemusic.cm.		3600	IN	NS	nssui.comlaude.ch.
 primemusic.cm.		3600	IN	NS	nsusa.comlaude.net.
 primenow.cm.		3600	IN	NS	1665.ns1.above.com.
 primenow.cm.		3600	IN	NS	1665.ns2.above.com.
-primera.cm.		3600	IN	NS	ns1.digitalocean.com.
-primera.cm.		3600	IN	NS	ns2.digitalocean.com.
-primera.cm.		3600	IN	NS	ns3.digitalocean.com.
 primeres.cm.		3600	IN	NS	ns1.abovedomains.com.
 primeres.cm.		3600	IN	NS	ns2.abovedomains.com.
 primes.cm.		3600	IN	NS	ns51.domaincontrol.com.
@@ -72682,4 +72675,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025033010 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025033014 600 300 1209600 3600
