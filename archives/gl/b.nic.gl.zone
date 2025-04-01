@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161676 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. ASSE3ST16YYjRCD7wuktf+Qe5uEci8VV/8Akup4C1SlwDntd1hnB60Oy 0u7MhS18IIjZ4mn4g9GZY0Kokj7V4ioZ1qCvYrJB/D9BwBYaXygeUSpb a5tkHWNoPmh/+S+lZFN/B3mlHYC2vkgMnxrVrikW5VAmg24L0bYuRaml 3t1cRB/YBejta+yzGDHnSajELsrezSQCGQcgnA6d/DapEcjr3D3U7yo+ 6d/8PGc0dF5cOCr3AHD9AYEpwuazIs9Ynn+02c0jbZTR6U0EkUs3aHvJ Yy1E+TmnGmEJ6a3bH0FG/Xc5cdAR5nHaaET8li0I/V68kR2e28PCil60 Ec1E6g==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161693 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. FFqM5UFXzmRqHPKGviLqo5glW6nO2A8SjO/wIcpF6HBw+TrGC+LkfENo VpwHKbdzMXVxFMg1GfZsiq5U660q+AQP3JldJvB4VDoqDA+zo6VicsiD 2WLw1mjvfwY9D3X/CEgkCBt/mCXu+1pwaPQwejUlNj2AZcCVc0D2srjd P/ndnfhDVNlpi20t7g2N/L6jSfeBWU7fXR+eFnGQx6H1+lKtQZGiNl6j arkqFKZo+/4j2DV0YeguK6E/cAp8XgwSOGKoAxfI2JXNulbJJFI5rKf9 vkAscA0G+ABh6qUKL7dEl1vKyIsWrsMT60h6zGZryPEHESTtoo/0rDM5 7qx35g==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -263,6 +263,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250428120000 20250207120000 57390 gl. DvnEDn
 363636.gl.		3600	IN	NS	ns02.one.com.
 36485.gl.		3600	IN	NS	ns1.netsto.net.
 36485.gl.		3600	IN	NS	ns2.netsto.net.
+365.gl.			3600	IN	NS	a6.share-dns.com.
+365.gl.			3600	IN	NS	b6.share-dns.net.
 37.gl.			3600	IN	NS	ns1.registry-server.com.
 37.gl.			3600	IN	NS	ns2.registry-server.com.
 3bs.gl.			3600	IN	NS	bjorn.ns.cloudflare.com.
@@ -4834,8 +4836,6 @@ dq.gl.			3600	IN	NS	jaziel.ns.cloudflare.com.
 dq.gl.			3600	IN	NS	cecelia.ns.cloudflare.com.
 dr.gl.			3600	IN	NS	max.ns.cloudflare.com.
 dr.gl.			3600	IN	NS	beth.ns.cloudflare.com.
-draw.gl.		3600	IN	NS	ns1.101domain.com.
-draw.gl.		3600	IN	NS	ns2.101domain.com.
 dreigestirn.gl.		3600	IN	NS	a.hosting.gl.
 dreigestirn.gl.		3600	IN	NS	b.hosting.gl.
 dreigestirn.gl.		3600	IN	NS	c.hosting.gl.
@@ -15332,8 +15332,8 @@ pascucci.gl.		3600	IN	DS	6277 13 4 7C28651E618708427F68CC3EC5BAB5B45799644522CFE
 pascucci.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. jTS+LMAkNpL2hS13zQW9zNFlOXcegRiKzp/LFl+RnJ3EfiZgPiH4Og7j ATY0+xlAycHda9VqogSShHFP06+ajZPnuTr2Wo0yMGxpkCgFnqHyeq5v s7vBZwuvZk/laQnsJuj2kWKnvAidwyEVaZGsBazJx7yQQbrLQL2ohFmR b20nXPSPp8tHLi56Sd+XrrEnnpYhSrb/xQRV6c+nr2J0mqq7rnHY5Ayi aDkg49lgNO/ftvWOCDHwOZplkNlERAGKoXeXRs8avjMaeRZktHKCa+/w cjDm0T20oYQjNEyezqgeMUWIO84CHdjCTWG9haQDAlzK5b6JR1UwrYKU EunBuw==
 patrickstash.gl.	3600	IN	NS	wren.ns.cloudflare.com.
 patrickstash.gl.	3600	IN	NS	jacob.ns.cloudflare.com.
-pay.gl.			3600	IN	NS	ns1.domain.io.
-pay.gl.			3600	IN	NS	ns2.domain.io.
+pay.gl.			3600	IN	NS	ns1.sudos.co.
+pay.gl.			3600	IN	NS	ns2.sudos.co.
 payc.gl.		3600	IN	NS	javier.ns.cloudflare.com.
 payc.gl.		3600	IN	NS	rachel.ns.cloudflare.com.
 paydaycasino.gl.	3600	IN	NS	dns1.idp365.net.
@@ -20504,12 +20504,6 @@ vialto.gl.		3600	IN	NS	ns1.markmonitor.com.
 vialto.gl.		3600	IN	NS	ns2.markmonitor.com.
 vialtopartners.gl.	3600	IN	NS	ns1.markmonitor.com.
 vialtopartners.gl.	3600	IN	NS	ns2.markmonitor.com.
-viaplay.gl.		3600	IN	NS	ns1.zaccodns.com.
-viaplay.gl.		3600	IN	NS	ns2.zaccodns.se.
-viaplay.gl.		3600	IN	NS	dns1.zaccodigitaltrustlabs.com.
-viaplay.gl.		3600	IN	NS	dns2.zaccodigitaltrustlabs.net.
-viaplay.gl.		3600	IN	NS	dns3.zaccodigitaltrustlabs.se.
-viaplay.gl.		3600	IN	NS	dns4.zaccodigitaltrustlabs.se.
 video.gl.		3600	IN	NS	a.ns.tusass.gl.
 video.gl.		3600	IN	NS	b.ns.tusass.gl.
 videoc.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
@@ -23117,4 +23111,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161676 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161693 900 1800 6048000 3600
