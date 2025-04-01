@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1743516301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1743545101 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -2961,6 +2961,8 @@ massimodutti.mw.	18000	IN	NS	dns3.p03.nsone.net.
 massimodutti.mw.	18000	IN	NS	dns4.p03.nsone.net.
 mastercard.mw.		18000	IN	NS	dns1.cscdns.net.
 mastercard.mw.		18000	IN	NS	dns2.cscdns.net.
+matikiti.mw.		18000	IN	NS	ns1663.websitewelcome.com.
+matikiti.mw.		18000	IN	NS	ns1664.websitewelcome.com.
 matt.mw.		18000	IN	NS	ns1.dreamhost.com.
 matt.mw.		18000	IN	NS	ns2.dreamhost.com.
 matt.mw.		18000	IN	NS	ns3.dreamhost.com.
@@ -4165,8 +4167,10 @@ rightnowclimatefund.mw.	18000	IN	NS	nsusa.comlaude.net.
 rislone.mw.		18000	IN	NS	ns1.instradns.com.
 rislone.mw.		18000	IN	NS	ns2.instradns.com.
 rislone.mw.		18000	IN	NS	ns3.instradns.com.
-ritchielist.mw.		18000	IN	NS	ns1.101domain.com.
-ritchielist.mw.		18000	IN	NS	ns2.101domain.com.
+ritchielist.mw.		18000	IN	NS	ns-1449.awsdns-53.org.
+ritchielist.mw.		18000	IN	NS	ns-2044.awsdns-63.co.uk.
+ritchielist.mw.		18000	IN	NS	ns-356.awsdns-44.com.
+ritchielist.mw.		18000	IN	NS	ns-792.awsdns-35.net.
 rmb.mw.			18000	IN	NS	ns1.lexsynergy.net.
 rmb.mw.			18000	IN	NS	ns2.lexsynergy.us.
 rmb.mw.			18000	IN	NS	ns3.lexsynergy.info.
@@ -5290,4 +5294,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1743516301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1743545101 1800 600 604800 1800
