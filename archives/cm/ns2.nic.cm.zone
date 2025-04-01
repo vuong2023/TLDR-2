@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040115 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743519924"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040119 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743534327"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -14968,8 +14968,6 @@ afripharma.cm.		3600	IN	NS	ns1.camoogroup.com.
 afripharma.cm.		3600	IN	NS	ns2.camoogroup.com.
 afriprint.cm.		3600	IN	NS	ns.adac.cm.
 afriprint.cm.		3600	IN	NS	ns1.adac.cm.
-afrogeek.cm.		3600	IN	NS	ns1.camoogroup.com.
-afrogeek.cm.		3600	IN	NS	ns2.camoogroup.com.
 afropari.cm.		3600	IN	NS	edns7.ultradns.biz.
 afropari.cm.		3600	IN	NS	edns7.ultradns.com.
 afropari.cm.		3600	IN	NS	edns7.ultradns.net.
@@ -18952,8 +18950,6 @@ bch.cm.			3600	IN	NS	ns2.parkingcrew.net.
 bchafrica.cm.		3600	IN	NS	nsa.n0c.com.
 bchafrica.cm.		3600	IN	NS	nsb.n0c.com.
 bchafrica.cm.		3600	IN	NS	nsc.n0c.com.
-bclb.cm.		3600	IN	NS	ns3.owlhost.net.
-bclb.cm.		3600	IN	NS	ns4.owlhost.net.
 bcllub.cm.		3600	IN	NS	ns3.my-ndns.com.
 bcllub.cm.		3600	IN	NS	ns4.my-ndns.com.
 bclob.cm.		3600	IN	NS	hazel.ns.cloudflare.com.
@@ -25626,6 +25622,8 @@ codec.cm.		3600	IN	NS	ns1.stackdns.com.
 codec.cm.		3600	IN	NS	ns2.stackdns.com.
 codecademy.cm.		3600	IN	NS	ns1.adtraks.com.
 codecademy.cm.		3600	IN	NS	ns2.adtraks.com.
+codecimmobiliercameroun.cm. 3600 IN	NS	nsy.prosygma-cm.com.
+codecimmobiliercameroun.cm. 3600 IN	NS	ns24.prosygma-cm.com.
 codeko.cm.		3600	IN	NS	dns1.supremedns.com.
 codeko.cm.		3600	IN	NS	dns2.supremedns.com.
 codeko.cm.		3600	IN	NS	dns3.supremedns.com.
@@ -29613,6 +29611,8 @@ duba.cm.		3600	IN	NS	ns1.netsto.net.
 duba.cm.		3600	IN	NS	ns2.netsto.net.
 dubai.cm.		3600	IN	NS	ns1.parkingcrew.net.
 dubai.cm.		3600	IN	NS	ns2.parkingcrew.net.
+dubaishop.cm.		3600	IN	NS	ns1.camoogroup.com.
+dubaishop.cm.		3600	IN	NS	ns2.camoogroup.com.
 dubli.cm.		3600	IN	NS	dns1.onamae.com.
 dubli.cm.		3600	IN	NS	dns2.onamae.com.
 dubo.cm.		3600	IN	NS	dns1.name-services.com.
@@ -37809,12 +37809,6 @@ hmmove.cm.		3600	IN	NS	a1-139.akam.net.
 hmmove.cm.		3600	IN	NS	a11-66.akam.net.
 hmmove.cm.		3600	IN	NS	a12-67.akam.net.
 hmmove.cm.		3600	IN	NS	a28-64.akam.net.
-hmrewear.cm.		3600	IN	NS	a5-65.akam.net.
-hmrewear.cm.		3600	IN	NS	a8-66.akam.net.
-hmrewear.cm.		3600	IN	NS	a1-139.akam.net.
-hmrewear.cm.		3600	IN	NS	a11-66.akam.net.
-hmrewear.cm.		3600	IN	NS	a12-67.akam.net.
-hmrewear.cm.		3600	IN	NS	a28-64.akam.net.
 hmsa.cm.		3600	IN	NS	ns1.abovedomains.com.
 hmsa.cm.		3600	IN	NS	ns2.abovedomains.com.
 hmv.cm.			3600	IN	NS	ns0.phase8.net.
@@ -41701,8 +41695,6 @@ julan.cm.		3600	IN	NS	dns3.supremedns.com.
 julan.cm.		3600	IN	NS	dns4.supremedns.com.
 julesjordan.cm.		3600	IN	NS	ns3.abovedomains.com.
 julesjordan.cm.		3600	IN	NS	ns4.abovedomains.com.
-julieetleotravels.cm.	3600	IN	NS	ns1.camoogroup.com.
-julieetleotravels.cm.	3600	IN	NS	ns2.camoogroup.com.
 julu.cm.		3600	IN	NS	ns1.parkingcrew.net.
 julu.cm.		3600	IN	NS	ns2.parkingcrew.net.
 jumall.cm.		3600	IN	NS	abby.ns.cloudflare.com.
@@ -66344,8 +66336,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -72528,4 +72520,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040115 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040119 600 300 1209600 3600
