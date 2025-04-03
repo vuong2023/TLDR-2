@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040302 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743645934"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040307 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743663922"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -14277,6 +14277,8 @@ abt.cm.			3600	IN	NS	dns3.p03.nsone.net.
 abt.cm.			3600	IN	NS	ns01.icsn.com.
 abt.cm.			3600	IN	NS	ns02.icsn.com.
 abt.cm.			3600	IN	NS	ns03.icsn.com.
+abtc.cm.		3600	IN	NS	ns1.dn.com.
+abtc.cm.		3600	IN	NS	ns2.dn.com.
 abtelectronics.cm.	3600	IN	NS	ns1.adtraks.com.
 abtelectronics.cm.	3600	IN	NS	ns2.adtraks.com.
 abuc.cm.		3600	IN	NS	ns1.a2hosting.com.
@@ -30645,8 +30647,8 @@ elconfidencial.cm.	3600	IN	NS	ns1.hastydns.com.
 elconfidencial.cm.	3600	IN	NS	ns2.hastydns.com.
 eldorado.cm.		3600	IN	NS	tina.ns.cloudflare.com.
 eldorado.cm.		3600	IN	NS	alfred.ns.cloudflare.com.
-ele.cm.			3600	IN	NS	ns1.netsto.net.
-ele.cm.			3600	IN	NS	ns2.netsto.net.
+ele.cm.			3600	IN	NS	dalary.ns.cloudflare.com.
+ele.cm.			3600	IN	NS	elliott.ns.cloudflare.com.
 elearning.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 elearning.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 elearning.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -39170,8 +39172,8 @@ iiii.cm.		3600	IN	NS	ns1.netsto.net.
 iiii.cm.		3600	IN	NS	ns2.netsto.net.
 iipl.cm.		3600	IN	NS	ns6.netsto.net.
 iipl.cm.		3600	IN	NS	ns7.netsto.net.
-iis.cm.			3600	IN	NS	venkat.ns.cloudflare.com.
-iis.cm.			3600	IN	NS	magdalena.ns.cloudflare.com.
+iis.cm.			3600	IN	NS	quincy.ns.cloudflare.com.
+iis.cm.			3600	IN	NS	jasmine.ns.cloudflare.com.
 ij.cm.			3600	IN	NS	ns1.parkingcrew.net.
 ij.cm.			3600	IN	NS	ns2.parkingcrew.net.
 ik.cm.			3600	IN	NS	dns1.registrar-servers.com.
@@ -60382,7 +60384,9 @@ skittles.cm.		3600	IN	NS	ns-758.awsdns-30.net.
 skittles.cm.		3600	IN	NS	ns-1314.awsdns-36.org.
 skittles.cm.		3600	IN	NS	ns-1566.awsdns-03.co.uk.
 skm.cm.			3600	IN	NS	ns1.obambu.com.
+skm.cm.			3600	IN	NS	ns1.bluehost.com.
 skm.cm.			3600	IN	NS	ns2.obambu.com.
+skm.cm.			3600	IN	NS	ns2.bluehost.com.
 skoda.cm.		3600	IN	NS	isp2.viapraga.cz.
 skoda.cm.		3600	IN	NS	skoda2.skoda-auto.cz.
 skoda.cm.		3600	IN	NS	skoda3.skoda-auto.cz.
@@ -72523,4 +72527,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040302 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040307 600 300 1209600 3600
