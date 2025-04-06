@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040616 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743955236"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040617 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743958820"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -50687,8 +50687,8 @@ nsimalen.cm.		3600	IN	NS	ns38a.haisoft.net.
 nsimalen.cm.		3600	IN	NS	ns38b.haisoft.net.
 nsoroyalpalace.cm.	3600	IN	NS	ns1.mtnbusiness.cm.
 nsoroyalpalace.cm.	3600	IN	NS	ns2.mtnbusiness.cm.
-nssbm.cm.		3600	IN	NS	ullis.ns.cloudflare.com.
-nssbm.cm.		3600	IN	NS	anderson.ns.cloudflare.com.
+nssbm.cm.		3600	IN	NS	ns1.netsto.net.
+nssbm.cm.		3600	IN	NS	ns2.netsto.net.
 nsv9.cm.		3600	IN	NS	ns6.netsto.net.
 nsv9.cm.		3600	IN	NS	ns7.netsto.net.
 nt.cm.			3600	IN	NS	ns1.parkingcrew.net.
@@ -68319,8 +68319,8 @@ wbmason.cm.		3600	IN	NS	ns11.abovedomains.com.
 wbmason.cm.		3600	IN	NS	ns12.abovedomains.com.
 wbotcm.cm.		3600	IN	NS	ns1.netsto.net.
 wbotcm.cm.		3600	IN	NS	ns2.netsto.net.
-wbssb.cm.		3600	IN	NS	ullis.ns.cloudflare.com.
-wbssb.cm.		3600	IN	NS	anderson.ns.cloudflare.com.
+wbssb.cm.		3600	IN	NS	ns1.netsto.net.
+wbssb.cm.		3600	IN	NS	ns2.netsto.net.
 wbtc.cm.		3600	IN	NS	ns1.parkingcrew.net.
 wbtc.cm.		3600	IN	NS	ns2.parkingcrew.net.
 wby.cm.			3600	IN	NS	ns1.dns.com.
@@ -72430,4 +72430,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040616 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040617 600 300 1209600 3600
