@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040719 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1744052723"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040722 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1744063526"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -18850,16 +18850,16 @@ bch.cm.			3600	IN	NS	ns2.parkingcrew.net.
 bchafrica.cm.		3600	IN	NS	nsa.n0c.com.
 bchafrica.cm.		3600	IN	NS	nsb.n0c.com.
 bchafrica.cm.		3600	IN	NS	nsc.n0c.com.
-bcllub.cm.		3600	IN	NS	ns3.my-ndns.com.
-bcllub.cm.		3600	IN	NS	ns4.my-ndns.com.
+bcllub.cm.		3600	IN	NS	drew.ns.cloudflare.com.
+bcllub.cm.		3600	IN	NS	piper.ns.cloudflare.com.
 bclob.cm.		3600	IN	NS	hazel.ns.cloudflare.com.
 bclob.cm.		3600	IN	NS	michael.ns.cloudflare.com.
 bclub.cm.		3600	IN	NS	ns1.ddos-guard.net.
 bclub.cm.		3600	IN	NS	ns2.ddos-guard.net.
 bclub-cm.cm.		3600	IN	NS	ns1.ultahost.com.
 bclub-cm.cm.		3600	IN	NS	ns2.ultahost.com.
-bclubb.cm.		3600	IN	NS	ns3.my-ndns.com.
-bclubb.cm.		3600	IN	NS	ns4.my-ndns.com.
+bclubb.cm.		3600	IN	NS	drew.ns.cloudflare.com.
+bclubb.cm.		3600	IN	NS	piper.ns.cloudflare.com.
 bclubc.cm.		3600	IN	NS	ns1.parkingcrew.net.
 bclubc.cm.		3600	IN	NS	ns2.parkingcrew.net.
 bclubcc.cm.		3600	IN	NS	ns1.parkingcrew.net.
@@ -21638,8 +21638,8 @@ briansclubz.cm.		3600	IN	NS	ns4.abovedomains.com.
 brianscluub.cm.		3600	IN	NS	ns1.onlydomains.com.
 brianscluub.cm.		3600	IN	NS	ns2.onlydomains.com.
 brianscluub.cm.		3600	IN	NS	ns3.onlydomains.com.
-brianscrab.cm.		3600	IN	NS	ns3.owlhost.net.
-brianscrab.cm.		3600	IN	NS	ns4.owlhost.net.
+brianscrab.cm.		3600	IN	NS	ns1.parkingcrew.net.
+brianscrab.cm.		3600	IN	NS	ns2.parkingcrew.net.
 brianscrabs.cm.		3600	IN	NS	keanu.ns.cloudflare.com.
 brianscrabs.cm.		3600	IN	NS	yolanda.ns.cloudflare.com.
 brianscreb.cm.		3600	IN	NS	a.dnspod.com.
@@ -25183,8 +25183,8 @@ clubpenguin.cm.		3600	IN	NS	ns1.hastydns.com.
 clubpenguin.cm.		3600	IN	NS	ns2.hastydns.com.
 clubrenaissance.cm.	3600	IN	NS	dns1.cscdns.net.
 clubrenaissance.cm.	3600	IN	NS	dns2.cscdns.net.
-clubv.cm.		3600	IN	NS	amos.ns.cloudflare.com.
-clubv.cm.		3600	IN	NS	walk.ns.cloudflare.com.
+clubv.cm.		3600	IN	NS	ns1.parkingcrew.net.
+clubv.cm.		3600	IN	NS	ns2.parkingcrew.net.
 clubvallee.cm.		3600	IN	NS	ns.adac.cm.
 clubvallee.cm.		3600	IN	NS	ns1.adac.cm.
 clubwpt.cm.		3600	IN	NS	ns1.ii50.parklogic.com.
@@ -27376,8 +27376,8 @@ dangdang.cm.		3600	IN	NS	freedns4.registrar-servers.com.
 dangdang.cm.		3600	IN	NS	freedns5.registrar-servers.com.
 dangwa.cm.		3600	IN	NS	ns0.thundercloud.uk.
 dangwa.cm.		3600	IN	NS	ns1.thundercloud.uk.
-daniel.cm.		3600	IN	NS	coco.bunny.net.
-daniel.cm.		3600	IN	NS	kiki.bunny.net.
+daniel.cm.		3600	IN	NS	ns1.desec.io.
+daniel.cm.		3600	IN	NS	ns2.desec.org.
 danielwellington.cm.	3600	IN	NS	ns-5-c.gandi.net.
 danielwellington.cm.	3600	IN	NS	ns-153-b.gandi.net.
 danielwellington.cm.	3600	IN	NS	ns-158-a.gandi.net.
@@ -72419,4 +72419,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040719 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040722 600 300 1209600 3600
