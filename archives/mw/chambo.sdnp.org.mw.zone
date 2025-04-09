@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1744178701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1744214701 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -3639,9 +3639,8 @@ nordin.mw.		18000	IN	NS	ns1.siteground.net.
 nordin.mw.		18000	IN	NS	ns2.siteground.net.
 norway.mw.		18000	IN	NS	eve.ns.cloudflare.com.
 norway.mw.		18000	IN	NS	sage.ns.cloudflare.com.
-norwegian.mw.		18000	IN	NS	ns1.netim.net.
-norwegian.mw.		18000	IN	NS	ns2.netim.net.
-norwegian.mw.		18000	IN	NS	ns3.netim.net.
+norwegian.mw.		18000	IN	NS	a.portsdns.se.
+norwegian.mw.		18000	IN	NS	b.portsdns.net.
 novartis.mw.		18000	IN	NS	dns1.novartis.com.
 novartis.mw.		18000	IN	NS	dns2.novartis.com.
 novartis.mw.		18000	IN	NS	dns3.novartis.com.
@@ -4201,6 +4200,8 @@ rolls-royce.mw.		18000	IN	NS	dns1.cscdns.net.
 rolls-royce.mw.		18000	IN	NS	dns2.cscdns.net.
 rollsroyce.mw.		18000	IN	NS	dns31.register.com.
 rollsroyce.mw.		18000	IN	NS	dns32.register.com.
+ropmw.mw.		18000	IN	NS	proxy2.africa-online.net.
+ropmw.mw.		18000	IN	NS	proxy3.africa-online.net.
 rsagroup.mw.		18000	IN	NS	dns1.cscdns.net.
 rsagroup.mw.		18000	IN	NS	dns2.cscdns.net.
 rtr.mw.			18000	IN	NS	ns0.internetmalawi.com.
@@ -5293,4 +5294,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1744178701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1744214701 1800 600 604800 1800
