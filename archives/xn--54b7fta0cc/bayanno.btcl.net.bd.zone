@@ -1,5 +1,5 @@
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025040922 120 3600 604800 10800
-xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20250509030756 20250409020756 15315 xn--54b7fta0cc. hsp7O0oE6f8/BbDBK0P8cS0dqOg5wOmHhrWIyUwEZjBkxVMbDqwndU4v GDNKTSw2Ta1B8ZbNhOcNOddGWp5gB5NiDx/VVZzryA9MSSC4wtZzwNSd Ym26UZst81GVSU6FiyM08BLMo7uTJpZdRsllb5DATOZbvJHoK59xg5Fz CaI=
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025040924 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20250509033842 20250409023842 15315 xn--54b7fta0cc. fj8+ZBMFsDlXJ35R8x3Mtb43FYLTjcTAkykRRLwWf1z8IxVag7ChqHVy YDbXWPYCulf8iEiY4f7f9oc4EzmFfCCS/N6TW2al4NlYkNpHyDJu2Y+k AprGc+qQ4/EOHrtdmpCQLtHx20j/YDWq4jlD2xV1dPF+zioWElO+ange Csg=
 xn--54b7fta0cc.		10800	IN	NS	ekushey.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	bd-ns.anycast.pch.net.
@@ -406,7 +406,7 @@ xn--94bc4ihk7f.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20250508074616 2025
 xn--94bc4ihk7f.xn--54b7fta0cc. 10800 IN	NSEC	xn--94bc6b2a6eubzbc3dbd2h.xn--54b7fta0cc. NS RRSIG NSEC
 xn--94bc4ihk7f.xn--54b7fta0cc. 10800 IN	NS	dns1.namecheaphosting.com.
 xn--94bc4ihk7f.xn--54b7fta0cc. 10800 IN	NS	dns2.namecheaphosting.com.
-xn--94bc6b2a6eubzbc3dbd2h.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20250416153842 20250317152311 15315 xn--54b7fta0cc. mSqE9QkD0M7PU6jxS6JYzYowo1K+Jj/JaI/vtbBVexqEAP0eZDb/hXej iHAYonupVI/EwqsTZllr+SgdzZUqe5Ecrga5hZyuwHlbmLBD7WZ9UsBC 0NHOW1CZS/snWBUiD9hX9qVyKlobM4I5KD5DwfqrZqrVyyx4AQVM97ml +NI=
+xn--94bc6b2a6eubzbc3dbd2h.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20250509030857 20250409023842 15315 xn--54b7fta0cc. Y8wQinkSKSxjzxl6xWxQqUJRwRjH+zVa2vOi0MUf6glva2TkBjTB63Zb 14IosAE5KuEBtbQoKsavn8iRsgeW6SLfJ2LXfhfUqNvvlOkREZ2ByTxe uoWOqrfHJoCHqgP0wluTR4wJ1Vt3m7isXV9MhTAzbvCldQ7FqzVUSeUq +DQ=
 xn--94bc6b2a6eubzbc3dbd2h.xn--54b7fta0cc. 10800	IN NSEC	xn--94bc6ete9ab.xn--54b7fta0cc. NS RRSIG NSEC
 xn--94bc6b2a6eubzbc3dbd2h.xn--54b7fta0cc. 10800	IN NS ns1.mysecurecloudhost.com.
 xn--94bc6b2a6eubzbc3dbd2h.xn--54b7fta0cc. 10800	IN NS ns2.mysecurecloudhost.com.
@@ -1158,4 +1158,4 @@ xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20250508064619 2025
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NSEC	xn--54b7fta0cc. NS RRSIG NSEC
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NS	ns1.exonhost.com.
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NS	ns2.exonhost.com.
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025040922 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025040924 120 3600 604800 10800
