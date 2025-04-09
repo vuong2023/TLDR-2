@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025040906 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025040908 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1744192898"
+ps.			86400	IN	TXT	"Generation Time: 1744207309"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -87,8 +87,10 @@ ps.			86400	IN	TXT	"Generation Time: 1744192898"
 360view.ps.		86400	IN	NS	dns2.p06.nsone.net.
 360view.ps.		86400	IN	NS	dns3.p06.nsone.net.
 360view.ps.		86400	IN	NS	dns4.p06.nsone.net.
-3afir.ps.		86400	IN	NS	ns1.ttawor.com.
-3afir.ps.		86400	IN	NS	ns2.ttawor.com.
+3afer.ps.		86400	IN	NS	will.ns.cloudflare.com.
+3afer.ps.		86400	IN	NS	coraline.ns.cloudflare.com.
+3afir.ps.		86400	IN	NS	will.ns.cloudflare.com.
+3afir.ps.		86400	IN	NS	coraline.ns.cloudflare.com.
 3alard.ps.		86400	IN	NS	ns1-34.azure-dns.com.
 3alard.ps.		86400	IN	NS	ns2-34.azure-dns.net.
 3alard.ps.		86400	IN	NS	ns3-34.azure-dns.org.
@@ -15511,6 +15513,8 @@ shawwa.ps.		86400	IN	NS	ns60.mistrosoft.org.
 shawwa.ps.		86400	IN	NS	ns61.mistrosoft.org.
 shbair.ps.		86400	IN	NS	dawn.ns.cloudflare.com.
 shbair.ps.		86400	IN	NS	gerald.ns.cloudflare.com.
+sheek.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+sheek.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 shehab.ps.		86400	IN	NS	ns11.cloudns.net.
 shehab.ps.		86400	IN	NS	ns12.cloudns.net.
 shehabstore.ps.		86400	IN	NS	ns1-lion.dl-cms.com.
@@ -18741,8 +18745,8 @@ zainit.ps.		86400	IN	NS	ns.start-pal.com.
 zainit.ps.		86400	IN	NS	ns2.start-pal.com.
 zainmedia.ps.		86400	IN	NS	ns13.nepras.net.
 zainmedia.ps.		86400	IN	NS	ns14.nepras.net.
-zainps.ps.		86400	IN	NS	hosting01.mada.ps.
-zainps.ps.		86400	IN	NS	hosting02.mada.ps.
+zainps.ps.		86400	IN	NS	curt.ns.cloudflare.com.
+zainps.ps.		86400	IN	NS	paityn.ns.cloudflare.com.
 zaitun.ps.		86400	IN	NS	ns1.mysecurecloudhost.com.
 zaitun.ps.		86400	IN	NS	ns2.mysecurecloudhost.com.
 zaitun.ps.		86400	IN	NS	ns3.mysecurecloudhost.com.
@@ -18914,4 +18918,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025040906 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025040908 86400 7200 3600000 172800
