@@ -1,5 +1,5 @@
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025041139 120 3600 604800 10800
-xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20250511103814 20250411093814 15315 xn--54b7fta0cc. MCkOViBAN5N1i3L7/3H3PcV38Vy8kKUmwV4L3ISMA87sG5wdxJ8tQHt0 I+UcokBmr0+7iT7GLSJdNRQ3aH9C+Ry1c9m7mXqqTZf7in0cFbSSHQwB 410CbCo3zIkuTfeOgiHs23CR2DS1RpllzwMf4DCCW5MbUhbT287nWN+o CZY=
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025041142 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20250511113250 20250411103250 15315 xn--54b7fta0cc. m8EIGe9rm9R+BlI3T+Fo5fMZGk4nKJKiZMERhMbcslMqLa2LmLk0Jxvo I0rxAD3/ux+/qOTGuzIG+kZRdJdJWNkBZQ0fJqNuvNigb3/EzVLeVv3+ uJ6m45J5bdNa4Btj2fUUWemE8HEQjwzFmEYGpvcJZ/zz9bdzT/51175f QC0=
 xn--54b7fta0cc.		10800	IN	NS	ekushey.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	bd-ns.anycast.pch.net.
@@ -1149,7 +1149,7 @@ xn--z5bd4akg8c1aqfb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20250508062517
 xn--z5bd4akg8c1aqfb.xn--54b7fta0cc. 10800 IN NSEC xn--z5bez8fbb.xn--54b7fta0cc. NS RRSIG NSEC
 xn--z5bd4akg8c1aqfb.xn--54b7fta0cc. 10800 IN NS	ns5.amarserver.com.
 xn--z5bd4akg8c1aqfb.xn--54b7fta0cc. 10800 IN NS	ns6.amarserver.com.
-xn--z5bez8fbb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20250418233250 20250319223250 15315 xn--54b7fta0cc. PYMsnCnOjp9cZcjkKSAhAwF7kz2UuRND3vJG++cxfCFEf3+UGX8qYc09 xiiGzksMkhRlvn6WYc/KQydaSBkCmsSWCzNQYpM5oEu3f79oKnvjQlDn oQmdYFxLPwTkhyrTZYgtAj6+4D6Mqk+ndUJDtld46bGuiSNW4kIePy0E 75c=
+xn--z5bez8fbb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20250511103440 20250411103250 15315 xn--54b7fta0cc. dDRaOM6ROUh+b87hr1Qp6gPyxznkSyNIU5fM9E4wkGJVTcbDEuLO4jR9 T0ODPVfUwcNmlHMMljCbYuyo6Q06p4F9pK8MPFXZrSlQ6nRVqkYrdVbJ 2RNzKspg7HRFGmC3MWilSNPCzAmTsigClO8Ej9fTjeyY8NMHiIcl8ILp LEY=
 xn--z5bez8fbb.xn--54b7fta0cc. 10800 IN	NSEC	xn--z5bxvy8abb2d.xn--54b7fta0cc. NS RRSIG NSEC
 xn--z5bez8fbb.xn--54b7fta0cc. 10800 IN	NS	ns1.a2iservices.gov.bd.
 xn--z5bez8fbb.xn--54b7fta0cc. 10800 IN	NS	ns2.a2iservices.gov.bd.
@@ -1158,4 +1158,4 @@ xn--z5bxvy8abb2d.xn--54b7fta0cc. 10800 IN NSEC	xn--54b7fta0cc. NS RRSIG NSEC
 xn--z5bxvy8abb2d.xn--54b7fta0cc. 10800 IN NS	dns1.bdcom.com.
 xn--z5bxvy8abb2d.xn--54b7fta0cc. 10800 IN NS	dns2.bdcom.com.
 xn--z5bxvy8abb2d.xn--54b7fta0cc. 10800 IN NS	ns-310.awsdns-38.com.
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025041139 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025041142 120 3600 604800 10800
