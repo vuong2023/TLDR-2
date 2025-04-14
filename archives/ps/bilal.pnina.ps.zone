@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025041311 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025041405 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1744574505"
+ps.			86400	IN	TXT	"Generation Time: 1744617705"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -5938,9 +5938,8 @@ fahedhome.ps.		86400	IN	NS	cullen.ns.cloudflare.com.
 fahedhome.ps.		86400	IN	NS	collins.ns.cloudflare.com.
 fahis.ps.		86400	IN	NS	ns1.dns-parking.com.
 fahis.ps.		86400	IN	NS	ns2.dns-parking.com.
-fairmotion.ps.		86400	IN	NS	ns01.trademarkarea.com.
-fairmotion.ps.		86400	IN	NS	ns02.trademarkarea.com.
-fairmotion.ps.		86400	IN	NS	ns03.trademarkarea.com.
+fairmotion.ps.		86400	IN	NS	ns1.livedns.co.uk.
+fairmotion.ps.		86400	IN	NS	ns2.livedns.co.uk.
 fairtrade.ps.		86400	IN	NS	ns1.aurisp.de.
 fairtrade.ps.		86400	IN	NS	ns2.aurisp.com.
 fajer.ps.		86400	IN	NS	elle.ns.cloudflare.com.
@@ -7030,9 +7029,8 @@ govtube.ps.		86400	IN	NS	ns1.gov.ps.
 govtube.ps.		86400	IN	NS	ns1.palgov.net.
 govtube.ps.		86400	IN	NS	ns2.palgov.net.
 govtube.ps.		86400	IN	NS	dns1.gov.ps.
-goxi.ps.		86400	IN	NS	ns1.101domain.com.
-goxi.ps.		86400	IN	NS	ns2.101domain.com.
-goxi.ps.		86400	IN	NS	ns5.101domain.com.
+goxi.ps.		86400	IN	NS	april.ns.cloudflare.com.
+goxi.ps.		86400	IN	NS	chuck.ns.cloudflare.com.
 gpal.ps.		86400	IN	NS	ns1.mongiddesigns.com.
 gpal.ps.		86400	IN	NS	ns2.mongiddesigns.com.
 gpc.ps.			86400	IN	NS	ns1.gpc.ps.
@@ -12783,6 +12781,8 @@ pallease.ps.		86400	IN	NS	ns1-37.azure-dns.com.
 pallease.ps.		86400	IN	NS	ns2-37.azure-dns.net.
 pallease.ps.		86400	IN	NS	ns3-37.azure-dns.org.
 pallease.ps.		86400	IN	NS	ns4-37.azure-dns.info.
+pallens.ps.		86400	IN	NS	nscp5.mada.ps.
+pallens.ps.		86400	IN	NS	nscp6.mada.ps.
 palmap.ps.		86400	IN	NS	ns51.1and1.com.
 palmap.ps.		86400	IN	NS	ns52.1and1.com.
 palmart.ps.		86400	IN	NS	ns1.injazatcloud.ps.
@@ -14686,6 +14686,8 @@ rimadyl.ps.		86400	IN	NS	ns2.pfizer.com.
 rimadyl.ps.		86400	IN	NS	ns3.pfizer.com.
 rint.ps.		86400	IN	NS	grant.ns.cloudflare.com.
 rint.ps.		86400	IN	NS	evelyn.ns.cloudflare.com.
+riocafe.ps.		86400	IN	NS	drew.ns.cloudflare.com.
+riocafe.ps.		86400	IN	NS	bingo.ns.cloudflare.com.
 riomax.ps.		86400	IN	NS	ns13.nepras.net.
 riomax.ps.		86400	IN	NS	ns14.nepras.net.
 rios.ps.		86400	IN	NS	ns1.dns-parking.com.
@@ -18936,4 +18938,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025041311 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025041405 86400 7200 3600000 172800
