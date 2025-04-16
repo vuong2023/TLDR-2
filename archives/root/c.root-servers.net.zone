@@ -11015,14 +11015,14 @@ jnj.			172800	IN	NS	y.nic.jnj.
 jnj.			172800	IN	NS	z.nic.jnj.
 jnj.			86400	IN	RRSIG	NSEC 8 1 86400 20250429050000 20250416040000 53148 . JSs7lSfA8129dmTr2kOca25vmxcUK22TXmmrU8HOo8tlhgOhVx2r9yf+ uLD8OzSwM/R9pGAn89VNmgLH8KCBta96iM9z44Rf9cwl1vBdHehYz9k1 0eKlw8MGj6eeCjA2YH4ToBzQO9DmFHB6OJ21A4smWLtkdWPiZj4g+SbA EHpE9bfNUS9co1PwViTgpvNuRl84M6jXqyJHX6QQzIkoEd0cD9po5BMW u0cQycfxHKwSj5yIOjxdYKfu6jaFibqjW+oTa1KHKEgrTAaIoDHRmFl6 55laRXslh9zSkQvUPA63UmnzzJdFAKR9LR9EtBiWlOFQjyCksigm+yRk WYJAoQ==
 jnj.			86400	IN	NSEC	jo. NS DS RRSIG NSEC
-w.nic.jnj.		172800	IN	AAAA	2001:67c:13cc::1:161
 w.nic.jnj.		172800	IN	A	194.169.218.161
-x.nic.jnj.		172800	IN	AAAA	2a04:2b00:13cc::1:161
+w.nic.jnj.		172800	IN	AAAA	2001:67c:13cc::1:161
 x.nic.jnj.		172800	IN	A	185.24.64.161
-y.nic.jnj.		172800	IN	AAAA	2a04:2b00:13ee::161
+x.nic.jnj.		172800	IN	AAAA	2a04:2b00:13cc::1:161
 y.nic.jnj.		172800	IN	A	212.18.248.161
-z.nic.jnj.		172800	IN	AAAA	2a04:2b00:13ff::161
+y.nic.jnj.		172800	IN	AAAA	2a04:2b00:13ee::161
 z.nic.jnj.		172800	IN	A	212.18.249.161
+z.nic.jnj.		172800	IN	AAAA	2a04:2b00:13ff::161
 jo.			86400	IN	RRSIG	NSEC 8 1 86400 20250429050000 20250416040000 53148 . Cq5zV6DjWG0Cs8srCYelSAaDQuY1jJxRfsirc1GoYMCn4N6uW2DfQ/Cr EgM/MfruY/G8oUmd+eiUHRLw0i/Z+0BHRAQ6VHdHEDgLvu2rcRZjAtw7 ZHEzWpHcZnBb6kiTjxQPkoxt0K2L5zK+YLKledGPdDPb35a6lNtWixsd gdopGt6qgFva81k6Gv+2a4cF67WGsyKHSiTM7LwKD4D2oW91NeNXoHp5 8bqNCMrprRMtQJ5rfSJPGewjQFlB56dmtmiPN5lCq2oD4oHcbC2tdSCg H1jVP/AuBFjr7JZKaitacwcFsnuI6MK156eWYp9/qQOwpOYBHU1bgDAA 4YM7LQ==
 jo.			86400	IN	NSEC	jobs. NS RRSIG NSEC
 jo.			172800	IN	NS	jo.cctld.authdns.ripe.net.
@@ -14548,8 +14548,8 @@ ns-root-21.scpt-network.net. 172800 IN	A	102.68.62.15
 ns-root-22.scpt-network.net. 172800 IN	A	102.68.60.15
 ns-root-23.scpt-network.net. 172800 IN	A	161.97.87.130
 ns.thnic.net.		172800	IN	A	202.28.0.1
-ns01.trs-dns.net.	172800	IN	AAAA	2620:57:4002::1
 ns01.trs-dns.net.	172800	IN	A	64.96.2.1
+ns01.trs-dns.net.	172800	IN	AAAA	2620:57:4002::1
 ns.uu.net.		172800	IN	A	137.39.1.3
 auth00.ns.uu.net.	172800	IN	A	198.6.1.65
 auth02.ns.uu.net.	172800	IN	A	198.6.1.82
@@ -15828,8 +15828,8 @@ gransy1.nic.pg.		172800	IN	AAAA	2a00:fea0:dead::beef
 gransy1.nic.pg.		172800	IN	A	185.28.194.194
 gransy2.nic.pg.		172800	IN	A	185.38.108.108
 uot.nic.pg.		172800	IN	A	202.1.32.125
-dns.pch.pg.		172800	IN	AAAA	2001:500:14:6152:ad::1
 dns.pch.pg.		172800	IN	A	204.61.216.152
+dns.pch.pg.		172800	IN	AAAA	2001:500:14:6152:ad::1
 ph.			172800	IN	NS	1.ns.ph.
 ph.			172800	IN	NS	ph.communitydns.net.
 ph.			172800	IN	NS	ns2.cuhk.edu.hk.
