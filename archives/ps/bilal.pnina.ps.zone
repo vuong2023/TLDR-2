@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025042504 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025042510 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1745560897"
+ps.			86400	IN	TXT	"Generation Time: 1745604097"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -3014,10 +3014,6 @@ bein.ps.		86400	IN	NS	ns1.sederhost.com.
 bein.ps.		86400	IN	NS	ns2.sederhost.com.
 beirut.ps.		86400	IN	NS	todd.ns.cloudflare.com.
 beirut.ps.		86400	IN	NS	anahi.ns.cloudflare.com.
-beirutcafe.ps.		86400	IN	NS	dns1.p01.nsone.net.
-beirutcafe.ps.		86400	IN	NS	dns2.p01.nsone.net.
-beirutcafe.ps.		86400	IN	NS	dns3.p01.nsone.net.
-beirutcafe.ps.		86400	IN	NS	dns4.p01.nsone.net.
 beita.ps.		86400	IN	NS	dns1.namecheaphosting.com.
 beita.ps.		86400	IN	NS	dns2.namecheaphosting.com.
 beitcom.ps.		86400	IN	NS	ns.paltel.net.
@@ -10185,10 +10181,10 @@ marwamed.ps.		86400	IN	NS	ns1.ideaeps.com.
 marwamed.ps.		86400	IN	NS	ns2.ideaeps.com.
 marwan.ps.		86400	IN	NS	ns1.net-house.net.
 marwan.ps.		86400	IN	NS	ns2.net-house.net.
-marx.ps.		86400	IN	DS	49792 8 2 71D32050946F076150BD172E1E5173A4EB3CE2B47DE92B94CE1230BC F2C014EF
 marx.ps.		86400	IN	NS	1-you.njalla.no.
 marx.ps.		86400	IN	NS	2-can.njalla.in.
 marx.ps.		86400	IN	NS	3-get.njalla.fo.
+marx.ps.		86400	IN	DS	49792 8 2 71D32050946F076150BD172E1E5173A4EB3CE2B47DE92B94CE1230BC F2C014EF
 mas.ps.			86400	IN	NS	ns1.bluetd.com.
 mas.ps.			86400	IN	NS	ns2.bluetd.com.
 masa.ps.		86400	IN	NS	gwen.ns.cloudflare.com.
@@ -13074,8 +13070,6 @@ panoramafm.ps.		86400	IN	NS	ns23.asurahosting.com.
 panoramafm.ps.		86400	IN	NS	ns24.asurahosting.com.
 paofm.ps.		86400	IN	NS	ns1.provision-servers.com.
 paofm.ps.		86400	IN	NS	ns2.provision-servers.com.
-paperpal.ps.		86400	IN	NS	ns1253.websitewelcome.com.
-paperpal.ps.		86400	IN	NS	ns1254.websitewelcome.com.
 papyros.ps.		86400	IN	NS	ns1152.papaki.gr.
 papyros.ps.		86400	IN	NS	ns2152.papaki.gr.
 paradisegroup.ps.	86400	IN	NS	leif.ns.cloudflare.com.
@@ -13317,8 +13311,6 @@ petl.ps.		86400	IN	NS	cdns1.hadara.ps.
 petl.ps.		86400	IN	NS	cdns2.hadara.ps.
 petra.ps.		86400	IN	NS	cdns1.hadara.ps.
 petra.ps.		86400	IN	NS	cdns2.hadara.ps.
-petromall.ps.		86400	IN	NS	grant.ns.cloudflare.com.
-petromall.ps.		86400	IN	NS	sandy.ns.cloudflare.com.
 petronas.ps.		86400	IN	NS	ns1.101domain.com.
 petronas.ps.		86400	IN	NS	ns2.101domain.com.
 petropal.ps.		86400	IN	NS	ns1.leg-des.com.
@@ -15042,6 +15034,8 @@ safqa.ps.		86400	IN	NS	cp4.privatesystems.net.
 safra.ps.		86400	IN	NS	ns1.i-net.ps.
 safra.ps.		86400	IN	NS	ns4.i-net.ps.
 safra.ps.		86400	IN	NS	ns7.i-net.ps.
+safwa.ps.		86400	IN	NS	ns1.dns-parking.com.
+safwa.ps.		86400	IN	NS	ns2.dns-parking.com.
 saga.ps.		86400	IN	NS	alexis.ns.cloudflare.com.
 saga.ps.		86400	IN	NS	evelyn.ns.cloudflare.com.
 sageappliances.ps.	86400	IN	NS	dns1.cscdns.net.
@@ -18796,6 +18790,8 @@ zahra-group.ps.		86400	IN	NS	ns1.zahra-group.ps.
 zahra-group.ps.		86400	IN	NS	ns2.zahra-group.ps.
 ns1.zahra-group.ps.	86400	IN	A	34.165.60.136
 ns2.zahra-group.ps.	86400	IN	A	34.165.60.136
+zahrawi.ps.		86400	IN	NS	kate.ns.cloudflare.com.
+zahrawi.ps.		86400	IN	NS	will.ns.cloudflare.com.
 zain.ps.		86400	IN	NS	dns1.alami.net.
 zain.ps.		86400	IN	NS	dns2.alami.net.
 zain-co.ps.		86400	IN	NS	ns1.dns-parking.com.
@@ -18991,4 +18987,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025042504 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025042510 86400 7200 3600000 172800
