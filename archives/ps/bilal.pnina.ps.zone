@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025042906 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025042907 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1745920902"
+ps.			86400	IN	TXT	"Generation Time: 1745928100"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -30,8 +30,8 @@ ps.			86400	IN	TXT	"Generation Time: 1745920902"
 101domain.ps.		86400	IN	NS	nelly.ns.cloudflare.com.
 101domains.ps.		86400	IN	NS	dale.ns.cloudflare.com.
 101domains.ps.		86400	IN	NS	nelly.ns.cloudflare.com.
-101ml.ps.		86400	IN	NS	elliot.ns.cloudflare.com.
-101ml.ps.		86400	IN	NS	gloria.ns.cloudflare.com.
+101ml.ps.		86400	IN	NS	byron.ns.cloudflare.com.
+101ml.ps.		86400	IN	NS	kelly.ns.cloudflare.com.
 112.ps.			86400	IN	NS	dns3.gov.ps.
 112.ps.			86400	IN	NS	dns4.pna.ps.
 112.ps.			86400	IN	NS	dns5.gov.ps.
@@ -17701,7 +17701,10 @@ uems.ps.		86400	IN	NS	ns1045.ui-dns.de.
 uems.ps.		86400	IN	NS	ns1045.ui-dns.biz.
 uems.ps.		86400	IN	NS	ns1045.ui-dns.com.
 uems.ps.		86400	IN	NS	ns1045.ui-dns.org.
-ufa.ps.			86400	IN	NS	nc-ph-0001-92.web-hosting.com.
+ufa.ps.			86400	IN	NS	ns1.ufa.ps.
+ufa.ps.			86400	IN	NS	ns2.ufa.ps.
+ns1.ufa.ps.		86400	IN	A	209.188.21.137
+ns2.ufa.ps.		86400	IN	A	209.188.21.137
 ufoq.ps.		86400	IN	NS	ns1.dns-parking.com.
 ufoq.ps.		86400	IN	NS	ns2.dns-parking.com.
 ugreen.ps.		86400	IN	NS	deb.ns.cloudflare.com.
@@ -19006,4 +19009,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025042906 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025042907 86400 7200 3600000 172800
