@@ -1100,8 +1100,8 @@ imodium.mp.		3600	IN	NS	dns3.p01.nsone.net.
 imodium.mp.		3600	IN	NS	dns4.p01.nsone.net.
 imodium.mp.		3600	IN	NS	ns01.kenvuedns.com.
 imodium.mp.		3600	IN	NS	ns02.kenvuedns.com.
-india.mp.		3600	IN	NS	ns1.pio.in.
-india.mp.		3600	IN	NS	ns2.pio.in.
+india.mp.		3600	IN	NS	ns3.loominost.com.
+india.mp.		3600	IN	NS	ns4.loominost.com.
 industry.mp.		3600	IN	NS	rayne.ns.cloudflare.com.
 industry.mp.		3600	IN	NS	roan.ns.cloudflare.com.
 infinium.mp.		3600	IN	NS	ns1.101domain.com.
@@ -2262,8 +2262,8 @@ unixtimesta.mp.		3600	IN	NS	ns-304.awsdns-38.COM.
 unixtimesta.mp.		3600	IN	NS	ns-719.awsdns-25.NET.
 ups.mp.			3600	IN	NS	dns1.cscdns.NET.
 ups.mp.			3600	IN	NS	dns2.cscdns.NET.
-usdt.mp.		3600	IN	NS	ns1.netsto.NET.
-usdt.mp.		3600	IN	NS	ns2.netsto.NET.
+usdt.mp.		3600	IN	NS	ns-1985.awsdns-56.CO.UK.
+usdt.mp.		3600	IN	NS	ns-928.awsdns-52.NET.
 validccshops.mp.	3600	IN	NS	ns1.cloudoon.COM.
 validccshops.mp.	3600	IN	NS	ns2.cloudoon.NET.
 validccshops.mp.	3600	IN	NS	ns3.cloudoon.ORG.
@@ -2357,6 +2357,8 @@ whatsapp.mp.		3600	IN	NS	ns1.lovellsnames.org.
 whatsapp.mp.		3600	IN	NS	ns2.lovellsnames.org.
 whatsapp.mp.		3600	IN	NS	ns3.lovellsnames.org.
 whatsapp.mp.		3600	IN	NS	ns4.lovellsnames.org.
+whitelabel.mp.		3600	IN	NS	ns1.desec.io.
+whitelabel.mp.		3600	IN	NS	ns2.desec.org.
 whois.mp.		3600	IN	NS	ns1.dan.com.
 whois.mp.		3600	IN	NS	ns2.dan.com.
 whoo.mp.		3600	IN	NS	dns01.manitu.net.
