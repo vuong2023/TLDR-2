@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025052606 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025052705 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1748253708"
+ps.			86400	IN	TXT	"Generation Time: 1748332900"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -5115,6 +5115,8 @@ doulab.ps.		86400	IN	NS	ns1-cat.dl-cms.com.
 doulab.ps.		86400	IN	NS	ns2-cat.dl-cms.com.
 douli.ps.		86400	IN	NS	ns1.bluehost.com.
 douli.ps.		86400	IN	NS	ns2.bluehost.com.
+dqfoods.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+dqfoods.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 dr.ps.			86400	IN	NS	ns1-estore.dns-supercode.com.
 dr.ps.			86400	IN	NS	ns2-estore.dns-supercode.com.
 dr-tahreeralsheikh.ps.	86400	IN	NS	donna.ns.cloudflare.com.
@@ -6534,9 +6536,10 @@ freepalestine.ps.	86400	IN	NS	ns1.injazatcloud.ps.
 freepalestine.ps.	86400	IN	NS	ns2.injazatcloud.ps.
 freiewerkstatt.ps.	86400	IN	NS	ns1.variomedia.de.
 freiewerkstatt.ps.	86400	IN	NS	ns2.variomedia.de.
-fresha.ps.		86400	IN	NS	ns1.onlydomains.com.
-fresha.ps.		86400	IN	NS	ns2.onlydomains.com.
-fresha.ps.		86400	IN	NS	ns3.onlydomains.com.
+fresha.ps.		86400	IN	NS	ns-97.awsdns-12.com.
+fresha.ps.		86400	IN	NS	ns-926.awsdns-51.net.
+fresha.ps.		86400	IN	NS	ns-1126.awsdns-12.org.
+fresha.ps.		86400	IN	NS	ns-1594.awsdns-07.co.uk.
 frezyderm.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 frezyderm.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 friend.ps.		86400	IN	NS	ns-459.awsdns-57.com.
@@ -13040,11 +13043,11 @@ paltel-gaming.ps.	86400	IN	NS	gns.paltel.net.
 paltel-group.ps.	86400	IN	NS	ns.palnet.com.
 paltel-group.ps.	86400	IN	NS	ns1.palnet.com.
 paltel-group.ps.	86400	IN	NS	dns2.palnet.com.
+paltelfoundation.ps.	86400	IN	DS	60018 13 2 5C8E9FC39C147A3B0285BD294B21EFEC65714A68E1A4410CD45CF463 C96B3532
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c1.googledomains.com.
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c2.googledomains.com.
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c3.googledomains.com.
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c4.googledomains.com.
-paltelfoundation.ps.	86400	IN	DS	60018 13 2 5C8E9FC39C147A3B0285BD294B21EFEC65714A68E1A4410CD45CF463 C96B3532
 paltelgroup.ps.		86400	IN	DS	50044 13 2 AC2016C79868DD2BBDDD9525CA58E33E0D752E049BF399F4A53532E2 41D38DAF
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c1.googledomains.com.
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c2.googledomains.com.
@@ -13792,7 +13795,6 @@ popsa.ps.		86400	IN	NS	ns2.101domain.com.
 popsho.ps.		86400	IN	NS	ns1.netim.net.
 popsho.ps.		86400	IN	NS	ns2.netim.net.
 popsho.ps.		86400	IN	NS	ns3.netim.net.
-popshop.ps.		86400	IN	NS	shops.myshopify.com.
 popu.ps.		86400	IN	NS	ns1.9amlabs.com.
 popu.ps.		86400	IN	NS	ns2.9amlabs.com.
 popular-th.ps.		86400	IN	NS	ines.ns.cloudflare.com.
@@ -17468,8 +17470,10 @@ totalwellness.ps.	86400	IN	NS	norm.ns.cloudflare.com.
 toukhi.ps.		86400	IN	NS	ns2.i-net.ps.
 toukhi.ps.		86400	IN	NS	ns4.i-net.ps.
 toukhi.ps.		86400	IN	NS	ns7.i-net.ps.
-touri-shop.ps.		86400	IN	NS	ns1.injazatcloud.ps.
-touri-shop.ps.		86400	IN	NS	ns2.injazatcloud.ps.
+touri-shop.ps.		86400	IN	NS	ns1.touri-shop.ps.
+touri-shop.ps.		86400	IN	NS	ns2.touri-shop.ps.
+ns1.touri-shop.ps.	86400	IN	A	45.159.161.8
+ns2.touri-shop.ps.	86400	IN	A	45.159.161.8
 tourism.ps.		86400	IN	NS	ines.ns.cloudflare.com.
 tourism.ps.		86400	IN	NS	norm.ns.cloudflare.com.
 tourpalestine.ps.	86400	IN	NS	noah.ns.cloudflare.com.
@@ -17599,6 +17603,8 @@ troweprice.ps.		86400	IN	NS	edns1.ultradns.net.
 troweprice.ps.		86400	IN	NS	edns1.ultradns.org.
 true.ps.		86400	IN	NS	jean.ns.cloudflare.com.
 true.ps.		86400	IN	NS	matt.ns.cloudflare.com.
+trueagency.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+trueagency.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 truetime.ps.		86400	IN	NS	mia.ns.cloudflare.com.
 truetime.ps.		86400	IN	NS	sullivan.ns.cloudflare.com.
 truetravel.ps.		86400	IN	NS	dns1.namecheaphosting.com.
@@ -19100,4 +19106,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025052606 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025052705 86400 7200 3600000 172800
