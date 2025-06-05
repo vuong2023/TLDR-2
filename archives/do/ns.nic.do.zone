@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060513 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060514 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1749128713"
+do.			3600	IN	TXT	"Generation Time: 1749132314"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -27203,6 +27203,8 @@ maternofetal.do.	3600	IN	NS	dns1.midominio.do.
 maternofetal.do.	3600	IN	NS	dns2.midominio.do.
 maternofetal.do.	3600	IN	NS	dns3.midominio.do.
 maternofetal.do.	3600	IN	NS	dns4.midominio.do.
+maternofetal.do.	3600	IN	NS	mx1.hostinger.com.
+maternofetal.do.	3600	IN	NS	mx2.hostinger.com.
 matevos.do.		3600	IN	NS	3-get.njalla.fo.
 matevos.do.		3600	IN	NS	2-can.njalla.in.
 matevos.do.		3600	IN	NS	1-you.njalla.no.
@@ -31865,6 +31867,8 @@ orbit.do.		3600	IN	NS	ns-1572.awsdns-04.co.uk.
 orbit.do.		3600	IN	NS	ns-869.awsdns-44.net.
 orbitek.do.		3600	IN	NS	stan.ns.cloudflare.com.
 orbitek.do.		3600	IN	NS	alina.ns.cloudflare.com.
+orbits.do.		3600	IN	NS	ns100.ovh.net.
+orbits.do.		3600	IN	NS	dns100.ovh.net.
 orce.do.		3600	IN	NS	ns2.hecternet.com.
 orce.do.		3600	IN	NS	ns1.hecternet.com.
 orden.do.		3600	IN	NS	ns2.orden.do.
@@ -37415,6 +37419,10 @@ salegal.do.		3600	IN	NS	hayes.ns.cloudflare.com.
 salegal.do.		3600	IN	NS	alice.ns.cloudflare.com.
 sales.do.		3600	IN	NS	ns2.eftydns.com.
 sales.do.		3600	IN	NS	ns1.eftydns.com.
+salesianos.do.		3600	IN	NS	dns1.midominio.do.
+salesianos.do.		3600	IN	NS	dns2.midominio.do.
+salesianos.do.		3600	IN	NS	dns3.midominio.do.
+salesianos.do.		3600	IN	NS	dns4.midominio.do.
 salespro.do.		3600	IN	NS	dns4.midominio.do.
 salespro.do.		3600	IN	NS	dns3.midominio.do.
 salespro.do.		3600	IN	NS	dns2.midominio.do.
@@ -47351,4 +47359,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060513 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060514 3600 3600 604800 3600
