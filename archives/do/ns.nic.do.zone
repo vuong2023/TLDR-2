@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060510 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060512 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1749117909"
+do.			3600	IN	TXT	"Generation Time: 1749125112"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -21226,6 +21226,34 @@ iberostarbeachfrontresorts.do. 3600 IN	NS	dns2.midominio.do.
 iberostarbeachfrontresorts.do. 3600 IN	NS	dns1.midominio.do.
 iberostarhotels.do.	3600	IN	NS	nss1.codetel.net.do.
 iberostarhotels.do.	3600	IN	NS	nss2.codetel.net.do.
+iberostarselectionbavaro.do. 3600 IN	NS	dns1.midominio.do.
+iberostarselectionbavaro.do. 3600 IN	NS	dns2.midominio.do.
+iberostarselectionbavaro.do. 3600 IN	NS	dns3.midominio.do.
+iberostarselectionbavaro.do. 3600 IN	NS	dns4.midominio.do.
+iberostarselectionbavarosuites.do. 3600	IN NS	dns1.midominio.do.
+iberostarselectionbavarosuites.do. 3600	IN NS	dns2.midominio.do.
+iberostarselectionbavarosuites.do. 3600	IN NS	dns3.midominio.do.
+iberostarselectionbavarosuites.do. 3600	IN NS	dns4.midominio.do.
+iberostarselectioncoralbavaro.do. 3600 IN NS	dns1.midominio.do.
+iberostarselectioncoralbavaro.do. 3600 IN NS	dns2.midominio.do.
+iberostarselectioncoralbavaro.do. 3600 IN NS	dns3.midominio.do.
+iberostarselectioncoralbavaro.do. 3600 IN NS	dns4.midominio.do.
+iberostarselectionhaciendadominicus.do.	3600 IN	NS dns1.midominio.do.
+iberostarselectionhaciendadominicus.do.	3600 IN	NS dns2.midominio.do.
+iberostarselectionhaciendadominicus.do.	3600 IN	NS dns3.midominio.do.
+iberostarselectionhaciendadominicus.do.	3600 IN	NS dns4.midominio.do.
+iberostarwavescostadorada.do. 3600 IN	NS	dns1.midominio.do.
+iberostarwavescostadorada.do. 3600 IN	NS	dns2.midominio.do.
+iberostarwavescostadorada.do. 3600 IN	NS	dns3.midominio.do.
+iberostarwavescostadorada.do. 3600 IN	NS	dns4.midominio.do.
+iberostarwavesdominicana.do. 3600 IN	NS	dns1.midominio.do.
+iberostarwavesdominicana.do. 3600 IN	NS	dns2.midominio.do.
+iberostarwavesdominicana.do. 3600 IN	NS	dns3.midominio.do.
+iberostarwavesdominicana.do. 3600 IN	NS	dns4.midominio.do.
+iberostarwavespuntacana.do. 3600 IN	NS	dns1.midominio.do.
+iberostarwavespuntacana.do. 3600 IN	NS	dns2.midominio.do.
+iberostarwavespuntacana.do. 3600 IN	NS	dns3.midominio.do.
+iberostarwavespuntacana.do. 3600 IN	NS	dns4.midominio.do.
 iberostate.do.		3600	IN	NS	dns3.midominio.do.
 iberostate.do.		3600	IN	NS	dns2.midominio.do.
 iberostate.do.		3600	IN	NS	dns1.midominio.do.
@@ -23266,6 +23294,10 @@ joi.do.			3600	IN	NS	dns2.midominio.do.
 joi.do.			3600	IN	NS	dns1.midominio.do.
 joia.do.		3600	IN	NS	n2.intodomain.net.
 joia.do.		3600	IN	NS	n1.intodomain.net.
+joiabavarobyiberostar.do. 3600	IN	NS	dns1.midominio.do.
+joiabavarobyiberostar.do. 3600	IN	NS	dns2.midominio.do.
+joiabavarobyiberostar.do. 3600	IN	NS	dns3.midominio.do.
+joiabavarobyiberostar.do. 3600	IN	NS	dns4.midominio.do.
 joico.do.		3600	IN	NS	ns1.cp-23.webhostbox.net.
 joico.do.		3600	IN	NS	ns2.cp-23.webhostbox.net.
 joie.do.		3600	IN	NS	dns4.midominio.do.
@@ -32818,8 +32850,8 @@ pension.do.		3600	IN	NS	dns2.midominio.do.
 pension.do.		3600	IN	NS	dns1.midominio.do.
 pentair.do.		3600	IN	NS	udns2.cscdns.uk.
 pentair.do.		3600	IN	NS	udns1.cscdns.net.
-penthouse.do.		3600	IN	NS	dns9.friendfinder.com.
-penthouse.do.		3600	IN	NS	ns9.friendfinder.com.
+penthouse.do.		3600	IN	NS	ns07.gcd-dns.com.
+penthouse.do.		3600	IN	NS	ns08.gcd-dns.com.
 penthouses.do.		3600	IN	NS	ns2.ixia.arvixe.com.
 penthouses.do.		3600	IN	NS	ns1.ixia.arvixe.com.
 people.do.		3600	IN	NS	dns4.midominio.do.
@@ -47319,4 +47351,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060510 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060512 3600 3600 604800 3600
