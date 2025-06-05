@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060514 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060515 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1749132314"
+do.			3600	IN	TXT	"Generation Time: 1749135915"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -21711,10 +21711,8 @@ importacionesengrande.do. 3600	IN	NS	ns1.sourcedns.com.
 importacionesengrande.do. 3600	IN	NS	ns.sourcedns.com.
 importadex.do.		3600	IN	NS	ns2.bluehost.com.
 importadex.do.		3600	IN	NS	ns1.bluehost.com.
-importadorapp.do.	3600	IN	NS	dns1.midominio.do.
-importadorapp.do.	3600	IN	NS	dns2.midominio.do.
-importadorapp.do.	3600	IN	NS	dns3.midominio.do.
-importadorapp.do.	3600	IN	NS	dns4.midominio.do.
+importadorapp.do.	3600	IN	NS	hgns1.hostgator.com.
+importadorapp.do.	3600	IN	NS	hgns2.hostgator.com.
 importek.do.		3600	IN	NS	ns13.wixdns.net.
 importek.do.		3600	IN	NS	ns12.wixdns.net.
 imprenta.do.		3600	IN	NS	ns2.intodomain.net.
@@ -47359,4 +47357,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060514 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060515 3600 3600 604800 3600
