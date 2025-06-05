@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165359 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. ZAHxqFCijrhG7/JZuTcy22fWMGZCG/w0wBnRbkfGHElTCBKHp6RRZBtE Nb6ZQt1gAOIizwPa61tSXZiKaGX5Jq9KPqResam7IV4s5yKjdNPe5Fwv Zr0ZvHsSmWZHmKmCUa/MLW19Drj4Oiq2QlhOlZX3RIoFFEASpQIyeVoP X0U3ui0q4QfY18RDhPQ6/ukozOE+mzhjztNn7UpsvW1KtutOJphccplk bCiEFNhxlwIGDWFJADC/cMul/q+glf7qcodIJY4gf2eKW1FwN9iKGTA/ 4n645tQpN0Kw4D1nTHjXJfctJEX4qsoZz7qXSZJHe7nbLOMAUvKUPnEz hR2YTQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165421 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. j2t6lIAOPAfuoCgBY2711rRarGYdf90DVpwDvzUGnX13aEKkOQPO5vOm iiBiA/lB6IycM9XFjyfzybbS2X+ijZgFYMV0fVaReII9whbz3vXQ8NVD 8mwDTFuwaJZiUawBDb7vojr1nmI8OY2rmg03YNEDA1DwotVuDi0F2F0h mDjJFy9GUn9ih90ZSMkQ/EaOkFrVFf48iklVlUH5fYH6Ht7wHXp8hjm4 kc1ilSy8H37y0wIsmCeFd243MtRDJn1YN/wVkMOrEmfaJWlav4aFOB3X /IFqBl7boGXh7wQBSpBmDYVEhD/OImlZBgPncMSdnF52c1LVSiZ3wxIp 29MfOQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -9,7 +9,7 @@ gl.			86400	IN	RRSIG	NS 8 1 86400 20250813020000 20250525020000 57390 gl. KJ12j8
 gl.			86400	IN	DNSKEY	256 3 8 AwEAAZQoEjyIZnLTg1KjLl8AakwY8ir6sF5DBTPqDCu0JBBVoPc8ba41 3y3uEeS6xqbsVjBGHJcVAXyeOBQ/LH1mStO4hRS7topgSV0nzukSOsf8 7Ue2fwmJmryQQvjeSSt9EO9RnPrt/Pvkt5XkyMQBMCDqBaOa+x4BoDnU 3hzGJTzFFsjBbjk65TN+Xp6x0stFuf4i1O9ogshCTRgy+5Jw5OcBKwNj 8+hNEghUoQGy26ElgqgX2kiMCF8cTANEliq3v35P8shABJcyEyLsIrzz +dC8Q11Yb2zpY6g2y64so4VEWdyfddTHZx0sTB3gBiMKPYum5NRLHcdG n7fuoClOq3k=
 gl.			86400	IN	DNSKEY	257 3 8 AwEAAfYm4+zwxY7gxb4XaVDGuNUKfR2Zcd9wYXI+JeL6NutecP8/5yej pYvyYrS9EoZKi1I/Zxy5T0bhke0TfCwtX+1fjLqZYXhnqPbqRrFjRsML EMx4BXnI4+jRKOx/Fq1RQHKJqnw+3k9peImXyxSs79OzNKIbZHvYh/BY LjzGX2GUqRngvxjzfsPYpqV4vI3tpqTx5UpetxNLzMSPwZSI/rfDuRDZ jP44V1UjLkcZ2AmqSva6q92kb7zruhn6C0JocyPTOPPK1J08tSp/ur+A YLYLyxL8+v28i1i9c1UhtatXpnCHn8OGFmg2pC/Vv2Q8sTXjKs6DFQ4I GODOQdU2HqM=
 gl.			86400	IN	DNSKEY	256 3 8 AwEAAa9A2dS02nv1E/20rVhnV4JhZhfspG3ypFvoTns+IV1Qla62o554 ZctdWrTEcZpp6ROxLZKxI4XEQpRHmsPrcYpCvOAzZxN8Ku89T96zRCyT 1lVoLQZ0wPYh0WsgBIBJkMPIzlzzc+VMQTzk939WhICDKsfn3yV1z2Kg PP2d0fcMa4+JOlrdhERkh8juw7h4fWTFODkp85ov+mw9+QVXAUdEyXNm tQEB3NuDkN2RwXpSez250yekEFAjnpky3ZrzrqWdzD9BdEOCXcj4Ps9M +TitOW3lybKhevvtBsJl4vrkCWycGlGXEnPbC9M8pqE2BOYO2EqS+ycG IUWbdSzZqsE=
-gl.			86400	IN	RRSIG	DNSKEY 8 1 86400 20250813120000 20250525120000 11560 gl. t1kN7BRp3gfi+NhnLEhZv8r/I4b5TzQUmWkMdZj7L/6OEEoafEp8b3X4 3RmvE3k4a/4J33TIsOgzB+kAmylVNjg2tpG0MLw5dQTg3AW3oKcL/Uns tn/B4ty/W6GxzYgwtYahagc0b2GfEisvhhTOsKjml5JDZdfwuzSCLhE9 fCGv6Q100fPQUki14LAGMYlGDE+xBmesohFzgLNI6TChYIp8EPo9Dxj9 t6AeTdZofPNFZoSFAMoE+1fVK/S7BOPpNyfJYHYsgQchld+nFr7/1bPo ABD22GQl/EbBPhgF7FP/rLqWnVhzuw7VOiMYUUTIMjzih2p5QdR1K/GC zMt1lg==
+gl.			86400	IN	RRSIG	DNSKEY 8 1 86400 20250823120000 20250604120000 11560 gl. 6U6IAPOD9rDemQY4tTUqSi5uatTGW2yx2umBfXXGP0QEb4qZMQwIL+Df j8JEF+9Oo0N3Bxi3hOstW3shp+BSYf6JKzCZ3kpWYRZfLd64HqOyzgnd oChI5NcryvZpyZUOf/nfBwY96HIWhfqNh61Nu+cWfIaq2lQZaQcstV/H ond+65ZSKY4B4gb9msjjREZV/ZDV9kQsNER+IgOEej8vl27NfTO7q1i3 8XCMCBnGys/l9l20WxHZ0HJuFv4FEPLp6OQt3GIrfsFIL6D0Ri2v+Hmk ExV9FsIWVAduWdFD5tkIl6VIRo59y+Nt40JcI1onuGbchNjg4i/Fqlmh Fx+9OA==
 gl.			0	IN	NSEC3PARAM 1 0 0 658A61DC
 gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250813020000 20250525020000 57390 gl. UcJ/fsRrb3RFcSnniD3CehQ+9CZylYG9BNU3Y1u6lIB6IfWf7IJNdzak 80264/j0djs+NbUJlSYTlkA+NALRNGp4nSnXfwcfew2NEytjhTrg312u yxPFhBer4j3/4mbX4WTkNWhnJ937EJBFJ0MGpPBzFJngAw5HYwCkb8ft 0kqxeDg7w5DKoAAaHTXrWYTMKlXj5iBml/uw8+NoSxhSzl3BLRjIEq1L +fsA34KL1Tuez01EMQ2LMtQ0mA/6JMyUNXemSZ2P2/3hP5Yq0ZhLfoya 6Ex/54Iz9J/Ul9Q+hWyfKbqvmM8/c2cH06/Sbve1oxPF70/A9vmA9xQT WvKKNg==
 0.gl.			3600	IN	NS	ns1.sudos.co.
@@ -1994,8 +1994,10 @@ atuarfik-inussuk.gl.	3600	IN	NS	ns1.nunahosting.net.
 atuarfik-inussuk.gl.	3600	IN	NS	ns2.nunahosting.net.
 atuarfik-inussuk.gl.	3600	IN	NS	ns3.nunahosting.net.
 atuarfik-inussuk.gl.	3600	IN	NS	ns4.nunahosting.net.
-atuartutnipaat.gl.	3600	IN	NS	ns1.curanet.dk.
-atuartutnipaat.gl.	3600	IN	NS	ns2.curanet.dk.
+atuartutnipaat.gl.	3600	IN	NS	ns1.nunahosting.net.
+atuartutnipaat.gl.	3600	IN	NS	ns2.nunahosting.net.
+atuartutnipaat.gl.	3600	IN	NS	ns3.nunahosting.net.
+atuartutnipaat.gl.	3600	IN	NS	ns4.nunahosting.net.
 atuffat.gl.		3600	IN	NS	parked.g1-dns.com.
 atuffat.gl.		3600	IN	NS	parked.g1-dns.one.
 atuisoq.gl.		3600	IN	NS	ns01.one.com.
@@ -2943,6 +2945,9 @@ bmp.gl.			3600	IN	DS	10833 13 2 C90CAD96945CEEBF084A1982C592E69406CC2350F1AA4354
 bmp.gl.			3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. iQPuJQlHmf7Cim++ESReocXXzBvPqg6vJwX0fVMlc5vG61HBzIg21S61 1NIMsGW5Z7uefG3qpcOVPD7vNLgLKzVMnOeSVhjgsQx6gI+FdEa9etAB PkwY//hLcmiFe2QOjy6L5ysxAsA7n/TfQuJRI3a1TTake+253MatuR+w GT4yFnHmGEgmEPrdTeOLtJLqSJgVhxoravpHfgVsTbImGstqolJg2ofP UjYnS8UQXPCU/IWd9MDTGyxqWim1LeyQexVL2JnFCDlxluD9WMf402XM uBkrLxe3jqmp3sdDxhGVtY+myemB7U7DFVsDaNOAzMSZJvVM4e9si3nC PdQP/Q==
 bmw.gl.			3600	IN	NS	dns1.cscdns.net.
 bmw.gl.			3600	IN	NS	dns2.cscdns.net.
+bmwspezialist.gl.	3600	IN	NS	ns.hostpoint.ch.
+bmwspezialist.gl.	3600	IN	NS	ns2.hostpoint.ch.
+bmwspezialist.gl.	3600	IN	NS	ns3.hostpoint.ch.
 bn.gl.			3600	IN	NS	ns1.dnsimple.com.
 bn.gl.			3600	IN	NS	ns2.dnsimple.com.
 bn.gl.			3600	IN	NS	ns3.dnsimple.com.
@@ -3250,6 +3255,8 @@ bsg.gl.			3600	IN	NS	ns-429.awsdns-53.com.
 bsg.gl.			3600	IN	NS	ns-997.awsdns-60.net.
 bsg.gl.			3600	IN	NS	ns-1153.awsdns-16.org.
 bsg.gl.			3600	IN	NS	ns-2026.awsdns-61.co.uk.
+bsgl.gl.		3600	IN	NS	luke.ns.cloudflare.com.
+bsgl.gl.		3600	IN	NS	rosalie.ns.cloudflare.com.
 bsme.gl.		3600	IN	NS	ns0.1984.is.
 bsme.gl.		3600	IN	NS	ns1.1984.is.
 bsme.gl.		3600	IN	NS	ns1.1984hosting.com.
@@ -9444,6 +9451,8 @@ japan.gl.		3600	IN	NS	ns2.xserver.jp.
 japan.gl.		3600	IN	NS	ns3.xserver.jp.
 japan.gl.		3600	IN	NS	ns4.xserver.jp.
 japan.gl.		3600	IN	NS	ns5.xserver.jp.
+jav.gl.			3600	IN	NS	tegan.ns.cloudflare.com.
+jav.gl.			3600	IN	NS	rodney.ns.cloudflare.com.
 jazz.gl.		3600	IN	NS	ns.hostpoint.ch.
 jazz.gl.		3600	IN	NS	ns2.hostpoint.ch.
 jazz.gl.		3600	IN	NS	ns3.hostpoint.ch.
@@ -12183,8 +12192,6 @@ mega10.gl.		3600	IN	NS	liz.ns.cloudflare.com.
 mega10.gl.		3600	IN	NS	dean.ns.cloudflare.com.
 mega1web.gl.		3600	IN	NS	reese.ns.cloudflare.com.
 mega1web.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
-mega24.gl.		3600	IN	NS	ines.ns.cloudflare.com.
-mega24.gl.		3600	IN	NS	emerson.ns.cloudflare.com.
 mega4.gl.		3600	IN	NS	liz.ns.cloudflare.com.
 mega4.gl.		3600	IN	NS	dean.ns.cloudflare.com.
 mega555.gl.		3600	IN	NS	coen.ns.cloudflare.com.
@@ -12727,10 +12734,6 @@ motoori.gl.		3600	IN	NS	ns3.netim.net.
 motor.gl.		3600	IN	NS	ns1.netim.net.
 motor.gl.		3600	IN	NS	ns2.netim.net.
 motor.gl.		3600	IN	NS	ns3.netim.net.
-motormarine.gl.		3600	IN	NS	a.hosting.gl.
-motormarine.gl.		3600	IN	NS	b.hosting.gl.
-motormarine.gl.		3600	IN	NS	c.hosting.gl.
-motormarine.gl.		3600	IN	NS	d.hosting.gl.
 motorola.gl.		3600	IN	NS	a1-79.akam.net.
 motorola.gl.		3600	IN	NS	a3-67.akam.net.
 motorola.gl.		3600	IN	NS	a8-64.akam.net.
@@ -14844,6 +14847,9 @@ oncpolar.gl.		3600	IN	NS	ns1.eurodns.com.
 oncpolar.gl.		3600	IN	NS	ns2.eurodns.com.
 oncpolar.gl.		3600	IN	NS	ns3.eurodns.com.
 oncpolar.gl.		3600	IN	NS	ns4.eurodns.com.
+one.gl.			3600	IN	NS	1-you.njalla.no.
+one.gl.			3600	IN	NS	2-can.njalla.in.
+one.gl.			3600	IN	NS	3-get.njalla.fo.
 oneandone.gl.		3600	IN	NS	ns55.1und1.de.
 oneandone.gl.		3600	IN	NS	ns56.1und1.de.
 onebox.gl.		3600	IN	NS	ns1.j2global.com.
@@ -17156,6 +17162,8 @@ sarfarissoq.gl.		3600	IN	NS	adam.ns.cloudflare.com.
 sarfarissoq.gl.		3600	IN	NS	sharon.ns.cloudflare.com.
 sarisari.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 sarisari.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
+sarliaq.gl.		3600	IN	NS	ns01.one.com.
+sarliaq.gl.		3600	IN	NS	ns02.one.com.
 sarpiksupply.gl.	3600	IN	NS	ns1.modulo.gl.
 sarpiksupply.gl.	3600	IN	NS	ns2.modulo.gl.
 sarpiksupply.gl.	3600	IN	NS	ns3.modulo.gl.
@@ -19194,10 +19202,6 @@ testingcak.gl.		3600	IN	DS	12072 13 1 F7ADD0E2ED09EAC44AF756803F6987AB87277CFB
 testingcak.gl.		3600	IN	DS	12072 13 2 B695A421C81D775BF77D4D9E73FCC4BBC9047A0B1C497475C4062ACB 6DE77A18
 testingcak.gl.		3600	IN	DS	12072 13 4 A2940B9F04A3393A7F4E04BCE8463D8CCDD098EE143C5C092D884071 8583D00522DB7B83958296586971DFEF6760B976
 testingcak.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. KPTXT9hPRmozo1od3INRVccaVWBXBKPKmSEJL/oQuB27u/qdLvxmg4y4 Vy0Xw4Js9f4iZ9opqY4JuF5+ZS7RcTbjBqcEyOjLXV5QtrbvmRuMxDN+ hF1n282EXuYnxES31BRm/oPC9KGfPs+IMjexNk5F26w6DITS07Sbw4J5 iCI8KXbY5LbctZLflWB6zUfffWZyvBw+gs+WSQgoX3kvEhjsjuGo+4Vk W6wLpMPsK1S5PkRpDlYMwxJHc9mv2H/YZRnYczmNqMnj6Um7VR9OfC0/ Sqns1ANOc0xiY+ssPfSSPe6931Xh7Xcc9Y8CNu03jm2SOQOaogj9R73K Pcwekw==
-textron.gl.		3600	IN	NS	a.hosting.gl.
-textron.gl.		3600	IN	NS	b.hosting.gl.
-textron.gl.		3600	IN	NS	c.hosting.gl.
-textron.gl.		3600	IN	NS	d.hosting.gl.
 tezos.gl.		3600	IN	NS	uni1.domainsure.com.
 tezos.gl.		3600	IN	NS	uni2.domainsure.net.
 tezos.gl.		3600	IN	NS	uni3.domainsure.org.
@@ -23027,4 +23031,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165359 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165421 900 1800 6048000 3600
