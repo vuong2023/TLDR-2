@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025060507 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025060511 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1749124903"
+ps.			86400	IN	TXT	"Generation Time: 1749153693"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -384,6 +384,8 @@ abughali.ps.		86400	IN	NS	ns1-lion.dl-cms.com.
 abughali.ps.		86400	IN	NS	ns2-lion.dl-cms.com.
 abukhalaf.ps.		86400	IN	NS	ns1.dns-parking.com.
 abukhalaf.ps.		86400	IN	NS	ns2.dns-parking.com.
+abukhalil.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+abukhalil.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 abumazen.ps.		86400	IN	NS	dns3.gov.ps.
 abumazen.ps.		86400	IN	NS	dns4.pna.ps.
 abumazen.ps.		86400	IN	NS	dns5.gov.ps.
@@ -6588,10 +6590,8 @@ fullmarket.ps.		86400	IN	NS	ns1-dolphin.dl-cms.com.
 fullmarket.ps.		86400	IN	NS	ns2-dolphin.dl-cms.com.
 fundap.ps.		86400	IN	NS	ns1.101domain.com.
 fundap.ps.		86400	IN	NS	ns2.101domain.com.
-fundme.ps.		86400	IN	NS	ns1.supercp.com.
-fundme.ps.		86400	IN	NS	ns2.supercp.com.
-fundme.ps.		86400	IN	NS	ns3.supercp.com.
-fundme.ps.		86400	IN	NS	ns4.supercp.com.
+fundme.ps.		86400	IN	NS	ns1.cutecurve.com.
+fundme.ps.		86400	IN	NS	ns2.cutecurve.com.
 funiber.ps.		86400	IN	NS	ns10.servicio-online.net.
 funiber.ps.		86400	IN	NS	ns11.servicio-online.net.
 funiber.ps.		86400	IN	NS	ns12.servicio-online.net.
@@ -10347,6 +10347,8 @@ match.ps.		86400	IN	NS	ns1.bluetd.com.
 match.ps.		86400	IN	NS	ns2.bluetd.com.
 match.ps.		86400	IN	NS	ns3.bluetd.com.
 match.ps.		86400	IN	NS	ns4.bluetd.com.
+matcha.ps.		86400	IN	NS	ns1.dns-parking.com.
+matcha.ps.		86400	IN	NS	ns2.dns-parking.com.
 mateo.ps.		86400	IN	NS	greg.ns.cloudflare.com.
 mateo.ps.		86400	IN	NS	josephine.ns.cloudflare.com.
 mathar.ps.		86400	IN	NS	shane.ns.cloudflare.com.
@@ -19112,4 +19114,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025060507 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025060511 86400 7200 3600000 172800
