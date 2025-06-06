@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060607 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060609 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1749193202"
+do.			3600	IN	TXT	"Generation Time: 1749200404"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -17119,6 +17119,9 @@ flip.do.		3600	IN	NS	ns-1527.awsdns-62.org.
 flip.do.		3600	IN	NS	ns-892.awsdns-47.net.
 flirt.do.		3600	IN	NS	ns1.ropot.net.
 flirt.do.		3600	IN	NS	ns2.ropot.net.
+flm.do.			3600	IN	NS	ns1.onlydomains.com.
+flm.do.			3600	IN	NS	ns2.onlydomains.com.
+flm.do.			3600	IN	NS	ns3.onlydomains.com.
 flo.do.			3600	IN	NS	thomas.ns.cloudflare.com.
 flo.do.			3600	IN	NS	sima.ns.cloudflare.com.
 float.do.		3600	IN	NS	nick.ns.cloudflare.com.
@@ -47338,4 +47341,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060607 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060609 3600 3600 604800 3600
