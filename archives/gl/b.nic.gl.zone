@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165475 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. aoB/NjdeOoD56QKGrbKVjTHRo32BTRre0htYC5yHo5OAjefTbKoNOL2w u5W8q8+bgfa4xemae2d7ZtGLqhSPR00F/qwqaPhzMhWN4yyXyx4cPiPx piA5rE9RujgH1X/2Mst6pL+Mi7mNuXYuUriXySxTgCDOhkBm600Albky ps0J8cju2FRwLctv9VTusisGph4ZFRJBrlxGaafMIlZthbiLCAsLjFnL QfYf56NHxbfQ/29hCa3c31m416t5oiUgQuOuP42fLl00ve5fvfKI296V QBt0ffc1Kf0uAiRW8M8418uhdrVtlKYYLCjE7N7mZQeVPCD9ODJ4dgrZ fczIZg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165487 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. PJ7uq2BpZhPCKW+U8sZvbsPQjrfFcgXkWhtzyYQUmXdSFo09g+HSAlj2 d4h80gTXeWsZ78p9sE0RZQ7A2+sLycDykt7MZXMJp7c0b3Q/vgu3zPHS OrboxINq3cPrFhOKx+uUGpio3lcBNWk6TDRBsL0/tNUvKAciQL+gyXHh 4XFxd5y9/B0vcLw9ayQfzRWL7mfkBqaXke41CfHoGO+vReRZ/UVQ/olL t0pIglormBDJKu4E7u03nxIMq4J3eER7kB7X/DqWykg/GHuXb9OPhsjJ iQWy6jHNR8kHiy/QZT9mAhviH9dz2UAoJH1XdZLC81T83LfIh3JxJzmG LEu3ZQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -9459,8 +9459,8 @@ japan.gl.		3600	IN	NS	ns2.xserver.jp.
 japan.gl.		3600	IN	NS	ns3.xserver.jp.
 japan.gl.		3600	IN	NS	ns4.xserver.jp.
 japan.gl.		3600	IN	NS	ns5.xserver.jp.
-jav.gl.			3600	IN	NS	tegan.ns.cloudflare.com.
-jav.gl.			3600	IN	NS	rodney.ns.cloudflare.com.
+jav.gl.			3600	IN	NS	pablo.ns.cloudflare.com.
+jav.gl.			3600	IN	NS	clarissa.ns.cloudflare.com.
 jazz.gl.		3600	IN	NS	ns.hostpoint.ch.
 jazz.gl.		3600	IN	NS	ns2.hostpoint.ch.
 jazz.gl.		3600	IN	NS	ns3.hostpoint.ch.
@@ -12192,6 +12192,10 @@ meeting.gl.		3600	IN	NS	jake.ns.cloudflare.com.
 meeting.gl.		3600	IN	NS	kristin.ns.cloudflare.com.
 meg.gl.			3600	IN	NS	liz.ns.cloudflare.com.
 meg.gl.			3600	IN	NS	dean.ns.cloudflare.com.
+mega.gl.		3600	IN	NS	ns1.bb-online.net.
+mega.gl.		3600	IN	NS	ns2.bb-online.org.
+mega.gl.		3600	IN	NS	ns3.bb-online.info.
+mega.gl.		3600	IN	NS	ns4.bb-online.biz.
 mega-gl.gl.		3600	IN	NS	luke.ns.cloudflare.com.
 mega-gl.gl.		3600	IN	NS	rosalie.ns.cloudflare.com.
 mega-mp.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
@@ -14462,6 +14466,10 @@ nuuksmykkerens.gl.	3600	IN	NS	ns2.simply.com.
 nuuksmykkerens.gl.	3600	IN	NS	ns3.simply.com.
 nuuksmykkerens.gl.	3600	IN	DS	43432 13 2 ED68294AFACCDC1DA2765724F7FE6C1D33ABDAEBEF120698C281C29C 4BAC2F87
 nuuksmykkerens.gl.	3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. EOGLvj9aZerH8ZDIoHH5pWoyjtUKfSqmCP+8ZKIqC0qKnPSqe948iuHU vIJo/vsaCfEtw5nVL5PZsSVyvQWfKa0ATVas/0Fzfc5EK4AKQ80xZrlB 0rBZW6NNclytiuER5y+l9NGIyMk11ruf6CvgGAQw3pPlII9OcXscLHvQ gJPNkj9pIvkGDOCYpjHWAgs4QfA5KhJeogxetYFFND2y+YviFtya7kUw dI7/I6EVxNfLGRdIaaedjlweGpqUco9jnjWgR7yq4IduhrwMk9yeS2CY cW7S+HZUIu3algfMtqpIHAS4h+PEWyMkYesq72fWNseH5LDDsKUm3vbq yjzrOg==
+nuuktag.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
+nuuktag.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
+nuuktag.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
+nuuktag.gl.		3600	IN	NS	ns4.bdm.microsoftonline.com.
 nuuktaxi.gl.		3600	IN	NS	ns1.curanet.dk.
 nuuktaxi.gl.		3600	IN	NS	ns2.curanet.dk.
 nuuktogo.gl.		3600	IN	NS	ns1.nunahosting.net.
@@ -14672,6 +14680,9 @@ ombudsmanden.gl.	3600	IN	NS	a.hosting.gl.
 ombudsmanden.gl.	3600	IN	NS	b.hosting.gl.
 ombudsmanden.gl.	3600	IN	NS	c.hosting.gl.
 ombudsmanden.gl.	3600	IN	NS	d.hosting.gl.
+ombudsmandi.gl.		3600	IN	NS	ns1.nukik.it.
+ombudsmandi.gl.		3600	IN	NS	ns2.nukik.it.
+ombudsmandi.gl.		3600	IN	NS	ns3.nukik.it.
 ome.gl.			3600	IN	NS	dion.ns.cloudflare.com.
 ome.gl.			3600	IN	NS	zariyah.ns.cloudflare.com.
 omega.gl.		3600	IN	NS	ns1a.dodns.net.
@@ -23043,4 +23054,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165475 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165487 900 1800 6048000 3600
