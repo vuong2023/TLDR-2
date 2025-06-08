@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060812 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060814 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1749384014"
+do.			3600	IN	TXT	"Generation Time: 1749391201"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -8106,6 +8106,8 @@ cdn.do.			3600	IN	NS	selah.ns.cloudflare.com.
 cdn.do.			3600	IN	NS	jerry.ns.cloudflare.com.
 cdndeportes.do.		3600	IN	NS	selah.ns.cloudflare.com.
 cdndeportes.do.		3600	IN	NS	jerry.ns.cloudflare.com.
+cdp.do.			3600	IN	NS	ns7061.banahosting.com.
+cdp.do.			3600	IN	NS	ns7062.banahosting.com.
 cdsa.do.		3600	IN	NS	ns1.justhost.com.
 cdsa.do.		3600	IN	NS	ns2.justhost.com.
 cdv.do.			3600	IN	NS	ns4.no-ip.com.
@@ -22415,10 +22417,8 @@ intercultura.do.	3600	IN	NS	ns2.eurodns.com.
 intercultura.do.	3600	IN	NS	ns1.eurodns.com.
 interdeco.do.		3600	IN	NS	ns15.wixdns.net.
 interdeco.do.		3600	IN	NS	ns14.wixdns.net.
-interdecohome.do.	3600	IN	NS	dns4.midominio.do.
-interdecohome.do.	3600	IN	NS	dns3.midominio.do.
-interdecohome.do.	3600	IN	NS	dns2.midominio.do.
-interdecohome.do.	3600	IN	NS	dns1.midominio.do.
+interdecohome.do.	3600	IN	NS	ns1.zagirova.design.
+interdecohome.do.	3600	IN	NS	ns2.zagirova.design.
 interdomain.do.		3600	IN	NS	ns1.interdomain.net.
 interdomain.do.		3600	IN	NS	ns2.interdomain.net.
 interenergy.do.		3600	IN	NS	ns4.hostchocolate.com.
@@ -47332,4 +47332,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060812 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060814 3600 3600 604800 3600
