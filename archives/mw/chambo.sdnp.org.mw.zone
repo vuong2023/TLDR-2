@@ -3,7 +3,7 @@
 ;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
 ;; no servers could be reached
 ;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1749427501 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1749441901 1800 600 604800 1800
 mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
 mw.			18000	IN	NS	ns4.apnic.net.
 mw.			18000	IN	NS	rip.psg.com.
@@ -226,9 +226,6 @@ afrika.mw.		18000	IN	NS	ns3.bdsmw.com.
 afrika.mw.		18000	IN	NS	ns4.bdsmw.com.
 afrimax.mw.		18000	IN	NS	ns35.namehero.net.
 afrimax.mw.		18000	IN	NS	ns36.namehero.net.
-afrimedical.mw.		18000	IN	NS	ns01.trademarkarea.com.
-afrimedical.mw.		18000	IN	NS	ns02.trademarkarea.com.
-afrimedical.mw.		18000	IN	NS	ns03.trademarkarea.com.
 afrox.mw.		18000	IN	NS	udns1.cscdns.net.
 afrox.mw.		18000	IN	NS	udns2.cscdns.uk.
 aglcybersolutions.mw.	18000	IN	NS	ns59.domaincontrol.com.
@@ -2055,8 +2052,6 @@ haleon.mw.		18000	IN	NS	dns2.safenames.net.
 haleon.mw.		18000	IN	NS	dns3.safenames.org.
 hallmark.mw.		18000	IN	NS	sns9.hostgator.in.
 hallmark.mw.		18000	IN	NS	sns10.hostgator.in.
-hao123.mw.		18000	IN	NS	sbyns01.baidu.com.
-hao123.mw.		18000	IN	NS	sbyns02.baidu.com.
 hardwareplumbing.mw.	18000	IN	NS	ns1.bdsmw.com.
 hardwareplumbing.mw.	18000	IN	NS	ns2.bdsmw.com.
 hardwareplumbing.mw.	18000	IN	NS	ns3.bdsmw.com.
@@ -4082,8 +4077,6 @@ pumaenergy.mw.		18000	IN	NS	ns6.netnames.net.
 puresave.mw.		18000	IN	NS	ns1.lexsynergy.net.
 puresave.mw.		18000	IN	NS	ns2.lexsynergy.us.
 puresave.mw.		18000	IN	NS	ns3.lexsynergy.info.
-puritysanitary.mw.	18000	IN	NS	ns1.dns-parking.com.
-puritysanitary.mw.	18000	IN	NS	ns2.dns-parking.com.
 pwc.mw.			18000	IN	NS	dns1.cscdns.net.
 pwc.mw.			18000	IN	NS	dns2.cscdns.net.
 pwcglobal.mw.		18000	IN	NS	dns1.cscdns.net.
@@ -5203,21 +5196,13 @@ whois.mw.		18000	IN	NS	pch1.nic.mw.
 whois.mw.		18000	IN	NS	domwe.sdn.mw.
 whois.mw.		18000	IN	NS	nyala.sdnp.org.mw.
 whois.mw.		18000	IN	NS	chambo.sdnp.org.mw.
-win.mw.			18000	IN	NS	edna.ns.cloudflare.com.
-win.mw.			18000	IN	NS	roan.ns.cloudflare.com.
-winabet.mw.		18000	IN	NS	edna.ns.cloudflare.com.
-winabet.mw.		18000	IN	NS	roan.ns.cloudflare.com.
 windows.mw.		18000	IN	NS	ns1-07.azure-dns.com.
 windows.mw.		18000	IN	NS	ns2-07.azure-dns.net.
 windows.mw.		18000	IN	NS	ns3-07.azure-dns.org.
 windows.mw.		18000	IN	NS	ns4-07.azure-dns.info.
-winnabet.mw.		18000	IN	NS	edna.ns.cloudflare.com.
-winnabet.mw.		18000	IN	NS	roan.ns.cloudflare.com.
 winner.mw.		18000	IN	NS	dns1.idp365.net.
 winner.mw.		18000	IN	NS	dns2.idp365.net.
 winner.mw.		18000	IN	NS	dns3.idp365.net.
-winnerbet.mw.		18000	IN	NS	edna.ns.cloudflare.com.
-winnerbet.mw.		18000	IN	NS	roan.ns.cloudflare.com.
 winstonandrichard.mw.	18000	IN	NS	ns1.bdsmw.com.
 winstonandrichard.mw.	18000	IN	NS	ns2.bdsmw.com.
 winstonandrichard.mw.	18000	IN	NS	ns3.bdsmw.com.
@@ -5368,4 +5353,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1749427501 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1749441901 1800 600 604800 1800
