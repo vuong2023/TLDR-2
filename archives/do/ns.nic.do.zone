@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060907 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060908 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1749452704"
+do.			3600	IN	TXT	"Generation Time: 1749456305"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -10767,9 +10767,8 @@ coremi.do.		3600	IN	NS	nolan.ns.cloudflare.com.
 coremi.do.		3600	IN	NS	gloria.ns.cloudflare.com.
 coretech.do.		3600	IN	NS	woz.ns.cloudflare.com.
 coretech.do.		3600	IN	NS	jamie.ns.cloudflare.com.
-cori.do.		3600	IN	NS	helium.ns.hetzner.de.
-cori.do.		3600	IN	NS	oxygen.ns.hetzner.com.
-cori.do.		3600	IN	NS	hydrogen.ns.hetzner.com.
+cori.do.		3600	IN	NS	ishaan.ns.cloudflare.com.
+cori.do.		3600	IN	NS	ryleigh.ns.cloudflare.com.
 corito.do.		3600	IN	NS	dns4.midominio.do.
 corito.do.		3600	IN	NS	dns3.midominio.do.
 corito.do.		3600	IN	NS	dns2.midominio.do.
@@ -47291,4 +47290,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060907 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060908 3600 3600 604800 3600
