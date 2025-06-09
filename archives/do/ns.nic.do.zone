@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060920 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060924 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1749499503"
+do.			3600	IN	TXT	"Generation Time: 1749511206"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -1330,6 +1330,10 @@ agenciadominicanadenoticias.do.	3600 IN	NS	dns1.midominio.do.
 agenciaseo.do.		3600	IN	NS	dns3.raiolanetworks.es.
 agenciaseo.do.		3600	IN	NS	dns2.raiolanetworks.es.
 agenciaseo.do.		3600	IN	NS	dns1.raiolanetworks.es.
+agenciatecnica.do.	3600	IN	NS	dns1.midominio.do.
+agenciatecnica.do.	3600	IN	NS	dns2.midominio.do.
+agenciatecnica.do.	3600	IN	NS	dns3.midominio.do.
+agenciatecnica.do.	3600	IN	NS	dns4.midominio.do.
 agenciaverde.do.	3600	IN	NS	ns-cloud-a4.googledomains.com.
 agenciaverde.do.	3600	IN	NS	ns-cloud-a3.googledomains.com.
 agenciaverde.do.	3600	IN	NS	ns-cloud-a2.googledomains.com.
@@ -7553,6 +7557,10 @@ carlosbienveni.do.	3600	IN	NS	dns4.midominio.do.
 carlosbienveni.do.	3600	IN	NS	dns3.midominio.do.
 carlosbienveni.do.	3600	IN	NS	dns2.midominio.do.
 carlosbienveni.do.	3600	IN	NS	dns1.midominio.do.
+carlosnouel.do.		3600	IN	NS	dns1.midominio.do.
+carlosnouel.do.		3600	IN	NS	dns2.midominio.do.
+carlosnouel.do.		3600	IN	NS	dns3.midominio.do.
+carlosnouel.do.		3600	IN	NS	dns4.midominio.do.
 carlosrodriguez.do.	3600	IN	NS	ns2.he.net.
 carlosrodriguez.do.	3600	IN	NS	ns3.he.net.
 carlosrodriguez.do.	3600	IN	NS	ns4.he.net.
@@ -12287,6 +12295,10 @@ deultimominuto.do.	3600	IN	NS	dns4.midominio.do.
 deultimominuto.do.	3600	IN	NS	dns3.midominio.do.
 deultimominuto.do.	3600	IN	NS	dns2.midominio.do.
 deultimominuto.do.	3600	IN	NS	dns1.midominio.do.
+deuno.do.		3600	IN	NS	dns1.midominio.do.
+deuno.do.		3600	IN	NS	dns2.midominio.do.
+deuno.do.		3600	IN	NS	dns3.midominio.do.
+deuno.do.		3600	IN	NS	dns4.midominio.do.
 deuter.do.		3600	IN	NS	ns5.i-net-server.net.
 deuter.do.		3600	IN	NS	ns2.i-net-hosting.net.
 deutsche-bank.do.	3600	IN	NS	ns.domainnetwork.se.
@@ -21841,14 +21853,10 @@ industrialferretera.do.	3600	IN	NS	ns3.bdm.microsoftonline.com.
 industrialferretera.do.	3600	IN	NS	ns2.bdm.microsoftonline.com.
 industrialferretera.do.	3600	IN	NS	ns1.bdm.microsoftonline.com.
 industrialferretera.do.	3600	IN	NS	ns4.bdm.microsoftonline.com.
-industrialferretera.do.	3600	IN	NS	ns1.industrialferretera.do.
-industrialferretera.do.	3600	IN	NS	ns2.industrialferretera.do.
 industrialferretera.do.	3600	IN	NS	dns1.midominio.do.
 industrialferretera.do.	3600	IN	NS	dns2.midominio.do.
 industrialferretera.do.	3600	IN	NS	dns3.midominio.do.
 industrialferretera.do.	3600	IN	NS	dns4.midominio.do.
-ns1.industrialferretera.do. 3600 IN	A	162.240.109.43
-ns2.industrialferretera.do. 3600 IN	A	162.240.109.43
 industriasbisono.do.	3600	IN	NS	ns2.s26.intodomain.net.
 industriasbisono.do.	3600	IN	NS	ns1.s26.intodomain.net.
 industriascorripio.do.	3600	IN	NS	dns4.midominio.do.
@@ -43492,6 +43500,10 @@ tusuplidor.do.		3600	IN	NS	ns4.dnsrubycom.com.
 tusuplidor.do.		3600	IN	NS	ns3.dnsrubycom.com.
 tusuplidor.do.		3600	IN	NS	ns2.dnsrubycom.com.
 tusuplidor.do.		3600	IN	NS	ns1.dnsrubycom.com.
+tutaroncando.do.	3600	IN	NS	dns1.midominio.do.
+tutaroncando.do.	3600	IN	NS	dns2.midominio.do.
+tutaroncando.do.	3600	IN	NS	dns3.midominio.do.
+tutaroncando.do.	3600	IN	NS	dns4.midominio.do.
 tutecho.do.		3600	IN	NS	dave.ns.cloudflare.com.
 tutecho.do.		3600	IN	NS	kim.ns.cloudflare.com.
 tutienda.do.		3600	IN	NS	derek.ns.cloudflare.com.
@@ -47257,4 +47269,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060920 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060924 3600 3600 604800 3600
