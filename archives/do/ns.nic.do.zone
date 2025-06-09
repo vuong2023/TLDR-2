@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060916 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060918 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1749485114"
+do.			3600	IN	TXT	"Generation Time: 1749492301"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -7557,6 +7557,8 @@ carlosrodriguez.do.	3600	IN	NS	ns4.he.net.
 carlosrodriguez.do.	3600	IN	NS	ns5.he.net.
 carlsjr.do.		3600	IN	NS	teresa.ns.cloudflare.com.
 carlsjr.do.		3600	IN	NS	luke.ns.cloudflare.com.
+carnaval.do.		3600	IN	NS	ns1.fastpark.net.
+carnaval.do.		3600	IN	NS	ns2.fastpark.net.
 carnavaldesantiago.do.	3600	IN	NS	mns01.domaincontrol.com.
 carnavaldesantiago.do.	3600	IN	NS	mns02.domaincontrol.com.
 carnavalvegano.do.	3600	IN	NS	ns2.dns-parking.com.
@@ -16946,10 +16948,8 @@ fiscal.do.		3600	IN	NS	dns4.midominio.do.
 fiscal.do.		3600	IN	NS	dns3.midominio.do.
 fiscal.do.		3600	IN	NS	dns2.midominio.do.
 fiscal.do.		3600	IN	NS	dns1.midominio.do.
-fiscalgo.do.		3600	IN	NS	dns1.midominio.do.
-fiscalgo.do.		3600	IN	NS	dns2.midominio.do.
-fiscalgo.do.		3600	IN	NS	dns3.midominio.do.
-fiscalgo.do.		3600	IN	NS	dns4.midominio.do.
+fiscalgo.do.		3600	IN	NS	frank.ns.cloudflare.com.
+fiscalgo.do.		3600	IN	NS	elinore.ns.cloudflare.com.
 fischer.do.		3600	IN	NS	ns.ugfischer.com.
 fischer.do.		3600	IN	NS	ns.do-ex.net.
 fischer.do.		3600	IN	NS	ns.do-ex.com.
@@ -18968,6 +18968,8 @@ goldpremium.do.		3600	IN	NS	dns4.midominio.do.
 goldpremium.do.		3600	IN	NS	dns3.midominio.do.
 goldpremium.do.		3600	IN	NS	dns2.midominio.do.
 goldpremium.do.		3600	IN	NS	dns1.midominio.do.
+golf.do.		3600	IN	NS	ns1.netfirms.com.
+golf.do.		3600	IN	NS	ns2.netfirms.com.
 golfdiamante.do.	3600	IN	NS	dns4.midominio.do.
 golfdiamante.do.	3600	IN	NS	dns3.midominio.do.
 golfdiamante.do.	3600	IN	NS	dns2.midominio.do.
@@ -32243,6 +32245,10 @@ pagina3.do.		3600	IN	NS	ns02.trademarkarea.com.
 pagina3.do.		3600	IN	NS	ns01.trademarkarea.com.
 paginasclaro.do.	3600	IN	NS	ns2.claro.net.do.
 paginasclaro.do.	3600	IN	NS	ns1.claro.net.do.
+paginasrd.do.		3600	IN	NS	dns1.midominio.do.
+paginasrd.do.		3600	IN	NS	dns2.midominio.do.
+paginasrd.do.		3600	IN	NS	dns3.midominio.do.
+paginasrd.do.		3600	IN	NS	dns4.midominio.do.
 paginauno.do.		3600	IN	NS	ns4.justhost.com.
 paginauno.do.		3600	IN	NS	ns3.justhost.com.
 paginauno.do.		3600	IN	NS	ns2.justhost.com.
@@ -33498,10 +33504,8 @@ playaesmeralda.do.	3600	IN	NS	dns4.midominio.do.
 playaesmeralda.do.	3600	IN	NS	dns3.midominio.do.
 playaesmeralda.do.	3600	IN	NS	dns2.midominio.do.
 playaesmeralda.do.	3600	IN	NS	dns1.midominio.do.
-playagrande.do.		3600	IN	NS	dns4.midominio.do.
-playagrande.do.		3600	IN	NS	dns3.midominio.do.
-playagrande.do.		3600	IN	NS	dns2.midominio.do.
-playagrande.do.		3600	IN	NS	dns1.midominio.do.
+playagrande.do.		3600	IN	NS	ridge.ns.cloudflare.com.
+playagrande.do.		3600	IN	NS	karsyn.ns.cloudflare.com.
 playapalmera.do.	3600	IN	NS	kara.ns.cloudflare.com.
 playapalmera.do.	3600	IN	NS	christian.ns.cloudflare.com.
 playboy.do.		3600	IN	NS	lovisa.ns.cloudflare.com.
@@ -39808,10 +39812,8 @@ sotocastillo.do.	3600	IN	NS	dns4.midominio.do.
 sotocastillo.do.	3600	IN	NS	dns3.midominio.do.
 sotocastillo.do.	3600	IN	NS	dns2.midominio.do.
 sotocastillo.do.	3600	IN	NS	dns1.midominio.do.
-soueast.do.		3600	IN	NS	dns4.midominio.do.
-soueast.do.		3600	IN	NS	dns3.midominio.do.
-soueast.do.		3600	IN	NS	dns2.midominio.do.
-soueast.do.		3600	IN	NS	dns1.midominio.do.
+soueast.do.		3600	IN	NS	ns73.domaincontrol.com.
+soueast.do.		3600	IN	NS	ns74.domaincontrol.com.
 soulmate.do.		3600	IN	NS	ns2.siteground.net.
 soulmate.do.		3600	IN	NS	ns1.siteground.net.
 sound.do.		3600	IN	NS	dns4.midominio.do.
@@ -47255,4 +47257,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060916 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060918 3600 3600 604800 3600
