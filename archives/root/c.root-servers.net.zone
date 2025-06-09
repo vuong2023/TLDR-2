@@ -1,3 +1,7 @@
+;; Connection to 192.33.4.12#53(192.33.4.12) for . failed: timed out.
+;; no servers could be reached
+;; Connection to 192.33.4.12#53(192.33.4.12) for . failed: timed out.
+;; no servers could be reached
 .			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025060900 1800 900 604800 86400
 .			172800	IN	RRSIG	DNSKEY 8 0 172800 20250621000000 20250531000000 20326 . OMU9xtNDTbhMygeOODnKn7sM8gg+NDJoj1Qa1dyzoRnDhIvq67KkiPK7 X5h6qiQ/89WCOwLIWORYwZ7UZrMJE55h3WQqX+e0dcOZ002r7h7LHFch p3+FelfpVB6xVc6LDTwAviLu5IjHoIX+dBMOvYJDc37mShBe2dqSpe1s IiveLkpAjYq7j1nwCbPCQwwtOaVi9dxrp+Ri32DJjoNYhkh0mMmn9z5F m8BS82fe7rE56wh37w4+P3OYw434flIE3M3Sv4suScPyDz63fHDi29S5 uGv5sMLI7Mi6rlj8wdXhXceiy7S3xnz+mH1y+fOpur38J5J1fNYqSdyw OGySkA==
 .			172800	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkse UOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLV rr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRP niYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSE KS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2F waR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1 Lmf7bcoL9yk=
