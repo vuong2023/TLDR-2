@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061120 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061121 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1749672308"
+do.			3600	IN	TXT	"Generation Time: 1749675909"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -20379,6 +20379,8 @@ hggroup.do.		3600	IN	NS	dns4.midominio.do.
 hggroup.do.		3600	IN	NS	dns3.midominio.do.
 hggroup.do.		3600	IN	NS	dns2.midominio.do.
 hggroup.do.		3600	IN	NS	dns1.midominio.do.
+hgl.do.			3600	IN	NS	ns14.wixdns.net.
+hgl.do.			3600	IN	NS	ns15.wixdns.net.
 hgr.do.			3600	IN	NS	ns2.imediazip.com.
 hgr.do.			3600	IN	NS	ns1.imediazip.com.
 hgrb.do.		3600	IN	NS	dns4.midominio.do.
@@ -28177,6 +28179,10 @@ miacargo.do.		3600	IN	NS	ns-1980.awsdns-55.co.uk.
 miacargo.do.		3600	IN	NS	ns-722.awsdns-26.net.
 miacargo.do.		3600	IN	NS	ns-424.awsdns-53.com.
 miacargo.do.		3600	IN	NS	ns-1387.awsdns-45.org.
+mialbi.do.		3600	IN	NS	dns1.midominio.do.
+mialbi.do.		3600	IN	NS	dns2.midominio.do.
+mialbi.do.		3600	IN	NS	dns3.midominio.do.
+mialbi.do.		3600	IN	NS	dns4.midominio.do.
 miamiadschool.do.	3600	IN	NS	ns03.trademarkarea.com.
 miamiadschool.do.	3600	IN	NS	ns02.trademarkarea.com.
 miamiadschool.do.	3600	IN	NS	ns01.trademarkarea.com.
@@ -33878,6 +33884,10 @@ portalnet.do.		3600	IN	NS	dns4.midominio.do.
 portalnet.do.		3600	IN	NS	dns3.midominio.do.
 portalnet.do.		3600	IN	NS	dns2.midominio.do.
 portalnet.do.		3600	IN	NS	dns1.midominio.do.
+portalpass.do.		3600	IN	NS	dns1.midominio.do.
+portalpass.do.		3600	IN	NS	dns2.midominio.do.
+portalpass.do.		3600	IN	NS	dns3.midominio.do.
+portalpass.do.		3600	IN	NS	dns4.midominio.do.
 portalpayments.do.	3600	IN	NS	dns4.midominio.do.
 portalpayments.do.	3600	IN	NS	dns3.midominio.do.
 portalpayments.do.	3600	IN	NS	dns2.midominio.do.
@@ -47339,4 +47349,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061120 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061121 3600 3600 604800 3600
