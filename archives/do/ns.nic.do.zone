@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061413 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061414 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1749906003"
+do.			3600	IN	TXT	"Generation Time: 1749909604"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -35002,8 +35002,10 @@ puntop.do.		3600	IN	NS	ns4.supercp.com.
 puntop.do.		3600	IN	NS	ns3.supercp.com.
 puntop.do.		3600	IN	NS	ns2.supercp.com.
 puntop.do.		3600	IN	NS	ns1.supercp.com.
-puntovisual.do.		3600	IN	NS	ns5.wixdns.net.
-puntovisual.do.		3600	IN	NS	ns4.wixdns.net.
+puntovisual.do.		3600	IN	NS	dns1.midominio.do.
+puntovisual.do.		3600	IN	NS	dns2.midominio.do.
+puntovisual.do.		3600	IN	NS	dns3.midominio.do.
+puntovisual.do.		3600	IN	NS	dns4.midominio.do.
 puntualpago.do.		3600	IN	NS	ns2.vultr.com.
 puntualpago.do.		3600	IN	NS	ns1.vultr.com.
 puntualpago.do.		3600	IN	NS	dns4.midominio.do.
@@ -37251,6 +37253,8 @@ rsvp.do.		3600	IN	NS	ns4.eurodns.com.
 rsvp.do.		3600	IN	NS	ns3.eurodns.com.
 rsvp.do.		3600	IN	NS	ns2.eurodns.com.
 rsvp.do.		3600	IN	NS	ns1.eurodns.com.
+rt.do.			3600	IN	NS	noel.ns.cloudflare.com.
+rt.do.			3600	IN	NS	itzel.ns.cloudflare.com.
 rteam.do.		3600	IN	NS	zara.ns.cloudflare.com.
 rteam.do.		3600	IN	NS	cartman.ns.cloudflare.com.
 rtlegal.do.		3600	IN	NS	dns4.midominio.do.
@@ -42985,6 +42989,9 @@ tradeinterceptor.do.	3600	IN	NS	ns2.lexsynergy.us.
 tradeinterceptor.do.	3600	IN	NS	ns1.lexsynergy.net.
 trader.do.		3600	IN	NS	ns2.eftydns.com.
 trader.do.		3600	IN	NS	ns1.eftydns.com.
+trading.do.		3600	IN	NS	ns1.netim.net.
+trading.do.		3600	IN	NS	ns2.netim.net.
+trading.do.		3600	IN	NS	ns3.netim.net.
 traditalia.do.		3600	IN	NS	dns4.midominio.do.
 traditalia.do.		3600	IN	NS	dns3.midominio.do.
 traditalia.do.		3600	IN	NS	dns2.midominio.do.
@@ -47430,4 +47437,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061413 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061414 3600 3600 604800 3600
