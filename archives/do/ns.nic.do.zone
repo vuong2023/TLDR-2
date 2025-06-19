@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061917 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061918 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1750352708"
+do.			3600	IN	TXT	"Generation Time: 1750356309"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -38019,10 +38019,24 @@ scotia.do.		3600	IN	NS	a1-85.akam.net.
 scotiabank.do.		3600	IN	NS	ns2.dan.com.
 scotiabank.do.		3600	IN	NS	ns1.dan.com.
 scotiabank.do.		3600	IN	NS	verification-g73vexlu.ns3.dan.hosting.
+scotiabanksingular.do.	3600	IN	NS	ns1.markmonitor.com.
+scotiabanksingular.do.	3600	IN	NS	ns2.markmonitor.com.
+scotiabanksingular.do.	3600	IN	NS	ns3.markmonitor.com.
+scotiabanksingular.do.	3600	IN	NS	ns4.markmonitor.com.
+scotiabanksingular.do.	3600	IN	NS	ns5.markmonitor.com.
+scotiabanksingular.do.	3600	IN	NS	ns6.markmonitor.com.
+scotiabanksingular.do.	3600	IN	NS	ns7.markmonitor.com.
 scotiagbs.do.		3600	IN	NS	dns4.midominio.do.
 scotiagbs.do.		3600	IN	NS	dns3.midominio.do.
 scotiagbs.do.		3600	IN	NS	dns2.midominio.do.
 scotiagbs.do.		3600	IN	NS	dns1.midominio.do.
+scotiasingular.do.	3600	IN	NS	ns1.markmonitor.com.
+scotiasingular.do.	3600	IN	NS	ns2.markmonitor.com.
+scotiasingular.do.	3600	IN	NS	ns3.markmonitor.com.
+scotiasingular.do.	3600	IN	NS	ns4.markmonitor.com.
+scotiasingular.do.	3600	IN	NS	ns5.markmonitor.com.
+scotiasingular.do.	3600	IN	NS	ns6.markmonitor.com.
+scotiasingular.do.	3600	IN	NS	ns7.markmonitor.com.
 scott-sports.do.	3600	IN	NS	ns-1058.awsdns-04.org.
 scott-sports.do.	3600	IN	NS	ns-170.awsdns-21.com.
 scouts.do.		3600	IN	NS	ns1.ipage.com.
@@ -39125,6 +39139,17 @@ sinetics.do.		3600	IN	NS	ns07.domaincontrol.com.
 sing.do.		3600	IN	NS	ns03.trademarkarea.com.
 sing.do.		3600	IN	NS	ns02.trademarkarea.com.
 sing.do.		3600	IN	NS	ns01.trademarkarea.com.
+singularbyscotiabank.do. 3600	IN	NS	dns1.midominio.do.
+singularbyscotiabank.do. 3600	IN	NS	dns2.midominio.do.
+singularbyscotiabank.do. 3600	IN	NS	dns3.midominio.do.
+singularbyscotiabank.do. 3600	IN	NS	dns4.midominio.do.
+singularscotiabank.do.	3600	IN	NS	ns1.markmonitor.com.
+singularscotiabank.do.	3600	IN	NS	ns2.markmonitor.com.
+singularscotiabank.do.	3600	IN	NS	ns3.markmonitor.com.
+singularscotiabank.do.	3600	IN	NS	ns4.markmonitor.com.
+singularscotiabank.do.	3600	IN	NS	ns5.markmonitor.com.
+singularscotiabank.do.	3600	IN	NS	ns6.markmonitor.com.
+singularscotiabank.do.	3600	IN	NS	ns7.markmonitor.com.
 sintel.do.		3600	IN	NS	dns4.midominio.do.
 sintel.do.		3600	IN	NS	dns3.midominio.do.
 sintel.do.		3600	IN	NS	dns2.midominio.do.
@@ -47487,4 +47512,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061917 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061918 3600 3600 604800 3600
