@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166996 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. Yds07kRfGxxr2ELJTVHGdJfO0QMm5JJd99QPUpkqztY8XSrRE0iNe5l3 mqmb/OvtF8cUTtYcxEORipUfdSLlJ/X7GUnnln0BZi0QGba2EYf9hojR FORUZM1KtvOR5Thht35rnfkvhXa4fJJaWfc1lVq5OFMNISEWMweTDr1j DUPC/QXV5EEDjKLWjxgycNYPwAvNykMgwd42uL+2dqqyGHsqUE6SbOQR liVgltx+SNQCLnWCtqRTLJ4wy2SLJ+5pIouo+00e/6LNuRwJo3uwbu26 3CDLBc1Z3YMSnYE1Gm970rEID1cjgYPBMAWJT3oo8wxj3sXdUEnhs7tz WxYJvA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166999 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. P60QfBazUoCqThr5Ie2IU6e9XslhwCVmete75Fpvit/Py81GZMbnkPvY NcpOujtHwu8aMj4icRJQOZtg8QIlqDLg9y7PfoXIzcOhGgBbDSMHWY/D JIER6HOmiIEn/eHdOUyZLO7hohcKn0JZtBaiJUy2zecFSoiyubRSuybj KlgT8N1mhL1OT+/757NCrND2JValfRb6fObQ/ClIJiz9O+MdKZqUoBlk cU++7i8jAiIwXs50btXMMnCz0lU59D+knUcjU9ydxg+CSD+g3rwOZIzN TZc5d1EIiASkxFCb0b10ns0yrPLdAhb1cx4yynWh/g/eydwah/wa4Kft ROIRnw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -981,9 +981,10 @@ alcoa.gl.		3600	IN	NS	edns1.ultradns.net.
 alcoa.gl.		3600	IN	NS	edns1.ultradns.org.
 alejen.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 alejen.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
-alex.gl.		3600	IN	NS	ns1163.hexonet.net.
-alex.gl.		3600	IN	NS	ns2212.hexonet.net.
-alex.gl.		3600	IN	NS	ns3213.hexonet.net.
+alex.gl.		3600	IN	NS	ns1.monikerdns.net.
+alex.gl.		3600	IN	NS	ns2.monikerdns.net.
+alex.gl.		3600	IN	NS	ns3.monikerdns.net.
+alex.gl.		3600	IN	NS	ns4.monikerdns.net.
 alexander.gl.		3600	IN	NS	ns-14-b.gandi.net.
 alexander.gl.		3600	IN	NS	ns-121-c.gandi.net.
 alexander.gl.		3600	IN	NS	ns-152-a.gandi.net.
@@ -2540,10 +2541,10 @@ beclub.gl.		3600	IN	NS	ns3.my-ndns.com.
 beclub.gl.		3600	IN	NS	ns4.my-ndns.com.
 becom.gl.		3600	IN	NS	may.ns.cloudflare.com.
 becom.gl.		3600	IN	NS	mark.ns.cloudflare.com.
-bee.gl.			3600	IN	NS	ns1.selectel.org.
-bee.gl.			3600	IN	NS	ns2.selectel.org.
-bee.gl.			3600	IN	NS	ns3.selectel.org.
-bee.gl.			3600	IN	NS	ns4.selectel.org.
+bee.gl.			3600	IN	NS	a.ns.selectel.ru.
+bee.gl.			3600	IN	NS	b.ns.selectel.ru.
+bee.gl.			3600	IN	NS	c.ns.selectel.ru.
+bee.gl.			3600	IN	NS	d.ns.selectel.ru.
 beglinger.gl.		3600	IN	NS	ns12.wixdns.net.
 beglinger.gl.		3600	IN	NS	ns13.wixdns.net.
 behrens.gl.		3600	IN	NS	erin.ns.cloudflare.com.
@@ -23029,4 +23030,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166996 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166999 900 1800 6048000 3600
