@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167186 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. Hbq2Kp2MiBrmsHzVE+ak2PEHAA4u6Po1xlHYPLsppNFRcG0HiX106vGi /pbkV7FR/bao8S+Xox4r+3ZyCzOYpso5w3Qy+A3dtZrm05PDgrBwhzg5 mcEiRL8sEzkkXC+DB8U10YOVPqXM8O+BEtVlp0kPhBuYxK8aKpSu6Dzk LljKeCDpQqYSwDEEuVWCYQuLT7nepVZtFsiyLQ/RIJl2nwVR4x+BGtmH yh4sUpeOxWWKh8maNo7JXECwSNem2/Ag1gQcL9VqaECFLx4qyDmvY+n3 3D01PfJQyuNEGOaZzZ7D0btYqZtvYQUnbAyEjMH4zuVoeC5VpXD+SEJj Qf5H1A==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167196 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. d8NqUEhTv83jT1zPFmKfojIk0YgK6aJTUu0/Wt9D0BeLoR7LLpXs1R9w Qh8p/KEc2K3Zl7Yfnz7CvaS4Ut67OsqYBm5SYCdpHuIFccss+jU9m5CL bKnDT8EYmYAnEK5AXrUotnLBQYqS+m79EN7WaHHZJ506LAvjkUC2krpZ GcoIGgIWuZn6LhwWdIS7mARAjIzuRvS92p6GJXn3VmUk9ipDJ+SZh3hJ nAYMtpY9lcRPR4c5SzL3uzOC/LS0LCRc1RUPRy19RUI3UEnUOo9dQSCI FmkOq9DEMD4hNjvObvXtIugvCFtzLWHF4rQlnnKOl9xKlQbjqfNpdp+t gW3KUQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -3507,8 +3507,6 @@ calendar.gl.		3600	IN	NS	ns03.trademarkarea.com.
 californiapsychics.gl.	3600	IN	NS	ns01.trademarkarea.com.
 californiapsychics.gl.	3600	IN	NS	ns02.trademarkarea.com.
 californiapsychics.gl.	3600	IN	NS	ns03.trademarkarea.com.
-callcenter-haas.gl.	3600	IN	NS	ns.checkdomain.de.
-callcenter-haas.gl.	3600	IN	NS	ns2.checkdomain.de.
 cam.gl.			3600	IN	NS	ns1.dan.com.
 cam.gl.			3600	IN	NS	ns2.dan.com.
 camilla.gl.		3600	IN	NS	ns1.simply.com.
@@ -5822,6 +5820,9 @@ faia.gl.		3600	IN	NS	ns.dinahosting.com.
 faia.gl.		3600	IN	NS	ns2.dinahosting.com.
 faia.gl.		3600	IN	NS	ns3.dinahosting.com.
 faia.gl.		3600	IN	NS	ns4.dinahosting.com.
+fair.gl.		3600	IN	NS	ns01.trademarkarea.com.
+fair.gl.		3600	IN	NS	ns02.trademarkarea.com.
+fair.gl.		3600	IN	NS	ns03.trademarkarea.com.
 fait.gl.		3600	IN	NS	hal.ns.cloudflare.com.
 fait.gl.		3600	IN	NS	donna.ns.cloudflare.com.
 fakoeleteknik.gl.	3600	IN	NS	a.hosting.gl.
@@ -23047,4 +23048,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167186 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167196 900 1800 6048000 3600
