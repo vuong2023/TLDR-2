@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025070719 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1751915109"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025070720 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1751918710"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -1973,8 +1973,8 @@ alflorex.do.		3600	IN	NS	ns3.netim.net.
 alflorex.do.		3600	IN	NS	ns2.netim.net.
 alflorex.do.		3600	IN	NS	ns1.netim.net.
 alflorex.do.		3600	IN	NS	ns5.netim.net.
-alfre.do.		3600	IN	NS	ns1.101domain.com.
-alfre.do.		3600	IN	NS	ns2.101domain.com.
+alfre.do.		3600	IN	NS	ns1.vercel-dns.com.
+alfre.do.		3600	IN	NS	ns2.vercel-dns.com.
 alfred.do.		3600	IN	NS	dns3.grupohost.net.
 alfred.do.		3600	IN	NS	dns2.grupohost.net.
 alfred.do.		3600	IN	NS	dns1.grupohost.net.
@@ -16893,10 +16893,8 @@ fika.do.		3600	IN	NS	ns2.digitalocean.com.
 fika.do.		3600	IN	NS	ns1.digitalocean.com.
 file.do.		3600	IN	NS	ns2.domain.io.
 file.do.		3600	IN	NS	ns1.domain.io.
-filedrop.do.		3600	IN	NS	pns34.cloudns.net.
-filedrop.do.		3600	IN	NS	pns33.cloudns.net.
-filedrop.do.		3600	IN	NS	pns32.cloudns.net.
-filedrop.do.		3600	IN	NS	pns31.cloudns.net.
+filedrop.do.		3600	IN	NS	coco.bunny.net.
+filedrop.do.		3600	IN	NS	kiki.bunny.net.
 fileshare.do.		3600	IN	NS	coco.bunny.net.
 fileshare.do.		3600	IN	NS	kiki.bunny.net.
 fillmed.do.		3600	IN	NS	ns4.eurodns.com.
@@ -20785,6 +20783,10 @@ homenet.do.		3600	IN	NS	dns2.midominio.do.
 homenet.do.		3600	IN	NS	dns1.midominio.do.
 homeofthewhopper.do.	3600	IN	NS	dns1.cscdns.net.
 homeofthewhopper.do.	3600	IN	NS	dns2.cscdns.net.
+homeplace.do.		3600	IN	NS	dns1.midominio.do.
+homeplace.do.		3600	IN	NS	dns2.midominio.do.
+homeplace.do.		3600	IN	NS	dns3.midominio.do.
+homeplace.do.		3600	IN	NS	dns4.midominio.do.
 homepros.do.		3600	IN	NS	dns4.midominio.do.
 homepros.do.		3600	IN	NS	dns3.midominio.do.
 homepros.do.		3600	IN	NS	dns2.midominio.do.
@@ -45255,10 +45257,18 @@ villa.do.		3600	IN	NS	ns0.bkngs.com.
 villa.do.		3600	IN	NS	ns1.bkngs.com.
 villa.do.		3600	IN	NS	ns2.bkngs.com.
 villa.do.		3600	IN	NS	ns3.bkngs.com.
+villacaleton55.do.	3600	IN	NS	dns1.midominio.do.
+villacaleton55.do.	3600	IN	NS	dns2.midominio.do.
+villacaleton55.do.	3600	IN	NS	dns3.midominio.do.
+villacaleton55.do.	3600	IN	NS	dns4.midominio.do.
 villacon.do.		3600	IN	NS	dns4.midominio.do.
 villacon.do.		3600	IN	NS	dns3.midominio.do.
 villacon.do.		3600	IN	NS	dns2.midominio.do.
 villacon.do.		3600	IN	NS	dns1.midominio.do.
+villacononline.do.	3600	IN	NS	dns1.midominio.do.
+villacononline.do.	3600	IN	NS	dns2.midominio.do.
+villacononline.do.	3600	IN	NS	dns3.midominio.do.
+villacononline.do.	3600	IN	NS	dns4.midominio.do.
 villadaniela.do.	3600	IN	NS	ns2.creadigital.net.
 villadaniela.do.	3600	IN	NS	ns1.creadigital.net.
 villadelmar.do.		3600	IN	NS	ns13.wixdns.net.
@@ -47611,4 +47621,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025070719 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025070720 3600 3600 604800 3600
