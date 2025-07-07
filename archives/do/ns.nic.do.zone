@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025070717 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1751907907"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025070719 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1751915109"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6160,6 +6160,10 @@ bonitorevoltiao.do.	3600	IN	NS	dns2.midominio.do.
 bonitorevoltiao.do.	3600	IN	NS	dns1.midominio.do.
 bonosccn.do.		3600	IN	NS	venkat.ns.cloudflare.com.
 bonosccn.do.		3600	IN	NS	paislee.ns.cloudflare.com.
+bontix.do.		3600	IN	NS	dns1.midominio.do.
+bontix.do.		3600	IN	NS	dns2.midominio.do.
+bontix.do.		3600	IN	NS	dns3.midominio.do.
+bontix.do.		3600	IN	NS	dns4.midominio.do.
 bonvoy.do.		3600	IN	NS	dns2.cscdns.net.
 bonvoy.do.		3600	IN	NS	dns1.cscdns.net.
 boo.do.			3600	IN	NS	ns1.lovellsnames.org.
@@ -13958,6 +13962,10 @@ e-ncf.do.		3600	IN	NS	dns4.midominio.do.
 e-ncf.do.		3600	IN	NS	dns3.midominio.do.
 e-ncf.do.		3600	IN	NS	dns2.midominio.do.
 e-ncf.do.		3600	IN	NS	dns1.midominio.do.
+e-salud.do.		3600	IN	NS	ns1.exclusivehosting.net.
+e-salud.do.		3600	IN	NS	ns3.exclusivehosting.net.
+e-salud.do.		3600	IN	NS	ns4.exclusivehosting.net.
+e-salud.do.		3600	IN	NS	ns5.exclusivehosting.net.
 e-sim.do.		3600	IN	NS	dns4.midominio.do.
 e-sim.do.		3600	IN	NS	dns3.midominio.do.
 e-sim.do.		3600	IN	NS	dns2.midominio.do.
@@ -26469,8 +26477,8 @@ macroseguridad.do.	3600	IN	NS	dns2.midominio.do.
 macroseguridad.do.	3600	IN	NS	dns1.midominio.do.
 macrotech.do.		3600	IN	NS	ns2.bluehost.com.
 macrotech.do.		3600	IN	NS	ns1.bluehost.com.
-macroweb.do.		3600	IN	NS	ns1.cgarciahidalgo.com.
-macroweb.do.		3600	IN	NS	ns2.cgarciahidalgo.com.
+macroweb.do.		3600	IN	NS	ns8916.banahosting.com.
+macroweb.do.		3600	IN	NS	ns8917.banahosting.com.
 mactv.do.		3600	IN	NS	ns7062.banahosting.com.
 mactv.do.		3600	IN	NS	ns7061.banahosting.com.
 madai.do.		3600	IN	NS	dns4.midominio.do.
@@ -44923,6 +44931,10 @@ verdalia.do.		3600	IN	NS	dns1.midominio.do.
 verdalia.do.		3600	IN	NS	dns2.midominio.do.
 verdalia.do.		3600	IN	NS	dns3.midominio.do.
 verdalia.do.		3600	IN	NS	dns4.midominio.do.
+verdelle.do.		3600	IN	NS	dns1.midominio.do.
+verdelle.do.		3600	IN	NS	dns2.midominio.do.
+verdelle.do.		3600	IN	NS	dns3.midominio.do.
+verdelle.do.		3600	IN	NS	dns4.midominio.do.
 verdeoliva.do.		3600	IN	NS	dns4.midominio.do.
 verdeoliva.do.		3600	IN	NS	dns3.midominio.do.
 verdeoliva.do.		3600	IN	NS	dns2.midominio.do.
@@ -47599,4 +47611,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025070717 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025070719 3600 3600 604800 3600
