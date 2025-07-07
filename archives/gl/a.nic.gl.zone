@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167229 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. Zy4O7Mn5BgQ1BtPDbtkAfZxQvb/Xz329MQakjC6rauxPfKNJ171FLRFg /nZi4uvAT1X7HEkvUdTNlyDlbNYjE6riiyQ4J3NW9tUFVjpaTezGqdJw n00D6SglFul8mVPMcT3nLgGQJnGNVxE6zNnk0SaasZhDKic3xsnCFAPI YZalrKGEG8YjZeutcFle9G/QxW6CPadR9QGcWNpSuSamog8iAJyPjSBp +cuKGPOAQgWkGyU9Gi2uPMpQOhclh6bTpVCC7CmXFRZS/wAr4+YoaIfC B6uKkH6rlBDhkrgCMxL54bvC5WyfAKP7YpP9JhTRhp2pyM9fDc//10ff ZZdWcA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167234 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. JXshll6YcLIMAIwJonSa8Kl4MNMQLAviPoQU3ghnXiNUHZztsW8RbjLM NIJAY/xOQtmUAO55u2ZD8yjq51jhjPDZX7fx9e4w9ctpZSU0pv3at0Am NN+mdslmOxiUvSNC0WyPFyD0SjbQn2J871tq045I+LoAY70ViGH9fQAI UvK7wuchTZ/QpcP33+2UBoDeKnb97Q1VlSQYOBSCIs/z35kP9Ii01uZZ 97jmsJKXUmqvmOeewSqfJwqliF5hFrxCk5k0sWAtZD63YzfMCDQvwBhW gKm6dZIjsi/uZp79yAKPrByv6VCh6vvtZ7lqXNeextsyOhngFzCWuKdK 8J8StA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -8770,6 +8770,9 @@ imaqice.gl.		3600	IN	NS	ns2.netsite.eu.
 imaqice.gl.		3600	IN	NS	ns3.netsite.se.
 imarmiik.gl.		3600	IN	NS	ns.scannet2.dk.
 imarmiik.gl.		3600	IN	NS	ns2.scannet2.dk.
+imarput.gl.		3600	IN	NS	ns1.simply.com.
+imarput.gl.		3600	IN	NS	ns2.simply.com.
+imarput.gl.		3600	IN	NS	ns3.simply.com.
 imeq.gl.		3600	IN	NS	ns1045.ui-dns.de.
 imeq.gl.		3600	IN	NS	ns1045.ui-dns.biz.
 imeq.gl.		3600	IN	NS	ns1045.ui-dns.org.
@@ -19482,9 +19485,10 @@ tonline.gl.		3600	IN	NS	ns1.lovellsnames.org.
 tonline.gl.		3600	IN	NS	ns3.lovellsnames.org.
 toogoodtogo.gl.		3600	IN	NS	vick.ns.cloudflare.com.
 toogoodtogo.gl.		3600	IN	NS	athena.ns.cloudflare.com.
-tool.gl.		3600	IN	NS	ns1172.ispapi.net.
-tool.gl.		3600	IN	NS	ns2220.ispapi.net.
-tool.gl.		3600	IN	NS	ns3189.ispapi.net.
+tool.gl.		3600	IN	NS	ns1.monikerdns.net.
+tool.gl.		3600	IN	NS	ns2.monikerdns.net.
+tool.gl.		3600	IN	NS	ns3.monikerdns.net.
+tool.gl.		3600	IN	NS	ns4.monikerdns.net.
 toolstation.gl.		3600	IN	NS	ns-cloud-d1.googledomains.com.
 toolstation.gl.		3600	IN	NS	ns-cloud-d2.googledomains.com.
 toolstation.gl.		3600	IN	NS	ns-cloud-d3.googledomains.com.
@@ -23049,4 +23053,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167229 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167234 900 1800 6048000 3600
