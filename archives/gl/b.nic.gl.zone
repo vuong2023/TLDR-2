@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167275 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. WiKRNi4FaLl914FuV5ZUKGTtGy6N3QgEleCVt37r07HMZDtDtjibHCkG skmYcLkA+FOIrmFvDIp+CehdtqbTq9kCQq9FoQiBJUOBMGHLUW7OqR2r xd1SCx4iLcR9Ut9ERZacCG9HEGzd0c3ATKaENDsWdZrencPMkiU7NP7g fvEY8YFM6sxiKtJCS/5XQkjW6POhOVpzormXRo9S6ZUC0um5PjQ/snCs 8U4vOGv9QdGPKrRE7SFrtVnCxgYCjgIc8IQbabgbOk6nwmO+0xhfX48k o9K7zLglE89lWbyDKF7W26fBZigaTHarZuS3zBq2Lp8A05LBSS3XpFbX LWQsiA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167286 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. ZB4XxR9U/o3eZVqjATYxQKcB7ZhevwV9KzfH1Poit8XIXApiMZ1mHNdf 5/A5pOEqwtOtXw2mNRb684zZGV6RFhm860rLkg3pNnjYTNzyQaeq1Q2m jIYEXoTqC0TQmL0J5xv4sb1S8XkIVwHNtkkI7PHvbbQVgPNOzAEatvDR 4xjEwV8OT5DLjUnZW4jHBpy1DWLIR0A0RBSH83yVVFfZXmF/DTacD+gX AOheg/Hk/b/ITm20tsoVxFApidywcKm98fqcL/N3KsxFtHWVF3XwNM6o Jz30JLR1Fq91LRhK6XWrnvlAyn1WknR+2WYNK+9o3VNqAGDUBXiy0Ec/ i2OkBQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -12706,9 +12706,8 @@ morningstar.gl.		3600	IN	NS	ns6.markmonitor.com.
 morningstar.gl.		3600	IN	NS	ns7.markmonitor.com.
 moroccanoil.gl.		3600	IN	NS	ns1.eurodns.com.
 moroccanoil.gl.		3600	IN	NS	ns2.eurodns.com.
-mot.gl.			3600	IN	NS	ns1.motasoft.net.
-mot.gl.			3600	IN	NS	ns2.motasoft.net.
-mot.gl.			3600	IN	NS	ns3.motasoft.net.
+mot.gl.			3600	IN	NS	brit.ns.cloudflare.com.
+mot.gl.			3600	IN	NS	mcgrory.ns.cloudflare.com.
 mot-mobility.gl.	3600	IN	NS	ns1.mot.com.
 mot-mobility.gl.	3600	IN	NS	ns2.mot.com.
 mot-mobility.gl.	3600	IN	NS	ns3.mot.com.
@@ -14992,6 +14991,11 @@ orderxl.gl.		3600	IN	NS	ns1.transip.nl.
 orderxl.gl.		3600	IN	NS	ns2.transip.eu.
 ore.gl.			3600	IN	NS	ns1.reg.ru.
 ore.gl.			3600	IN	NS	ns2.reg.ru.
+org.gl.			3600	IN	NS	a.nic.gl.
+org.gl.			3600	IN	NS	b.nic.gl.
+org.gl.			3600	IN	NS	d.nic.gl.
+org.gl.			3600	IN	NS	ns1.anycastdns.cz.
+org.gl.			3600	IN	NS	ns2.anycastdns.cz.
 organon.gl.		3600	IN	NS	ns6.customer.level3.net.
 organon.gl.		3600	IN	NS	ns9.customer.level3.net.
 organon.gl.		3600	IN	NS	cbru.br.ns.els-gms.att.net.
@@ -23086,4 +23090,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167275 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167286 900 1800 6048000 3600
