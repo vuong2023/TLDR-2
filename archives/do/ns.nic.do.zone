@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025070913 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1752066308"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025070914 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1752069909"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -16556,6 +16556,10 @@ fc.do.			3600	IN	NS	ns2.intodomain.net.
 fc.do.			3600	IN	NS	ns1.intodomain.net.
 fcrealty.do.		3600	IN	NS	ns2.easybroker.com.
 fcrealty.do.		3600	IN	NS	ns1.easybroker.com.
+fda.do.			3600	IN	NS	dns1.midominio.do.
+fda.do.			3600	IN	NS	dns2.midominio.do.
+fda.do.			3600	IN	NS	dns3.midominio.do.
+fda.do.			3600	IN	NS	dns4.midominio.do.
 fdde.do.		3600	IN	NS	gwen.ns.cloudflare.com.
 fdde.do.		3600	IN	NS	cleo.ns.cloudflare.com.
 fdp.do.			3600	IN	NS	ns9.wixdns.net.
@@ -30642,6 +30646,8 @@ nindo.do.		3600	IN	NS	dns4.midominio.do.
 nindo.do.		3600	IN	NS	dns3.midominio.do.
 nindo.do.		3600	IN	NS	dns2.midominio.do.
 nindo.do.		3600	IN	NS	dns1.midominio.do.
+nine.do.		3600	IN	NS	anna.ns.cloudflare.com.
+nine.do.		3600	IN	NS	duke.ns.cloudflare.com.
 ninebot.do.		3600	IN	NS	ns2.icp100.net.
 ninebot.do.		3600	IN	NS	ns1.icp100.net.
 ninemall.do.		3600	IN	NS	ns2.dns-parking.com.
@@ -44026,6 +44032,10 @@ uepa.do.		3600	IN	NS	ns3.uepa.com.
 uepa.do.		3600	IN	NS	ns4.uepa.com.
 ufinet.do.		3600	IN	NS	ns2.ufinetlatam.net.
 ufinet.do.		3600	IN	NS	ns1.ufinetlatam.net.
+ugo.do.			3600	IN	NS	dns1.midominio.do.
+ugo.do.			3600	IN	NS	dns2.midominio.do.
+ugo.do.			3600	IN	NS	dns3.midominio.do.
+ugo.do.			3600	IN	NS	dns4.midominio.do.
 ugotta.do.		3600	IN	NS	ns3.digitalocean.com.
 ugotta.do.		3600	IN	NS	ns2.digitalocean.com.
 ugotta.do.		3600	IN	NS	ns1.digitalocean.com.
@@ -47653,4 +47663,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025070913 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025070914 3600 3600 604800 3600
