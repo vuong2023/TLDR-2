@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071214 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1752328809"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071215 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1752332410"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -3260,6 +3260,10 @@ archive.do.		3600	IN	NS	dns4.p02.nsone.net.
 archive.do.		3600	IN	NS	dns3.p02.nsone.net.
 archive.do.		3600	IN	NS	dns2.p02.nsone.net.
 archive.do.		3600	IN	NS	dns1.p02.nsone.net.
+archivo.do.		3600	IN	NS	dns1.midominio.do.
+archivo.do.		3600	IN	NS	dns2.midominio.do.
+archivo.do.		3600	IN	NS	dns3.midominio.do.
+archivo.do.		3600	IN	NS	dns4.midominio.do.
 archos.do.		3600	IN	NS	ns4.hostchocolate.com.
 archos.do.		3600	IN	NS	ns3.hostchocolate.com.
 archos.do.		3600	IN	NS	ns2.hostchocolate.com.
@@ -47715,4 +47719,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071214 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071215 3600 3600 604800 3600
