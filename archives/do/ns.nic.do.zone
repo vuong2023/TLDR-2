@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071519 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1752606302"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071520 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1752609903"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -18514,6 +18514,10 @@ genevawindows.do.	3600	IN	NS	dns3.midominio.do.
 genevawindows.do.	3600	IN	NS	dns4.midominio.do.
 genia.do.		3600	IN	NS	hgns2.hostgator.com.
 genia.do.		3600	IN	NS	hgns1.hostgator.com.
+genial.do.		3600	IN	NS	dns1.midominio.do.
+genial.do.		3600	IN	NS	dns2.midominio.do.
+genial.do.		3600	IN	NS	dns3.midominio.do.
+genial.do.		3600	IN	NS	dns4.midominio.do.
 genialhome.do.		3600	IN	NS	dns4.midominio.do.
 genialhome.do.		3600	IN	NS	dns3.midominio.do.
 genialhome.do.		3600	IN	NS	dns2.midominio.do.
@@ -30411,6 +30415,8 @@ neveras.do.		3600	IN	NS	ns2.dns-parking.com.
 neveras.do.		3600	IN	NS	ns1.dns-parking.com.
 new.do.			3600	IN	NS	cormorant.dnspod.net.
 new.do.			3600	IN	NS	cow.dnspod.net.
+newagemedia.do.		3600	IN	NS	ns1.bluehost.com.
+newagemedia.do.		3600	IN	NS	ns2.bluehost.com.
 newbalanceteam.do.	3600	IN	NS	udns2.cscudns.org.
 newbalanceteam.do.	3600	IN	NS	udns1.cscudns.com.
 newbound.do.		3600	IN	NS	dns4.midominio.do.
@@ -32998,6 +33004,10 @@ pelliniespresso.do.	3600	IN	NS	ns2.register.it.
 pelliniespresso.do.	3600	IN	NS	ns1.register.it.
 pelomun.do.		3600	IN	NS	ns1145.hostgator.com.br.
 pelomun.do.		3600	IN	NS	ns1144.hostgator.com.br.
+peloton.do.		3600	IN	NS	ns1.hostchocolate.com.
+peloton.do.		3600	IN	NS	ns2.hostchocolate.com.
+peloton.do.		3600	IN	NS	ns3.hostchocolate.com.
+peloton.do.		3600	IN	NS	ns4.hostchocolate.com.
 peludepot.do.		3600	IN	NS	dns4.midominio.do.
 peludepot.do.		3600	IN	NS	dns3.midominio.do.
 peludepot.do.		3600	IN	NS	dns2.midominio.do.
@@ -47686,4 +47696,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071519 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071520 3600 3600 604800 3600
