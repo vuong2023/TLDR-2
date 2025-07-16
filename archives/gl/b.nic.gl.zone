@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167723 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. Zqad1xpn1KWDhjIDFInZkz77NYlHW2xF75QzrSOL5iRNs3pu/ptGLwxN I5bIRdOITU66aVN1UdQkjHaguKayndtH0G7Xj6xOCpX9RxJEMyXumR+z r5zRk5t+NDHLWyuRz/WUxym+tcj7Wg3YVdoWXCYT5BapE4ZlirFnr7Vc 2HGvgbFcO17BTwNTgnkDrnp33S/7bMFAvt/0qBlNN8gVJh3rUniyMMt9 4NzJVfiyGs9wFY4zEJVJIl7IXjIt4kOjEQiCt2Eo8T94EnCWflSqgBr/ m2Egfigs9s8hM4f77Cyx8+Qwdm824hp6QOcZ56gtss8CLiWrqs5XyW1H OzjH6w==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167735 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. dYLQBBB1dgpAO4bivqKkeJEI6TGzBoS+zcfMVz7rpl4giHnHIZf7gWy/ zu2ywWIJ5YyH93T/v8WW9nHpELDTOHalWyyZzQVMA3Kh6FBmK0HTjbNe HHJR03bwS+pYzEGM850U9N1J7CChxrZBLN6ADubodlAtbLl94IUrqTYk EMm+LOXylhRf/jlFbDGvNHj4MF3QnGv+I4BLCluImbus+6avnzubvZcr S/JIFUoGLVQ8AgwR9k07VwBUrgybLmvUCcS+6w+S30/XlUtfdtIyh3J9 jIOIUXKDZXYtOaWhJETXReAe72n3+P4WwDWlC6Sni5B+88svLoFrNv8P BhdyIw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4492,9 +4492,9 @@ demokraterne.gl.	3600	IN	NS	ns3.nunahosting.net.
 demokraterne.gl.	3600	IN	NS	ns4.nunahosting.net.
 den.gl.			3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. c9qFntZkJv+Lt9gtJuo1CalSYPMRZV+/Ne6kQEh+egM/GNK8WT280mfY s6VoDRs68pH/RG1GpDQd16jommfYVqQHvr8XpMzuFuYLVSzqeObbAPjN ajlkvulzTXcdas3f85dQSJbyEK3LBZjUNGkbQpBgvdlCWRcw4fkJrU96 z0BQyOsSAchauK+Oqy8Z1qhRqN4vrg+FWXrvZu7HhU3Jo27Dxqdn2C9s fAoZBo2DfGIIsCc4hGI2D9PD/n9TolUnWDD+kLquyCqLr3x9djmbGF+9 pZcL00ZINXmeNjDmpmbbiPIYLGlGYKTRHpph/RxyT3NrHsXp0q1iRUc9 8Bi5IA==
 den.gl.			3600	IN	DS	38195 8 2 A703EC96328DB2B011FA890FFDF9220F9B7794785101FF9AEE81F83C FBC1E183
-den.gl.			3600	IN	NS	ns1.netim.net.
-den.gl.			3600	IN	NS	ns2.netim.net.
-den.gl.			3600	IN	NS	ns3.netim.net.
+den.gl.			3600	IN	NS	ns1.routing.net.
+den.gl.			3600	IN	NS	ns2.routing.net.
+den.gl.			3600	IN	NS	ns3.routing.net.
 dentons.gl.		3600	IN	NS	dns1.p07.nsone.net.
 dentons.gl.		3600	IN	NS	dns2.p07.nsone.net.
 dentons.gl.		3600	IN	NS	dns3.p07.nsone.net.
@@ -6031,10 +6031,8 @@ firebrandtraining.gl.	3600	IN	NS	ns0.phase8.net.
 firebrandtraining.gl.	3600	IN	NS	ns1.phase8.net.
 firestone.gl.		3600	IN	NS	rns1.rightsdns.com.
 firestone.gl.		3600	IN	NS	rns2.rightsdns.com.
-firma.gl.		3600	IN	NS	ns1.nunahosting.net.
-firma.gl.		3600	IN	NS	ns2.nunahosting.net.
-firma.gl.		3600	IN	NS	ns3.nunahosting.net.
-firma.gl.		3600	IN	NS	ns4.nunahosting.net.
+firma.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
+firma.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 firstdirect.gl.		3600	IN	NS	ns3.hsbc.com.
 firstdirect.gl.		3600	IN	NS	ns6.hsbc.com.
 firstdirect.gl.		3600	IN	NS	ns20.hsbc.uk.
@@ -17729,8 +17727,10 @@ sisimiutfestival.gl.	3600	IN	NS	ns3.simply.com.
 sisimiutfestival.gl.	3600	IN	DS	54152 13 2 98FD499B63D9222E6ED7B95181117648F94D7CE228468B9FEF05AB13 7077C6A2
 sisimiutfestival.gl.	3600	IN	DS	54152 13 4 BD92ACADF50F489B90E5ABE5873698B560D82ECAA8C62B2ED7816B1C AE39B55831AAD0FFA911BBAE69647179F762F903
 sisimiutfestival.gl.	3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. Ed0FMEY+G/RiHqA4WA0JS6/u4QBsTaE8eyx0558hkn9+aRm/+P3FEtGg 2T9a7uaOvZcdJVdmgKtjpKAPvtQos1otdHSdIqdfRZVotH1lgAeJJH1B wOKqbz0bbZQeWxL4MO6bb1+CeFh4rBq7PkUlKuT1gwdaPaVZxtsLrqtG u7uHHQcPrM+YZm7yYTCpzPLxA4eD+lc9USClTHEu0RFiEB1/qplJYI7n o3GkXXm+dhAg9Pd66DjAB2KdsSNDcgLZIzzgN9W6FSJVbOTj8zGq9vL1 CcKzPQiLdnB9TyVkh89N063CpGZIv/vAt/bNgHtTb7k1WOGNN1HIKBQj CxhPJw==
-sisimiutoutdoor.gl.	3600	IN	NS	ns1.curanet.dk.
-sisimiutoutdoor.gl.	3600	IN	NS	ns2.curanet.dk.
+sisimiutoutdoor.gl.	3600	IN	NS	ns1.nunahosting.net.
+sisimiutoutdoor.gl.	3600	IN	NS	ns2.nunahosting.net.
+sisimiutoutdoor.gl.	3600	IN	NS	ns3.nunahosting.net.
+sisimiutoutdoor.gl.	3600	IN	NS	ns4.nunahosting.net.
 sisolie.gl.		3600	IN	NS	ns.scannet2.dk.
 sisolie.gl.		3600	IN	NS	ns2.scannet2.dk.
 sisorartartut.gl.	3600	IN	NS	ns1.nunahosting.net.
@@ -23035,4 +23035,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167723 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167735 900 1800 6048000 3600
