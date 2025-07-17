@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071720 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1752782709"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071721 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1752786310"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -39566,6 +39566,8 @@ smarticket.do.		3600	IN	NS	ns-1010.awsdns-62.net.
 smarticket.do.		3600	IN	NS	ns-78.awsdns-09.com.
 smarticket.do.		3600	IN	NS	ns-1372.awsdns-43.org.
 smarticket.do.		3600	IN	NS	ns-1907.awsdns-46.co.uk.
+smartidea.do.		3600	IN	NS	aaden.ns.cloudflare.com.
+smartidea.do.		3600	IN	NS	zariyah.ns.cloudflare.com.
 smartlink.do.		3600	IN	NS	ns3.mysecurecloudhost.com.
 smartlink.do.		3600	IN	NS	ns2.mysecurecloudhost.com.
 smartlink.do.		3600	IN	NS	ns1.mysecurecloudhost.com.
@@ -47713,4 +47715,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071720 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071721 3600 3600 604800 3600
