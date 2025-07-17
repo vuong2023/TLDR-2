@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071722 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1752789911"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071724 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1752794412"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -40594,6 +40594,8 @@ static.do.		3600	IN	NS	dns2.registrar-servers.com.
 static.do.		3600	IN	NS	dns1.registrar-servers.com.
 statoil.do.		3600	IN	NS	mailwa111.statoil.com.
 statoil.do.		3600	IN	NS	mailwa112.statoil.com.
+stats.do.		3600	IN	NS	bill.ns.cloudflare.com.
+stats.do.		3600	IN	NS	alina.ns.cloudflare.com.
 status.do.		3600	IN	NS	ns1.eurodns.com.
 status.do.		3600	IN	NS	ns2.eurodns.com.
 status.do.		3600	IN	NS	ns3.eurodns.com.
@@ -47723,4 +47725,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071722 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071724 3600 3600 604800 3600
