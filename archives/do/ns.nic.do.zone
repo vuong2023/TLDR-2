@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071623 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1752706802"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071704 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1752725107"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6228,6 +6228,8 @@ bord.do.		3600	IN	NS	rick.ns.cloudflare.com.
 bord.do.		3600	IN	NS	ophelia.ns.cloudflare.com.
 borda.do.		3600	IN	NS	tim.ns.cloudflare.com.
 borda.do.		3600	IN	NS	katelyn.ns.cloudflare.com.
+bordadossantodomingo.do. 3600	IN	NS	ns1.intodomain.net.
+bordadossantodomingo.do. 3600	IN	NS	ns2.intodomain.net.
 borkowski.do.		3600	IN	NS	ns1.server9.co.uk.
 borkowski.do.		3600	IN	NS	ns1.server3.co.uk.
 borogo.do.		3600	IN	NS	ns2.dnspro.com.br.
@@ -17409,6 +17411,10 @@ fms.do.			3600	IN	NS	ns2.hostchocolate.com.
 fms.do.			3600	IN	NS	ns1.hostchocolate.com.
 fn.do.			3600	IN	NS	brenda.ns.cloudflare.com.
 fn.do.			3600	IN	NS	ben.ns.cloudflare.com.
+foa.do.			3600	IN	NS	dns1.midominio.do.
+foa.do.			3600	IN	NS	dns2.midominio.do.
+foa.do.			3600	IN	NS	dns3.midominio.do.
+foa.do.			3600	IN	NS	dns4.midominio.do.
 focaldistance.do.	3600	IN	NS	dns4.midominio.do.
 focaldistance.do.	3600	IN	NS	dns3.midominio.do.
 focaldistance.do.	3600	IN	NS	dns2.midominio.do.
@@ -40355,6 +40361,8 @@ spooky.do.		3600	IN	NS	dns1.midominio.do.
 spooky.do.		3600	IN	NS	dns2.midominio.do.
 spooky.do.		3600	IN	NS	dns3.midominio.do.
 spooky.do.		3600	IN	NS	dns4.midominio.do.
+sport.do.		3600	IN	NS	ns1.eftydns.com.
+sport.do.		3600	IN	NS	ns2.eftydns.com.
 sportbrands.do.		3600	IN	NS	ns03.trademarkarea.com.
 sportbrands.do.		3600	IN	NS	ns02.trademarkarea.com.
 sportbrands.do.		3600	IN	NS	ns01.trademarkarea.com.
@@ -47714,4 +47722,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071623 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071704 3600 3600 604800 3600
