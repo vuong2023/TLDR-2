@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025071705 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025071708 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1752739294"
+ps.			86400	IN	TXT	"Generation Time: 1752760899"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -3565,6 +3565,8 @@ buthor.ps.		86400	IN	NS	dns1.registrar-servers.com.
 buthor.ps.		86400	IN	NS	dns2.registrar-servers.com.
 butterfly.ps.		86400	IN	NS	ns1.nsresponse.com.
 butterfly.ps.		86400	IN	NS	ns2.nsresponse.com.
+buyexpress.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+buyexpress.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 buygame.ps.		86400	IN	NS	ns1.parkingcrew.net.
 buygame.ps.		86400	IN	NS	ns2.parkingcrew.net.
 buygames.ps.		86400	IN	NS	eva.ns.cloudflare.com.
@@ -3751,8 +3753,6 @@ carseer.ps.		86400	IN	NS	vita.ns.cloudflare.com.
 carseer.ps.		86400	IN	NS	bjorn.ns.cloudflare.com.
 carta.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 carta.ps.		86400	IN	NS	ns2.injazatcloud.ps.
-cartech.ps.		86400	IN	NS	ns1.injazatcloud.ps.
-cartech.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 cartoonnetwork.ps.	86400	IN	NS	ns-96.awsdns-12.com.
 cartoonnetwork.ps.	86400	IN	NS	ns-711.awsdns-24.net.
 cartoonnetwork.ps.	86400	IN	NS	ns-1517.awsdns-61.org.
@@ -4792,6 +4792,8 @@ desiolens.ps.		86400	IN	NS	ns1.register.it.
 desiolens.ps.		86400	IN	NS	ns2.register.it.
 deskto.ps.		86400	IN	NS	ns1.superblock.net.
 deskto.ps.		86400	IN	NS	ns2.superblock.net.
+dev.ps.			86400	IN	NS	ns1.101domain.com.
+dev.ps.			86400	IN	NS	ns2.101domain.com.
 developer.ps.		86400	IN	NS	ns1.digitalocean.com.
 developer.ps.		86400	IN	NS	ns2.digitalocean.com.
 developer.ps.		86400	IN	NS	ns3.digitalocean.com.
@@ -5777,6 +5779,8 @@ evolve.ps.		86400	IN	NS	ns3.webhost.company.
 evoswitch.ps.		86400	IN	NS	ns1.leaseweb.nl.
 evoswitch.ps.		86400	IN	NS	ns4.leaseweb.net.
 evoswitch.ps.		86400	IN	NS	ns5.leaseweb.nl.
+ewan.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+ewan.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 ewcs.ps.		86400	IN	NS	rob.ns.cloudflare.com.
 ewcs.ps.		86400	IN	NS	emma.ns.cloudflare.com.
 ewer.ps.		86400	IN	NS	gold1.bodhosting.com.
@@ -6234,8 +6238,6 @@ fleurop.ps.		86400	IN	NS	dns1.fleurop.com.
 fleurop.ps.		86400	IN	NS	dns2.fleurop.com.
 flex.ps.		86400	IN	NS	ns1.atyaf.co.
 flex.ps.		86400	IN	NS	ns2.atyaf.co.
-flexi.ps.		86400	IN	NS	ns1.dns-parking.com.
-flexi.ps.		86400	IN	NS	ns2.dns-parking.com.
 flexlinksystems.ps.	86400	IN	NS	ns1.zaccodns.com.
 flexlinksystems.ps.	86400	IN	NS	ns2.zaccodns.se.
 flexlinksystems.ps.	86400	IN	NS	dns1.zaccodigitaltrustlabs.com.
@@ -7399,6 +7401,9 @@ hayfacenter.ps.		86400	IN	NS	beth.ns.cloudflare.com.
 hayfacenter.ps.		86400	IN	NS	todd.ns.cloudflare.com.
 hayyan.ps.		86400	IN	NS	ns09.domaincontrol.com.
 hayyan.ps.		86400	IN	NS	ns10.domaincontrol.com.
+hazar.ps.		86400	IN	NS	ns1.contabo.net.
+hazar.ps.		86400	IN	NS	ns2.contabo.net.
+hazar.ps.		86400	IN	NS	ns3.contabo.net.
 hbomax.ps.		86400	IN	NS	ns1.markmonitor.com.
 hbomax.ps.		86400	IN	NS	ns2.markmonitor.com.
 hbomax.ps.		86400	IN	NS	ns3.markmonitor.com.
@@ -18311,6 +18316,8 @@ wescript.ps.		86400	IN	NS	hosting01.mada.ps.
 wescript.ps.		86400	IN	NS	hosting02.mada.ps.
 weststar.ps.		86400	IN	NS	cdns1.hadara.ps.
 weststar.ps.		86400	IN	NS	cdns2.hadara.ps.
+wesure.ps.		86400	IN	NS	cdns1.hadara.ps.
+wesure.ps.		86400	IN	NS	cdns2.hadara.ps.
 wetech.ps.		86400	IN	NS	ns897.websitewelcome.com.
 wetech.ps.		86400	IN	NS	ns898.websitewelcome.com.
 wework.ps.		86400	IN	NS	ns1.markmonitor.com.
@@ -18925,4 +18932,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025071705 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025071708 86400 7200 3600000 172800
