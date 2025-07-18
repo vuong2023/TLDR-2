@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071806 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1752818405"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071808 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1752825606"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -37220,6 +37220,9 @@ ron100fuegos.do.	3600	IN	NS	ns02.trademarkarea.com.
 ron100fuegos.do.	3600	IN	NS	ns01.trademarkarea.com.
 ronal.do.		3600	IN	NS	ray.ns.cloudflare.com.
 ronal.do.		3600	IN	NS	lola.ns.cloudflare.com.
+ronaldo-club.do.	3600	IN	NS	1-you.njalla.no.
+ronaldo-club.do.	3600	IN	NS	2-can.njalla.in.
+ronaldo-club.do.	3600	IN	NS	3-get.njalla.fo.
 ronbarbanegra.do.	3600	IN	NS	ns03.trademarkarea.com.
 ronbarbanegra.do.	3600	IN	NS	ns02.trademarkarea.com.
 ronbarbanegra.do.	3600	IN	NS	ns01.trademarkarea.com.
@@ -39864,6 +39867,8 @@ solares.do.		3600	IN	NS	ns2.vercel-dns.com.
 solares.do.		3600	IN	NS	ns1.vercel-dns.com.
 solariza.do.		3600	IN	NS	ns1.intodomain.net.
 solariza.do.		3600	IN	NS	ns2.intodomain.net.
+solarmovie.do.		3600	IN	NS	ns1.ag614.parklogic.com.
+solarmovie.do.		3600	IN	NS	ns2.ag614.parklogic.com.
 solarpanel.do.		3600	IN	NS	ns2.acs.pl.
 solarpanel.do.		3600	IN	NS	ns1.acs.pl.
 solartech.do.		3600	IN	NS	dns4.midominio.do.
@@ -47725,4 +47730,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071806 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071808 3600 3600 604800 3600
