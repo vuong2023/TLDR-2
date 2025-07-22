@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072217 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1753203613"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072218 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1753207214"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -37917,10 +37917,10 @@ sasol.do.		3600	IN	NS	ns1.lexsynergy.net.
 sasol.do.		3600	IN	NS	ns2.lexsynergy.us.
 sasoloil.do.		3600	IN	NS	ns1.lexsynergy.net.
 sasoloil.do.		3600	IN	NS	ns2.lexsynergy.us.
-sat.do.			3600	IN	NS	dns4.midominio.do.
-sat.do.			3600	IN	NS	dns3.midominio.do.
-sat.do.			3600	IN	NS	dns2.midominio.do.
-sat.do.			3600	IN	NS	dns1.midominio.do.
+sat.do.			3600	IN	NS	ns1.sat.do.
+sat.do.			3600	IN	NS	ns2.sat.do.
+ns1.sat.do.		3600	IN	A	38.110.1.45
+ns2.sat.do.		3600	IN	A	38.110.1.45
 satalentum.do.		3600	IN	NS	dns4.midominio.do.
 satalentum.do.		3600	IN	NS	dns3.midominio.do.
 satalentum.do.		3600	IN	NS	dns2.midominio.do.
@@ -41779,6 +41779,8 @@ techofeliz.do.		3600	IN	NS	dns4.midominio.do.
 techofeliz.do.		3600	IN	NS	dns3.midominio.do.
 techofeliz.do.		3600	IN	NS	dns2.midominio.do.
 techofeliz.do.		3600	IN	NS	dns1.midominio.do.
+techplus.do.		3600	IN	NS	ns7061.banahosting.com.
+techplus.do.		3600	IN	NS	ns7062.banahosting.com.
 techron.do.		3600	IN	NS	dns2.cscdns.net.
 techron.do.		3600	IN	NS	dns1.cscdns.net.
 techtu.do.		3600	IN	NS	ns01.globo.com.
@@ -47684,4 +47686,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072217 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072218 3600 3600 604800 3600
