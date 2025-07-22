@@ -1,3 +1,7 @@
+;; Connection to 192.112.36.4#53(192.112.36.4) for arpa. failed: timed out.
+;; no servers could be reached
+;; Connection to 192.112.36.4#53(192.112.36.4) for arpa. failed: timed out.
+;; no servers could be reached
 arpa.			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025072101 1800 900 604800 86400
 arpa.			172800	IN	RRSIG	DNSKEY 8 1 172800 20250811000000 20250721000000 42581 arpa. CyPQE2mD6YgGiEsyP2rFRWLWG4wP63cxUZ+1JwrtXWomYsrseduRNZdE MedFTSipY5CpgGBf+jJeMUN6VaoocT14idqmG5Ov9W+Bv+dBejiYzexC lTPDDbzXmapqHmyjHj+Cz61rIvB1iVWQvQqKXG+d/ddpyFCTDQOuVIe7 EJ4E+iVCYtRdN5K2W1lPEajrXg7Rm/sA7Ueg7bXiVeSLeijhBPSwj+To 9xFLKcpWtjGFAuc2lv5H6i5X6kFBdi2a5AGHG6SErQi0W+bNiYKAnuCT qtrNQW0PPSy71U5tYGcHgL5kIksaDsfBc4S5tsgQzh6rPyrl6VUlW1WW a9Nkew==
 arpa.			172800	IN	DNSKEY	256 3 8 AwEAAaxVS7jv2G8zTT8kILwbkXhLmi4Wl/AYwiWB796nyAELDndflcYs uhJ1liwRFMeudX0eMgxn8dJHSNEgZjI92e9umek4Q7ng7GWGGjivljHF 4LFqo6NX48SU2V4JV8Vlxw9ABqlfSW1VCCkUS+vT+DnPOJXCzfGg2IZq 56T9l/ZCSA786nnShQXMyNktLtfjAWZ36egwvq0ITllaTDF+CzVZUpSO 9aE/g69b7VzqXWsOby97D+9hsTlaPVPsCQMb8kKTpXpn8kfftV/Em+Zm G84b+UM3YMB0zmwIsXbSlIGRHlK0Bv76QcX1fcQScqLSkx3Y34AosqId xXuqd457ZYM=
