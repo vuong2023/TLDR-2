@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168116 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. KPCDafDQYimxDxOkBm8sAHFxUJVTloudfZ15rFvMktbv0/1wCPim8rlB pV+heqAaUCT8gjx/G+mMqV2201zy4vtf5VAM0gjml9cUeFZDJEkVCy54 qgZ067gniqLjder+j6zt7EFhrje5Nen+igzP9p6tM94UDv/DE3pbV5Iw UP4wwIV6isy5SSWHa87yF7W9OMBuxYFCqDg016XipoHX/W+NUStpxNhN fm1qSZzxmf0ASOu3kRuwYzYPg7qfoNS0SG6vb0rf6yuT776jRjvFme3Y JEwQZ2jbiGx70xaU956x/Vlx28lNQsp/Jejhoye59KrcinfZwYM5bMr0 VoJcPw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168120 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. Ag7lYvBlNHLQEpNrpjEwljxTQF/Gv2r8wUh0mvD6yzUURQGDBMLBqoXz 6PCWPonNQlg40fv/PTsIChoQz23kRtXWQxfvhGKlkP27RGHAiaXwnJox Z2tzWX4b5/oGS/OXibwb7k+j5VQps9HwUj/u2H+Sh2wt82DX2rLctmMf DsQ9Oz+kzHPNq1v4P2uMevphlM51qvigF7pN17bk1DdiE2sKHOy8Vh1G n0Ml0255SjOWjE93KR/2Cf6SsKn14Q3/CNE1G9ihGYIfHTIK//Ioi5Da pA44RleYpKPRAcms/1t6W7H8F/3Dp/oZik55Waij6h8kekMwTyEZSNoY QDugrw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -9528,7 +9528,12 @@ jc.gl.			3600	IN	NS	ns2.jonascu.arvixevps.com.
 jci.gl.			3600	IN	NS	a.hosting.gl.
 jci.gl.			3600	IN	NS	b.hosting.gl.
 jci.gl.			3600	IN	NS	c.hosting.gl.
-jci.gl.			3600	IN	NS	d.hosting.gl.
+jci.gl.			3600	IN	NS	ns31.cloudns.net.
+jci.gl.			3600	IN	NS	ns32.cloudns.net.
+jci.gl.			3600	IN	NS	ns33.cloudns.net.
+jci.gl.			3600	IN	NS	pns31.cloudns.net.
+jci.gl.			3600	IN	NS	pns33.cloudns.net.
+jci.gl.			3600	IN	NS	pns34.cloudns.net.
 jd.gl.			3600	IN	NS	ns1.dan.com.
 jd.gl.			3600	IN	NS	ns2.dan.com.
 jde.gl.			3600	IN	NS	dns1.cscdns.net.
@@ -15023,6 +15028,10 @@ ourensecultura.gl.	3600	IN	NS	dns1.cloudunificado.com.
 ourensecultura.gl.	3600	IN	NS	dns2.cloudunificado.com.
 out.gl.			3600	IN	NS	ns1-coming-soon.sav.com.
 out.gl.			3600	IN	NS	ns2-coming-soon.sav.com.
+outdoor.gl.		3600	IN	NS	ns1.omninet.dk.
+outdoor.gl.		3600	IN	NS	ns2.omninet.dk.
+outdoor.gl.		3600	IN	NS	ns3.omninet.dk.
+outdoor.gl.		3600	IN	NS	ns4.omninet.dk.
 outdoor-living.gl.	3600	IN	NS	a.hosting.gl.
 outdoor-living.gl.	3600	IN	NS	b.hosting.gl.
 outdoor-living.gl.	3600	IN	NS	c.hosting.gl.
@@ -23071,4 +23080,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168116 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168120 900 1800 6048000 3600
