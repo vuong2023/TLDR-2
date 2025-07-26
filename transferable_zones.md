@@ -23,6 +23,7 @@
 * `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
 * `ph` via `1.ns.ph.`: [Click here to view zone data.](archives/ph/1.ns.ph.zone)
 * `ps` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/ps/ns1.pnina.ps.zone)
+* `sz` via `ns1.sispa.org.sz.`: [Click here to view zone data.](archives/sz/ns1.sispa.org.sz.zone)
 * `tc` via `root2.zone.tc.`: [Click here to view zone data.](archives/tc/root2.zone.tc.zone)
 * `tj` via `ns2.tojikiston.com.`: [Click here to view zone data.](archives/tj/ns2.tojikiston.com.zone)
 * `xn--1qqw23a` via `td.ngtld.cn.`: [Click here to view zone data.](archives/xn--1qqw23a/td.ngtld.cn.zone)
@@ -32,4 +33,4 @@
 * `xn--mgbtx2b` via `ns.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/ns.cmc.iq.zone)
 * `xn--wgbh1c` via `ns1.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/ns1.dotmasr.eg.zone)
 * `xn--xhq521b` via `td.ngtld.cn.`: [Click here to view zone data.](archives/xn--xhq521b/td.ngtld.cn.zone)
-* `xn--ygbi2ammx` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/ns1.pnina.ps.zone)
+* `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
