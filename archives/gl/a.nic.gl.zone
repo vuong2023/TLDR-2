@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168384 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. HawF2PfhgBgOS72AHNgay0Krp0ePAlpUHeuzEOhFttCZAcnB5oJ2r/Wz lksZwvepQCuHCXBEuO/FXOttRa21ihhcXUHzl6zMvBlncyqWhSN39uIC 0gaqLe0PDqe3pRgprqZo/RDAKGEkCyMNG8c8E9xESG3FTm0o5eBmT4gR FLfImHPPPZCL0KWuKnkT5GeEndVc0ewQlmg1+8aR1lFJU/KxZqOePYNO 0VBMSvaK42RFpx5p0F2fttbqHlaRIbEXyH5fA052FAEdGCm3B/uDLaZP 5LUfL9E+zL9L3rx8xXyDXOF5svzNHvMak1uCeCIzmjgAM8THtZTq9k6s q4LwlQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168393 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. VcYWxmo1A7ovwBwANCk1PWwQahvck/5fWWBUrqjUHvF9pkn/yTEx/wOD ysqyg/tXsS2HBsBEhEIjck5o2LDOsDt9eVWfMDeJwCRx56sHaoIYaKLV QSVcuyAnuJakImQWJa/jVksWZddtt/N5iNTN1+HEvmSHN1qRPlfk/Alm 9WWzFs1UIFFGCaf5dXx3OCN2Z9VEOPL6nRddUaAvOMeMerOYujWKANo9 fhs7zVC0g8kwnmxRKBhj22OHUzSznKvZCrXBF8z5TM/llGGyla3urCPO OnoZtGKxXhj0bDqwRILOqXUKy5qGcA/B5noCy3XXwEKXJ2/hl6qB+abZ K0C8xA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -16,10 +16,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20251005090000 20250717090000 57390 gl. c7ziJ2
 0.gl.			3600	IN	NS	ns2.fruits.co.
 00.gl.			3600	IN	NS	ns1.registry-server.com.
 00.gl.			3600	IN	NS	ns2.registry-server.com.
-000.gl.			3600	IN	NS	pns61.cloudns.net.
-000.gl.			3600	IN	NS	pns62.cloudns.com.
-000.gl.			3600	IN	NS	pns63.cloudns.net.
-000.gl.			3600	IN	NS	pns64.cloudns.uk.
+000.gl.			3600	IN	NS	n1.xundns.com.
+000.gl.			3600	IN	NS	n2.xundns.com.
 01.gl.			3600	IN	NS	gwen.ns.cloudflare.com.
 01.gl.			3600	IN	NS	yevgen.ns.cloudflare.com.
 02202.gl.		3600	IN	NS	ns01.ondns.de.
@@ -52,10 +50,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20251005090000 20250717090000 57390 gl. c7ziJ2
 10kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 11.gl.			3600	IN	NS	n1.xundns.com.
 11.gl.			3600	IN	NS	n2.xundns.com.
-111.gl.			3600	IN	NS	pns61.cloudns.net.
-111.gl.			3600	IN	NS	pns62.cloudns.com.
-111.gl.			3600	IN	NS	pns63.cloudns.net.
-111.gl.			3600	IN	NS	pns64.cloudns.uk.
+111.gl.			3600	IN	NS	n1.xundns.com.
+111.gl.			3600	IN	NS	n2.xundns.com.
 113.gl.			3600	IN	NS	ns1.wannafind.dk.
 113.gl.			3600	IN	NS	ns2.wannafind.dk.
 11kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
@@ -291,10 +287,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20251005090000 20250717090000 57390 gl. c7ziJ2
 42.gl.			3600	IN	NS	ns16.asurahosting.com.
 44.gl.			3600	IN	NS	ns1.dns.com.
 44.gl.			3600	IN	NS	ns2.dns.com.
-444.gl.			3600	IN	NS	pns61.cloudns.net.
-444.gl.			3600	IN	NS	pns62.cloudns.com.
-444.gl.			3600	IN	NS	pns63.cloudns.net.
-444.gl.			3600	IN	NS	pns64.cloudns.uk.
+444.gl.			3600	IN	NS	n1.xundns.com.
+444.gl.			3600	IN	NS	n2.xundns.com.
 45177.gl.		3600	IN	NS	ns1.netsto.net.
 45177.gl.		3600	IN	NS	ns2.netsto.net.
 49.gl.			3600	IN	NS	a4.share-dns.com.
@@ -6757,9 +6751,8 @@ gg.gl.			3600	IN	NS	donald.ns.cloudflare.com.
 ggc.gl.			3600	IN	NS	ns1.dns.services.
 ggc.gl.			3600	IN	NS	ns2.dns.services.
 ggc.gl.			3600	IN	NS	ns3.dns.services.
-ggl.gl.			3600	IN	NS	ns10.nicnames.com.
-ggl.gl.			3600	IN	NS	ns11.nicnames.com.
-ggl.gl.			3600	IN	NS	ns12.nicnames.com.
+ggl.gl.			3600	IN	NS	seamus.ns.cloudflare.com.
+ggl.gl.			3600	IN	NS	kristin.ns.cloudflare.com.
 ggmgastro.gl.		3600	IN	NS	dns.teamartwork.com.
 ggmgastro.gl.		3600	IN	NS	dns2.teamartwork.com.
 ggnuuk.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
@@ -15029,6 +15022,10 @@ ourensecultura.gl.	3600	IN	NS	dns1.cloudunificado.com.
 ourensecultura.gl.	3600	IN	NS	dns2.cloudunificado.com.
 out.gl.			3600	IN	NS	ns1-coming-soon.sav.com.
 out.gl.			3600	IN	NS	ns2-coming-soon.sav.com.
+outdoor.gl.		3600	IN	NS	ns1.omninet.dk.
+outdoor.gl.		3600	IN	NS	ns2.omninet.dk.
+outdoor.gl.		3600	IN	NS	ns3.omninet.dk.
+outdoor.gl.		3600	IN	NS	ns4.omninet.dk.
 outdoor-living.gl.	3600	IN	NS	a.hosting.gl.
 outdoor-living.gl.	3600	IN	NS	b.hosting.gl.
 outdoor-living.gl.	3600	IN	NS	c.hosting.gl.
@@ -17958,8 +17955,9 @@ soccerway.gl.		3600	IN	NS	ns-cloud-b1.googledomains.com.
 soccerway.gl.		3600	IN	NS	ns-cloud-b2.googledomains.com.
 soccerway.gl.		3600	IN	NS	ns-cloud-b3.googledomains.com.
 soccerway.gl.		3600	IN	NS	ns-cloud-b4.googledomains.com.
-social.gl.		3600	IN	NS	ns1.sedoparking.com.
-social.gl.		3600	IN	NS	ns2.sedoparking.com.
+social.gl.		3600	IN	NS	ns1.expireddomain.hyp.net.
+social.gl.		3600	IN	NS	ns2.expireddomain.hyp.net.
+social.gl.		3600	IN	NS	ns3.expireddomain.hyp.net.
 socialstyrelsen.gl.	3600	IN	NS	ns1.modulo.gl.
 socialstyrelsen.gl.	3600	IN	NS	ns2.modulo.gl.
 socialstyrelsen.gl.	3600	IN	NS	ns3.modulo.gl.
@@ -23069,4 +23067,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168384 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168393 900 1800 6048000 3600
