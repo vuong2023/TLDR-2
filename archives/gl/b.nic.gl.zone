@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168469 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. I15X5GKghBtoC4pjhOnk/ZYofn2VEQlDQ+1KsmyB1TMybGKdLPIvW8o5 wpAzGLxCwH94KdHmgeXT0D1igv0W0x2Gy60lpU77THHdFc0Zd2rYtp1f +CRcBLHnXzGoySXoZ54c3GdOeGBtzirbrs7ytSubQ39YHzUq2YTmmj5g P/irezj+kxWWlApoEaBh3/4JmDrIX+7CFNQsLWfKkbth6Z1bQ29bjC2v BqjAUlNzViBS0y2ekhy9cH9f8sK3oRBNnchQnpYN6JxljIEIX+2khc59 TtEy6WBkXpl3AT1Ca9A0dJCHclnkhR66bo7LVoOsUsdjCTgoa3qjWBEK K3PYXw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168486 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. jFDBg8Y5aFvrHlbAm81yT6DI119mBzDySxBaavOxGwoFb5JX0l0v2D7W 0N7DBcx4z6AVZneC9yGJVHA5RfCaB9kncO8vuv7nFwqINAu4j+b8FxPO QABPINvzO8cUuvPnOctrT9jhGuzm5K09I66KtArZxcVZo2ukSyx0WYf6 T4zoZXLngO6WLqdGFjdnK3UNi7rQ492jLz0SO4dQU+eY8c3W4x74dc6p 0vu/10geU/oIXx0g+9/ZWNGQasc5f/oEzNSgJQUNax/6HuinUZzFhkX/ CHyg/dGyb9qxvFShKMmMKNQ5oMe5+efBGiPKomnMa1KL4QexMIRYf7i3 MHNBTg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4398,10 +4398,10 @@ davidsen.gl.		3600	IN	NS	c.hosting.gl.
 davidsen.gl.		3600	IN	NS	d.hosting.gl.
 davidsenshop.gl.	3600	IN	NS	ns.scannet2.dk.
 davidsenshop.gl.	3600	IN	NS	ns2.scannet2.dk.
-day.gl.			3600	IN	NS	pns41.cloudns.net.
-day.gl.			3600	IN	NS	pns42.cloudns.net.
-day.gl.			3600	IN	NS	pns43.cloudns.net.
-day.gl.			3600	IN	NS	pns44.cloudns.net.
+day.gl.			3600	IN	NS	ns1.day.gl.
+day.gl.			3600	IN	NS	ns2.day.gl.
+ns1.day.gl.		3600	IN	A	47.76.179.253
+ns2.day.gl.		3600	IN	A	47.76.179.253
 db.gl.			3600	IN	NS	ns.sourcedns.com.
 db.gl.			3600	IN	NS	ns1.sourcedns.com.
 dbet.gl.		3600	IN	NS	ns1.dnshost.net.
@@ -6978,10 +6978,8 @@ go0.gl.			3600	IN	NS	ns1.bodis.com.
 go0.gl.			3600	IN	NS	ns2.bodis.com.
 goallover.gl.		3600	IN	NS	ns1.markmonitor.com.
 goallover.gl.		3600	IN	NS	ns3.markmonitor.com.
-gob.gl.			3600	IN	NS	ns1.dandydns.com.
-gob.gl.			3600	IN	NS	ns2.dandydns.com.
-gob.gl.			3600	IN	NS	ns3.dandydns.com.
-gob.gl.			3600	IN	NS	ns4.dandydns.com.
+gob.gl.			3600	IN	NS	achiel.ns.cloudflare.com.
+gob.gl.			3600	IN	NS	rosemary.ns.cloudflare.com.
 god.gl.			3600	IN	NS	ns1.sedoparking.com.
 god.gl.			3600	IN	NS	ns2.sedoparking.com.
 gofundme.gl.		3600	IN	NS	ns1.lexsynergy.net.
@@ -23050,4 +23048,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168469 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168486 900 1800 6048000 3600
