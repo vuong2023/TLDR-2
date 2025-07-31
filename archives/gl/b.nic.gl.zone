@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168556 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. Za7K/VuwE5yRaiJnssoo0F1q1Wjt3RRYRcZAimBJw1FM31wg+YIn7teE SSML/ReQm+R47ZnB4WPBF1pRXxjPbN3Tb6+eewenlPFqu6iK1AIqbGTa VlBpSpeyjzBmzMecQ1K4kBjdmiqMZ9QWuneH0FNaRv8LsJByQ/Qd43Ss 9swF6Ia/smN/yvypoZTf1/3CAZWokB4NzW9Q09ynG1EdfNXATTi2I5uM eBF+hATY3CojDrnDFTsMj/6LZXqO+vpWJv+vCwmep7tgojCSL5kKe2sQ 72odSe/eAEpJ5xOuzrx7OGVweR6HcTFeiE8iRuYa5Am0Z/s/u17BBClm Vcpg9A==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168567 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. ONFBt8PjrnjB1L1DUcOp95cbFdfEcDE8HdXmhiPbrw+BcHDdyxPYWQc6 M2Chg7mfljQTcC9Qe8fEDjDRU3TbPnSK7HmNZ3RHgos1GxgCn00tNSk9 miHbxcnxIufpbH/XvfmWIsEOqu7M/H64ysjLnw6o44bXShJgZ19+SkNb 0Ng4AEJ13HpgBH7vX22f8rTF0BhU2blh/gaqAJtHNJQzKCTKhd+LGd5V 9H0sPS9lOJFSIhxoA74x6VH/AUms6kWNxBA+kln/YvPm172o9Cjo8/22 qTvyQoAI0UzY9SS7FQ9qEZhdUUSCtOihId1jN06tGkJa7xd1G1Xg7H2E WHPNMw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2015,6 +2015,10 @@ audi.gl.		3600	IN	NS	ns2.audi.de.
 audi.gl.		3600	IN	NS	ns5.xc-ns.de.
 audit.gl.		3600	IN	NS	ns1.arvixeshared.com.
 audit.gl.		3600	IN	NS	ns2.arvixeshared.com.
+auktion.gl.		3600	IN	NS	a.hosting.gl.
+auktion.gl.		3600	IN	NS	b.hosting.gl.
+auktion.gl.		3600	IN	NS	c.hosting.gl.
+auktion.gl.		3600	IN	NS	d.hosting.gl.
 aul.gl.			3600	IN	NS	a.hosting.gl.
 aul.gl.			3600	IN	NS	b.hosting.gl.
 aul.gl.			3600	IN	NS	c.hosting.gl.
@@ -8044,6 +8048,8 @@ horizon.gl.		3600	IN	NS	ns1.curanet.dk.
 horizon.gl.		3600	IN	NS	ns2.curanet.dk.
 hornum.gl.		3600	IN	NS	ns01.one.com.
 hornum.gl.		3600	IN	NS	ns02.one.com.
+horoskopinuuk.gl.	3600	IN	NS	mary.ns.cloudflare.com.
+horoskopinuuk.gl.	3600	IN	NS	mitch.ns.cloudflare.com.
 host.gl.		3600	IN	NS	ns1.gigalayer.com.
 host.gl.		3600	IN	NS	ns2.gigalayer.com.
 host.gl.		3600	IN	NS	ns3.gigalayer.com.
@@ -12219,8 +12225,6 @@ mega555toweb.gl.	3600	IN	NS	coen.ns.cloudflare.com.
 mega555toweb.gl.	3600	IN	NS	edna.ns.cloudflare.com.
 megalook.gl.		3600	IN	NS	joaquin.ns.cloudflare.com.
 megalook.gl.		3600	IN	NS	journey.ns.cloudflare.com.
-mego.gl.		3600	IN	NS	woz.ns.cloudflare.com.
-mego.gl.		3600	IN	NS	aron.ns.cloudflare.com.
 meilvang.gl.		3600	IN	NS	a.hosting.gl.
 meilvang.gl.		3600	IN	NS	b.hosting.gl.
 meilvang.gl.		3600	IN	NS	c.hosting.gl.
@@ -16050,8 +16054,8 @@ qaarpiaq.gl.		3600	IN	NS	ns1.omninet.dk.
 qaarpiaq.gl.		3600	IN	NS	ns2.omninet.dk.
 qaarpiaq.gl.		3600	IN	NS	ns3.omninet.dk.
 qaarpiaq.gl.		3600	IN	NS	ns4.omninet.dk.
-qaasuitsup.gl.		3600	IN	NS	da1200a.trouble-free.net.
-qaasuitsup.gl.		3600	IN	NS	da1200b.trouble-free.net.
+qaasuitsup.gl.		3600	IN	NS	darl.ns.cloudflare.com.
+qaasuitsup.gl.		3600	IN	NS	rosa.ns.cloudflare.com.
 qajaq.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 qajaq.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 qajaq.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -16622,9 +16626,6 @@ rex.gl.			3600	IN	NS	ns02.one.com.
 rexistro.gl.		3600	IN	NS	ns.dinahosting.com.
 rexistro.gl.		3600	IN	NS	ns2.dinahosting.com.
 rexistro.gl.		3600	IN	NS	ns3.dinahosting.com.
-rf.gl.			3600	IN	NS	ns-63-b.gandi.net.
-rf.gl.			3600	IN	NS	ns-133-a.gandi.net.
-rf.gl.			3600	IN	NS	ns-200-c.gandi.net.
 rg.gl.			3600	IN	NS	kyle.ns.cloudflare.com.
 rg.gl.			3600	IN	NS	cheryl.ns.cloudflare.com.
 rg.gl.			3600	IN	DS	2371 13 2 CA37BBF510925568DFC917CE3C730F9AE7EE1A43432D43EE7161955D 9EBDC330
@@ -23047,4 +23048,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168556 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168567 900 1800 6048000 3600
