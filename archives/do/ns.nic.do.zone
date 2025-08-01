@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080116 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1754064009"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080117 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1754067610"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -12989,8 +12989,8 @@ divix.do.		3600	IN	NS	dns2.midominio.do.
 divix.do.		3600	IN	NS	dns1.midominio.do.
 divorcio.do.		3600	IN	NS	ns11.wixdns.net.
 divorcio.do.		3600	IN	NS	ns10.wixdns.net.
-divorcios.do.		3600	IN	NS	ns12.banahosting.com.
-divorcios.do.		3600	IN	NS	ns13.banahosting.com.
+divorcios.do.		3600	IN	NS	dns3.midominio.do.
+divorcios.do.		3600	IN	NS	dns4.midominio.do.
 divulga.do.		3600	IN	NS	ns2.bluehost.com.
 divulga.do.		3600	IN	NS	ns1.bluehost.com.
 dix.do.			3600	IN	NS	ns110.websitewelcome.com.
@@ -22787,10 +22787,10 @@ iparra.do.		3600	IN	NS	ns4.dnsrubycom.com.
 iparra.do.		3600	IN	NS	ns3.dnsrubycom.com.
 iparra.do.		3600	IN	NS	ns2.dnsrubycom.com.
 iparra.do.		3600	IN	NS	ns1.dnsrubycom.com.
-ipbooster.do.		3600	IN	NS	dns1.midominio.do.
-ipbooster.do.		3600	IN	NS	dns2.midominio.do.
-ipbooster.do.		3600	IN	NS	dns3.midominio.do.
-ipbooster.do.		3600	IN	NS	dns4.midominio.do.
+ipbooster.do.		3600	IN	NS	ns-363.awsdns-45.com.
+ipbooster.do.		3600	IN	NS	ns-538.awsdns-03.net.
+ipbooster.do.		3600	IN	NS	ns-1046.awsdns-02.org.
+ipbooster.do.		3600	IN	NS	ns-1902.awsdns-45.co.uk.
 iplus.do.		3600	IN	NS	pdns12.domaincontrol.com.
 iplus.do.		3600	IN	NS	pdns11.domaincontrol.com.
 ipredes.do.		3600	IN	NS	dns4.midominio.do.
@@ -47840,4 +47840,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080116 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080117 3600 3600 604800 3600
