@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080316 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1754236801"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080318 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1754244003"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -36274,8 +36274,8 @@ redbull.do.		3600	IN	NS	pdns91.ultradns.org.
 redcon1.do.		3600	IN	NS	ns03.trademarkarea.com.
 redcon1.do.		3600	IN	NS	ns02.trademarkarea.com.
 redcon1.do.		3600	IN	NS	ns01.trademarkarea.com.
-redde.do.		3600	IN	NS	ns2.bluehost.com.
-redde.do.		3600	IN	NS	ns1.bluehost.com.
+redde.do.		3600	IN	NS	ns19.domaincontrol.com.
+redde.do.		3600	IN	NS	ns20.domaincontrol.com.
 reddit.do.		3600	IN	NS	ns5.markmonitor.com.
 reddit.do.		3600	IN	NS	ns4.markmonitor.com.
 reddit.do.		3600	IN	NS	ns3.markmonitor.com.
@@ -36733,6 +36733,10 @@ reset.do.		3600	IN	NS	ns4.exclusivehosting.net.
 reset.do.		3600	IN	NS	ns3.exclusivehosting.net.
 reset.do.		3600	IN	NS	ns2.exclusivehosting.net.
 reset.do.		3600	IN	NS	ns1.exclusivehosting.net.
+resetbariatricsurgery.do. 3600	IN	NS	dns1.midominio.do.
+resetbariatricsurgery.do. 3600	IN	NS	dns2.midominio.do.
+resetbariatricsurgery.do. 3600	IN	NS	dns3.midominio.do.
+resetbariatricsurgery.do. 3600	IN	NS	dns4.midominio.do.
 resetrd.do.		3600	IN	NS	dns4.midominio.do.
 resetrd.do.		3600	IN	NS	dns3.midominio.do.
 resetrd.do.		3600	IN	NS	dns2.midominio.do.
@@ -47860,4 +47864,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080316 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080318 3600 3600 604800 3600
