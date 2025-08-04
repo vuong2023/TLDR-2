@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080413 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1754312709"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080414 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1754316310"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -11990,6 +11990,10 @@ davidballar.do.		3600	IN	NS	dns4.midominio.do.
 davidballar.do.		3600	IN	NS	dns3.midominio.do.
 davidballar.do.		3600	IN	NS	dns2.midominio.do.
 davidballar.do.		3600	IN	NS	dns1.midominio.do.
+davidsosa.do.		3600	IN	NS	dns1.midominio.do.
+davidsosa.do.		3600	IN	NS	dns2.midominio.do.
+davidsosa.do.		3600	IN	NS	dns3.midominio.do.
+davidsosa.do.		3600	IN	NS	dns4.midominio.do.
 davinci.do.		3600	IN	NS	ns8268.hostgator.com.
 davinci.do.		3600	IN	NS	ns8267.hostgator.com.
 daviplata.do.		3600	IN	NS	dns1.davivienda.com.
@@ -15967,10 +15971,8 @@ evelynbetancourt.do.	3600	IN	NS	dns2.midominio.do.
 evelynbetancourt.do.	3600	IN	NS	dns1.midominio.do.
 evenium.do.		3600	IN	NS	ns1.eurodns.com.
 evenium.do.		3600	IN	NS	ns2.eurodns.com.
-event.do.		3600	IN	NS	ns-1331.awsdns-38.org.
-event.do.		3600	IN	NS	ns-2022.awsdns-60.co.uk.
-event.do.		3600	IN	NS	ns-363.awsdns-45.com.
-event.do.		3600	IN	NS	ns-913.awsdns-50.net.
+event.do.		3600	IN	NS	jewel.ns.cloudflare.com.
+event.do.		3600	IN	NS	hassan.ns.cloudflare.com.
 eventfull.do.		3600	IN	NS	sergi.ns.cloudflare.com.
 eventfull.do.		3600	IN	NS	ainsley.ns.cloudflare.com.
 eventos.do.		3600	IN	NS	dns4.midominio.do.
@@ -39184,6 +39186,10 @@ siachen.do.		3600	IN	NS	ns8548.hostgator.com.
 siachen.do.		3600	IN	NS	ns8547.hostgator.com.
 siam-it.do.		3600	IN	NS	ns2.dondominio.com.
 siam-it.do.		3600	IN	NS	ns1.dondominio.com.
+siavemtechnology.do.	3600	IN	NS	dns3.midominio.do.
+siavemtechnology.do.	3600	IN	NS	dns4.midominio.do.
+siavemtechnology.do.	3600	IN	NS	ns11.negox.com.
+siavemtechnology.do.	3600	IN	NS	ns12.negox.com.
 sibaenergy.do.		3600	IN	NS	dns4.midominio.do.
 sibaenergy.do.		3600	IN	NS	dns3.midominio.do.
 sibaenergy.do.		3600	IN	NS	dns2.midominio.do.
@@ -47913,4 +47919,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080413 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080414 3600 3600 604800 3600
