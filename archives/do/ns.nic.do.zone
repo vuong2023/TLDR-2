@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080420 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1754337902"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080422 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1754345104"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6771,6 +6771,10 @@ businesslink.do.	3600	IN	NS	dns4.midominio.do.
 businesslink.do.	3600	IN	NS	dns3.midominio.do.
 businesslink.do.	3600	IN	NS	dns2.midominio.do.
 businesslink.do.	3600	IN	NS	dns1.midominio.do.
+businesssupporthub.do.	3600	IN	NS	dns1.midominio.do.
+businesssupporthub.do.	3600	IN	NS	dns2.midominio.do.
+businesssupporthub.do.	3600	IN	NS	dns3.midominio.do.
+businesssupporthub.do.	3600	IN	NS	dns4.midominio.do.
 butter.do.		3600	IN	NS	dns4.midominio.do.
 butter.do.		3600	IN	NS	dns3.midominio.do.
 butter.do.		3600	IN	NS	dns2.midominio.do.
@@ -10062,6 +10066,14 @@ coloclic.do.		3600	IN	NS	ns1.p201.dns.oraclecloud.net.
 coloclic.do.		3600	IN	NS	ns4.p201.dns.oraclecloud.net.
 coloclic.do.		3600	IN	NS	ns3.p201.dns.oraclecloud.net.
 coloclic.do.		3600	IN	NS	ns2.p201.dns.oraclecloud.net.
+colombo.do.		3600	IN	NS	dns1.midominio.do.
+colombo.do.		3600	IN	NS	dns2.midominio.do.
+colombo.do.		3600	IN	NS	dns3.midominio.do.
+colombo.do.		3600	IN	NS	dns4.midominio.do.
+colombosport.do.	3600	IN	NS	dns1.midominio.do.
+colombosport.do.	3600	IN	NS	dns2.midominio.do.
+colombosport.do.	3600	IN	NS	dns3.midominio.do.
+colombosport.do.	3600	IN	NS	dns4.midominio.do.
 colon.do.		3600	IN	NS	ns3.netim.net.
 colon.do.		3600	IN	NS	ns2.netim.net.
 colon.do.		3600	IN	NS	ns1.netim.net.
@@ -17859,8 +17871,8 @@ fro.do.			3600	IN	NS	ns-1044.awsdns-02.org.
 fro.do.			3600	IN	NS	ns-198.awsdns-24.com.
 fro.do.			3600	IN	NS	ns-2016.awsdns-60.co.uk.
 fro.do.			3600	IN	NS	ns-806.awsdns-36.net.
-fronteranortealdia.do.	3600	IN	NS	ns23.asurahosting.com.
-fronteranortealdia.do.	3600	IN	NS	ns24.asurahosting.com.
+fronteranortealdia.do.	3600	IN	NS	aria.ns.cloudflare.com.
+fronteranortealdia.do.	3600	IN	NS	nero.ns.cloudflare.com.
 frontier.do.		3600	IN	NS	michael.ns.cloudflare.com.
 frontier.do.		3600	IN	NS	josh.ns.cloudflare.com.
 frost.do.		3600	IN	NS	ns2.justhost.com.
@@ -39678,6 +39690,8 @@ sm-republicadominicana.do. 3600	IN	NS	ns4.grupo-sm.net.
 sm-republicadominicana.do. 3600	IN	NS	ns3.grupo-sm.net.
 sm-republicadominicana.do. 3600	IN	NS	ns2.grupo-sm.net.
 sm-republicadominicana.do. 3600	IN	NS	ns1.grupo-sm.net.
+sma.do.			3600	IN	NS	ns1.dns-parking.com.
+sma.do.			3600	IN	NS	ns2.dns-parking.com.
 smak.do.		3600	IN	NS	ns11.wixdns.net.
 smak.do.		3600	IN	NS	ns10.wixdns.net.
 small.do.		3600	IN	NS	f1g1ns1.dnspod.net.
@@ -47888,4 +47902,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080420 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080422 3600 3600 604800 3600
