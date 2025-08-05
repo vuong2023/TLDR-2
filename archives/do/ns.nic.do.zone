@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080516 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1754409608"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080517 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1754413209"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -9065,6 +9065,8 @@ citycentre.do.		3600	IN	NS	dns2.midominio.do.
 citycentre.do.		3600	IN	NS	dns1.midominio.do.
 cityhub.do.		3600	IN	NS	ns2.bluehost.com.
 cityhub.do.		3600	IN	NS	ns1.bluehost.com.
+cityplace.do.		3600	IN	NS	ns1.101domain.com.
+cityplace.do.		3600	IN	NS	ns2.101domain.com.
 citystorage.do.		3600	IN	NS	chance.ns.cloudflare.com.
 citystorage.do.		3600	IN	NS	josephine.ns.cloudflare.com.
 ciudadania.do.		3600	IN	NS	dns1.midominio.do.
@@ -21201,10 +21203,8 @@ huertourbano.do.	3600	IN	NS	ns2.dnns.net.
 huertourbano.do.	3600	IN	NS	ns1.dnns.net.
 huggies.do.		3600	IN	NS	trevor.ns.cloudflare.com.
 huggies.do.		3600	IN	NS	luciana.ns.cloudflare.com.
-huma.do.		3600	IN	NS	dns4.midominio.do.
-huma.do.		3600	IN	NS	dns3.midominio.do.
-huma.do.		3600	IN	NS	dns2.midominio.do.
-huma.do.		3600	IN	NS	dns1.midominio.do.
+huma.do.		3600	IN	NS	henrik.ns.cloudflare.com.
+huma.do.		3600	IN	NS	serenity.ns.cloudflare.com.
 human.do.		3600	IN	NS	dns1.midominio.do.
 human.do.		3600	IN	NS	dns2.midominio.do.
 human.do.		3600	IN	NS	dns3.midominio.do.
@@ -21932,10 +21932,10 @@ impulsatunegociopopular.do. 3600 IN	NS	tori.ns.cloudflare.com.
 impulsatunegociopopular.do. 3600 IN	NS	apollo.ns.cloudflare.com.
 impulsefitness.do.	3600	IN	NS	ns2.icp100.net.
 impulsefitness.do.	3600	IN	NS	ns1.icp100.net.
-impulsoit.do.		3600	IN	NS	dns3.midominio.do.
-impulsoit.do.		3600	IN	NS	dns4.midominio.do.
 impulsoit.do.		3600	IN	NS	ns1.vercel-dns.com.
 impulsoit.do.		3600	IN	NS	ns2.vercel-dns.com.
+impulsoit.do.		3600	IN	NS	millie.ns.cloudflare.com.
+impulsoit.do.		3600	IN	NS	randall.ns.cloudflare.com.
 ims.do.			3600	IN	NS	ns8501.hostgator.com.
 ims.do.			3600	IN	NS	ns8502.hostgator.com.
 imsur.do.		3600	IN	NS	ricardo.ns.cloudflare.com.
@@ -47880,4 +47880,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080516 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080517 3600 3600 604800 3600
