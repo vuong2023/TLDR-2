@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168845 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. TpLHXFkayzubdXU0YFum2JOHpON1MqdDn6HtukjTFRfOStkEtHTGGH8v +AMM4b0fWgiXczwetu4jMvCEYnj2dvz6YO8cFeXOqceMcFwnoAdb51BD cSaSd4wOYCHd9qi7e3BsazXlgsbjF8o7nV5PPxKcXLNnu5tti28HwUR+ d42hngJsz8gKdJbIMKxLOMDeNSMHaXub8h4iMdb9rSWUapomAy9bY79y 4cgmjUdEZOKmvJq087dY3x2JNTzGOARRGFVx7y6zP6hun3M6gZRejCba AvT1BaJ1lfj2YyXOVRq7qF1no3RISUBcU6A+XAefZGdHmS6WfeIUEojd agUEQQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168851 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. IYdYmbjPmM/Mb584Lrzhgb2jBjBHtcnM60qBZdHzXYWPQVHH8Jbo5jUG CL68IQyMh07QazGOY5o6CCOzczGFGVMdrG/Na48Hw7c0ELBXTtvwMqhA CcjuN9wJeAskeZrC0PPCvUAKCAFG1NeGdif7Rd+3UUQuPS5Id4bwhQ0Z TU2x/uzOgmZIDfkyKq8AHYrSw4I73wWEV9ODrdqSHL3hIpadF5gQrh9Y lfj6wb1V5jhcrkUr1X+j77gva5RSkrSQkr2q59/8ubv+TLE5Y7eZl79a ah1edJiMtbYjifzGLFCAG3x5ObYdsoUo0gXOhjlGZoklAJueR2KfWqLY 2IaqGw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -9074,6 +9074,10 @@ inuitbolig.gl.		3600	IN	NS	ns2.curanet.dk.
 inuitflirt.gl.		3600	IN	NS	1-you.njalla.no.
 inuitflirt.gl.		3600	IN	NS	2-can.njalla.in.
 inuitflirt.gl.		3600	IN	NS	3-get.njalla.fo.
+inuitheritage.gl.	3600	IN	NS	ns1-07.azure-dns.com.
+inuitheritage.gl.	3600	IN	NS	ns2-07.azure-dns.net.
+inuitheritage.gl.	3600	IN	NS	ns3-07.azure-dns.org.
+inuitheritage.gl.	3600	IN	NS	ns4-07.azure-dns.info.
 inuitheritagemap.gl.	3600	IN	NS	ursula.ns.cloudflare.com.
 inuitheritagemap.gl.	3600	IN	NS	dimitris.ns.cloudflare.com.
 inuithome.gl.		3600	IN	NS	ns1.nunahosting.net.
@@ -14998,6 +15002,9 @@ outdoorliving.gl.	3600	IN	NS	a.hosting.gl.
 outdoorliving.gl.	3600	IN	NS	b.hosting.gl.
 outdoorliving.gl.	3600	IN	NS	c.hosting.gl.
 outdoorliving.gl.	3600	IN	NS	d.hosting.gl.
+outdoormap.gl.		3600	IN	NS	ns-78-b.gandi.net.
+outdoormap.gl.		3600	IN	NS	ns-90-a.gandi.net.
+outdoormap.gl.		3600	IN	NS	ns-96-c.gandi.net.
 outfitter.gl.		3600	IN	NS	ns1.aputit.gl.
 outfitter.gl.		3600	IN	NS	ns2.aputit.gl.
 outfitter.gl.		3600	IN	NS	ns3.aputit.gl.
@@ -23045,4 +23052,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168845 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168851 900 1800 6048000 3600
