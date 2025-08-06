@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168895 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. L3GmkiHr3YZw28Ai9K2Nib6TKq50E536r39PtX9kfVH4R3RGcG9FDyD1 Rvr9t/CvzMIHAfZxbDVW7FgriWIa/zCyJeNNWuOutpM9rS2YEimgOdnE 2KNCWPIe5J54IY1ivTj8b89NuC/60NGbYn+dUSz0W5OKoVXYNtZammtl H7LkRXdMlDEwIrKdDSEvYvohwAe5b6ruvF2jNL3lJVMe5FJb2GhoQ2iC NrN9uAPTNHofev113cZJ7OZ8O5p2xD6wX7LBWh1sKM065la2XdW8zP/b AMOvGXEDnmUe7mkVYywgV139+rMCb+SgA6Pe2IsLsyWNpC6Ko3fGPKDu oSyomg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168899 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. UWK9aIWWop4nR+nzBsIvZyXebWWxwsP0LIDGIrHMsFR+r5RL5E8RDxka y4jlKKNr98b9QL1K9Dov/1Tc0KryT6rk7eXQ99uMhtSjuGmSiI6iV0ze QtCNYRz6zd59dN1aEf1WSMrmRXr/VIZOTQ0RCB9nuFM5mowHMuWxU2+y bH8MOv2j19Ak0Afeap6y9m9u4bBv9VqRc0fxvX0tmRSU8JGJX8xnbRmf rUdh6lIZiQtMbPNnbGtk7ZP7lp3aGCuh2zo9bT8chtEOOxaPElkJPxbs fl4kDULrEVq7X2ZSkCN4eDfkAt/1uesprsGZlKJYJL72w75hXOgVChoL WhwiCA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -303,6 +303,10 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20251005090000 20250717090000 57390 gl. c7ziJ2
 4kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 4krn.gl.		3600	IN	NS	bob.ns.cloudflare.com.
 4krn.gl.		3600	IN	NS	itzel.ns.cloudflare.com.
+4u.gl.			3600	IN	NS	ns1.nunahosting.net.
+4u.gl.			3600	IN	NS	ns2.nunahosting.net.
+4u.gl.			3600	IN	NS	ns3.nunahosting.net.
+4u.gl.			3600	IN	NS	ns4.nunahosting.net.
 5.gl.			3600	IN	NS	ns1.sedoparking.com.
 5.gl.			3600	IN	NS	ns2.sedoparking.com.
 5.gl.			3600	IN	NS	ns3.dreamhost.com.
@@ -5058,6 +5062,10 @@ easy2go.gl.		3600	IN	NS	yevgen.ns.cloudflare.com.
 easy2go.gl.		3600	IN	NS	raphaela.ns.cloudflare.com.
 easy2go.gl.		3600	IN	DS	2371 13 2 8550A6C9D03E2B41A139D5EFE43B49E8A68A8691045AD5F77F6CDD94 FB771783
 easy2go.gl.		3600	IN	RRSIG	DS 8 2 3600 20251005090000 20250717090000 57390 gl. YyY0NkrA7bheE+vtrax7Sixzfh5GYzefokV0WLzmuiGYWboI8GzdfLSy NaePAFy1+yCFPS5p1fY41Arpn6KvUwNV7KYcMOTii9YoGXHisMxA5t1W IRX8K7uzKuOBIgelnwf9prJfZ46kwzahxJ/LEFsXBKXFX6XbjO9Veyee 4RCMcnYnKOpQxAWgh/HyD/LPqVcxPlCNKo1jGrp+d6H5i3DRC9CdTtvM mxFHnzGDGA1L55bjxO03nX6aw48Psz5zng0YSnL+e0KS6mL+c1bQbVFG DH/CJEFHIJB0XKzXeCXSQNyFX2X5qmi75EUqKppiKeb2MSTJmEmHiDMR gqDQ0A==
+easy4u.gl.		3600	IN	NS	ns1.nunahosting.net.
+easy4u.gl.		3600	IN	NS	ns2.nunahosting.net.
+easy4u.gl.		3600	IN	NS	ns3.nunahosting.net.
+easy4u.gl.		3600	IN	NS	ns4.nunahosting.net.
 easycar.gl.		3600	IN	NS	ns1.markmonitor.com.
 easycar.gl.		3600	IN	NS	ns2.markmonitor.com.
 easycar.gl.		3600	IN	NS	ns3.markmonitor.com.
@@ -9310,6 +9318,10 @@ isi4u.gl.		3600	IN	NS	ns1.nunahosting.net.
 isi4u.gl.		3600	IN	NS	ns2.nunahosting.net.
 isi4u.gl.		3600	IN	NS	ns3.nunahosting.net.
 isi4u.gl.		3600	IN	NS	ns4.nunahosting.net.
+isi4you.gl.		3600	IN	NS	ns1.nunahosting.net.
+isi4you.gl.		3600	IN	NS	ns2.nunahosting.net.
+isi4you.gl.		3600	IN	NS	ns3.nunahosting.net.
+isi4you.gl.		3600	IN	NS	ns4.nunahosting.net.
 isikkivigissoq.gl.	3600	IN	NS	ns1.simply.com.
 isikkivigissoq.gl.	3600	IN	NS	ns2.simply.com.
 isikkivigissoq.gl.	3600	IN	NS	ns3.simply.com.
@@ -9662,8 +9674,8 @@ jmb.gl.			3600	IN	NS	ns01.one.com.
 jmb.gl.			3600	IN	NS	ns02.one.com.
 jmb.gl.			3600	IN	DS	30476 13 2 DE5CE9A250A74BFEB09FB265F314B4AF85A0B1CF08952E9A91726813 C06D55F7
 jmb.gl.			3600	IN	RRSIG	DS 8 2 3600 20251005090000 20250717090000 57390 gl. YdOdqUl6bJLIgybkXntV0kMtHK3P/dnR0PzEproFL4bPd4TfXYCuQcis JQsOO1p4nLqFRQ4SjIC8/OYaD4SZDjkZ1i/bxthosw7iHYQ3gNGNMA3p hnCpJztkHtzr2sgEL+4SoUPTlHP3WqIJsRyqSRAcEwDMKUzt5bJXP9ob WFVNKX8U2/vc2aWbHA1lQathrLeV5BYBTCUNZhqow9AmlXbtgMlO8aJG FnFfIDdrTHQTGPCkLPKA9PRLIkprY2QX2ydfGtkoUziTqvnabxnCun8v HbV8D353FL1uV3htwzal+JGO1SHvpJq+rLazppgKMZlWEDUXP/pMKYNA CN6r7w==
-jn.gl.			3600	IN	NS	ns1.aftermarket.com.
-jn.gl.			3600	IN	NS	ns2.aftermarket.com.
+jn.gl.			3600	IN	NS	ns1-coming-soon.sav.com.
+jn.gl.			3600	IN	NS	ns2-coming-soon.sav.com.
 jo.gl.			3600	IN	NS	sid.ns.cloudflare.com.
 jo.gl.			3600	IN	NS	rose.ns.cloudflare.com.
 job.gl.			3600	IN	NS	ns1.sedoparking.com.
@@ -23069,4 +23081,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168895 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168899 900 1800 6048000 3600
