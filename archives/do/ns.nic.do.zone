@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080716 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1754582414"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080717 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1754586000"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -15960,8 +15960,10 @@ evavip.do.		3600	IN	NS	ns2.markmonitor.com.
 evavip.do.		3600	IN	NS	ns1.markmonitor.com.
 evavip.do.		3600	IN	NS	ns7.markmonitor.com.
 evavip.do.		3600	IN	NS	ns6.markmonitor.com.
-eve.do.			3600	IN	NS	ns1.dns-parking.com.
-eve.do.			3600	IN	NS	ns2.dns-parking.com.
+eve.do.			3600	IN	NS	ns1.hostinger.com.
+eve.do.			3600	IN	NS	ns2.hostinger.com.
+eve.do.			3600	IN	NS	ns3.hostinger.com.
+eve.do.			3600	IN	NS	ns4.hostinger.com.
 evelop.do.		3600	IN	NS	ns1.barceloviajes.com.
 evelop.do.		3600	IN	NS	ns2.barceloviajes.com.
 evelynbetancourt.do.	3600	IN	NS	dns4.midominio.do.
@@ -23542,10 +23544,10 @@ jomalone.do.		3600	IN	NS	ns2.elcompanies.com.
 jomalone.do.		3600	IN	NS	ns4.elcompanies.com.
 jonas.do.		3600	IN	NS	rosa.ns.cloudflare.com.
 jonas.do.		3600	IN	NS	arch.ns.cloudflare.com.
-jonathanbatista.do.	3600	IN	NS	dns1.midominio.do.
 jonathanbatista.do.	3600	IN	NS	dns2.midominio.do.
 jonathanbatista.do.	3600	IN	NS	dns3.midominio.do.
 jonathanbatista.do.	3600	IN	NS	dns4.midominio.do.
+jonathanbatista.do.	3600	IN	NS	gv-yhi42vd7c7z5ll.dv.googlehosted.com.
 joo.do.			3600	IN	NS	kate.ns.cloudflare.com.
 joo.do.			3600	IN	NS	greg.ns.cloudflare.com.
 jor.do.			3600	IN	NS	ns-1765.awsdns-28.co.uk.
@@ -47907,4 +47909,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080716 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080717 3600 3600 604800 3600
