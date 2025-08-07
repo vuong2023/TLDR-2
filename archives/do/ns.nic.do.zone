@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080717 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1754586000"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080718 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1754589601"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -31441,8 +31441,8 @@ oceanparadise.do.	3600	IN	NS	dns3.midominio.do.
 oceanparadise.do.	3600	IN	NS	dns4.midominio.do.
 oceanrocks.do.		3600	IN	NS	ns2062.banahosting.com.
 oceanrocks.do.		3600	IN	NS	ns2061.banahosting.com.
-oceanselect.do.		3600	IN	NS	ns1.hostgator.mx.
-oceanselect.do.		3600	IN	NS	ns2.hostgator.mx.
+oceanselect.do.		3600	IN	NS	nspro14.hostgator.mx.
+oceanselect.do.		3600	IN	NS	nspro15.hostgator.mx.
 oceansoul.do.		3600	IN	NS	dns4.midominio.do.
 oceansoul.do.		3600	IN	NS	dns3.midominio.do.
 oceansoul.do.		3600	IN	NS	dns2.midominio.do.
@@ -35527,6 +35527,8 @@ qu.do.			3600	IN	NS	ns2197.dns.dyn.com.
 qu.do.			3600	IN	NS	ns1160.dns.dyn.com.
 qu.do.			3600	IN	NS	ns3157.dns.dyn.com.
 qu.do.			3600	IN	NS	ns4160.dns.dyn.com.
+quad.do.		3600	IN	NS	ns10.ovh.net.
+quad.do.		3600	IN	NS	dns10.ovh.net.
 quadient.do.		3600	IN	NS	ns4-05.azure-dns.info.
 quadient.do.		3600	IN	NS	ns3-05.azure-dns.org.
 quadient.do.		3600	IN	NS	ns2-05.azure-dns.net.
@@ -43459,6 +43461,10 @@ tralles.do.		3600	IN	NS	ns2.jotecnomedia.com.
 tralles.do.		3600	IN	NS	ns1.jotecnomedia.com.
 tramasmas.do.		3600	IN	NS	ns2.dondominio.com.
 tramasmas.do.		3600	IN	NS	ns1.dondominio.com.
+tramigrante.do.		3600	IN	NS	dns1.midominio.do.
+tramigrante.do.		3600	IN	NS	dns2.midominio.do.
+tramigrante.do.		3600	IN	NS	dns3.midominio.do.
+tramigrante.do.		3600	IN	NS	dns4.midominio.do.
 tramites.do.		3600	IN	NS	ns2.bluehost.com.
 tramites.do.		3600	IN	NS	ns1.bluehost.com.
 tramitesya.do.		3600	IN	NS	dns4.midominio.do.
@@ -47909,4 +47915,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080717 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080718 3600 3600 604800 3600
