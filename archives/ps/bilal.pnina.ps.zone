@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025080708 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025080805 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1754575309"
+ps.			86400	IN	TXT	"Generation Time: 1754640106"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -750,8 +750,8 @@ aktal.ps.		86400	IN	NS	norm.ns.cloudflare.com.
 al-ahlia.ps.		86400	IN	NS	ns1.i-net.ps.
 al-ahlia.ps.		86400	IN	NS	ns4.i-net.ps.
 al-ahlia.ps.		86400	IN	NS	ns6.i-net.ps.
-al-amal.ps.		86400	IN	NS	hope.ns.cloudflare.com.
-al-amal.ps.		86400	IN	NS	skip.ns.cloudflare.com.
+al-amal.ps.		86400	IN	NS	ns13.nepras.net.
+al-amal.ps.		86400	IN	NS	ns14.nepras.net.
 al-ameer.ps.		86400	IN	NS	cdns1.hadara.ps.
 al-ameer.ps.		86400	IN	NS	cdns2.hadara.ps.
 al-amer.ps.		86400	IN	NS	ns1.x10.ltd.
@@ -1276,8 +1276,8 @@ almanar.ps.		86400	IN	NS	ns1-lion.dl-cms.com.
 almanar.ps.		86400	IN	NS	ns2-lion.dl-cms.com.
 almanaradental.ps.	86400	IN	NS	ns1.provision-servers.com.
 almanaradental.ps.	86400	IN	NS	ns2.provision-servers.com.
-almanarpharma.ps.	86400	IN	NS	ns1.mtechs.site.
-almanarpharma.ps.	86400	IN	NS	ns2.mtechs.site.
+almanarpharma.ps.	86400	IN	NS	ns1.mtweb.co.
+almanarpharma.ps.	86400	IN	NS	ns2.mtweb.co.
 almanassa.ps.		86400	IN	NS	ns1.mongiddesigns.com.
 almanassa.ps.		86400	IN	NS	ns2.mongiddesigns.com.
 almanhal.ps.		86400	IN	NS	ns1.ttawor.com.
@@ -4786,6 +4786,8 @@ dev.ps.			86400	IN	NS	ns-1474.awsdns-56.org.
 dev.ps.			86400	IN	NS	ns-1738.awsdns-25.co.uk.
 devcor.ps.		86400	IN	NS	jobs.ns.cloudflare.com.
 devcor.ps.		86400	IN	NS	ollie.ns.cloudflare.com.
+develo.ps.		86400	IN	NS	boyd.ns.cloudflare.com.
+develo.ps.		86400	IN	NS	dell.ns.cloudflare.com.
 developer.ps.		86400	IN	NS	ns1.digitalocean.com.
 developer.ps.		86400	IN	NS	ns2.digitalocean.com.
 developer.ps.		86400	IN	NS	ns3.digitalocean.com.
@@ -11643,6 +11645,8 @@ neto.ps.		86400	IN	NS	dns3.p03.nsone.net.
 neto.ps.		86400	IN	NS	dns4.p03.nsone.net.
 neto.ps.		86400	IN	NS	ns01.whoeverfindsgodfinds.life.
 neto.ps.		86400	IN	NS	ns02.whoeverfindsgodfinds.life.
+netspeed.ps.		86400	IN	NS	ns10.ovh.ca.
+netspeed.ps.		86400	IN	NS	dns10.ovh.ca.
 netstream.ps.		86400	IN	NS	ns1.dns-parking.com.
 netstream.ps.		86400	IN	NS	ns2.dns-parking.com.
 netsuite.ps.		86400	IN	NS	ns1.p04.dynect.net.
@@ -18978,4 +18982,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025080708 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025080805 86400 7200 3600000 172800
