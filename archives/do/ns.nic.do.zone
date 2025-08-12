@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081217 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1755018309"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081218 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1755021910"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -10780,6 +10780,10 @@ coopguazu.do.		3600	IN	NS	dns4.midominio.do.
 coopguazu.do.		3600	IN	NS	dns3.midominio.do.
 coopguazu.do.		3600	IN	NS	dns2.midominio.do.
 coopguazu.do.		3600	IN	NS	dns1.midominio.do.
+coophemi.do.		3600	IN	NS	dns1.midominio.do.
+coophemi.do.		3600	IN	NS	dns2.midominio.do.
+coophemi.do.		3600	IN	NS	dns3.midominio.do.
+coophemi.do.		3600	IN	NS	dns4.midominio.do.
 coopinco.do.		3600	IN	NS	dns4.midominio.do.
 coopinco.do.		3600	IN	NS	dns3.midominio.do.
 coopinco.do.		3600	IN	NS	dns2.midominio.do.
@@ -19680,6 +19684,10 @@ grupocorripio.do.	3600	IN	NS	dns2.midominio.do.
 grupocorripio.do.	3600	IN	NS	dns1.midominio.do.
 grupocrecer.do.		3600	IN	NS	dns2.midominio.do.
 grupocrecer.do.		3600	IN	NS	dns1.midominio.do.
+grupodeproc.do.		3600	IN	NS	dns1.midominio.do.
+grupodeproc.do.		3600	IN	NS	dns2.midominio.do.
+grupodeproc.do.		3600	IN	NS	dns3.midominio.do.
+grupodeproc.do.		3600	IN	NS	dns4.midominio.do.
 grupodomex.do.		3600	IN	NS	ns2.wixdns.net.
 grupodomex.do.		3600	IN	NS	ns1.wixdns.net.
 grupoecitec.do.		3600	IN	NS	dns4.midominio.do.
@@ -37038,6 +37046,10 @@ rexmas.do.		3600	IN	NS	dns1.midominio.do.
 rextie.do.		3600	IN	NS	ns03.trademarkarea.com.
 rextie.do.		3600	IN	NS	ns02.trademarkarea.com.
 rextie.do.		3600	IN	NS	ns01.trademarkarea.com.
+rey.do.			3600	IN	NS	dns1.midominio.do.
+rey.do.			3600	IN	NS	dns2.midominio.do.
+rey.do.			3600	IN	NS	dns3.midominio.do.
+rey.do.			3600	IN	NS	dns4.midominio.do.
 reybrit.do.		3600	IN	NS	ns1.bh26.grupohost.net.
 reybrit.do.		3600	IN	NS	ns2.bh26.grupohost.net.
 reyco.do.		3600	IN	NS	dns4.midominio.do.
@@ -47997,4 +48009,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081217 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081218 3600 3600 604800 3600
