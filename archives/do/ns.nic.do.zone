@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081216 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1755014708"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081217 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1755018309"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -12484,6 +12484,10 @@ destileriabarcelo.do.	3600	IN	NS	dns2.midominio.do.
 destileriabarcelo.do.	3600	IN	NS	dns1.midominio.do.
 destinia.do.		3600	IN	NS	ns.classicweb.com.
 destinia.do.		3600	IN	NS	ns2.classicweb.com.
+destinocaribe.do.	3600	IN	NS	dns1.midominio.do.
+destinocaribe.do.	3600	IN	NS	dns2.midominio.do.
+destinocaribe.do.	3600	IN	NS	dns3.midominio.do.
+destinocaribe.do.	3600	IN	NS	dns4.midominio.do.
 destinojet.do.		3600	IN	NS	rick.ns.cloudflare.com.
 destinojet.do.		3600	IN	NS	adelaide.ns.cloudflare.com.
 destinosrd.do.		3600	IN	NS	ns83.securenet-server.net.
@@ -13575,6 +13579,10 @@ donkey.do.		3600	IN	NS	ns-273.awsdns-34.com.
 donkey.do.		3600	IN	NS	ns-843.awsdns-41.net.
 donkey.do.		3600	IN	NS	ns-1816.awsdns-35.co.uk.
 donkey.do.		3600	IN	NS	ns-1253.awsdns-28.org.
+donmocho.do.		3600	IN	NS	dns1.midominio.do.
+donmocho.do.		3600	IN	NS	dns2.midominio.do.
+donmocho.do.		3600	IN	NS	dns3.midominio.do.
+donmocho.do.		3600	IN	NS	dns4.midominio.do.
 donnafugata.do.		3600	IN	NS	ns4.eurodns.com.
 donnafugata.do.		3600	IN	NS	ns3.eurodns.com.
 donnafugata.do.		3600	IN	NS	ns2.eurodns.com.
@@ -47989,4 +47997,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081216 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081217 3600 3600 604800 3600
