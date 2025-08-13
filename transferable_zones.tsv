@@ -1,4 +1,4 @@
-arpa	k.ns.arpa.	archives/arpa/k.ns.arpa.zone
+arpa	b.ns.arpa.	archives/arpa/b.ns.arpa.zone
 bb	ns5.nic.bb.	archives/bb/ns5.nic.bb.zone
 bw	dns1.nic.net.bw.	archives/bw/dns1.nic.net.bw.zone
 cd	ns-root-23.scpt-network.net.	archives/cd/ns-root-23.scpt-network.net.zone
@@ -11,8 +11,8 @@ gp	ns2.nic.gp.	archives/gp/ns2.nic.gp.zone
 iq	ns.cmc.iq.	archives/iq/ns.cmc.iq.zone
 kh	ns.camnet.com.kh.	archives/kh/ns.camnet.com.kh.zone
 km	dns2.nic.km.	archives/km/dns2.nic.km.zone
-kp	ns2.kptc.kp.	archives/kp/ns2.kptc.kp.zone
-mp	ns1.nic.mp.	archives/mp/ns1.nic.mp.zone
+kp	ns1.kptc.kp.	archives/kp/ns1.kptc.kp.zone
+mp	ns3.nic.mp.	archives/mp/ns3.nic.mp.zone
 mw	domwe.sdn.mw.	archives/mw/domwe.sdn.mw.zone
 pg	uot.nic.pg.	archives/pg/uot.nic.pg.zone
 ps	ns1.pnina.ps.	archives/ps/ns1.pnina.ps.zone
@@ -23,6 +23,6 @@ xn--54b7fta0cc	bayanno.btcl.net.bd.	archives/xn--54b7fta0cc/bayanno.btcl.net.bd.
 xn--fzc2c9e2c	ns-c.nic.lk.	archives/xn--fzc2c9e2c/ns-c.nic.lk.zone
 xn--mgbai9azgqp6j	ns.ntc.net.pk.	archives/xn--mgbai9azgqp6j/ns.ntc.net.pk.zone
 xn--mgbtx2b	ns.cmc.iq.	archives/xn--mgbtx2b/ns.cmc.iq.zone
-xn--wgbh1c	ns3.dotmasr.eg.	archives/xn--wgbh1c/ns3.dotmasr.eg.zone
+xn--wgbh1c	ns1.dotmasr.eg.	archives/xn--wgbh1c/ns1.dotmasr.eg.zone
 xn--xhq521b	td.ngtld.cn.	archives/xn--xhq521b/td.ngtld.cn.zone
 xn--ygbi2ammx	ns1.pnina.ps.	archives/xn--ygbi2ammx/ns1.pnina.ps.zone
