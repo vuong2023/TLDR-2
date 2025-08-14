@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081401 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1755133512"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081403 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1755140714"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -15100,8 +15100,8 @@ eltiempo.do.		3600	IN	NS	ns1045.ui-dns.de.
 eltiempo.do.		3600	IN	NS	ns1045.ui-dns.biz.
 eltiempo.do.		3600	IN	NS	ns1045.ui-dns.com.
 eltiempo.do.		3600	IN	NS	ns1045.ui-dns.org.
-eltitular.do.		3600	IN	NS	dns3.midominio.do.
-eltitular.do.		3600	IN	NS	dns4.midominio.do.
+eltitular.do.		3600	IN	NS	dns1.namecheaphosting.com.
+eltitular.do.		3600	IN	NS	dns2.namecheaphosting.com.
 elturista.do.		3600	IN	NS	ns12.banahosting.com.
 elturista.do.		3600	IN	NS	ns13.banahosting.com.
 elyos.do.		3600	IN	NS	dns4.comlaude-dns.eu.
@@ -23519,10 +23519,10 @@ jimenez.do.		3600	IN	NS	ns593.websitewelcome.com.
 jimenez.do.		3600	IN	NS	ns594.websitewelcome.com.
 jimenezlara.do.		3600	IN	NS	damon.ns.cloudflare.com.
 jimenezlara.do.		3600	IN	NS	evelyn.ns.cloudflare.com.
-jimenezmartinez.do.	3600	IN	NS	dns1.midominio.do.
-jimenezmartinez.do.	3600	IN	NS	dns2.midominio.do.
-jimenezmartinez.do.	3600	IN	NS	dns3.midominio.do.
-jimenezmartinez.do.	3600	IN	NS	dns4.midominio.do.
+jimenezmartinez.do.	3600	IN	NS	ns1.bdm.microsoftonline.com.
+jimenezmartinez.do.	3600	IN	NS	ns2.bdm.microsoftonline.com.
+jimenezmartinez.do.	3600	IN	NS	ns3.bdm.microsoftonline.com.
+jimenezmartinez.do.	3600	IN	NS	ns4.bdm.microsoftonline.com.
 jimmychoo.do.		3600	IN	NS	nsgbr.comlaude.co.uk.
 jimmychoo.do.		3600	IN	NS	nssui.comlaude.ch.
 jimny.do.		3600	IN	NS	ns50.domaincontrol.com.
@@ -32215,6 +32215,8 @@ opinarcuenta.do.	3600	IN	NS	dns1.comlaude-dns.com.
 opiniones.do.		3600	IN	NS	ns5.101domain.com.
 opiniones.do.		3600	IN	NS	ns2.101domain.com.
 opiniones.do.		3600	IN	NS	ns1.101domain.com.
+opinionglobal.do.	3600	IN	NS	ns1.panelbox.net.
+opinionglobal.do.	3600	IN	NS	ns2.panelbox.net.
 opo.do.			3600	IN	NS	dns1.cscdns.net.
 opo.do.			3600	IN	NS	dns2.cscdns.net.
 oportunidadesquetransforman.do.	3600 IN	NS	ns3.digitalocean.com.
@@ -43680,10 +43682,8 @@ transparencia.do.	3600	IN	NS	ns4.mysecurecloudhost.com.
 transparencia.do.	3600	IN	NS	ns3.mysecurecloudhost.com.
 transparencia.do.	3600	IN	NS	ns2.mysecurecloudhost.com.
 transparencia.do.	3600	IN	NS	ns1.mysecurecloudhost.com.
-transpay.do.		3600	IN	NS	dns1.midominio.do.
-transpay.do.		3600	IN	NS	dns2.midominio.do.
-transpay.do.		3600	IN	NS	dns3.midominio.do.
-transpay.do.		3600	IN	NS	dns4.midominio.do.
+transpay.do.		3600	IN	NS	rudy.ns.cloudflare.com.
+transpay.do.		3600	IN	NS	vida.ns.cloudflare.com.
 transporteraul.do.	3600	IN	NS	bruce.ns.cloudflare.com.
 transporteraul.do.	3600	IN	NS	hattie.ns.cloudflare.com.
 transunion.do.		3600	IN	NS	dns2.cscdns.net.
@@ -48047,4 +48047,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081401 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081403 3600 3600 604800 3600
