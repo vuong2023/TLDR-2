@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081510 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081513 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1755252002"
+do.			3600	IN	TXT	"Generation Time: 1755262805"
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
 007.do.			3600	IN	NS	ns1.arvixeshared.com.
 01.do.			3600	IN	NS	roman.ns.cloudflare.com.
@@ -12036,14 +12036,12 @@ dave.do.		3600	IN	NS	ns2.markmonitor.com.
 dave.do.		3600	IN	NS	ns1.markmonitor.com.
 dave.do.		3600	IN	NS	ns7.markmonitor.com.
 dave.do.		3600	IN	NS	ns6.markmonitor.com.
-daveandbusters.do.	3600	IN	NS	noel.ns.cloudflare.com.
-daveandbusters.do.	3600	IN	NS	meg.ns.cloudflare.com.
-daveandbustersdominican.do. 3600 IN	NS	ns3.netim.net.
-daveandbustersdominican.do. 3600 IN	NS	ns2.netim.net.
-daveandbustersdominican.do. 3600 IN	NS	ns1.netim.net.
-daveandbustersrd.do.	3600	IN	NS	ns3.netim.net.
-daveandbustersrd.do.	3600	IN	NS	ns2.netim.net.
-daveandbustersrd.do.	3600	IN	NS	ns1.netim.net.
+daveandbusters.do.	3600	IN	NS	ns2.intodomain.net.
+daveandbusters.do.	3600	IN	NS	ns1.intodomain.net.
+daveandbustersdominican.do. 3600 IN	NS	ns2.intodomain.net.
+daveandbustersdominican.do. 3600 IN	NS	ns1.intodomain.net.
+daveandbustersrd.do.	3600	IN	NS	ns2.intodomain.net.
+daveandbustersrd.do.	3600	IN	NS	ns1.intodomain.net.
 david.do.		3600	IN	NS	ns1.lovellsnames.org.
 david.do.		3600	IN	NS	ns3.lovellsnames.org.
 david.do.		3600	IN	NS	ns4.lovellsnames.org.
@@ -13672,6 +13670,8 @@ dorosa.do.		3600	IN	NS	dns2.midominio.do.
 dorosa.do.		3600	IN	NS	dns1.midominio.do.
 dos.do.			3600	IN	NS	sky.ns.cloudflare.com.
 dos.do.			3600	IN	NS	piers.ns.cloudflare.com.
+dosac.do.		3600	IN	NS	ns8911.banahosting.com.
+dosac.do.		3600	IN	NS	ns8910.banahosting.com.
 dosee.do.		3600	IN	NS	ns01.trademarkarea.com.
 dosee.do.		3600	IN	NS	ns02.trademarkarea.com.
 dosee.do.		3600	IN	NS	ns03.trademarkarea.com.
@@ -28723,17 +28723,17 @@ dns1.midominio.do.	3600	IN	A	162.251.82.123
 dns1.midominio.do.	3600	IN	A	162.251.82.122
 dns1.midominio.do.	3600	IN	A	162.251.82.251
 dns2.midominio.do.	3600	IN	A	162.251.82.248
-dns2.midominio.do.	3600	IN	A	162.251.82.249
-dns2.midominio.do.	3600	IN	A	162.251.82.121
 dns2.midominio.do.	3600	IN	A	162.251.82.120
-dns3.midominio.do.	3600	IN	A	162.251.82.246
+dns2.midominio.do.	3600	IN	A	162.251.82.121
+dns2.midominio.do.	3600	IN	A	162.251.82.249
 dns3.midominio.do.	3600	IN	A	162.251.82.247
 dns3.midominio.do.	3600	IN	A	162.251.82.119
 dns3.midominio.do.	3600	IN	A	162.251.82.118
-dns4.midominio.do.	3600	IN	A	162.251.82.124
-dns4.midominio.do.	3600	IN	A	162.251.82.253
-dns4.midominio.do.	3600	IN	A	162.251.82.125
+dns3.midominio.do.	3600	IN	A	162.251.82.246
 dns4.midominio.do.	3600	IN	A	162.251.82.252
+dns4.midominio.do.	3600	IN	A	162.251.82.124
+dns4.midominio.do.	3600	IN	A	162.251.82.125
+dns4.midominio.do.	3600	IN	A	162.251.82.253
 mie.do.			3600	IN	NS	ns2.gofruits.co.
 mie.do.			3600	IN	NS	ns1.gofruits.co.
 mielagro.do.		3600	IN	NS	dns4.midominio.do.
@@ -30812,14 +30812,14 @@ nic.do.			3600	IN	NS	ns5.nic.do.
 nic.do.			3600	IN	NS	ns.nic.do.
 ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
 ns.nic.do.		3600	IN	A	190.113.72.177
-ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
 ns1.nic.do.		3600	IN	A	190.113.72.178
-ns2.nic.do.		3600	IN	A	190.113.65.12
+ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
 ns2.nic.do.		3600	IN	AAAA	2001:13e0:0:1::12
+ns2.nic.do.		3600	IN	A	190.113.65.12
 ns4.nic.do.		3600	IN	A	204.61.216.124
 ns4.nic.do.		3600	IN	AAAA	2001:500:14:6124:ad::1
-ns5.nic.do.		3600	IN	A	190.113.65.13
 ns5.nic.do.		3600	IN	AAAA	2001:13e0:0:1::13
+ns5.nic.do.		3600	IN	A	190.113.65.13
 nicasio.do.		3600	IN	NS	dns4.midominio.do.
 nicasio.do.		3600	IN	NS	dns3.midominio.do.
 nicasio.do.		3600	IN	NS	dns2.midominio.do.
@@ -32943,8 +32943,8 @@ park.do.		3600	IN	NS	ns2.park.do.
 park.do.		3600	IN	NS	ns1.park.do.
 ns1.park.do.		3600	IN	AAAA	2a05:f480:1800:50b:5400:2ff:fe35:fe72
 ns1.park.do.		3600	IN	A	45.77.55.161
-ns2.park.do.		3600	IN	A	45.77.55.161
 ns2.park.do.		3600	IN	AAAA	2a05:f480:1800:50b:5400:2ff:fe35:fe72
+ns2.park.do.		3600	IN	A	45.77.55.161
 parmalat.do.		3600	IN	NS	ns2.barbero.zone.
 parmalat.do.		3600	IN	NS	ns1.barbero.zone.
 parqueluna.do.		3600	IN	NS	dns4.midominio.do.
@@ -40960,10 +40960,10 @@ stird.do.		3600	IN	NS	ns2.dns-parking.com.
 stird.do.		3600	IN	NS	ns1.dns-parking.com.
 stix.do.		3600	IN	NS	ns2.stix.do.
 stix.do.		3600	IN	NS	ns1.stix.do.
-ns1.stix.do.		3600	IN	AAAA	2803:9c0:100::2b
 ns1.stix.do.		3600	IN	A	45.5.11.11
-ns2.stix.do.		3600	IN	A	45.5.10.10
+ns1.stix.do.		3600	IN	AAAA	2803:9c0:100::2b
 ns2.stix.do.		3600	IN	AAAA	2803:9c0:100::2a
+ns2.stix.do.		3600	IN	A	45.5.10.10
 stlcardinals.do.	3600	IN	NS	ns-cloud-c1.googledomains.com.
 stlcardinals.do.	3600	IN	NS	ns-664.awsdns-19.net.
 stlcardinals.do.	3600	IN	NS	ns-1660.awsdns-15.co.uk.
@@ -41520,6 +41520,8 @@ suriname.do.		3600	IN	NS	dns4.midominio.do.
 suriname.do.		3600	IN	NS	dns3.midominio.do.
 suriname.do.		3600	IN	NS	dns2.midominio.do.
 suriname.do.		3600	IN	NS	dns1.midominio.do.
+surprise.do.		3600	IN	NS	ns10.ovh.net.
+surprise.do.		3600	IN	NS	dns10.ovh.net.
 surti.do.		3600	IN	NS	ns5.101domain.com.
 surti.do.		3600	IN	NS	ns2.101domain.com.
 surti.do.		3600	IN	NS	ns1.101domain.com.
@@ -44357,6 +44359,8 @@ ubal.do.		3600	IN	NS	isla.ns.cloudflare.com.
 ubal.do.		3600	IN	NS	greg.ns.cloudflare.com.
 ubedube.do.		3600	IN	NS	ns2.dondominio.com.
 ubedube.do.		3600	IN	NS	ns1.dondominio.com.
+ubergbau.do.		3600	IN	NS	ns4.hostmar.com.
+ubergbau.do.		3600	IN	NS	ns3.hostmar.com.
 ubertaxi.do.		3600	IN	NS	dns4.midominio.do.
 ubertaxi.do.		3600	IN	NS	dns3.midominio.do.
 ubertaxi.do.		3600	IN	NS	dns2.midominio.do.
@@ -48029,4 +48033,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081510 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081513 3600 3600 604800 3600
