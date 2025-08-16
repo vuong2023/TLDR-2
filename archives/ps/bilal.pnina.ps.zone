@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025081508 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025081605 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1755266508"
+ps.			86400	IN	TXT	"Generation Time: 1755331307"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -2228,8 +2228,8 @@ asalah.ps.		86400	IN	NS	desi.ns.cloudflare.com.
 asalah.ps.		86400	IN	NS	norm.ns.cloudflare.com.
 asalastore.ps.		86400	IN	NS	ns1-cat.dl-cms.com.
 asalastore.ps.		86400	IN	NS	ns2-cat.dl-cms.com.
-asap.ps.		86400	IN	NS	pat.ns.cloudflare.com.
-asap.ps.		86400	IN	NS	arvind.ns.cloudflare.com.
+asap.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+asap.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 asas.ps.		86400	IN	NS	ns1.contabo.net.
 asas.ps.		86400	IN	NS	ns2.contabo.net.
 asas.ps.		86400	IN	NS	ns3.contabo.net.
@@ -4367,6 +4367,8 @@ crinecerfont.ps.	86400	IN	NS	ns4.brandshelter.net.
 crinecerfont.ps.	86400	IN	NS	ns5.brandshelter.us.
 crip.ps.		86400	IN	NS	lloyd.ns.cloudflare.com.
 crip.ps.		86400	IN	NS	cecelia.ns.cloudflare.com.
+cris.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+cris.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 crispykareem.ps.	86400	IN	NS	dns1.namecheaphosting.com.
 crispykareem.ps.	86400	IN	NS	dns2.namecheaphosting.com.
 crm.ps.			86400	IN	NS	ns1.speedhost.ps.
@@ -6728,6 +6730,8 @@ geoap.ps.		86400	IN	NS	ns02.hostnet.nl.
 geomolg.ps.		86400	IN	NS	dns3.gov.ps.
 geomolg.ps.		86400	IN	NS	dns4.pna.ps.
 geomolg.ps.		86400	IN	NS	dns5.gov.ps.
+george.ps.		86400	IN	NS	ns1.vercel-dns.com.
+george.ps.		86400	IN	NS	ns2.vercel-dns.com.
 georgina.ps.		86400	IN	NS	ns1.leg-des.com.
 georgina.ps.		86400	IN	NS	ns2.leg-des.com.
 germancare.ps.		86400	IN	NS	cdns1.hadara.ps.
@@ -8614,8 +8618,6 @@ jadsalman.ps.		86400	IN	NS	ns155.securenet-server.net.
 jadsalman.ps.		86400	IN	NS	ns156.securenet-server.net.
 jadwa.ps.		86400	IN	NS	ns13.nepras.net.
 jadwa.ps.		86400	IN	NS	ns14.nepras.net.
-jaeger.ps.		86400	IN	NS	dns1.cscdns.net.
-jaeger.ps.		86400	IN	NS	dns2.cscdns.net.
 jafra.ps.		86400	IN	NS	ns1.zone.ps.
 jafra.ps.		86400	IN	NS	ns2.zone.ps.
 jafraproductions.ps.	86400	IN	NS	ns1.zone.ps.
@@ -17357,6 +17359,8 @@ toshiba.ps.		86400	IN	NS	ns1.toshiba-europe.com.
 toshiba.ps.		86400	IN	NS	ns2.toshiba-europe.com.
 toshiba.ps.		86400	IN	NS	ns3.toshiba-europe.com.
 toshiba.ps.		86400	IN	NS	ns4.toshiba-europe.com.
+tot.ps.			86400	IN	NS	aryanna.ns.cloudflare.com.
+tot.ps.			86400	IN	NS	carmelo.ns.cloudflare.com.
 total.ps.		86400	IN	NS	ns2.observatoiredesmarques.fr.
 total.ps.		86400	IN	NS	ns3.nameshield.net.
 total.ps.		86400	IN	NS	obs.ns1.fr.
@@ -18994,4 +18998,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025081508 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025081605 86400 7200 3600000 172800
