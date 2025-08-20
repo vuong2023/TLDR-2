@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082017 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082018 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1755709502"
+do.			3600	IN	TXT	"Generation Time: 1755713103"
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
 007.do.			3600	IN	NS	ns1.arvixeshared.com.
 01.do.			3600	IN	NS	roman.ns.cloudflare.com.
@@ -19858,6 +19858,10 @@ grupouniversal.do.	3600	IN	NS	ns2-01.azure-dns.net.
 grupouniversal.do.	3600	IN	NS	ns1-01.azure-dns.com.
 grupovanoz.do.		3600	IN	NS	ns9040.banahosting.com.
 grupovanoz.do.		3600	IN	NS	ns9041.banahosting.com.
+grupovibiera.do.	3600	IN	NS	dns1.midominio.do.
+grupovibiera.do.	3600	IN	NS	dns2.midominio.do.
+grupovibiera.do.	3600	IN	NS	dns3.midominio.do.
+grupovibiera.do.	3600	IN	NS	dns4.midominio.do.
 grupovicini.do.		3600	IN	NS	ns1.101domain.com.
 grupovicini.do.		3600	IN	NS	ns5.101domain.com.
 grupovictoriayeb.do.	3600	IN	NS	dns4.midominio.do.
@@ -41261,6 +41265,10 @@ sunflower.do.		3600	IN	NS	dns4.midominio.do.
 sunflower.do.		3600	IN	NS	dns3.midominio.do.
 sunflower.do.		3600	IN	NS	dns2.midominio.do.
 sunflower.do.		3600	IN	NS	dns1.midominio.do.
+sunpaq.do.		3600	IN	NS	dns1.midominio.do.
+sunpaq.do.		3600	IN	NS	dns2.midominio.do.
+sunpaq.do.		3600	IN	NS	dns3.midominio.do.
+sunpaq.do.		3600	IN	NS	dns4.midominio.do.
 sunpower.do.		3600	IN	NS	ns5.markmonitor.com.
 sunpower.do.		3600	IN	NS	ns4.markmonitor.com.
 sunpower.do.		3600	IN	NS	ns3.markmonitor.com.
@@ -48041,4 +48049,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082017 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082018 3600 3600 604800 3600
