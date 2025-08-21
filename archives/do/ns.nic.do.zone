@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082114 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082115 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1755784809"
+do.			3600	IN	TXT	"Generation Time: 1755788410"
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
 007.do.			3600	IN	NS	ns1.arvixeshared.com.
 01.do.			3600	IN	NS	roman.ns.cloudflare.com.
@@ -15218,8 +15218,8 @@ empate.do.		3600	IN	NS	dns1.midominio.do.
 empate.do.		3600	IN	NS	dns2.midominio.do.
 empate.do.		3600	IN	NS	dns3.midominio.do.
 empate.do.		3600	IN	NS	dns4.midominio.do.
-empatika.do.		3600	IN	NS	ikaro.datarush.es.
-empatika.do.		3600	IN	NS	dedalo.datarush.es.
+empatika.do.		3600	IN	NS	ns1.newtralcloud.com.
+empatika.do.		3600	IN	NS	ns2.newtralcloud.com.
 empiregroup.do.		3600	IN	NS	dns2.namecheaphosting.com.
 empiregroup.do.		3600	IN	NS	dns1.namecheaphosting.com.
 empirica.do.		3600	IN	NS	ns1.bluehost.com.
@@ -27320,6 +27320,10 @@ marcuslounge.do.	3600	IN	NS	dns2.midominio.do.
 marcuslounge.do.	3600	IN	NS	dns1.midominio.do.
 mardelasflores.do.	3600	IN	NS	ns1.siteground.net.
 mardelasflores.do.	3600	IN	NS	ns2.siteground.net.
+mardom.do.		3600	IN	NS	dns1.midominio.do.
+mardom.do.		3600	IN	NS	dns2.midominio.do.
+mardom.do.		3600	IN	NS	dns3.midominio.do.
+mardom.do.		3600	IN	NS	dns4.midominio.do.
 marello.do.		3600	IN	NS	dns4.midominio.do.
 marello.do.		3600	IN	NS	dns3.midominio.do.
 marello.do.		3600	IN	NS	dns2.midominio.do.
@@ -48132,4 +48136,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082114 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082115 3600 3600 604800 3600
