@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025082206 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025082208 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1755856907"
+ps.			86400	IN	TXT	"Generation Time: 1755871298"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -43,6 +43,8 @@ ps.			86400	IN	TXT	"Generation Time: 1755856907"
 123domain.ps.		86400	IN	NS	ns4-eu.123ns.de.
 17db.ps.		86400	IN	NS	wanda.ns.cloudflare.com.
 17db.ps.		86400	IN	NS	tanner.ns.cloudflare.com.
+180degree.ps.		86400	IN	NS	ns1.ttawor.com.
+180degree.ps.		86400	IN	NS	ns2.ttawor.com.
 1963.ps.		86400	IN	NS	ns1.dns.com.
 1963.ps.		86400	IN	NS	ns2.dns.com.
 1click.ps.		86400	IN	NS	ns1.speedydns.net.
@@ -5736,11 +5738,11 @@ eth.ps.			86400	IN	NS	ns2.domain.io.
 etisalat.ps.		86400	IN	NS	ns.paltel.ps.
 etisalat.ps.		86400	IN	NS	dns.paltel.ps.
 etisalat.ps.		86400	IN	NS	gns.paltel.net.
-etopup.ps.		86400	IN	DS	26434 8 2 D4F0109AB78C325D042BD7E56AF52A67B10F30E7BDCDCDE5D20F2272 49B4CDD3
 etopup.ps.		86400	IN	NS	ns-cloud-b1.googledomains.com.
 etopup.ps.		86400	IN	NS	ns-cloud-b2.googledomains.com.
 etopup.ps.		86400	IN	NS	ns-cloud-b3.googledomains.com.
 etopup.ps.		86400	IN	NS	ns-cloud-b4.googledomains.com.
+etopup.ps.		86400	IN	DS	26434 8 2 D4F0109AB78C325D042BD7E56AF52A67B10F30E7BDCDCDE5D20F2272 49B4CDD3
 etoro.ps.		86400	IN	NS	june.ns.cloudflare.com.
 etoro.ps.		86400	IN	NS	nikon.ns.cloudflare.com.
 etourism.ps.		86400	IN	NS	ray.ns.cloudflare.com.
@@ -9983,9 +9985,9 @@ mahatta.ps.		86400	IN	NS	sam.ns.cloudflare.com.
 mahatta.ps.		86400	IN	NS	zoe.ns.cloudflare.com.
 mahdi.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 mahdi.ps.		86400	IN	NS	ns2.injazatcloud.ps.
-maher.ps.		86400	IN	DS	2371 13 2 1F1E8CFE8F02FA7AEEF02D5C019359FCDF5D53E86036154199B9AE76 330E9345
 maher.ps.		86400	IN	NS	tosana.ns.cloudflare.com.
 maher.ps.		86400	IN	NS	elinore.ns.cloudflare.com.
+maher.ps.		86400	IN	DS	2371 13 2 1F1E8CFE8F02FA7AEEF02D5C019359FCDF5D53E86036154199B9AE76 330E9345
 mahmiyat.ps.		86400	IN	NS	gwen.ns.cloudflare.com.
 mahmiyat.ps.		86400	IN	NS	lars.ns.cloudflare.com.
 mahmoud.ps.		86400	IN	NS	sue.ns.cloudflare.com.
@@ -12925,11 +12927,11 @@ paltatreez.ps.		86400	IN	NS	ns3.bluetd.com.
 paltatreez.ps.		86400	IN	NS	ns4.bluetd.com.
 paltaxi.ps.		86400	IN	NS	micah.ns.cloudflare.com.
 paltaxi.ps.		86400	IN	NS	galilea.ns.cloudflare.com.
+paltc.ps.		86400	IN	DS	24345 13 2 A4CBC4958ED097824290A9134D98A09429CF4CAEC3C50D9710D9FD7D 0AD9A487
 paltc.ps.		86400	IN	NS	ns-cloud-a1.googledomains.com.
 paltc.ps.		86400	IN	NS	ns-cloud-a2.googledomains.com.
 paltc.ps.		86400	IN	NS	ns-cloud-a3.googledomains.com.
 paltc.ps.		86400	IN	NS	ns-cloud-a4.googledomains.com.
-paltc.ps.		86400	IN	DS	24345 13 2 A4CBC4958ED097824290A9134D98A09429CF4CAEC3C50D9710D9FD7D 0AD9A487
 paltcei.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 paltcei.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 paltech.ps.		86400	IN	NS	ns1.plesk-web7.webhostbox.net.
@@ -19016,4 +19018,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025082206 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025082208 86400 7200 3600000 172800
