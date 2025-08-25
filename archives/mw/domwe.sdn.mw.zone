@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1756130701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1756137901 1800 600 604800 1800
 mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
 mw.			18000	IN	NS	ns4.apnic.net.
 mw.			18000	IN	NS	rip.psg.com.
@@ -4479,6 +4479,8 @@ sgs.mw.			18000	IN	NS	ns1.dnshost.net.
 sgs.mw.			18000	IN	NS	ns2.dnshost.net.
 sgw.mw.			18000	IN	NS	dns1.supremedns.com.
 sgw.mw.			18000	IN	NS	dns2.supremedns.com.
+sgw.mw.			18000	IN	NS	dns3.supremedns.com.
+sgw.mw.			18000	IN	NS	dns4.supremedns.com.
 shaanti.mw.		18000	IN	NS	proxy2.africa-online.net.
 shaanti.mw.		18000	IN	NS	proxy3.africa-online.net.
 sharecarevet.mw.	18000	IN	NS	ns1.bdsmw.com.
@@ -5430,4 +5432,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1756130701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1756137901 1800 600 604800 1800
