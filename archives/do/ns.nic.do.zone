@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082624 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082701 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1756250411"
+do.			3600	IN	TXT	"Generation Time: 1756256413"
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
 007.do.			3600	IN	NS	ns1.arvixeshared.com.
 01.do.			3600	IN	NS	roman.ns.cloudflare.com.
@@ -8640,6 +8640,8 @@ champignon.do.		3600	IN	NS	ns35.dnns.net.
 championbet.do.		3600	IN	NS	ns03.trademarkarea.com.
 championbet.do.		3600	IN	NS	ns02.trademarkarea.com.
 championbet.do.		3600	IN	NS	ns01.trademarkarea.com.
+championforlife.do.	3600	IN	NS	hgns1.hostgator.com.
+championforlife.do.	3600	IN	NS	hgns2.hostgator.com.
 championlubes.do.	3600	IN	NS	ns3.brandshelter.info.
 championlubes.do.	3600	IN	NS	ns4.brandshelter.net.
 championlubes.do.	3600	IN	NS	ns5.brandshelter.us.
@@ -10795,10 +10797,10 @@ coopcentral.do.		3600	IN	NS	dns2.midominio.do.
 coopcentral.do.		3600	IN	NS	dns1.midominio.do.
 coopcovi.do.		3600	IN	NS	ns2.wesoftweb.net.
 coopcovi.do.		3600	IN	NS	ns1.wesoftweb.net.
-coopcredi.do.		3600	IN	NS	ns12.negox.com.
-coopcredi.do.		3600	IN	NS	ns11.negox.com.
-coopcredi.do.		3600	IN	NS	dns4.midominio.do.
-coopcredi.do.		3600	IN	NS	dns3.midominio.do.
+coopcredi.do.		3600	IN	NS	ns1-09.azure-dns.com.
+coopcredi.do.		3600	IN	NS	ns2-09.azure-dns.net.
+coopcredi.do.		3600	IN	NS	ns3-09.azure-dns.org.
+coopcredi.do.		3600	IN	NS	ns4-09.azure-dns.info.
 coopdeco.do.		3600	IN	NS	dns4.midominio.do.
 coopdeco.do.		3600	IN	NS	dns3.midominio.do.
 coopdeco.do.		3600	IN	NS	dns2.midominio.do.
@@ -12556,10 +12558,8 @@ destileriabarcelo.do.	3600	IN	NS	dns2.midominio.do.
 destileriabarcelo.do.	3600	IN	NS	dns1.midominio.do.
 destinia.do.		3600	IN	NS	ns.classicweb.com.
 destinia.do.		3600	IN	NS	ns2.classicweb.com.
-destinocaribe.do.	3600	IN	NS	dns1.midominio.do.
-destinocaribe.do.	3600	IN	NS	dns2.midominio.do.
-destinocaribe.do.	3600	IN	NS	dns3.midominio.do.
-destinocaribe.do.	3600	IN	NS	dns4.midominio.do.
+destinocaribe.do.	3600	IN	NS	ns8912.banahosting.com.
+destinocaribe.do.	3600	IN	NS	ns8913.banahosting.com.
 destinojet.do.		3600	IN	NS	rick.ns.cloudflare.com.
 destinojet.do.		3600	IN	NS	adelaide.ns.cloudflare.com.
 destinosrd.do.		3600	IN	NS	ns83.securenet-server.net.
@@ -14378,10 +14378,8 @@ ecocarga.do.		3600	IN	NS	ns02.trademarkarea.com.
 ecocarga.do.		3600	IN	NS	ns01.trademarkarea.com.
 ecodigital.do.		3600	IN	NS	thea.ns.cloudflare.com.
 ecodigital.do.		3600	IN	NS	sonny.ns.cloudflare.com.
-ecofit.do.		3600	IN	NS	dns4.midominio.do.
-ecofit.do.		3600	IN	NS	dns3.midominio.do.
-ecofit.do.		3600	IN	NS	dns2.midominio.do.
-ecofit.do.		3600	IN	NS	dns1.midominio.do.
+ecofit.do.		3600	IN	NS	hgns1.hostgator.com.
+ecofit.do.		3600	IN	NS	hgns2.hostgator.com.
 ecoflow.do.		3600	IN	NS	ns2.icp100.net.
 ecoflow.do.		3600	IN	NS	ns1.icp100.net.
 ecoforms.do.		3600	IN	NS	dns4.midominio.do.
@@ -23057,6 +23055,10 @@ ironshield.do.		3600	IN	NS	ns01.trademarkarea.com.
 irritec.do.		3600	IN	NS	ns3.netim.net.
 irritec.do.		3600	IN	NS	ns2.netim.net.
 irritec.do.		3600	IN	NS	ns1.netim.net.
+isabelabayfundation.do.	3600	IN	NS	dns1.midominio.do.
+isabelabayfundation.do.	3600	IN	NS	dns2.midominio.do.
+isabelabayfundation.do.	3600	IN	NS	dns3.midominio.do.
+isabelabayfundation.do.	3600	IN	NS	dns4.midominio.do.
 isc.do.			3600	IN	NS	ns3-05.azure-dns.org.
 isc.do.			3600	IN	NS	ns2-05.azure-dns.net.
 isc.do.			3600	IN	NS	ns1-05.azure-dns.com.
@@ -44081,10 +44083,8 @@ tubancoamano.do.	3600	IN	NS	dns4.midominio.do.
 tubancoamano.do.	3600	IN	NS	dns3.midominio.do.
 tubancoamano.do.	3600	IN	NS	dns2.midominio.do.
 tubancoamano.do.	3600	IN	NS	dns1.midominio.do.
-tubienestar.do.		3600	IN	NS	dns4.midominio.do.
-tubienestar.do.		3600	IN	NS	dns3.midominio.do.
-tubienestar.do.		3600	IN	NS	dns2.midominio.do.
-tubienestar.do.		3600	IN	NS	dns1.midominio.do.
+tubienestar.do.		3600	IN	NS	hgns1.hostgator.com.
+tubienestar.do.		3600	IN	NS	hgns2.hostgator.com.
 tubolsillo.do.		3600	IN	NS	dns4.midominio.do.
 tubolsillo.do.		3600	IN	NS	dns3.midominio.do.
 tubolsillo.do.		3600	IN	NS	dns2.midominio.do.
@@ -46702,6 +46702,8 @@ wellmed.do.		3600	IN	NS	dns2.midominio.do.
 wellmed.do.		3600	IN	NS	dns1.midominio.do.
 wellmed.do.		3600	IN	NS	dns4.midominio.do.
 wellmed.do.		3600	IN	NS	dns3.midominio.do.
+wellnessspot.do.	3600	IN	NS	hgns1.hostgator.com.
+wellnessspot.do.	3600	IN	NS	hgns2.hostgator.com.
 wellnexus.do.		3600	IN	NS	ns2.bluehost.com.
 wellnexus.do.		3600	IN	NS	ns1.bluehost.com.
 wellnexus.do.		3600	IN	NS	dns4.midominio.do.
@@ -48152,4 +48154,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082624 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082701 3600 3600 604800 3600
