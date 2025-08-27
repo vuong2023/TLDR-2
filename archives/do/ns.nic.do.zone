@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082701 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082702 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1756256413"
+do.			3600	IN	TXT	"Generation Time: 1756260014"
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
 007.do.			3600	IN	NS	ns1.arvixeshared.com.
 01.do.			3600	IN	NS	roman.ns.cloudflare.com.
@@ -18787,6 +18787,10 @@ gentetuya.do.		3600	IN	NS	dns2.stabletransit.com.
 gentetuya.do.		3600	IN	NS	dns1.stabletransit.com.
 geo.do.			3600	IN	NS	dns1.gridhoster.com.
 geo.do.			3600	IN	NS	dns2.gridhoster.com.
+geodesign.do.		3600	IN	NS	dns1.midominio.do.
+geodesign.do.		3600	IN	NS	dns2.midominio.do.
+geodesign.do.		3600	IN	NS	dns3.midominio.do.
+geodesign.do.		3600	IN	NS	dns4.midominio.do.
 geolex.do.		3600	IN	NS	ns8910.banahosting.com.
 geolex.do.		3600	IN	NS	ns8911.banahosting.com.
 geomatics.do.		3600	IN	NS	ns6.wixdns.net.
@@ -48154,4 +48158,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082701 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082702 3600 3600 604800 3600
