@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082813 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082814 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1756386307"
+do.			3600	IN	TXT	"Generation Time: 1756389908"
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
 007.do.			3600	IN	NS	ns1.arvixeshared.com.
 01.do.			3600	IN	NS	roman.ns.cloudflare.com.
@@ -6315,6 +6315,8 @@ bostonredsox.do.	3600	IN	NS	ns-cloud-c3.googledomains.com.
 bostonredsox.do.	3600	IN	NS	ns-cloud-c2.googledomains.com.
 bot.do.			3600	IN	NS	ns2.domain.io.
 bot.do.			3600	IN	NS	ns1.domain.io.
+botico.do.		3600	IN	NS	ns1.101domain.com.
+botico.do.		3600	IN	NS	ns2.101domain.com.
 botox.do.		3600	IN	NS	ns1.abbviedns.com.
 botox.do.		3600	IN	NS	ns2.abbviedns.com.
 botox.do.		3600	IN	NS	ns3.abbviedns.com.
@@ -19883,6 +19885,8 @@ grupoolite.do.		3600	IN	NS	dns1.midominio.do.
 grupoono.do.		3600	IN	NS	ns03.trademarkarea.com.
 grupoono.do.		3600	IN	NS	ns02.trademarkarea.com.
 grupoono.do.		3600	IN	NS	ns01.trademarkarea.com.
+grupooriental.do.	3600	IN	NS	cora.ns.cloudflare.com.
+grupooriental.do.	3600	IN	NS	lennox.ns.cloudflare.com.
 grupop.do.		3600	IN	NS	ns2.s20.grupohost.net.
 grupop.do.		3600	IN	NS	ns1.s20.grupohost.net.
 grupopecruz.do.		3600	IN	NS	dns4.midominio.do.
@@ -23849,10 +23853,8 @@ jt.do.			3600	IN	NS	dns1.midominio.do.
 jt.do.			3600	IN	NS	dns2.midominio.do.
 jt.do.			3600	IN	NS	dns3.midominio.do.
 jt.do.			3600	IN	NS	dns4.midominio.do.
-jtto.do.		3600	IN	NS	ns1.eurodns.com.
-jtto.do.		3600	IN	NS	ns2.eurodns.com.
-jtto.do.		3600	IN	NS	ns3.eurodns.com.
-jtto.do.		3600	IN	NS	ns4.eurodns.com.
+jtto.do.		3600	IN	NS	pdns1.registrar-servers.com.
+jtto.do.		3600	IN	NS	pdns2.registrar-servers.com.
 jtx.do.			3600	IN	NS	dns4.midominio.do.
 jtx.do.			3600	IN	NS	dns3.midominio.do.
 jtx.do.			3600	IN	NS	dns2.midominio.do.
@@ -48178,4 +48180,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082813 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082814 3600 3600 604800 3600
