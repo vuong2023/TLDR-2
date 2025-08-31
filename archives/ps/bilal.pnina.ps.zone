@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025083106 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025083109 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1756634500"
+ps.			86400	IN	TXT	"Generation Time: 1756656094"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -1263,6 +1263,8 @@ almahata.ps.		86400	IN	NS	gold1.bodhosting.com.
 almahata.ps.		86400	IN	NS	gold2.bodhosting.com.
 almahedco.ps.		86400	IN	NS	hosting01.mada.ps.
 almahedco.ps.		86400	IN	NS	hosting02.mada.ps.
+almahsiri.ps.		86400	IN	NS	ns1.dns-parking.com.
+almahsiri.ps.		86400	IN	NS	ns2.dns-parking.com.
 almajd.ps.		86400	IN	NS	dns1.namecheaphosting.com.
 almajd.ps.		86400	IN	NS	dns2.namecheaphosting.com.
 almajd4development.ps.	86400	IN	NS	cdns1.hadara.ps.
@@ -3849,8 +3851,9 @@ cfpeace.ps.		86400	IN	NS	ns01.trademarkarea.com.
 cfpeace.ps.		86400	IN	NS	ns02.trademarkarea.com.
 cfta.ps.		86400	IN	NS	cloe.ns.cloudflare.com.
 cfta.ps.		86400	IN	NS	todd.ns.cloudflare.com.
-cgc-pal.ps.		86400	IN	NS	nscp5.mada.ps.
-cgc-pal.ps.		86400	IN	NS	nscp6.mada.ps.
+cgc-pal.ps.		86400	IN	NS	ns1.i-net.ps.
+cgc-pal.ps.		86400	IN	NS	ns4.i-net.ps.
+cgc-pal.ps.		86400	IN	NS	ns7.i-net.ps.
 cgd.ps.			86400	IN	NS	hosting01.mada.ps.
 cgd.ps.			86400	IN	NS	hosting02.mada.ps.
 cgmotors.ps.		86400	IN	NS	ns1045.ui-dns.de.
@@ -10181,10 +10184,10 @@ marwamed.ps.		86400	IN	NS	ns1.ideaeps.com.
 marwamed.ps.		86400	IN	NS	ns2.ideaeps.com.
 marwan.ps.		86400	IN	NS	ns1.net-house.net.
 marwan.ps.		86400	IN	NS	ns2.net-house.net.
+marx.ps.		86400	IN	DS	49792 8 2 71D32050946F076150BD172E1E5173A4EB3CE2B47DE92B94CE1230BC F2C014EF
 marx.ps.		86400	IN	NS	1-you.njalla.no.
 marx.ps.		86400	IN	NS	2-can.njalla.in.
 marx.ps.		86400	IN	NS	3-get.njalla.fo.
-marx.ps.		86400	IN	DS	49792 8 2 71D32050946F076150BD172E1E5173A4EB3CE2B47DE92B94CE1230BC F2C014EF
 maryamti.ps.		86400	IN	NS	ns1-dolphin.dl-cms.com.
 maryamti.ps.		86400	IN	NS	ns2-dolphin.dl-cms.com.
 mas.ps.			86400	IN	NS	ns1.bluetd.com.
@@ -10812,6 +10815,8 @@ milano-cheese.ps.	86400	IN	NS	ns1-38.azure-dns.com.
 milano-cheese.ps.	86400	IN	NS	ns2-38.azure-dns.net.
 milano-cheese.ps.	86400	IN	NS	ns3-38.azure-dns.org.
 milano-cheese.ps.	86400	IN	NS	ns4-38.azure-dns.info.
+mile.ps.		86400	IN	NS	nscp5.mada.ps.
+mile.ps.		86400	IN	NS	nscp6.mada.ps.
 miles.ps.		86400	IN	NS	ns1.nsresponse.com.
 miles.ps.		86400	IN	NS	ns2.nsresponse.com.
 milestones.ps.		86400	IN	NS	ns1.bluetd.com.
@@ -13322,9 +13327,9 @@ pfc.ps.			86400	IN	NS	cdns1.hadara.ps.
 pfc.ps.			86400	IN	NS	cdns2.hadara.ps.
 pfda.ps.		86400	IN	NS	ns1.weblayer.co.
 pfda.ps.		86400	IN	NS	ns2.weblayer.co.
+pfeis.ps.		86400	IN	DS	48693 13 2 BA0B5D3C90AB3CC79C6CF68DDB0DB364F784F7EA0F2DD9BE6D45C279 459E974C
 pfeis.ps.		86400	IN	NS	cdns1.hadara.ps.
 pfeis.ps.		86400	IN	NS	cdns2.hadara.ps.
-pfeis.ps.		86400	IN	DS	48693 13 2 BA0B5D3C90AB3CC79C6CF68DDB0DB364F784F7EA0F2DD9BE6D45C279 459E974C
 pfgt.ps.		86400	IN	NS	dns1.namecheaphosting.com.
 pfgt.ps.		86400	IN	NS	dns2.namecheaphosting.com.
 pfi.ps.			86400	IN	NS	gwen.ns.cloudflare.com.
@@ -13583,6 +13588,8 @@ plethora.ps.		86400	IN	NS	ns2-cat.dl-cms.com.
 plo.ps.			86400	IN	NS	dns3.gov.ps.
 plo.ps.			86400	IN	NS	dns4.pna.ps.
 plo.ps.			86400	IN	NS	dns5.gov.ps.
+plord.ps.		86400	IN	NS	ns1.atyaf.co.
+plord.ps.		86400	IN	NS	ns2.atyaf.co.
 plservices.ps.		86400	IN	NS	ns1.dns-parking.com.
 plservices.ps.		86400	IN	NS	ns2.dns-parking.com.
 plug.ps.		86400	IN	NS	ns1.he.net.
@@ -16823,6 +16830,8 @@ tam.ps.			86400	IN	NS	ns1.inmotionhosting.com.
 tam.ps.			86400	IN	NS	ns2.inmotionhosting.com.
 tamakan.ps.		86400	IN	NS	lauryn.ns.cloudflare.com.
 tamakan.ps.		86400	IN	NS	morgan.ns.cloudflare.com.
+tamam.ps.		86400	IN	NS	dell.ns.cloudflare.com.
+tamam.ps.		86400	IN	NS	devin.ns.cloudflare.com.
 tamari.ps.		86400	IN	NS	dns3.totalchoicehosting.com.
 tamari.ps.		86400	IN	NS	dns4.totalchoicehosting.com.
 tamas.ps.		86400	IN	NS	ns1.injazatcloud.ps.
@@ -18986,4 +18995,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025083106 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025083109 86400 7200 3600000 172800
