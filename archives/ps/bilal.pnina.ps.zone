@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025090209 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025090305 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1756828899"
+ps.			86400	IN	TXT	"Generation Time: 1756886495"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -3618,8 +3618,6 @@ cafebarber.ps.		86400	IN	NS	cdns1.hadara.ps.
 cafebarber.ps.		86400	IN	NS	cdns2.hadara.ps.
 cafedelapaix.ps.	86400	IN	NS	ns1.injazatcloud.ps.
 cafedelapaix.ps.	86400	IN	NS	ns2.injazatcloud.ps.
-caffevero.ps.		86400	IN	NS	ns1.sederhost.com.
-caffevero.ps.		86400	IN	NS	ns2.sederhost.com.
 caffevero.ps.		86400	IN	NS	raina.ns.cloudflare.com.
 caffevero.ps.		86400	IN	NS	seamus.ns.cloudflare.com.
 cairo.ps.		86400	IN	NS	ns1.siteground.net.
@@ -14126,9 +14124,9 @@ qaffin.ps.		86400	IN	NS	ns1.bluetd.com.
 qaffin.ps.		86400	IN	NS	ns2.bluetd.com.
 qaiswlayla.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 qaiswlayla.ps.		86400	IN	NS	ns2.injazatcloud.ps.
+qalqilia.ps.		86400	IN	DS	2371 13 2 A8FF78F0656F688B91478D99B06DD74557619CC9ED13FE76650E2C47 A6A6BF15
 qalqilia.ps.		86400	IN	NS	tosana.ns.cloudflare.com.
 qalqilia.ps.		86400	IN	NS	elinore.ns.cloudflare.com.
-qalqilia.ps.		86400	IN	DS	2371 13 2 A8FF78F0656F688B91478D99B06DD74557619CC9ED13FE76650E2C47 A6A6BF15
 qalqiliamun.ps.		86400	IN	NS	ns1.bluetd.com.
 qalqiliamun.ps.		86400	IN	NS	ns2.bluetd.com.
 qalqilya.ps.		86400	IN	NS	ns1.gemzo.net.
@@ -19028,4 +19026,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025090209 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025090305 86400 7200 3600000 172800
