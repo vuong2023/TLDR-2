@@ -1,6 +1,4 @@
-;; Connection to 41.87.2.154#53(41.87.2.154) for mw. failed: timed out.
-;; no servers could be reached
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1756908301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1756915501 1800 600 604800 1800
 mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
 mw.			18000	IN	NS	ns4.apnic.net.
 mw.			18000	IN	NS	rip.psg.com.
@@ -1576,6 +1574,8 @@ eidu.mw.		18000	IN	NS	ns-395.awsdns-49.com.
 eidu.mw.		18000	IN	NS	ns-670.awsdns-19.net.
 eidu.mw.		18000	IN	NS	ns-1381.awsdns-44.org.
 eidu.mw.		18000	IN	NS	ns-1893.awsdns-44.co.uk.
+ekbn.mw.		18000	IN	NS	ns1.my-control-panel.com.
+ekbn.mw.		18000	IN	NS	ns2.my-control-panel.com.
 electro.mw.		18000	IN	NS	ns1.101domain.com.
 electro.mw.		18000	IN	NS	ns2.101domain.com.
 electrolux.mw.		18000	IN	NS	udns1.cscdns.net.
@@ -5429,4 +5429,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1756908301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1756915501 1800 600 604800 1800
