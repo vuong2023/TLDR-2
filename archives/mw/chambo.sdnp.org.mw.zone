@@ -3,7 +3,7 @@
 ;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
 ;; no servers could be reached
 ;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1757174701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1757203501 1800 600 604800 1800
 mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
 mw.			18000	IN	NS	ns4.apnic.net.
 mw.			18000	IN	NS	rip.psg.com.
@@ -2669,6 +2669,8 @@ kitaandcompany.mw.	18000	IN	NS	ns3.mailboxmw.com.
 kitaandcompany.mw.	18000	IN	NS	ns4.mailboxmw.com.
 kitchenaid.mw.		18000	IN	NS	ns.whirlpool.com.
 kitchenaid.mw.		18000	IN	NS	ns2.whirlpool.com.
+klemtechnologies.mw.	18000	IN	NS	domwe.sdn.mw.
+klemtechnologies.mw.	18000	IN	NS	nyala.sdnp.org.mw.
 klm.mw.			18000	IN	NS	a4-65.akam.net.
 klm.mw.			18000	IN	NS	a9-67.akam.net.
 klm.mw.			18000	IN	NS	a1-101.akam.net.
@@ -5439,4 +5441,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1757174701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1757203501 1800 600 604800 1800
