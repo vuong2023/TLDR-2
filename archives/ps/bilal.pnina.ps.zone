@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025090808 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025090809 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1757340110"
+ps.			86400	IN	TXT	"Generation Time: 1757347296"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -6634,6 +6634,8 @@ gamemax.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 gamemax.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 gamer.ps.		86400	IN	NS	ns1.m4444.xyz.
 gamer.ps.		86400	IN	NS	ns2.m4444.xyz.
+gamerhouse.ps.		86400	IN	NS	ns1-dolphin.dl-cms.com.
+gamerhouse.ps.		86400	IN	NS	ns2-dolphin.dl-cms.com.
 gamesmaster.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 gamesmaster.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 gamezone.ps.		86400	IN	NS	dns1.namecheaphosting.com.
@@ -13961,6 +13963,8 @@ protectionit.ps.	86400	IN	NS	nscp3.furrera.ps.
 protectionit.ps.	86400	IN	NS	nscp4.furrera.ps.
 provision.ps.		86400	IN	NS	ns1.provision-servers.com.
 provision.ps.		86400	IN	NS	ns2.provision-servers.com.
+proxima.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+proxima.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 prysco.ps.		86400	IN	NS	ns1.dotster.com.
 prysco.ps.		86400	IN	NS	ns2.dotster.com.
 ps.ps.			86400	IN	NS	cotton.dnspod.net.
@@ -14513,6 +14517,8 @@ readyproduction.ps.	86400	IN	NS	ns3.masterweb-ps.com.
 readyproduction.ps.	86400	IN	NS	ns4.masterweb-ps.com.
 realestate.ps.		86400	IN	NS	pns21.cloudns.net.
 realestate.ps.		86400	IN	NS	pns22.cloudns.net.
+rebal-food.ps.		86400	IN	NS	ns1.astra.ps.
+rebal-food.ps.		86400	IN	NS	ns2.astra.ps.
 rebh.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 rebh.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 reca.ps.		86400	IN	NS	ns1-hosting.pulseheberg.net.
@@ -18892,6 +18898,8 @@ zarkash.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 zarkash.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 zaro.ps.		86400	IN	NS	ns1.mysecurecloudhost.com.
 zaro.ps.		86400	IN	NS	ns2.mysecurecloudhost.com.
+zaromax.ps.		86400	IN	NS	ns1.astra.ps.
+zaromax.ps.		86400	IN	NS	ns2.astra.ps.
 zarotex.ps.		86400	IN	NS	ns1.vultr.com.
 zarotex.ps.		86400	IN	NS	ns2.vultr.com.
 zayna.ps.		86400	IN	NS	etta.ns.cloudflare.com.
@@ -19015,4 +19023,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025090808 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025090809 86400 7200 3600000 172800
