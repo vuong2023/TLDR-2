@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091218 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091220 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1757697910"
+do.			3600	IN	TXT	"Generation Time: 1757704512"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -23461,6 +23461,8 @@ jacobsdouweegberts.do.	3600	IN	NS	ns2.iptwins.net.
 jacobsdouweegberts.do.	3600	IN	NS	ns1.iptwins.net.
 jade.do.		3600	IN	NS	nataly.ns.cloudflare.com.
 jade.do.		3600	IN	NS	lars.ns.cloudflare.com.
+jadeapp.do.		3600	IN	NS	lars.ns.cloudflare.com.
+jadeapp.do.		3600	IN	NS	nataly.ns.cloudflare.com.
 jaderestaurant.do.	3600	IN	NS	ns4.hostinger.com.
 jaderestaurant.do.	3600	IN	NS	ns3.hostinger.com.
 jaderestaurant.do.	3600	IN	NS	ns2.hostinger.com.
@@ -48305,4 +48307,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091218 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091220 3600 3600 604800 3600
