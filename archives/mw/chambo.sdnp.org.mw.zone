@@ -1,4 +1,9 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1757952301 1800 600 604800 1800
+;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
+;; no servers could be reached
+;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
+;; no servers could be reached
+;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1757973901 1800 600 604800 1800
 mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
 mw.			18000	IN	NS	ns4.apnic.net.
 mw.			18000	IN	NS	rip.psg.com.
@@ -5241,6 +5246,8 @@ webtickets.mw.		18000	IN	NS	ns1.cpns.co.za.
 webtickets.mw.		18000	IN	NS	ns2.cpns.co.za.
 webtickets.mw.		18000	IN	NS	ns3.cpns.co.za.
 webtickets.mw.		18000	IN	NS	ns4.cpns.co.za.
+wellmed.mw.		18000	IN	NS	ns1.dns-parking.com.
+wellmed.mw.		18000	IN	NS	ns2.dns-parking.com.
 wellsfargo.mw.		18000	IN	NS	ns1.markmonitor.com.
 wellsfargo.mw.		18000	IN	NS	ns2.markmonitor.com.
 wellsfargo.mw.		18000	IN	NS	ns3.markmonitor.com.
@@ -5442,4 +5449,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1757952301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1757973901 1800 600 604800 1800
