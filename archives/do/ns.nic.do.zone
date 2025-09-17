@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091719 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091720 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1758133209"
+do.			3600	IN	TXT	"Generation Time: 1758136509"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -37094,6 +37094,10 @@ reservame.do.		3600	IN	NS	ns26.domaincontrol.com.
 reservame.do.		3600	IN	NS	ns25.domaincontrol.com.
 reservan.do.		3600	IN	NS	rajeev.ns.cloudflare.com.
 reservan.do.		3600	IN	NS	ingrid.ns.cloudflare.com.
+reservaya.do.		3600	IN	NS	ns1.exclusivehosting.net.
+reservaya.do.		3600	IN	NS	ns2.exclusivehosting.net.
+reservaya.do.		3600	IN	NS	ns3.exclusivehosting.net.
+reservaya.do.		3600	IN	NS	ns4.exclusivehosting.net.
 reset.do.		3600	IN	NS	ns4.exclusivehosting.net.
 reset.do.		3600	IN	NS	ns3.exclusivehosting.net.
 reset.do.		3600	IN	NS	ns2.exclusivehosting.net.
@@ -46119,6 +46123,8 @@ virtualmall.do.		3600	IN	NS	dns4.midominio.do.
 virtualmall.do.		3600	IN	NS	dns3.midominio.do.
 virtualmall.do.		3600	IN	NS	dns2.midominio.do.
 virtualmall.do.		3600	IN	NS	dns1.midominio.do.
+virtualoffice.do.	3600	IN	NS	ns1.privatedns.com.
+virtualoffice.do.	3600	IN	NS	ns2.privatedns.com.
 virtualreality.do.	3600	IN	NS	ns1.codecrm.com.
 virtualreality.do.	3600	IN	NS	ns2.codecrm.com.
 virtualtours.do.	3600	IN	NS	ns880.websitewelcome.com.
@@ -48335,4 +48341,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091719 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091720 3600 3600 604800 3600
