@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091815 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091816 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1758206410"
+do.			3600	IN	TXT	"Generation Time: 1758209711"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -12310,6 +12310,12 @@ decathlon.do.		3600	IN	NS	udns1.cscdns.net.
 deci.do.		3600	IN	NS	ns1.netim.net.
 deci.do.		3600	IN	NS	ns2.netim.net.
 deci.do.		3600	IN	NS	ns3.netim.net.
+decima.do.		3600	IN	NS	dns1.midominio.do.
+decima.do.		3600	IN	NS	dns2.midominio.do.
+decima.do.		3600	IN	NS	dns3.midominio.do.
+decima.do.		3600	IN	NS	dns4.midominio.do.
+decima.do.		3600	IN	NS	ns53.domaincontrol.com.
+decima.do.		3600	IN	NS	ns54.domaincontrol.com.
 deco.do.		3600	IN	NS	skip.ns.cloudflare.com.
 deco.do.		3600	IN	NS	alice.ns.cloudflare.com.
 decodedtechnologies.do.	3600	IN	NS	ns5.decodedcloud.com.
@@ -47895,8 +47901,8 @@ yosoylocal.do.		3600	IN	NS	dns4.midominio.do.
 yosoylocal.do.		3600	IN	NS	dns3.midominio.do.
 yosoylocal.do.		3600	IN	NS	dns2.midominio.do.
 yosoylocal.do.		3600	IN	NS	dns1.midominio.do.
-yosper.do.		3600	IN	NS	jaime.ns.cloudflare.com.
-yosper.do.		3600	IN	NS	kimora.ns.cloudflare.com.
+yosper.do.		3600	IN	NS	donovan.ns.cloudflare.com.
+yosper.do.		3600	IN	NS	grannbo.ns.cloudflare.com.
 yostphotography.do.	3600	IN	NS	dns4.midominio.do.
 yostphotography.do.	3600	IN	NS	dns3.midominio.do.
 yostphotography.do.	3600	IN	NS	dns2.midominio.do.
@@ -48346,4 +48352,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091815 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091816 3600 3600 604800 3600
