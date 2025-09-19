@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091906 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091907 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1758263110"
+do.			3600	IN	TXT	"Generation Time: 1758266411"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -3012,6 +3012,9 @@ aoquadra.do.		3600	IN	NS	ns2.wordpress.com.
 aoquadra.do.		3600	IN	NS	ns3.wordpress.com.
 ap.do.			3600	IN	NS	ns122.websitewelcome.com.
 ap.do.			3600	IN	NS	ns121.websitewelcome.com.
+ap2.do.			3600	IN	NS	ns1.regery.net.
+ap2.do.			3600	IN	NS	ns2.regery.net.
+ap2.do.			3600	IN	NS	ns3.regery.net.
 apap.do.		3600	IN	NS	ns4-08.azure-dns.info.
 apap.do.		3600	IN	NS	ns3-08.azure-dns.org.
 apap.do.		3600	IN	NS	ns2-08.azure-dns.net.
@@ -48344,4 +48347,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091906 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091907 3600 3600 604800 3600
