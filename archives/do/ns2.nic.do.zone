@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025092021 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025092022 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1758399003"
+do.			3600	IN	TXT	"Generation Time: 1758402303"
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -4857,8 +4857,14 @@ bancopopular.do.	3600	IN	NS	ns3-06.azure-dns.org.
 bancopopular.do.	3600	IN	NS	ns2-06.azure-dns.net.
 bancopopular.do.	3600	IN	NS	ns1-06.azure-dns.com.
 bancopopular.do.	3600	IN	NS	ns4-06.azure-dns.info.
-bancopopulardominicano.do. 3600	IN	NS	ns2.claro.net.do.
-bancopopulardominicano.do. 3600	IN	NS	ns1.claro.net.do.
+bancopopulardominicano.do. 3600	IN	NS	ns-664.awsdns-19.net.
+bancopopulardominicano.do. 3600	IN	NS	ns4-08.azure-dns.info.
+bancopopulardominicano.do. 3600	IN	NS	ns3-08.azure-dns.org.
+bancopopulardominicano.do. 3600	IN	NS	ns2-08.azure-dns.net.
+bancopopulardominicano.do. 3600	IN	NS	ns1-08.azure-dns.com.
+bancopopulardominicano.do. 3600	IN	NS	ns-1063.awsdns-04.org.
+bancopopulardominicano.do. 3600	IN	NS	ns-1709.awsdns-21.co.uk.
+bancopopulardominicano.do. 3600	IN	NS	ns-29.awsdns-03.com.
 bancos.do.		3600	IN	NS	ns1.rsweb.com.do.
 bancos.do.		3600	IN	NS	ns2.rsweb.com.do.
 bancosantacruz.do.	3600	IN	NS	ns4.exacttarget.com.
@@ -5781,10 +5787,10 @@ biotropic.do.		3600	IN	NS	ns.udag.net.
 biotropic.do.		3600	IN	NS	ns.udag.org.
 bir.do.			3600	IN	NS	ns1.bir.do.
 bir.do.			3600	IN	NS	ns2.bir.do.
-ns1.bir.do.		3600	IN	AAAA	2403:580a:1f66::103
 ns1.bir.do.		3600	IN	A	167.179.175.1
-ns2.bir.do.		3600	IN	A	170.64.156.31
+ns1.bir.do.		3600	IN	AAAA	2403:580a:1f66::103
 ns2.bir.do.		3600	IN	AAAA	2400:6180:10:200::c:7000
+ns2.bir.do.		3600	IN	A	170.64.156.31
 bird.do.		3600	IN	NS	ns2.markmonitor.com.
 bird.do.		3600	IN	NS	ns1.markmonitor.com.
 biriz.do.		3600	IN	NS	ns3.netim.net.
@@ -16984,8 +16990,14 @@ feran.do.		3600	IN	NS	piotr.ns.cloudflare.com.
 feran.do.		3600	IN	NS	emma.ns.cloudflare.com.
 feriados.do.		3600	IN	NS	ns5923.banahosting.com.
 feriados.do.		3600	IN	NS	ns5922.banahosting.com.
-feriahipotecariapopular.do. 3600 IN	NS	ns2.claro.net.do.
-feriahipotecariapopular.do. 3600 IN	NS	ns1.claro.net.do.
+feriahipotecariapopular.do. 3600 IN	NS	ns-85.awsdns-10.com.
+feriahipotecariapopular.do. 3600 IN	NS	ns4-08.azure-dns.info.
+feriahipotecariapopular.do. 3600 IN	NS	ns3-08.azure-dns.org.
+feriahipotecariapopular.do. 3600 IN	NS	ns2-08.azure-dns.net.
+feriahipotecariapopular.do. 3600 IN	NS	ns1-08.azure-dns.com.
+feriahipotecariapopular.do. 3600 IN	NS	ns-1661.awsdns-15.co.uk.
+feriahipotecariapopular.do. 3600 IN	NS	ns-1402.awsdns-47.org.
+feriahipotecariapopular.do. 3600 IN	NS	ns-729.awsdns-27.net.
 ferlon.do.		3600	IN	NS	ns2.siteground.net.
 ferlon.do.		3600	IN	NS	ns1.siteground.net.
 fern.do.		3600	IN	NS	pat.ns.cloudflare.com.
@@ -17267,8 +17279,14 @@ finantek.do.		3600	IN	NS	nelci.ns.cloudflare.com.
 finantek.do.		3600	IN	NS	david.ns.cloudflare.com.
 finanzas.do.		3600	IN	NS	ns1.netfirms.com.
 finanzas.do.		3600	IN	NS	ns2.netfirms.com.
-finanzasconproposito.do. 3600	IN	NS	ns2.claro.net.do.
-finanzasconproposito.do. 3600	IN	NS	ns1.claro.net.do.
+finanzasconproposito.do. 3600	IN	NS	ns-74.awsdns-09.com.
+finanzasconproposito.do. 3600	IN	NS	ns4-04.azure-dns.info.
+finanzasconproposito.do. 3600	IN	NS	ns3-04.azure-dns.org.
+finanzasconproposito.do. 3600	IN	NS	ns2-04.azure-dns.net.
+finanzasconproposito.do. 3600	IN	NS	ns1-04.azure-dns.com.
+finanzasconproposito.do. 3600	IN	NS	ns-686.awsdns-21.net.
+finanzasconproposito.do. 3600	IN	NS	ns-1739.awsdns-25.co.uk.
+finanzasconproposito.do. 3600	IN	NS	ns-1026.awsdns-00.org.
 finanzassinfiltro.do.	3600	IN	NS	ns4-36.azure-dns.info.
 finanzassinfiltro.do.	3600	IN	NS	ns3-36.azure-dns.org.
 finanzassinfiltro.do.	3600	IN	NS	ns2-36.azure-dns.net.
@@ -22219,8 +22237,14 @@ impulsacapital.do.	3600	IN	NS	dns2.midominio.do.
 impulsacapital.do.	3600	IN	NS	dns1.midominio.do.
 impulsapopular.do.	3600	IN	NS	tori.ns.cloudflare.com.
 impulsapopular.do.	3600	IN	NS	apollo.ns.cloudflare.com.
-impulsatunegocio.do.	3600	IN	NS	ns2.claro.net.do.
-impulsatunegocio.do.	3600	IN	NS	ns1.claro.net.do.
+impulsatunegocio.do.	3600	IN	NS	ns-880.awsdns-46.net.
+impulsatunegocio.do.	3600	IN	NS	ns4-09.azure-dns.info.
+impulsatunegocio.do.	3600	IN	NS	ns3-09.azure-dns.org.
+impulsatunegocio.do.	3600	IN	NS	ns2-09.azure-dns.net.
+impulsatunegocio.do.	3600	IN	NS	ns1-09.azure-dns.com.
+impulsatunegocio.do.	3600	IN	NS	ns-1771.awsdns-29.co.uk.
+impulsatunegocio.do.	3600	IN	NS	ns-1082.awsdns-07.org.
+impulsatunegocio.do.	3600	IN	NS	ns-364.awsdns-45.com.
 impulsatunegociopopular.do. 3600 IN	NS	tori.ns.cloudflare.com.
 impulsatunegociopopular.do. 3600 IN	NS	apollo.ns.cloudflare.com.
 impulsefitness.do.	3600	IN	NS	ns2.icp100.net.
@@ -28928,21 +28952,21 @@ midominio.do.		3600	IN	NS	dns1.midominio.do.
 midominio.do.		3600	IN	NS	dns3.midominio.do.
 midominio.do.		3600	IN	NS	dns4.midominio.do.
 midominio.do.		3600	IN	NS	dns2.midominio.do.
-dns1.midominio.do.	3600	IN	A	162.251.82.122
-dns1.midominio.do.	3600	IN	A	162.251.82.250
 dns1.midominio.do.	3600	IN	A	162.251.82.251
+dns1.midominio.do.	3600	IN	A	162.251.82.250
+dns1.midominio.do.	3600	IN	A	162.251.82.122
 dns1.midominio.do.	3600	IN	A	162.251.82.123
-dns2.midominio.do.	3600	IN	A	162.251.82.249
-dns2.midominio.do.	3600	IN	A	162.251.82.120
 dns2.midominio.do.	3600	IN	A	162.251.82.248
+dns2.midominio.do.	3600	IN	A	162.251.82.120
+dns2.midominio.do.	3600	IN	A	162.251.82.249
 dns2.midominio.do.	3600	IN	A	162.251.82.121
 dns3.midominio.do.	3600	IN	A	162.251.82.246
-dns3.midominio.do.	3600	IN	A	162.251.82.119
 dns3.midominio.do.	3600	IN	A	162.251.82.118
+dns3.midominio.do.	3600	IN	A	162.251.82.119
 dns3.midominio.do.	3600	IN	A	162.251.82.247
-dns4.midominio.do.	3600	IN	A	162.251.82.125
 dns4.midominio.do.	3600	IN	A	162.251.82.253
 dns4.midominio.do.	3600	IN	A	162.251.82.252
+dns4.midominio.do.	3600	IN	A	162.251.82.125
 dns4.midominio.do.	3600	IN	A	162.251.82.124
 mie.do.			3600	IN	NS	ns2.gofruits.co.
 mie.do.			3600	IN	NS	ns1.gofruits.co.
@@ -31005,12 +31029,12 @@ nic.do.			3600	IN	NS	ns5.nic.do.
 nic.do.			3600	IN	NS	ns.nic.do.
 ns.nic.do.		3600	IN	A	190.113.72.177
 ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
-ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
 ns1.nic.do.		3600	IN	A	190.113.72.178
+ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
 ns2.nic.do.		3600	IN	A	190.113.65.12
 ns2.nic.do.		3600	IN	AAAA	2001:13e0:0:1::12
-ns4.nic.do.		3600	IN	AAAA	2001:500:14:6124:ad::1
 ns4.nic.do.		3600	IN	A	204.61.216.124
+ns4.nic.do.		3600	IN	AAAA	2001:500:14:6124:ad::1
 ns5.nic.do.		3600	IN	A	190.113.65.13
 ns5.nic.do.		3600	IN	AAAA	2001:13e0:0:1::13
 nicasio.do.		3600	IN	NS	dns4.midominio.do.
@@ -48327,4 +48351,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025092021 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025092022 3600 3600 604800 3600
