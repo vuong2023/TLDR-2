@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025092423 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025092500 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1758751206"
+do.			3600	IN	TXT	"Generation Time: 1758758408"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -29750,6 +29750,10 @@ mortgage.do.		3600	IN	NS	dns4.midominio.do.
 mortgage.do.		3600	IN	NS	dns3.midominio.do.
 mortgage.do.		3600	IN	NS	dns2.midominio.do.
 mortgage.do.		3600	IN	NS	dns1.midominio.do.
+morvian.do.		3600	IN	NS	ns1.globobyte.com.
+morvian.do.		3600	IN	NS	ns2.globobyte.com.
+morvian.do.		3600	IN	NS	ns3.globobyte.com.
+morvian.do.		3600	IN	NS	ns4.globobyte.com.
 mosaic.do.		3600	IN	NS	3-get.njalla.fo.
 mosaic.do.		3600	IN	NS	2-can.njalla.in.
 mosaic.do.		3600	IN	NS	1-you.njalla.no.
@@ -44830,6 +44834,10 @@ unev.do.		3600	IN	NS	dns3.midominio.do.
 unev.do.		3600	IN	NS	dns4.midominio.do.
 unev.do.		3600	IN	NS	ns35.domaincontrol.com.
 unev.do.		3600	IN	NS	ns36.domaincontrol.com.
+ungerenteparard.do.	3600	IN	NS	dns1.midominio.do.
+ungerenteparard.do.	3600	IN	NS	dns2.midominio.do.
+ungerenteparard.do.	3600	IN	NS	dns3.midominio.do.
+ungerenteparard.do.	3600	IN	NS	dns4.midominio.do.
 uni.do.			3600	IN	NS	verification-jwkccey3.ns3.dan.hosting.
 uni.do.			3600	IN	NS	ns2.dan.com.
 uni.do.			3600	IN	NS	ns1.dan.com.
@@ -48388,4 +48396,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025092423 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025092500 3600 3600 604800 3600
