@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025092708 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025092805 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1758981710"
+ps.			86400	IN	TXT	"Generation Time: 1759046493"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -13456,6 +13456,8 @@ pioneerspharma.ps.	86400	IN	NS	ns2001.adhamnetwork.com.
 pioneerspharma.ps.	86400	IN	NS	ns2002.adhamnetwork.com.
 pipa.ps.		86400	IN	NS	nscp1.intertech-pal.com.
 pipa.ps.		86400	IN	NS	nscp2.intertech-pal.com.
+pisastone.ps.		86400	IN	NS	zeus.ns.cloudflare.com.
+pisastone.ps.		86400	IN	NS	coraline.ns.cloudflare.com.
 pita.ps.		86400	IN	NS	cdns1.hadara.ps.
 pita.ps.		86400	IN	NS	cdns2.hadara.ps.
 pitaka.ps.		86400	IN	NS	dns1.alami.net.
@@ -18966,4 +18968,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025092708 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025092805 86400 7200 3600000 172800
