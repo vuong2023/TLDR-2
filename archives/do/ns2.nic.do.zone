@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025093018 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100100 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1759253114"
+do.			3600	IN	TXT	"Generation Time: 1759276806"
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -5787,8 +5787,8 @@ bir.do.			3600	IN	NS	ns1.bir.do.
 bir.do.			3600	IN	NS	ns2.bir.do.
 ns1.bir.do.		3600	IN	AAAA	2403:580a:1f66::103
 ns1.bir.do.		3600	IN	A	167.179.175.1
-ns2.bir.do.		3600	IN	AAAA	2400:6180:10:200::c:7000
 ns2.bir.do.		3600	IN	A	170.64.156.31
+ns2.bir.do.		3600	IN	AAAA	2400:6180:10:200::c:7000
 bird.do.		3600	IN	NS	ns2.markmonitor.com.
 bird.do.		3600	IN	NS	ns1.markmonitor.com.
 biriz.do.		3600	IN	NS	ns3.netim.net.
@@ -19332,10 +19332,11 @@ gmgn.do.		3600	IN	NS	2-nest.pipe.ma.
 gmgn.do.		3600	IN	NS	1-ceci.njalla.do.
 gmh.do.			3600	IN	NS	ns2.hostsilo.com.
 gmh.do.			3600	IN	NS	ns1.hostsilo.com.
-gmonsantoconsulting.do.	3600	IN	NS	dns4.midominio.do.
-gmonsantoconsulting.do.	3600	IN	NS	dns3.midominio.do.
-gmonsantoconsulting.do.	3600	IN	NS	dns2.midominio.do.
-gmonsantoconsulting.do.	3600	IN	NS	dns1.midominio.do.
+gmonsantoconsulting.do.	3600	IN	NS	ns5.linode.com.
+gmonsantoconsulting.do.	3600	IN	NS	ns4.linode.com.
+gmonsantoconsulting.do.	3600	IN	NS	ns3.linode.com.
+gmonsantoconsulting.do.	3600	IN	NS	ns2.linode.com.
+gmonsantoconsulting.do.	3600	IN	NS	ns1.linode.com.
 gmonterotorres.do.	3600	IN	NS	ns2.dnns.net.
 gmonterotorres.do.	3600	IN	NS	ns1.dnns.net.
 gmp.do.			3600	IN	NS	gwen.ns.cloudflare.com.
@@ -29014,20 +29015,20 @@ midominio.do.		3600	IN	NS	dns1.midominio.do.
 midominio.do.		3600	IN	NS	dns3.midominio.do.
 midominio.do.		3600	IN	NS	dns4.midominio.do.
 midominio.do.		3600	IN	NS	dns2.midominio.do.
-dns1.midominio.do.	3600	IN	A	162.251.82.250
-dns1.midominio.do.	3600	IN	A	162.251.82.251
-dns1.midominio.do.	3600	IN	A	162.251.82.122
 dns1.midominio.do.	3600	IN	A	162.251.82.123
-dns2.midominio.do.	3600	IN	A	162.251.82.120
-dns2.midominio.do.	3600	IN	A	162.251.82.249
-dns2.midominio.do.	3600	IN	A	162.251.82.121
+dns1.midominio.do.	3600	IN	A	162.251.82.122
+dns1.midominio.do.	3600	IN	A	162.251.82.251
+dns1.midominio.do.	3600	IN	A	162.251.82.250
 dns2.midominio.do.	3600	IN	A	162.251.82.248
-dns3.midominio.do.	3600	IN	A	162.251.82.119
+dns2.midominio.do.	3600	IN	A	162.251.82.249
+dns2.midominio.do.	3600	IN	A	162.251.82.120
+dns2.midominio.do.	3600	IN	A	162.251.82.121
 dns3.midominio.do.	3600	IN	A	162.251.82.118
-dns3.midominio.do.	3600	IN	A	162.251.82.247
 dns3.midominio.do.	3600	IN	A	162.251.82.246
-dns4.midominio.do.	3600	IN	A	162.251.82.252
+dns3.midominio.do.	3600	IN	A	162.251.82.247
+dns3.midominio.do.	3600	IN	A	162.251.82.119
 dns4.midominio.do.	3600	IN	A	162.251.82.253
+dns4.midominio.do.	3600	IN	A	162.251.82.252
 dns4.midominio.do.	3600	IN	A	162.251.82.124
 dns4.midominio.do.	3600	IN	A	162.251.82.125
 mie.do.			3600	IN	NS	ns2.gofruits.co.
@@ -31103,12 +31104,12 @@ nic.do.			3600	IN	NS	ns5.nic.do.
 nic.do.			3600	IN	NS	ns.nic.do.
 ns.nic.do.		3600	IN	A	190.113.72.177
 ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
-ns1.nic.do.		3600	IN	A	190.113.72.178
 ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
-ns2.nic.do.		3600	IN	A	190.113.65.12
+ns1.nic.do.		3600	IN	A	190.113.72.178
 ns2.nic.do.		3600	IN	AAAA	2001:13e0:0:1::12
-ns4.nic.do.		3600	IN	A	204.61.216.124
+ns2.nic.do.		3600	IN	A	190.113.65.12
 ns4.nic.do.		3600	IN	AAAA	2001:500:14:6124:ad::1
+ns4.nic.do.		3600	IN	A	204.61.216.124
 ns5.nic.do.		3600	IN	AAAA	2001:13e0:0:1::13
 ns5.nic.do.		3600	IN	A	190.113.65.13
 nicasio.do.		3600	IN	NS	dns4.midominio.do.
@@ -36571,6 +36572,10 @@ realestate.do.		3600	IN	NS	ns2.parkingcrew.net.
 realestate.do.		3600	IN	NS	ns1.parkingcrew.net.
 realestatematching24.do. 3600	IN	NS	ns20912485154.a2dns.com.
 realestatematching24.do. 3600	IN	NS	ns20912485153.a2dns.com.
+realhealth.do.		3600	IN	NS	dns4.midominio.do.
+realhealth.do.		3600	IN	NS	dns3.midominio.do.
+realhealth.do.		3600	IN	NS	dns2.midominio.do.
+realhealth.do.		3600	IN	NS	dns1.midominio.do.
 reali.do.		3600	IN	NS	ns3.onlydomains.com.
 reali.do.		3600	IN	NS	ns2.onlydomains.com.
 reali.do.		3600	IN	NS	ns1.onlydomains.com.
@@ -48501,4 +48506,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025093018 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100100 3600 3600 604800 3600
