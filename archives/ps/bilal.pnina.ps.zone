@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025100106 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025100108 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1759312911"
+ps.			86400	IN	TXT	"Generation Time: 1759327303"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -9897,6 +9897,8 @@ madagroup.ps.		86400	IN	NS	nscp5.mada.ps.
 madagroup.ps.		86400	IN	NS	nscp6.mada.ps.
 madanews.ps.		86400	IN	NS	gwen.ns.cloudflare.com.
 madanews.ps.		86400	IN	NS	lars.ns.cloudflare.com.
+madar.ps.		86400	IN	NS	hosting01.mada.ps.
+madar.ps.		86400	IN	NS	hosting02.mada.ps.
 madaralshams.ps.	86400	IN	NS	ns1.bluetd.com.
 madaralshams.ps.	86400	IN	NS	ns2.bluetd.com.
 madarat.ps.		86400	IN	NS	ns23.asurahosting.com.
@@ -12733,6 +12735,8 @@ palinvest.ps.		86400	IN	NS	cdns1.hadara.ps.
 palinvest.ps.		86400	IN	NS	cdns2.hadara.ps.
 paliroots.ps.		86400	IN	NS	ns1.101domain.com.
 paliroots.ps.		86400	IN	NS	ns2.101domain.com.
+palist.ps.		86400	IN	NS	ns1.provision-servers.com.
+palist.ps.		86400	IN	NS	ns2.provision-servers.com.
 paljobs.ps.		86400	IN	NS	ns1.bluetd.com.
 paljobs.ps.		86400	IN	NS	ns2.bluetd.com.
 paljourneys.ps.		86400	IN	NS	nsp10.mada.ps.
@@ -12888,11 +12892,11 @@ paltcei.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 paltcei.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 paltech.ps.		86400	IN	NS	ns1.plesk-web7.webhostbox.net.
 paltech.ps.		86400	IN	NS	ns2.plesk-web7.webhostbox.net.
-paltel.ps.		86400	IN	DS	30944 13 2 5B6E4A860BC99FB8C8E7E7E6B1E0CA57456075F2AAF4E7277DFE7D56 44B8E4D0
 paltel.ps.		86400	IN	NS	ns1.paltel.ps.
 paltel.ps.		86400	IN	NS	ns2.paltel.ps.
 paltel.ps.		86400	IN	NS	ns3.paltel.ps.
 paltel.ps.		86400	IN	NS	ns4.paltel.ps.
+paltel.ps.		86400	IN	DS	30944 13 2 5B6E4A860BC99FB8C8E7E7E6B1E0CA57456075F2AAF4E7277DFE7D56 44B8E4D0
 ns1.paltel.ps.		86400	IN	A	216.239.32.106
 ns2.paltel.ps.		86400	IN	A	216.239.34.106
 ns3.paltel.ps.		86400	IN	A	216.239.36.106
@@ -15472,9 +15476,8 @@ sfc.ps.			86400	IN	NS	ns1.ftswebservices.com.
 sfc.ps.			86400	IN	NS	ns2.ftswebservices.com.
 sfc.ps.			86400	IN	NS	ns3.ftswebservices.com.
 sfc.ps.			86400	IN	NS	ns4.ftswebservices.com.
-sflix.ps.		86400	IN	NS	ns1.netim.net.
-sflix.ps.		86400	IN	NS	ns2.netim.net.
-sflix.ps.		86400	IN	NS	ns3.netim.net.
+sflix.ps.		86400	IN	NS	alec.ns.cloudflare.com.
+sflix.ps.		86400	IN	NS	addilyn.ns.cloudflare.com.
 sfp.ps.			86400	IN	NS	ns1.bluetd.com.
 sfp.ps.			86400	IN	NS	ns2.bluetd.com.
 sgap.ps.		86400	IN	NS	ns-381.awsdns-47.com.
@@ -15839,6 +15842,8 @@ siraj.ps.		86400	IN	NS	ns3-36.azure-dns.org.
 siraj.ps.		86400	IN	NS	ns4-36.azure-dns.info.
 sis.ps.			86400	IN	NS	cdns1.hadara.ps.
 sis.ps.			86400	IN	NS	cdns2.hadara.ps.
+sisley.ps.		86400	IN	NS	ns1-dolphin.dl-cms.com.
+sisley.ps.		86400	IN	NS	ns2-dolphin.dl-cms.com.
 sisley-paris.ps.	86400	IN	NS	dns1.cscdns.net.
 sisley-paris.ps.	86400	IN	NS	dns2.cscdns.net.
 sitepo.ps.		86400	IN	NS	ns1.dan.com.
@@ -17958,10 +17963,10 @@ versahpalestine.ps.	86400	IN	NS	ns2.101domain.com.
 versahpalestine.ps.	86400	IN	NS	ns5.101domain.com.
 vertex.ps.		86400	IN	NS	marty.ns.cloudflare.com.
 vertex.ps.		86400	IN	NS	alexandra.ns.cloudflare.com.
-vertu.ps.		86400	IN	DS	52282 8 2 85A3B3DCFF445FAD2DD547F598985ECA085F84947A2ED18BD2AEC602 E49D875B
 vertu.ps.		86400	IN	NS	ns1.bb-online.net.
 vertu.ps.		86400	IN	NS	ns2.bb-online.org.
 vertu.ps.		86400	IN	NS	ns3.bb-online.info.
+vertu.ps.		86400	IN	DS	52282 8 2 85A3B3DCFF445FAD2DD547F598985ECA085F84947A2ED18BD2AEC602 E49D875B
 vespa.ps.		86400	IN	NS	ns1.barbero.zone.
 vespa.ps.		86400	IN	NS	ns2.barbero.zone.
 veta.ps.		86400	IN	NS	ns-132.awsdns-16.com.
@@ -18959,4 +18964,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025100106 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025100108 86400 7200 3600000 172800
