@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100315 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100316 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1759502407"
+do.			3600	IN	TXT	"Generation Time: 1759505708"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -30128,6 +30128,8 @@ mudom.do.		3600	IN	NS	dns2.midominio.do.
 mudom.do.		3600	IN	NS	dns1.midominio.do.
 mueble.do.		3600	IN	NS	ns2.dns-parking.com.
 mueble.do.		3600	IN	NS	ns1.dns-parking.com.
+mueblescumani.do.	3600	IN	NS	ns1.bluehost.com.
+mueblescumani.do.	3600	IN	NS	ns2.bluehost.com.
 mueller.do.		3600	IN	NS	ns200.anycast.me.
 mueller.do.		3600	IN	NS	dns200.anycast.me.
 muffler.do.		3600	IN	NS	dns4.midominio.do.
@@ -48482,4 +48484,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100315 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100316 3600 3600 604800 3600
