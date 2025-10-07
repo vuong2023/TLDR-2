@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100720 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100721 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1759864513"
+do.			3600	IN	TXT	"Generation Time: 1759867814"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -11587,10 +11587,8 @@ cruzroja.do.		3600	IN	NS	dns4.midominio.do.
 cruzroja.do.		3600	IN	NS	dns3.midominio.do.
 cruzroja.do.		3600	IN	NS	dns2.midominio.do.
 cruzroja.do.		3600	IN	NS	dns1.midominio.do.
-cruzrojasti.do.		3600	IN	NS	dns4.midominio.do.
-cruzrojasti.do.		3600	IN	NS	dns3.midominio.do.
-cruzrojasti.do.		3600	IN	NS	dns2.midominio.do.
-cruzrojasti.do.		3600	IN	NS	dns1.midominio.do.
+cruzrojasti.do.		3600	IN	NS	ns1.dns-parking.com.
+cruzrojasti.do.		3600	IN	NS	ns2.dns-parking.com.
 cryp.do.		3600	IN	NS	ns.intevation.org.
 cryp.do.		3600	IN	NS	ns17.knipp.net.
 cryp.do.		3600	IN	NS	ns3.knipp.de.
@@ -48460,4 +48458,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100720 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100721 3600 3600 604800 3600
