@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100715 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100716 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1759848009"
+do.			3600	IN	TXT	"Generation Time: 1759851310"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -13057,10 +13057,10 @@ dir.do.			3600	IN	NS	ns2.dan.com.
 dir.do.			3600	IN	NS	ns1.dan.com.
 directories.do.		3600	IN	NS	ns2.vercel-dns.com.
 directories.do.		3600	IN	NS	ns1.vercel-dns.com.
-directorioabogados.do.	3600	IN	NS	ns2.directorysecure.com.
-directorioabogados.do.	3600	IN	NS	ns1.directorysecure.com.
-directoriodentistas.do.	3600	IN	NS	ns2.directorysecure.com.
-directoriodentistas.do.	3600	IN	NS	ns1.directorysecure.com.
+directorioabogados.do.	3600	IN	NS	ns1.101domain.com.
+directorioabogados.do.	3600	IN	NS	ns2.101domain.com.
+directoriodentistas.do.	3600	IN	NS	ns1.101domain.com.
+directoriodentistas.do.	3600	IN	NS	ns2.101domain.com.
 directory.do.		3600	IN	NS	ns2.vercel-dns.com.
 directory.do.		3600	IN	NS	ns1.vercel-dns.com.
 directv.do.		3600	IN	NS	ns10a.attdns.net.
@@ -32002,6 +32002,9 @@ ofertaspopular.do.	3600	IN	NS	ns-178.awsdns-22.com.
 ofertaspopular.do.	3600	IN	NS	ns-742.awsdns-28.net.
 ofertaspopular.do.	3600	IN	NS	ns-1164.awsdns-17.org.
 ofertaspopular.do.	3600	IN	NS	ns-2039.awsdns-62.co.uk.
+offcorss.do.		3600	IN	NS	ns01.trademarkarea.com.
+offcorss.do.		3600	IN	NS	ns02.trademarkarea.com.
+offcorss.do.		3600	IN	NS	ns03.trademarkarea.com.
 offer.do.		3600	IN	NS	ns3.digitalocean.com.
 offer.do.		3600	IN	NS	ns2.digitalocean.com.
 offer.do.		3600	IN	NS	ns1.digitalocean.com.
@@ -37890,6 +37893,10 @@ ronbarcelord.do.	3600	IN	NS	dns1.midominio.do.
 roncienfuegos.do.	3600	IN	NS	ns03.trademarkarea.com.
 roncienfuegos.do.	3600	IN	NS	ns02.trademarkarea.com.
 roncienfuegos.do.	3600	IN	NS	ns01.trademarkarea.com.
+roof360.do.		3600	IN	NS	dns1.midominio.do.
+roof360.do.		3600	IN	NS	dns2.midominio.do.
+roof360.do.		3600	IN	NS	dns3.midominio.do.
+roof360.do.		3600	IN	NS	dns4.midominio.do.
 rooftec.do.		3600	IN	NS	ns2.startlogic.com.
 rooftec.do.		3600	IN	NS	ns1.startlogic.com.
 rookie.do.		3600	IN	NS	ns8-cloud.nic.ru.
@@ -45801,8 +45808,8 @@ verizon.do.		3600	IN	NS	nss1.codetel.net.do.
 verizon.do.		3600	IN	NS	nss2.codetel.net.do.
 verizonenterprise.do.	3600	IN	NS	dns2.verizon.com.
 verizonenterprise.do.	3600	IN	NS	vzdns01.verizon.com.
-verkada.do.		3600	IN	NS	ns1.101domain.com.
-verkada.do.		3600	IN	NS	ns2.101domain.com.
+verkada.do.		3600	IN	NS	ganz.ns.cloudflare.com.
+verkada.do.		3600	IN	NS	maria.ns.cloudflare.com.
 versatilecorporation.do. 3600	IN	NS	dns4.midominio.do.
 versatilecorporation.do. 3600	IN	NS	dns3.midominio.do.
 versatilecorporation.do. 3600	IN	NS	dns2.midominio.do.
@@ -46937,6 +46944,8 @@ weddings.do.		3600	IN	NS	dns4.midominio.do.
 weddings.do.		3600	IN	NS	dns3.midominio.do.
 weddings.do.		3600	IN	NS	dns2.midominio.do.
 weddings.do.		3600	IN	NS	dns1.midominio.do.
+weddingseasons.do.	3600	IN	NS	brian.ns.cloudflare.com.
+weddingseasons.do.	3600	IN	NS	marge.ns.cloudflare.com.
 wedify.do.		3600	IN	NS	dns4.midominio.do.
 wedify.do.		3600	IN	NS	dns3.midominio.do.
 wedify.do.		3600	IN	NS	dns2.midominio.do.
@@ -48470,4 +48479,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100715 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100716 3600 3600 604800 3600
