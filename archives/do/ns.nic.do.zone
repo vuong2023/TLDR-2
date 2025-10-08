@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100819 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100820 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1759947608"
+do.			3600	IN	TXT	"Generation Time: 1759950909"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -1801,6 +1801,10 @@ airtransat.do.		3600	IN	NS	ns1.transat.com.
 aislamart.do.		3600	IN	NS	ns3.onlydomains.com.
 aislamart.do.		3600	IN	NS	ns2.onlydomains.com.
 aislamart.do.		3600	IN	NS	ns1.onlydomains.com.
+aistudio.do.		3600	IN	NS	dns1.midominio.do.
+aistudio.do.		3600	IN	NS	dns2.midominio.do.
+aistudio.do.		3600	IN	NS	dns3.midominio.do.
+aistudio.do.		3600	IN	NS	dns4.midominio.do.
 aito.do.		3600	IN	NS	ns2.afternic.com.
 aito.do.		3600	IN	NS	ns1.afternic.com.
 aiu.do.			3600	IN	NS	glen.ns.cloudflare.com.
@@ -27372,6 +27376,8 @@ maldonadogroup.do.	3600	IN	NS	ns1085.ifastnet.com.
 maldonadogroup.do.	3600	IN	NS	ns2085.ifastnet.com.
 maliva.do.		3600	IN	NS	ns1316.websitewelcome.com.
 maliva.do.		3600	IN	NS	ns1315.websitewelcome.com.
+mall.do.		3600	IN	NS	ns1.eftydns.com.
+mall.do.		3600	IN	NS	ns2.eftydns.com.
 mamajuana.do.		3600	IN	NS	ns1.wixdns.net.
 mamajuana.do.		3600	IN	NS	ns0.wixdns.net.
 mamasijaya.do.		3600	IN	NS	ns2.dns-parking.com.
@@ -48473,4 +48479,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100819 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100820 3600 3600 604800 3600
