@@ -838,8 +838,6 @@ fedra.mp.		3600	IN	NS	love.ns.cloudflare.com.
 fedra.mp.		3600	IN	NS	nikon.ns.cloudflare.com.
 felix.mp.		3600	IN	NS	ns1.dns-parking.com.
 felix.mp.		3600	IN	NS	ns2.dns-parking.com.
-fesh0p.mp.		3600	IN	NS	darl.ns.cloudflare.com.
-fesh0p.mp.		3600	IN	NS	megan.ns.cloudflare.com.
 feshop.mp.		3600	IN	NS	ns1.bluehost.com.
 feshop.mp.		3600	IN	NS	ns2.bluehost.com.
 five.mp.		3600	IN	NS	carlos.ns.cloudflare.com.
@@ -947,6 +945,9 @@ goto.mp.		3600	IN	NS	ns2.cws-servers.com.
 goto.mp.		3600	IN	NS	ns3.cws-servers.com.
 gov.mp.			86400	IN	NS	ns1.nic.net.mp.
 gov.mp.			86400	IN	NS	ns2.nic.net.mp.
+govuk.mp.		3600	IN	NS	ns01.trademarkarea.com.
+govuk.mp.		3600	IN	NS	ns02.trademarkarea.com.
+govuk.mp.		3600	IN	NS	ns03.trademarkarea.com.
 grand.mp.		3600	IN	NS	cloe.ns.cloudflare.com.
 grand.mp.		3600	IN	NS	grant.ns.cloudflare.com.
 grieska.mp.		3600	IN	NS	cameron.ns.cloudflare.com.
@@ -1526,6 +1527,9 @@ mp.mp.			3600	IN	NS	ns4.intermedia.net.
 mp.mp.			3600	IN	NS	ns5.intermedia.net.
 mpay.mp.		3600	IN	NS	ns2.wixdns.net.
 mpay.mp.		3600	IN	NS	ns3.wixdns.net.
+mphg.mp.		3600	IN	NS	ns01.trademarkarea.com.
+mphg.mp.		3600	IN	NS	ns02.trademarkarea.com.
+mphg.mp.		3600	IN	NS	ns03.trademarkarea.com.
 mstr.mp.		3600	IN	NS	ns-1412.awsdns-48.org.
 mstr.mp.		3600	IN	NS	ns-1738.awsdns-25.co.uk.
 mstr.mp.		3600	IN	NS	ns-211.awsdns-26.com.
@@ -2205,6 +2209,9 @@ ubuy.mp.		3600	IN	NS	NS-1236.AWSDNS-26.org.
 ubuy.mp.		3600	IN	NS	NS-1930.AWSDNS-49.co.uk.
 ubuy.mp.		3600	IN	NS	NS-197.AWSDNS-24.com.
 ubuy.mp.		3600	IN	NS	NS-542.AWSDNS-03.net.
+ukgov.mp.		3600	IN	NS	ns01.trademarkarea.com.
+ukgov.mp.		3600	IN	NS	ns02.trademarkarea.com.
+ukgov.mp.		3600	IN	NS	ns03.trademarkarea.com.
 ultimate.mp.		3600	IN	NS	alina.ns.cloudflare.com.
 ultimate.mp.		3600	IN	NS	lex.ns.cloudflare.com.
 ultimateshop.mp.	3600	IN	NS	amber.ns.cloudflare.com.
@@ -2232,8 +2239,8 @@ ups.mp.			3600	IN	NS	dns1.cscdns.net.
 ups.mp.			3600	IN	NS	dns2.cscdns.net.
 usdt.mp.		3600	IN	NS	ns-1985.awsdns-56.co.uk.
 usdt.mp.		3600	IN	NS	ns-928.awsdns-52.net.
-vandeka.mp.		3600	IN	NS	ns1.siteground.net.
-vandeka.mp.		3600	IN	NS	ns2.siteground.net.
+vandeka.mp.		3600	IN	NS	NS1.SITEGROUND.net.
+vandeka.mp.		3600	IN	NS	NS2.SITEGROUND.net.
 vanilla.mp.		3600	IN	NS	elsa.ns.cloudflare.com.
 vanilla.mp.		3600	IN	NS	joel.ns.cloudflare.com.
 vatech.mp.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -2241,8 +2248,8 @@ vatech.mp.		3600	IN	NS	dns2.namecheaphosting.com.
 vclubshop.mp.		3600	IN	NS	a.dnspod.com.
 vclubshop.mp.		3600	IN	NS	b.dnspod.com.
 vclubshop.mp.		3600	IN	NS	c.dnspod.com.
-vega.mp.		3600	IN	NS	ns1.siteground.net.
-vega.mp.		3600	IN	NS	ns2.siteground.net.
+vega.mp.		3600	IN	NS	NS1.SITEGROUND.net.
+vega.mp.		3600	IN	NS	NS2.SITEGROUND.net.
 veldka.mp.		3600	IN	NS	drie.dnssrv.nl.
 veldka.mp.		3600	IN	NS	een.dnssrv.nl.
 veldka.mp.		3600	IN	NS	twee.dnssrv.nl.
@@ -2336,11 +2343,11 @@ wizardshop.mp.		3600	IN	NS	c.dnspod.com.
 womp-wo.mp.		3600	IN	NS	miguel.ns.cloudflare.com.
 womp-wo.mp.		3600	IN	NS	olga.ns.cloudflare.com.
 wordju.mp.		3600	IN	NS	NS10.DNSMADEEASY.com.
-wordju.mp.		3600	IN	NS	NS11.DNSMADEEASY.COM.
-wordju.mp.		3600	IN	NS	NS12.DNSMADEEASY.COM.
-wordju.mp.		3600	IN	NS	NS13.DNSMADEEASY.COM.
-wordju.mp.		3600	IN	NS	NS14.DNSMADEEASY.COM.
-wordju.mp.		3600	IN	NS	NS15.DNSMADEEASY.COM.
+wordju.mp.		3600	IN	NS	NS11.DNSMADEEASY.com.
+wordju.mp.		3600	IN	NS	NS12.DNSMADEEASY.com.
+wordju.mp.		3600	IN	NS	NS13.DNSMADEEASY.com.
+wordju.mp.		3600	IN	NS	NS14.DNSMADEEASY.com.
+wordju.mp.		3600	IN	NS	NS15.DNSMADEEASY.com.
 wukong.mp.		3600	IN	NS	elijah.ns.cloudflare.com.
 wukong.mp.		3600	IN	NS	may.ns.cloudflare.com.
 www.mp.			86400	IN	CNAME	get.mp.
