@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025101007 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025101008 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1760080801"
+do.			3600	IN	TXT	"Generation Time: 1760084102"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -1370,10 +1370,9 @@ agency.do.		3600	IN	NS	jake.ns.cloudflare.com.
 agenda.do.		3600	IN	NS	ns5.101domain.com.
 agenda.do.		3600	IN	NS	ns2.101domain.com.
 agenda.do.		3600	IN	NS	ns1.101domain.com.
-agenda360.do.		3600	IN	NS	dns1.midominio.do.
-agenda360.do.		3600	IN	NS	dns2.midominio.do.
-agenda360.do.		3600	IN	NS	dns3.midominio.do.
-agenda360.do.		3600	IN	NS	dns4.midominio.do.
+agenda360.do.		3600	IN	NS	ns1.netim.net.
+agenda360.do.		3600	IN	NS	ns2.netim.net.
+agenda360.do.		3600	IN	NS	ns3.netim.net.
 agendadigital.do.	3600	IN	NS	dns4.midominio.do.
 agendadigital.do.	3600	IN	NS	dns3.midominio.do.
 agendadigital.do.	3600	IN	NS	dns2.midominio.do.
@@ -1405,10 +1404,8 @@ agenticinnovations.do.	3600	IN	NS	dns1.midominio.do.
 agenticinnovations.do.	3600	IN	NS	dns2.midominio.do.
 agenticinnovations.do.	3600	IN	NS	dns3.midominio.do.
 agenticinnovations.do.	3600	IN	NS	dns4.midominio.do.
-agentkit.do.		3600	IN	NS	dns1.midominio.do.
-agentkit.do.		3600	IN	NS	dns2.midominio.do.
-agentkit.do.		3600	IN	NS	dns3.midominio.do.
-agentkit.do.		3600	IN	NS	dns4.midominio.do.
+agentkit.do.		3600	IN	NS	gina.ns.cloudflare.com.
+agentkit.do.		3600	IN	NS	ernest.ns.cloudflare.com.
 agents.do.		3600	IN	NS	sean.ns.cloudflare.com.
 agents.do.		3600	IN	NS	dayana.ns.cloudflare.com.
 ageport.do.		3600	IN	NS	nss1.codetel.net.do.
@@ -8777,10 +8774,8 @@ chatgpt.do.		3600	IN	NS	dns1.midominio.do.
 chatgpt.do.		3600	IN	NS	dns2.midominio.do.
 chatgpt.do.		3600	IN	NS	dns3.midominio.do.
 chatgpt.do.		3600	IN	NS	dns4.midominio.do.
-chatkit.do.		3600	IN	NS	dns1.midominio.do.
-chatkit.do.		3600	IN	NS	dns2.midominio.do.
-chatkit.do.		3600	IN	NS	dns3.midominio.do.
-chatkit.do.		3600	IN	NS	dns4.midominio.do.
+chatkit.do.		3600	IN	NS	gina.ns.cloudflare.com.
+chatkit.do.		3600	IN	NS	ernest.ns.cloudflare.com.
 chatr.do.		3600	IN	NS	julissa.ns.cloudflare.com.
 chatr.do.		3600	IN	NS	everton.ns.cloudflare.com.
 chatsworth.do.		3600	IN	NS	ken.ns.cloudflare.com.
@@ -10469,10 +10464,8 @@ compliance.do.		3600	IN	NS	dns4.midominio.do.
 compliance.do.		3600	IN	NS	dns3.midominio.do.
 compliance.do.		3600	IN	NS	dns2.midominio.do.
 compliance.do.		3600	IN	NS	dns1.midominio.do.
-components.do.		3600	IN	NS	dns1.midominio.do.
-components.do.		3600	IN	NS	dns2.midominio.do.
-components.do.		3600	IN	NS	dns3.midominio.do.
-components.do.		3600	IN	NS	dns4.midominio.do.
+components.do.		3600	IN	NS	gina.ns.cloudflare.com.
+components.do.		3600	IN	NS	ernest.ns.cloudflare.com.
 compra.do.		3600	IN	NS	terry.ns.cloudflare.com.
 compra.do.		3600	IN	NS	jamie.ns.cloudflare.com.
 compradirecta.do.	3600	IN	NS	pdns14.domaincontrol.com.
@@ -43545,10 +43538,9 @@ tinyletter.do.		3600	IN	NS	ns7.markmonitor.com.
 tinyletter.do.		3600	IN	NS	ns5.markmonitor.com.
 tinyletter.do.		3600	IN	NS	ns6.markmonitor.com.
 tinyletter.do.		3600	IN	NS	ns3.markmonitor.com.
-tinytasks.do.		3600	IN	NS	dns1.midominio.do.
-tinytasks.do.		3600	IN	NS	dns2.midominio.do.
-tinytasks.do.		3600	IN	NS	dns3.midominio.do.
-tinytasks.do.		3600	IN	NS	dns4.midominio.do.
+tinytasks.do.		3600	IN	NS	ns1.netim.net.
+tinytasks.do.		3600	IN	NS	ns2.netim.net.
+tinytasks.do.		3600	IN	NS	ns3.netim.net.
 tipicobonao.do.		3600	IN	NS	ns11.wixdns.net.
 tipicobonao.do.		3600	IN	NS	ns10.wixdns.net.
 tips.do.		3600	IN	NS	dns1.supremedns.com.
@@ -48563,4 +48555,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025101007 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025101008 3600 3600 604800 3600
