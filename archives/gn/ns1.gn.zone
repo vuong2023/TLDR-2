@@ -1,5 +1,3 @@
-;; Connection to 41.77.190.237#53(41.77.190.237) for gn. failed: timed out.
-;; no servers could be reached
 gn.			14400	IN	SOA	ns1.gn. hostmaster.ande.gov.gn. 2025101307 86400 3600 2592000 14400
 gn.			14400	IN	TXT	"Generation Time: 1760335200"
 gn.			14400	IN	NSEC	adressage.gn. NS SOA TXT RRSIG NSEC DNSKEY CDS CDNSKEY
